@@ -1,0 +1,26 @@
+name: lint
+
+on:
+  push:
+    paths: ['en/**.json' ]
+    branches: [ main ]
+  pull_request:
+    paths: ['en/**.json' ]
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+
+      - name: "Set up node"
+        uses: actions/setup-node@v2.4.0
+
+      - name: "Install"
+        run: npm install jsonlint -g
+
+      - name: "Lint"
+        run: jsonlint en/messages.json
