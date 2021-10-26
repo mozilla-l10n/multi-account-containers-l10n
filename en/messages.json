@@ -113,6 +113,9 @@
   "hideThisContainer": {
     "message": "Hide This Container"
   },
+  "showThisContainer": {
+    "message": "Show This Container"
+  },
   "removeThisContainer": {
     "message": "Remove This Container"
   },
