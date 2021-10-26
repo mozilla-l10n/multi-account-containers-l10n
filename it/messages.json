@@ -24,7 +24,7 @@
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Apri sempre sito in contenitore"
+    "message": "Apri sempre il sito in questo contenitore"
   },
   "openANewTabIn": {
     "message": "Apri una nuova scheda in…"
@@ -33,16 +33,17 @@
     "message": "Apri nuova scheda in questo contenitore"
   },
   "openTabs": {
-    "message": "Apri schede"
+    "message": "Schede aperte",
+    "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
     "message": "Sposta schede in una nuova finestra"
   },
   "onboarding-1-header": {
-    "message": "Un modo migliore per gestire tutte le attività che fai online"
+    "message": "Un modo migliore per gestire tutte le tue attività online"
   },
   "onboarding-1-description": {
-    "message": "Utilizza i contenitori per organizzare le tue attività, gestire gli account e concentrarti su ciò che desideri."
+    "message": "Utilizza i contenitori per organizzare le tue attività, gestire gli account e concentrarti su ciò che ti interessa."
   },
   "onboarding-2-header": {
     "message": "Fai lavorare i contenitori al tuo posto."
@@ -57,13 +58,13 @@
     "message": "Inizia con i contenitori già disponibili oppure creane di tuoi."
   },
   "onboarding-4-header": {
-    "message": "Apri sempre i siti nei contenitore che desideri."
+    "message": "Apri sempre i siti nei contenitore che ti interessa."
   },
   "onboarding-4-description": {
     "message": "Fai clic con il pulsante destro del mouse all’interno di una scheda contenitore per fare in modo che il sito corrente venga sempre aperto nel contenitore."
   },
   "onboarding-5-header": {
-    "message": "Schede contenitore quando ne hai bisogno."
+    "message": "Schede contenitore quando ti servono."
   },
   "onboarding-5-description": {
     "message": "Premi a lungo il pulsante Nuova scheda per aprire una nuova scheda contenitore."
@@ -138,7 +139,7 @@
     "message": "Icona"
   },
   "limitToDesignatedSites": {
-    "message": "Limita ai siti designati"
+    "message": "Consenti solo siti designati"
   },
   "deleteThisContainer": {
     "message": "Elimina questo contenitore"
@@ -168,7 +169,8 @@
     "message": "Avvia la sincronizzazione"
   },
   "info": {
-    "message": "info"
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
     "message": "Successivo"
@@ -245,7 +247,7 @@
     }
   },
   "youAskedFirefox": {
-    "message": "Hai chiesto a Firefox di utilizzare sempre $containerName$ per questo sito:",
+    "message": "Hai chiesto a Firefox di utilizzare sempre il contenitore “$containerName$” per questo sito:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -253,7 +255,8 @@
     }
   },
   "chooseLocation": {
-    "message": "Scegli posizione"
+    "message": "Scegli posizione",
+    "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
     "message": "Nascondi"
@@ -295,7 +298,7 @@
     "message": "Ulteriori informazioni"
   },
   "proxyNowAvailable": {
-    "message": "L’integrazione di Mozilla VPN e proxy è ora disponibile!"
+    "message": "Ora è disponibile l’integrazione con Mozilla VPN e proxy."
   },
   "getMozillaVpn": {
     "message": "Ottieni Mozilla VPN"
