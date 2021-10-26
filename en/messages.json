@@ -33,7 +33,8 @@
     "message" : "Open New Tab in this Container"
   },
   "openTabs": {
-    "message": "Open Tabs"
+    "message": "Open Tabs",
+    "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
     "message": "Move Tabs to a New Window"
