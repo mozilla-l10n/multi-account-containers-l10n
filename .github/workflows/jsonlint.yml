@@ -2,11 +2,9 @@ name: lint
 
 on:
   push:
-    paths: ['en/**.json' ]
-    branches: [ main ]
+    paths: [ 'en/**.json' ]
   pull_request:
-    paths: ['en/**.json' ]
-    branches: [ main ]
+    paths: [ 'en/**.json' ]
 
 jobs:
   lint:
