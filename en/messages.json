@@ -72,7 +72,7 @@
     "message": "Syncing Containers is now Available!"
   },
   "onboarding-6-description": {
-    "message": "Turn on Sync to share Container and site assignments with any computer connected to your Firefox account."
+    "message": "Turn on sync to share Container and site assignments with any computer connected to your Firefox account."
   },
   "onboarding-7-header": {
     "message": "Firefox account is required to sync."
@@ -171,7 +171,8 @@
     "message": "Start Syncing"
   },
   "info": {
-    "message": "info"
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
     "message": "Next"
@@ -219,7 +220,7 @@
     "message": "This setting allows you to sync your Containers and site assignments across devices."
   },
   "replaceTab": {
-    "message": "This setting allows you to sync your Containers and site assignments across devices."
+    "message": "Replace tab instead of creating a new one"
   },
   "replaceTabDescription": {
     "message": "Replace the current tab if a page which is assigned to another Container is opened (instead of keeping the current tab open). Opening tabs with middle mouse button is not affected."
@@ -256,7 +257,8 @@
     }
   },
   "chooseLocation": {
-    "message": "Choose location"
+    "message": "Choose location",
+    "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
     "message": "Hide"
