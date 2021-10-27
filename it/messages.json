@@ -58,7 +58,7 @@
     "message": "Inizia con i contenitori già disponibili oppure creane di tuoi."
   },
   "onboarding-4-header": {
-    "message": "Apri sempre i siti nei contenitore che ti interessa."
+    "message": "Apri sempre i siti nei contenitore che vuoi."
   },
   "onboarding-4-description": {
     "message": "Fai clic con il pulsante destro del mouse all’interno di una scheda contenitore per fare in modo che il sito corrente venga sempre aperto nel contenitore."
@@ -80,6 +80,9 @@
   },
   "onboarding-7-description": {
     "message": "Fai clic su Accedi per confermare che il tuo account Firefox è attivo."
+  },
+  "onboarding-8-description": {
+    "message": "Ora è possibile integrare i contenitori con Mozilla VPN o un proxy a tua scelta, creando una connessione sicura e riservata per proteggere le tue attività online."
   },
   "oneHundredTabsHeader": {
     "message": "100 schede!"
@@ -110,6 +113,9 @@
   },
   "hideThisContainer": {
     "message": "Nascondi questo contenitore"
+  },
+  "showThisContainer": {
+    "message": "Mostra questo contenitore"
   },
   "removeThisContainer": {
     "message": "Rimuovi questo contenitore"
@@ -264,8 +270,8 @@
   "show": {
     "message": "Mostra"
   },
-  "protectEachContainer": {
-    "message": "Proteggi tutti i contenitori con Mozilla VPN"
+  "protectYourContainers": {
+    "message": "Proteggi i tuoi contenitori con Mozilla VPN"
   },
   "protectThisContainer": {
     "message": "Proteggi questo contenitore con Mozilla VPN"
@@ -277,7 +283,7 @@
     "message": "Inserisci un proxy personalizzato"
   },
   "useCustomLocation": {
-    "message": "Usa posizione personalizzata per questo contenitore"
+    "message": "Utilizza una posizione personalizzata per questo contenitore"
   },
   "clearproxylabel": {
     "message": "Cancella proxy"
@@ -292,21 +298,15 @@
     "message": "Inserire un indirizzo valido per il proxy"
   },
   "mozillaVpnMustBeOn": {
-    "message": "L’app Mozilla VPN deve essere attiva per utilizzare questa funzione."
+    "message": "Mozilla VPN deve essere attiva per utilizzare questa funzione."
   },
   "learnMore": {
     "message": "Ulteriori informazioni"
   },
   "proxyNowAvailable": {
-    "message": "Ora è disponibile l’integrazione con Mozilla VPN e proxy."
+    "message": "Ora con Mozilla VPN e impostazioni proxy avanzate"
   },
-  "getMozillaVpn": {
-    "message": "Ottieni Mozilla VPN"
-  },
-  "integratewithmozillavpn": {
-    "message": "Integra i tuoi contenitori con Mozilla VPN"
-  },
-  "applyToThisContainer": {
-    "message": "Applica a questo contenitore"
+  "applyToContainer": {
+    "message": "Applica al contenitore"
   }
 }
