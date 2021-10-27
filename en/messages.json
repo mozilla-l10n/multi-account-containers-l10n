@@ -82,7 +82,7 @@
     "message": "Click Sign In to confirm that your Firefox account is active."
   },
   "onboarding-8-description": {
-    "message": "This is a really exciting message about how Container proxies are now supported and about how it’s now really easy to do with Mozilla VPN..."
+    "message": "Now Containers can integrate with Mozilla VPN or your own proxy to create a secure, private connection that protects your activity."
   },
   "oneHundredTabsHeader": {
     "message": "100 tabs!"
@@ -270,8 +270,8 @@
   "show": {
     "message": "Show"
   },
-  "protectEachContainer": {
-    "message": "Protect each Container with Mozilla VPN"
+  "protectYourContainers": {
+    "message": "Protect your Containers with Mozilla VPN"
   },
   "protectThisContainer": {
     "message": "Protect this Container with Mozilla VPN"
@@ -283,7 +283,7 @@
     "message": "Enter custom proxy"
   },
   "useCustomLocation": {
-    "message": "Use custom location for this Container"
+    "message": "Use a custom location for this Container"
   },
   "clearproxylabel": {
     "message": "Clear proxy"
@@ -298,21 +298,15 @@
     "message": "Please enter a valid proxy URL"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN app must be on to use this feature."
+    "message": "Mozilla VPN must be on to use this feature."
   },
   "learnMore": {
     "message": "Learn more"
   },
   "proxyNowAvailable": {
-    "message": "Mozilla VPN and proxy integration is now available!"
+    "message": "Now with Mozilla VPN and advanced proxy settings"
   },
-  "getMozillaVpn": {
-    "message": "Get Mozilla VPN"
-  },
-  "integratewithmozillavpn": {
-    "message": "Integrate your Containers with Mozilla VPN"
-  },
-  "applyToThisContainer": {
-    "message": "Apply to this Container"
+  "applyToContainer": {
+    "message": "Apply to Container"
   }
 }
