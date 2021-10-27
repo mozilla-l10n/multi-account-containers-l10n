@@ -1,4 +1,4 @@
-name: lint
+name: Reference linter
 
 on:
   push:
