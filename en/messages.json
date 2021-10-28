@@ -308,5 +308,8 @@
   },
   "applyToContainer": {
     "message": "Apply to Container"
+  },
+  "tooltipWarning": {
+    "message": "This Container is set up to use a Mozilla VPN proxy, but Mozilla VPN is not on. Turn Mozilla VPN on to use this Container."
   }
 }
