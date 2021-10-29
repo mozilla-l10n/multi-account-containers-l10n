@@ -308,5 +308,8 @@
   },
   "applyToContainer": {
     "message": "Applica al contenitore"
+  },
+  "tooltipWarning": {
+    "message": "Questo contenitore è configurato per utilizzare un proxy Mozilla VPN, ma Mozilla VPN non è attiva. Attiva Mozilla VPN per utilizzare questo contenitore."
   }
 }
