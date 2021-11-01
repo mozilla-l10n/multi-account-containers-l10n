@@ -196,14 +196,69 @@
   "keyboardShortCuts": {
     "message": "Tangentbordsgenvägar:"
   },
+  "onboarding": {
+    "message": "Introduktion"
+  },
+  "resetOnboardingPanels": {
+    "message": "Återställ introduktionspaneler"
+  },
+  "onboardingToggle": {
+    "message": "Växla detta för att se introduktionspanelerna igen."
+  },
   "tabBehavior": {
     "message": "Flikbeteende:"
   },
   "enableBookMarkMenus": {
     "message": "Aktivera bokmärkesmenyer"
   },
+  "firefoxAccountsSync": {
+    "message": "Firefox-kontosynkronisering:"
+  },
   "enableSync": {
     "message": "Aktivera synkronisering"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Med den här inställningen kan du öppna ett bokmärke eller en mapp med bokmärken i en behållare."
+  },
+  "enableSyncDescription": {
+    "message": "Med den här inställningen kan du synkronisera dina behållare och webbplatstilldelningar mellan enheter."
+  },
+  "replaceTab": {
+    "message": "Ersätt flik istället för att skapa en ny"
+  },
+  "replaceTabDescription": {
+    "message": "Ersätt den aktuella fliken om en webbsida som är tilldelad en annan behållare öppnas (istället för att behålla den aktuella fliken öppen). Öppnande av flikar med mitten av musknappen påverkas inte."
+  },
+  "editWhichContainer": {
+    "message": "Redigera vilken behållare som öppnas när du använder de numrerade genvägarna."
+  },
+  "keyboardShortCut": {
+    "message": "Behållare att öppna med kortkommando $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Bekräfta navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Öppna i behållare $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Du bad Firefox att alltid öppna $containerName$ för den här webbplatsen:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Välj plats",
