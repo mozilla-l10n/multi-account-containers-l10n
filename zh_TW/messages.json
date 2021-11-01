@@ -41,6 +41,9 @@
   "onboarding-4-header": {
     "message": "可以隨您需求，用特定容器開啟特定網站。"
   },
+  "onboarding-4-description": {
+    "message": "對容器分頁按右鍵，即可將網站指定為總是使用該容器開啟。"
+  },
   "onboarding-5-header": {
     "message": "需要時，將分頁放入容器中封裝起來。"
   },
