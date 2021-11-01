@@ -138,6 +138,9 @@
   "next": {
     "message": "下一步"
   },
+  "openThisSiteConfirmation": {
+    "message": "要用您指定的容器開啟此網站嗎？"
+  },
   "rememberMyDecision": {
     "message": "對此網站記住我的決定"
   },
@@ -168,6 +171,21 @@
   "enableSync": {
     "message": "開啟同步"
   },
+  "editWhichContainer": {
+    "message": "編輯按下編號快速鍵時，要分別開啟哪些帳號。"
+  },
+  "keyboardShortCut": {
+    "message": "使用快速鍵 $keyId$ 開啟下列容器",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers 確認瀏覽",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "用 $containerName$ 容器開啟",
     "placeholders": {
@@ -176,10 +194,58 @@
       }
     }
   },
+  "youAskedFirefox": {
+    "message": "您要求 Firefox 總是使用 $containerName$ 開啟此網站:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "選擇位置",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "隱藏"
   },
   "show": {
     "message": "顯示"
+  },
+  "protectYourContainers": {
+    "message": "使用 Mozilla VPN 保護您的容器"
+  },
+  "protectThisContainer": {
+    "message": "使用 Mozilla VPN 保護此容器"
+  },
+  "advancedProxySettings": {
+    "message": "進階 Proxy 設定"
+  },
+  "proxyInputLabel": {
+    "message": "輸入自訂 Proxy"
+  },
+  "useCustomLocation": {
+    "message": "為此容器使用自動位置"
+  },
+  "clearproxylabel": {
+    "message": "清除 Proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN 已開啟"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN 已關閉"
+  },
+  "invalidProxyAlert": {
+    "message": "請輸入有效的 proxy 網址"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "必須開啟 Mozilla VPN 才能使用此功能。"
+  },
+  "learnMore": {
+    "message": "了解更多"
+  },
+  "applyToContainer": {
+    "message": "套用至容器"
   }
 }
