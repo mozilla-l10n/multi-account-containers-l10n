@@ -1,0 +1,54 @@
+{
+  "openInNewTabTitle": {
+    "message": "Открыть новую вкладку в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Всегда открывать этот сайт в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Всегда открывать в…",
+    "description": "Menu title"
+  },
+  "openANewTabIn": {
+    "message": "Открыть новую вкладку в…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Открыть новую вкладку в этом контейнере"
+  },
+  "openTabs": {
+    "message": "Открытые вкладки",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Переместить вкладки в новое окно"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 вкладок!"
+  },
+  "rate": {
+    "message": "Оценить"
+  },
+  "share": {
+    "message": "Поделиться"
+  },
+  "tweet": {
+    "message": "Твитнуть"
+  },
+  "default": {
+    "message": "По умолчанию"
+  },
+  "manageContainers": {
+    "message": "Управление контейнерами"
+  },
+  "newContainer": {
+    "message": "Новый контейнер"
+  },
+  "hideThisContainer": {
+    "message": "Скрыть этот контейнер"
+  },
+  "showThisContainer": {
+    "message": "Показать этот контейнер"
+  }
+}
