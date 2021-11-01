@@ -167,5 +167,71 @@
   },
   "keyboardShortCuts": {
     "message": "Fluchtoetsen:"
+  },
+  "tabBehavior": {
+    "message": "Ljepblêdgedrach:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Blêdwizermenu's ynskeakelje"
+  },
+  "enableSync": {
+    "message": "Sync ynskeakelje"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Dizze ynstelling lit jo in blêdwizer of map mei blêdwizers yn in kontener iepenje."
+  },
+  "enableSyncDescription": {
+    "message": "Dizze ynstelling lit jo jo konteners en website-tawizingen nei oare apparaten syngronisearje."
+  },
+  "replaceTab": {
+    "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
+  },
+  "hide": {
+    "message": "Ferstopje"
+  },
+  "show": {
+    "message": "Toane"
+  },
+  "protectYourContainers": {
+    "message": "Beskermje jo konteners mei Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Beskermje dizze kontener mei Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avansearre proxyynstellingen"
+  },
+  "proxyInputLabel": {
+    "message": "Oanpaste proxy ynfiere"
+  },
+  "useCustomLocation": {
+    "message": "In oanpaste lokaasje foar dizze kontener brûke"
+  },
+  "clearproxylabel": {
+    "message": "Proxy wiskje"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN is oan"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN is út"
+  },
+  "invalidProxyAlert": {
+    "message": "Fier in jildige proxy-URL yn"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN moat oan wêze om dizze funksje te brûken."
+  },
+  "learnMore": {
+    "message": "Mear ynfo"
+  },
+  "proxyNowAvailable": {
+    "message": "No mei Mozilla VPN en avansearre proxyynstellingen"
+  },
+  "applyToContainer": {
+    "message": "Op kontener tapasse"
+  },
+  "tooltipWarning": {
+    "message": "Dizze kontener is ynsteld om in Mozilla VPN-proxy te brûken, mar Mozilla VPN is net ynskeakele. Skeakelje Mozilla VPN yn om dizze kontener te brûken."
   }
 }
