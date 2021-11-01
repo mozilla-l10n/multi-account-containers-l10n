@@ -1,0 +1,53 @@
+{
+  "openInNewTabTitle": {
+    "message": "Άνοιγμα νέας καρτέλας σε…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Πάντα άνοιγμα σε…",
+    "description": "Menu title"
+  },
+  "openANewTabIn": {
+    "message": "Άνοιγμα νέας καρτέλας σε…"
+  },
+  "openTabs": {
+    "message": "Ανοικτές καρτέλες",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 καρτέλες!"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Προεπιλογή"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "options": {
+    "message": "Επιλογές"
+  },
+  "name": {
+    "message": "Όνομα"
+  },
+  "color": {
+    "message": "Χρώμα"
+  },
+  "icon": {
+    "message": "Εικονίδιο"
+  },
+  "hide": {
+    "message": "Απόκρυψη"
+  },
+  "show": {
+    "message": "Εμφάνιση"
+  },
+  "learnMore": {
+    "message": "Μάθετε περισσότερα"
+  }
+}
