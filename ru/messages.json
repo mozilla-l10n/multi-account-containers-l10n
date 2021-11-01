@@ -27,6 +27,15 @@
   "moveTabsToANewWindow": {
     "message": "Переместить вкладки в новое окно"
   },
+  "onboarding-3-description": {
+    "message": "Начните с предложенных контейнеров или создайте собственные."
+  },
+  "onboarding-4-header": {
+    "message": "Всегда открывайте сайты в нужных вам контейнерах."
+  },
+  "onboarding-6-header": {
+    "message": "Доступна синхронизация контейнеров!"
+  },
   "oneHundredTabsHeader": {
     "message": "100 вкладок!"
   },
@@ -57,6 +66,9 @@
   "removeThisContainer": {
     "message": "Удалить этот контейнер"
   },
+  "removeThisContainerConfirmation": {
+    "message": "Вы уверены, что хотите удалить этот контейнер?"
+  },
   "cancel": {
     "message": "Отмена"
   },
@@ -75,6 +87,15 @@
   "icon": {
     "message": "Значок"
   },
+  "deleteThisContainer": {
+    "message": "Удалить этот контейнер"
+  },
+  "manageSiteList": {
+    "message": "Управление списком сайтов…"
+  },
+  "manageThisContainer": {
+    "message": "Управление этим контейнером"
+  },
   "containers": {
     "message": "Контейнеры"
   },
@@ -89,6 +110,10 @@
   },
   "startSyncing": {
     "message": "Начать синхронизацию"
+  },
+  "info": {
+    "message": "Информация",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "rememberMyDecision": {
     "message": "Запомнить моё решение для этого сайта"
@@ -108,8 +133,27 @@
   "enableSync": {
     "message": "Включить синхронизацию"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Эта настройка позволяет вам открывать закладки или папки с ними в контейнерах."
+  },
   "replaceTab": {
     "message": "Заменять вкладку вместо открытия новой"
+  },
+  "keyboardShortCut": {
+    "message": "Контейнер для открытия с помощью сочетания клавиш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "Открыть в контейнере «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "hide": {
     "message": "Скрыть"
