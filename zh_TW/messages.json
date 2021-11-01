@@ -89,6 +89,9 @@
   "ok": {
     "message": "確定"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "指派到此容器的網站"
+  },
   "options": {
     "message": "選項"
   },
@@ -140,6 +143,9 @@
   },
   "openThisSiteConfirmation": {
     "message": "要用您指定的容器開啟此網站嗎？"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "您還想要使用目前的容器開啟嗎？"
   },
   "rememberMyDecision": {
     "message": "對此網站記住我的決定"
