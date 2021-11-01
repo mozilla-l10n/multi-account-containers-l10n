@@ -54,10 +54,207 @@
   "onboarding-3-header": {
     "message": "En plats för allt och allt på sin plats."
   },
+  "onboarding-3-description": {
+    "message": "Börja med behållarna vi har skapat eller skapa dina egna."
+  },
+  "onboarding-4-header": {
+    "message": "Öppna alltid webbplatser i de behållare du vill ha."
+  },
+  "onboarding-4-description": {
+    "message": "Högerklicka på en innehållsflik för att tilldela webbplatsen att alltid öppnas i behållaren."
+  },
+  "onboarding-5-header": {
+    "message": "Innehållsflikar när du behöver dem."
+  },
+  "onboarding-5-description": {
+    "message": "Tryck länge på knappen Ny flik för att skapa en ny innehållsflik."
+  },
+  "onboarding-6-header": {
+    "message": "Synkronisering av behållare är nu tillgängligt!"
+  },
+  "onboarding-6-description": {
+    "message": "Aktivera synkronisering för att dela behållare- och webbplatstilldelningar med vilken dator som helst som är ansluten till ditt Firefox-konto."
+  },
+  "onboarding-7-header": {
+    "message": "Firefox-konto krävs för att synkronisera."
+  },
+  "onboarding-7-description": {
+    "message": "Klicka på Logga in för att bekräfta att ditt Firefox-konto är aktivt."
+  },
+  "onboarding-8-description": {
+    "message": "Nu kan behållare integreras med Mozilla VPN eller din egen proxy för att skapa en säker, privat anslutning som skyddar din aktivitet."
+  },
   "oneHundredTabsHeader": {
     "message": "100 flikar!"
   },
   "youHaveOpened": {
     "message": "Du har öppnat 100 innehållsflikar."
+  },
+  "spreadTheWord": {
+    "message": "Om du gillar behållare, berätta för andra om det!"
+  },
+  "rate": {
+    "message": "Betygsätt"
+  },
+  "share": {
+    "message": "Dela"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Hantera behållare"
+  },
+  "newContainer": {
+    "message": "Ny behållare"
+  },
+  "hideThisContainer": {
+    "message": "Dölj den här behållaren"
+  },
+  "showThisContainer": {
+    "message": "Visa denna behållare"
+  },
+  "removeThisContainer": {
+    "message": "Ta bort denna behållare"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Är du säker på att du vill ta bort den här behållaren?"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Webbplatser som tilldelats denna behållare"
+  },
+  "options": {
+    "message": "Alternativ"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "color": {
+    "message": "Färg"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Begränsning till angivna webbplatser"
+  },
+  "deleteThisContainer": {
+    "message": "Ta bort den här behållaren"
+  },
+  "manageSiteList": {
+    "message": "Hantera webbplatslista..."
+  },
+  "manageThisContainer": {
+    "message": "Hantera den här behållaren"
+  },
+  "containers": {
+    "message": "Behållare"
+  },
+  "done": {
+    "message": "Klar"
+  },
+  "getStarted": {
+    "message": "Kom igång"
+  },
+  "signIn": {
+    "message": "Logga in"
+  },
+  "notNow": {
+    "message": "Inte nu"
+  },
+  "startSyncing": {
+    "message": "Börja synkronisera"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Nästa"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Öppna den här webbplatsen i din tilldelade behållare?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vill du fortfarande öppna i den här aktuella behållaren?"
+  },
+  "rememberMyDecision": {
+    "message": "Kom ihåg mitt beslut för denna webbsida"
+  },
+  "optionalPermissions": {
+    "message": "Valfria behörigheter:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tangentbordsgenvägar:"
+  },
+  "tabBehavior": {
+    "message": "Flikbeteende:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktivera bokmärkesmenyer"
+  },
+  "enableSync": {
+    "message": "Aktivera synkronisering"
+  },
+  "chooseLocation": {
+    "message": "Välj plats",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Dölj"
+  },
+  "show": {
+    "message": "Visa"
+  },
+  "protectYourContainers": {
+    "message": "Skydda dina behållare med Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Skydda den här behållaren med Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avancerade proxyinställningar"
+  },
+  "proxyInputLabel": {
+    "message": "Ange anpassad proxy"
+  },
+  "useCustomLocation": {
+    "message": "Använd en anpassad plats för den här behållaren"
+  },
+  "clearproxylabel": {
+    "message": "Rensa proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN är aktiverat"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN är avstängt"
+  },
+  "invalidProxyAlert": {
+    "message": "Ange en giltig proxy-URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN måste vara aktiverat för att kunna använda den här funktionen."
+  },
+  "learnMore": {
+    "message": "Läs mer"
+  },
+  "proxyNowAvailable": {
+    "message": "Nu med Mozilla VPN och avancerade proxyinställningar"
+  },
+  "applyToContainer": {
+    "message": "Tillämpa på behållare"
+  },
+  "tooltipWarning": {
+    "message": "Den här behållaren är inställd för att använda en Mozilla VPN-proxy, men Mozilla VPN är inte aktiverat. Aktivera Mozilla VPN för att använda den här behållaren."
   }
 }
