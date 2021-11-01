@@ -1,0 +1,159 @@
+{
+  "openInNewTabTitle": {
+    "message": "Nij ljepblêd iepenje yn…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Dizze side opnij iepenje yn…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ljepblêden per kontener sortearje",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Dizze side altyd iepenje yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Altyd iepenje yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Website altyd yn kontener iepenje"
+  },
+  "openANewTabIn": {
+    "message": "Nij ljepblêd iepenje yn…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Nij ljepblêd iepenje yn dizze kontener"
+  },
+  "openTabs": {
+    "message": "Iepen ljeplêden",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Ljepblêden ferpleatse nei nij finster"
+  },
+  "onboarding-1-header": {
+    "message": "In bettere manier om alle dingen dy't jo online dogge te behearen"
+  },
+  "onboarding-1-description": {
+    "message": "Brûk konteners om taken te organisearjen, accounts te behearen en jo fokus te hâlden wêr't jo dat wolle."
+  },
+  "onboarding-2-header": {
+    "message": "Set konteners yn om foar jo te wurkjen."
+  },
+  "onboarding-2-description": {
+    "message": "Funksjes lykas kleurkodearingen en aparte kontenerljepblêden helpe jo dingen maklik te finen, jo oandacht te fokussen en ôfliedingen te minimalisearjen."
+  },
+  "onboarding-3-header": {
+    "message": "In plak foar alles, en alles op syn plak."
+  },
+  "onboarding-3-description": {
+    "message": "Begjin mei de konteners dy't wy makke hawwe, of meitsje jo eigen."
+  },
+  "onboarding-4-header": {
+    "message": "Iepenje websites altyd yn de konteners dy't jo wolle."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 ljepblêden!"
+  },
+  "youHaveOpened": {
+    "message": "Jo hawwe 100 kontenerljepblêden iepene."
+  },
+  "spreadTheWord": {
+    "message": "As jo fan konteners genietsje, help ús it fierder te fertellen!"
+  },
+  "rate": {
+    "message": "Wurdearje"
+  },
+  "share": {
+    "message": "Diele"
+  },
+  "tweet": {
+    "message": "Tweete"
+  },
+  "default": {
+    "message": "Standert"
+  },
+  "manageContainers": {
+    "message": "Konteners beheare"
+  },
+  "newContainer": {
+    "message": "Nije kontener"
+  },
+  "hideThisContainer": {
+    "message": "Dizze kontener ferstopje"
+  },
+  "showThisContainer": {
+    "message": "Dizze kontener toane"
+  },
+  "removeThisContainer": {
+    "message": "Dizze kontener fuortsmite"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Binne jo wis dat jo dizze kontener fuortsmite wolle?"
+  },
+  "cancel": {
+    "message": "Annulearje"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites tawiisd oan dizze kontener"
+  },
+  "options": {
+    "message": "Opsjes"
+  },
+  "name": {
+    "message": "Namme"
+  },
+  "color": {
+    "message": "Kleur"
+  },
+  "icon": {
+    "message": "Piktogram"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limyt oan oanwiisde websites"
+  },
+  "deleteThisContainer": {
+    "message": "Dizze kontener fuortsmite"
+  },
+  "manageSiteList": {
+    "message": "Websitelist beheare…"
+  },
+  "manageThisContainer": {
+    "message": "Dizze kontener beheare"
+  },
+  "containers": {
+    "message": "Konteners"
+  },
+  "done": {
+    "message": "Dien"
+  },
+  "getStarted": {
+    "message": "Begjinne"
+  },
+  "signIn": {
+    "message": "Oanmelde"
+  },
+  "notNow": {
+    "message": "No net"
+  },
+  "startSyncing": {
+    "message": "Syngronisaasje starte"
+  },
+  "info": {
+    "message": "ynfo",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Folgjende"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Dizze side yn jo tawiisde kontener iepenje?"
+  }
+}
