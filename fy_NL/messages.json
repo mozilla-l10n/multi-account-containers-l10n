@@ -186,6 +186,40 @@
   "replaceTab": {
     "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
   },
+  "replaceTabDescription": {
+    "message": "Ferfang it aktuele ljepblêd as in side dy't tawiisd is oan in oare kontener iepene wurdt (yn stee fan it aktuele ljepblêd iepen te hâlden). It iepenjen fan ljepblêden mei de middelste mûsknop wurdt net beynfloede."
+  },
+  "editWhichContainer": {
+    "message": "Bewurkje hokker kontener iepene wurdt by it brûken fan de nûmere fluchtoetsen."
+  },
+  "keyboardShortCut": {
+    "message": "Kontener om te iepenjen mei fluchtoets $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "Yn kontener $containerName$ iepenje",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Jo hawwe Firefox frege om foar dizze website altyd $containerName$ te iepenjen:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Lokaasje kieze",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Ferstopje"
   },
