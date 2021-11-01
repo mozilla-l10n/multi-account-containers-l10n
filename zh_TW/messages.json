@@ -44,6 +44,9 @@
   "onboarding-5-header": {
     "message": "需要時，將分頁放入容器中封裝起來。"
   },
+  "onboarding-5-description": {
+    "message": "長按「開新分頁」按鈕，即可建立新容器分頁。"
+  },
   "onboarding-6-header": {
     "message": "容器同步功能已經推出！"
   },
@@ -188,6 +191,9 @@
   },
   "enableSync": {
     "message": "開啟同步"
+  },
+  "replaceTab": {
+    "message": "取代分頁，而非開新分頁"
   },
   "editWhichContainer": {
     "message": "編輯按下編號快速鍵時，要分別開啟哪些帳號。"
