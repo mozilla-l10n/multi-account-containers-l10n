@@ -1,0 +1,14 @@
+{
+  "openInNewTabTitle": {
+    "message": "使用其他容器開啟新分頁…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "將此網站於其他容器開啟…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "依照容器排序分頁",
+    "description": "Menu title"
+  }
+}
