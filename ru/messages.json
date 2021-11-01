@@ -11,6 +11,9 @@
     "message": "Всегда открывать в…",
     "description": "Menu title"
   },
+  "alwaysOpenSiteInContainer": {
+    "message": "Всегда открывать сайт в контейнере"
+  },
   "openANewTabIn": {
     "message": "Открыть новую вкладку в…"
   },
@@ -50,5 +53,80 @@
   },
   "showThisContainer": {
     "message": "Показать этот контейнер"
+  },
+  "removeThisContainer": {
+    "message": "Удалить этот контейнер"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "options": {
+    "message": "Настройки"
+  },
+  "name": {
+    "message": "Название"
+  },
+  "color": {
+    "message": "Цвет"
+  },
+  "icon": {
+    "message": "Значок"
+  },
+  "containers": {
+    "message": "Контейнеры"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "signIn": {
+    "message": "Войти"
+  },
+  "notNow": {
+    "message": "Не сейчас"
+  },
+  "startSyncing": {
+    "message": "Начать синхронизацию"
+  },
+  "rememberMyDecision": {
+    "message": "Запомнить моё решение для этого сайта"
+  },
+  "optionalPermissions": {
+    "message": "Дополнительные разрешения:"
+  },
+  "keyboardShortCuts": {
+    "message": "Сочетания клавиш:"
+  },
+  "tabBehavior": {
+    "message": "Поведение вкладок:"
+  },
+  "firefoxAccountsSync": {
+    "message": "Синхронизация аккаунтов:"
+  },
+  "enableSync": {
+    "message": "Включить синхронизацию"
+  },
+  "replaceTab": {
+    "message": "Заменять вкладку вместо открытия новой"
+  },
+  "hide": {
+    "message": "Скрыть"
+  },
+  "show": {
+    "message": "Показать"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN включён"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN отключён"
+  },
+  "learnMore": {
+    "message": "Подробнее"
+  },
+  "applyToContainer": {
+    "message": "Применить к контейнеру"
   }
 }
