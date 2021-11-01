@@ -62,6 +62,9 @@
   "onboarding-7-description": {
     "message": "點擊登入，即可確認您的 Firefox 帳號啟用狀態。"
   },
+  "onboarding-8-description": {
+    "message": "現在起，容器功能已與 Mozilla VPN 或您自己的 Proxy 整合起來，讓您有安全、有隱私的連線，並能保護上網安全。"
+  },
   "oneHundredTabsHeader": {
     "message": "100 個分頁！"
   },
@@ -195,8 +198,17 @@
   "enableSync": {
     "message": "開啟同步"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "此設定讓您可直接使用容器開啟單一書籤或整個書籤資料夾。"
+  },
+  "enableSyncDescription": {
+    "message": "此設定讓您可在不同裝置間同步容器與網站設定。"
+  },
   "replaceTab": {
     "message": "取代分頁，而非開新分頁"
+  },
+  "replaceTabDescription": {
+    "message": "若將分頁指派到另一個已開啟的容器時，取代目前分頁（而不保留已開啟的分頁）。使用滑鼠中鍵開啟分頁時的行為則不受影響。"
   },
   "editWhichContainer": {
     "message": "編輯按下編號快速鍵時，要分別開啟哪些帳號。"
