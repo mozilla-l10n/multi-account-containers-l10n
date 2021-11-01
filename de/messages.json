@@ -1,0 +1,93 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account-Containers hilft Ihnen, alle Teile Ihres Online-Lebens in verschiedene Tabs zu unterteilen. Benutzerdefinierte Etiketten und farbcodierte Tabs helfen dabei, verschiedene Aktivitäten – wie Online-Shopping, Reiseplanung oder das Abrufen von geschäftlichen E-Mails – voneinander zu trennen.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Neuen Tab öffnen in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Diese Website erneut öffnen in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Tabs nach Container sortieren",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Diese Website immer öffnen in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Immer öffnen in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Website immer in Container öffnen"
+  },
+  "openANewTabIn": {
+    "message": "Einen neuen Tab öffnen in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Neuen Tab in diesem Container öffnen"
+  },
+  "openTabs": {
+    "message": "Offene Tabs",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Tabs in neues Fenster verschieben"
+  },
+  "onboarding-1-header": {
+    "message": "Eine bessere Möglichkeit, all Ihre Online-Aktivitäten zu verwalten"
+  },
+  "onboarding-1-description": {
+    "message": "Verwenden Sie Container, um Aufgaben zu organisieren, Konten zu verwalten und Ihren Fokus gezielt auszurichten."
+  },
+  "onboarding-2-header": {
+    "message": "Lassen Sie Containers für sich arbeiten."
+  },
+  "onboarding-2-description": {
+    "message": "Funktionen wie Farbcodierung und separate Container-Tabs helfen Ihnen, Dinge leicht zu finden, Ihre Aufmerksamkeit zu lenken und Ablenkungen zu minimieren."
+  },
+  "onboarding-3-header": {
+    "message": "Ein Platz für alles und alles an seinem Platz."
+  },
+  "onboarding-3-description": {
+    "message": "Beginnen Sie mit den von uns erstellten Containern oder erstellen Sie Ihre eigenen."
+  },
+  "onboarding-4-header": {
+    "message": "Öffnen Sie Websites immer in den gewünschten Containern."
+  },
+  "onboarding-4-description": {
+    "message": "Klicken Sie mit der rechten Maustaste auf einen Container-Tab, um festzulegen, dass die Website immer im Container geöffnet wird."
+  },
+  "onboarding-5-header": {
+    "message": "Container-Tabs, wenn Sie sie brauchen."
+  },
+  "onboarding-5-description": {
+    "message": "Drücken Sie lange auf die Neuer-Tab-Schaltfläche, um einen neuen Container-Tab zu öffnen."
+  },
+  "onboarding-6-header": {
+    "message": "Das Synchronisieren von Containern ist jetzt verfügbar!"
+  },
+  "onboarding-6-description": {
+    "message": "Aktivieren Sie die Synchronisierung, um Container- und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Firefox-Konto verbunden ist."
+  },
+  "onboarding-7-header": {
+    "message": "Zum Synchronisieren ist ein Firefox-Konto erforderlich."
+  },
+  "onboarding-7-description": {
+    "message": "Klicken Sie auf Anmelden, um zu bestätigen, dass Ihr Firefox-Konto aktiv ist."
+  },
+  "onboarding-8-description": {
+    "message": "Container können jetzt in Mozilla VPN oder Ihren eigenen Proxy integriert werden, um eine sichere, private Verbindung herzustellen, die Ihre Aktivitäten schützt."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 Tabs!"
+  },
+  "youHaveOpened": {
+    "message": "Sie haben 100 Container-Tabs geöffnet."
+  }
+}
