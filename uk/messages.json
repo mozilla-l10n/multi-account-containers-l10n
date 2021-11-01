@@ -1,0 +1,174 @@
+{
+  "extensionDescription": {
+    "message": "Функція Multi-Account Containers допомагає користуватися різними частинами вашої роботи в Інтернеті незалежно в різних вкладках. Власні мітки і колір вкладок забезпечують зручність користування для різних цілей окремо, наприклад, покупки, планування подорожі, перевірка робочої електронної пошти.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Відкрити нову вкладку в…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Повторно відкрити цей сайт в…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Впорядкування вкладок за контейнером",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Завжди відкривати цей сайт в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Завжди відкривати в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Завжди відкривати сайт у контейнері"
+  },
+  "openANewTabIn": {
+    "message": "Відкрити нову вкладку в…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Відкрити нову вкладку в цьому контейнері"
+  },
+  "openTabs": {
+    "message": "Відкрити вкладки",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Перемістити вкладки в нове вікно"
+  },
+  "onboarding-1-header": {
+    "message": "Кращий спосіб керувати всім, що ви робите в Інтернеті"
+  },
+  "onboarding-1-description": {
+    "message": "Користуйтеся контейнерами для організації завдань, керування обліковими записами, а також для зосередження на важливих речах."
+  },
+  "onboarding-2-header": {
+    "message": "Дозвольте контейнерам бути вам корисними."
+  },
+  "onboarding-2-description": {
+    "message": "Такі функції як позначення кольором та окремі вкладки контейнерів дають вам змогу легко знаходити необхідне, зосереджувати увагу на важливих речах та мінімізувати відволікання."
+  },
+  "onboarding-3-header": {
+    "message": "Місце для всього та все на своєму місці."
+  },
+  "onboarding-3-description": {
+    "message": "Розпочніть з уже наявних контейнерів, або створіть власні."
+  },
+  "onboarding-4-header": {
+    "message": "Завжди відкривайте сайти в бажаних контейнерах."
+  },
+  "onboarding-4-description": {
+    "message": "Клацніть правою кнопкою миші на вкладці контейнера, щоб призначити відкриття сайту завжди в контейнері."
+  },
+  "onboarding-5-header": {
+    "message": "Розміщуйте вкладки в контейнерах, коли вам це необхідно."
+  },
+  "onboarding-5-description": {
+    "message": "Тривале натискання на кнопці нової вкладки для створення нової вкладки в контейнері."
+  },
+  "onboarding-6-header": {
+    "message": "Тепер доступна синхронізація контейнерів!"
+  },
+  "onboarding-6-description": {
+    "message": "Увімкніть синхронізацію, щоб обмінюватися контейнерами та призначеними сайтами між будь-якими комп'ютерами, під'єднаними до вашого облікового запису Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Для синхронізації необхідний обліковий запис Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Увійдіть для підтвердження активності облікового запису Firefox."
+  },
+  "onboarding-8-description": {
+    "message": "Тепер контейнери можуть інтегруватися з Mozilla VPN чи вашим власним проксі для створення захищеного, приватного з'єднання, що захищає вашу діяльність."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 вкладок!"
+  },
+  "youHaveOpened": {
+    "message": "Ви відкрили 100 вкладок в контейнерах."
+  },
+  "spreadTheWord": {
+    "message": "Якщо вам подобаються контейнери, допоможіть нам розповісти про це!"
+  },
+  "rate": {
+    "message": "Оцінити"
+  },
+  "share": {
+    "message": "Поділитися"
+  },
+  "tweet": {
+    "message": "Твіт"
+  },
+  "default": {
+    "message": "Типово"
+  },
+  "manageContainers": {
+    "message": "Керувати контейнерами"
+  },
+  "newContainer": {
+    "message": "Новий контейнер"
+  },
+  "hideThisContainer": {
+    "message": "Сховати цей контейнер"
+  },
+  "showThisContainer": {
+    "message": "Показати цей контейнер"
+  },
+  "removeThisContainer": {
+    "message": "Вилучити цей контейнер"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Ви дійсно хочете вилучити цей контейнер?"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "ok": {
+    "message": "Гаразд"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайти, призначені цьому контейнеру"
+  },
+  "options": {
+    "message": "Налаштування"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "color": {
+    "message": "Колір"
+  },
+  "icon": {
+    "message": "Піктограма"
+  },
+  "limitToDesignatedSites": {
+    "message": "Обмеження до визначених сайтів"
+  },
+  "deleteThisContainer": {
+    "message": "Видалити цей контейнер"
+  },
+  "manageSiteList": {
+    "message": "Керувати списком сайтів…"
+  },
+  "manageThisContainer": {
+    "message": "Керувати цим контейнером"
+  },
+  "containers": {
+    "message": "Контейнери"
+  },
+  "done": {
+    "message": "Виконано"
+  },
+  "getStarted": {
+    "message": "Розпочнімо"
+  },
+  "signIn": {
+    "message": "Увійти"
+  },
+  "notNow": {
+    "message": "Не зараз"
+  }
+}
