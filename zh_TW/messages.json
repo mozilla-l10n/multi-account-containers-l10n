@@ -41,6 +41,9 @@
   "onboarding-6-header": {
     "message": "容器同步功能已經推出！"
   },
+  "onboarding-6-description": {
+    "message": "開啟同步後，即可將容器及網站設定同步到所有連結到您 Firefox 帳號的電腦。"
+  },
   "onboarding-7-header": {
     "message": "需要 Firefox 帳戶才能同步。"
   },
