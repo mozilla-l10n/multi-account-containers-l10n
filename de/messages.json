@@ -89,5 +89,141 @@
   },
   "youHaveOpened": {
     "message": "Sie haben 100 Container-Tabs geöffnet."
+  },
+  "spreadTheWord": {
+    "message": "Wenn Ihnen Containers gefällt, erzählen Sie anderen davon!"
+  },
+  "rate": {
+    "message": "Bewerten"
+  },
+  "share": {
+    "message": "Teilen"
+  },
+  "tweet": {
+    "message": "Twittern"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Tab-Umgebungen verwalten"
+  },
+  "newContainer": {
+    "message": "Neue Umgebung"
+  },
+  "hideThisContainer": {
+    "message": "Diese Umgebung ausblenden"
+  },
+  "showThisContainer": {
+    "message": "Diese Umgebung anzeigen"
+  },
+  "removeThisContainer": {
+    "message": "Diese Umgebung löschen"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Soll diese Umgebung wirklich entfernt werden?"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Dieser Umgebung zugewiesene Websites"
+  },
+  "options": {
+    "message": "Einstellungen"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "color": {
+    "message": "Farbe"
+  },
+  "icon": {
+    "message": "Symbol"
+  },
+  "limitToDesignatedSites": {
+    "message": "Auf bestimmte Websites beschränken"
+  },
+  "deleteThisContainer": {
+    "message": "Diese Umgebung löschen"
+  },
+  "manageSiteList": {
+    "message": "Liste der Websites verwalten…"
+  },
+  "manageThisContainer": {
+    "message": "Diese Umgebung verwalten"
+  },
+  "containers": {
+    "message": "Umgebungen"
+  },
+  "done": {
+    "message": "Fertig"
+  },
+  "getStarted": {
+    "message": "Erste Schritte"
+  },
+  "signIn": {
+    "message": "Anmelden"
+  },
+  "notNow": {
+    "message": "Nicht jetzt"
+  },
+  "startSyncing": {
+    "message": "Mit Synchronisierung beginnen"
+  },
+  "info": {
+    "message": "Info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Weiter"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Diese Website in Ihrer zugewiesenen Umgebung öffnen?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Soll diese Website trotzdem in dieser aktuellen Umgebung geöffnet werden?"
+  },
+  "rememberMyDecision": {
+    "message": "Meine Entscheidung für diese Website merken"
+  },
+  "optionalPermissions": {
+    "message": "Optionale Berechtigungen:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastenkombinationen:"
+  },
+  "onboarding": {
+    "message": "Einführung"
+  },
+  "resetOnboardingPanels": {
+    "message": "Einführungs-Panels zurücksetzen"
+  },
+  "onboardingToggle": {
+    "message": "Schalten Sie dies um, um die Einführungs-Panels wieder anzuzeigen."
+  },
+  "tabBehavior": {
+    "message": "Tab-Verhalten:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Lesezeichenmenüs aktivieren"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronisation mit Firefox-Konten:"
+  },
+  "enableSync": {
+    "message": "Synchronisierung aktivieren"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Mit dieser Einstellung können Sie ein Lesezeichen oder einen Ordner mit Lesezeichen in einer Umgebung öffnen."
+  },
+  "enableSyncDescription": {
+    "message": "Mit dieser Einstellung können Sie Ihre Umgebungen und Website-Zuweisungen geräteübergreifend synchronisieren."
+  },
+  "replaceTab": {
+    "message": "Tab ersetzen, anstatt einen neuen zu erstellen"
   }
 }
