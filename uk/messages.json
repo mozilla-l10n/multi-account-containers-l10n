@@ -170,5 +170,146 @@
   },
   "notNow": {
     "message": "Не зараз"
+  },
+  "startSyncing": {
+    "message": "Почніть синхронізацію"
+  },
+  "info": {
+    "message": "Інфо",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Далі"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Відкрити цей сайт у призначеному контейнері?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Ви все ще хочете відкрити в поточному контейнері?"
+  },
+  "rememberMyDecision": {
+    "message": "Запам'ятати моє рішення для цього сайту"
+  },
+  "optionalPermissions": {
+    "message": "Необов’язкові дозволи:"
+  },
+  "keyboardShortCuts": {
+    "message": "Комбінації клавіш:"
+  },
+  "onboarding": {
+    "message": "Початок роботи"
+  },
+  "resetOnboardingPanels": {
+    "message": "Скинути панелі початку роботи"
+  },
+  "onboardingToggle": {
+    "message": "Перемкніть, щоб знову бачити панелі початку роботи."
+  },
+  "tabBehavior": {
+    "message": "Поведінка вкладки:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Увімкнути меню закладок"
+  },
+  "firefoxAccountsSync": {
+    "message": "Синхронізація облікових записів Firefox:"
+  },
+  "enableSync": {
+    "message": "Увімкнути синхронізацію"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Цей параметр дає змогу відкривати закладку чи теку закладок у контейнері."
+  },
+  "enableSyncDescription": {
+    "message": "Цей параметр дає змогу синхронізувати контейнери та призначені сайти на різних пристроях."
+  },
+  "replaceTab": {
+    "message": "Замінити вкладку замість створення нової"
+  },
+  "replaceTabDescription": {
+    "message": "Замінити поточну вкладку, якщо відкрита сторінка, що призначена іншому контейнеру (замість збереження поточної вкладки відкритою). Не впливає на відкриття вкладок з використанням середньої кнопки миші."
+  },
+  "editWhichContainer": {
+    "message": "Редагувати відкритий контейнер при використанні нумерованих комбінацій клавіш."
+  },
+  "keyboardShortCut": {
+    "message": "Контейнер для відкриття з комбінацією клавіш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Підтвердження навігації для Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Відкрити в контейнері $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Ви дали запит Firefox завжди відкривати $containerName$ для цього сайту:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Вибрати розташування",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Сховати"
+  },
+  "show": {
+    "message": "Показати"
+  },
+  "protectYourContainers": {
+    "message": "Захистіть свої контейнери за допомогою Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Захистити цей контейнер за допомогою Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Розширені налаштування проксі"
+  },
+  "proxyInputLabel": {
+    "message": "Введіть власний проксі"
+  },
+  "useCustomLocation": {
+    "message": "Використовувати власне розташування для цього контейнера"
+  },
+  "clearproxylabel": {
+    "message": "Очистити проксі"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN увімкнено"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN вимкнено"
+  },
+  "invalidProxyAlert": {
+    "message": "Введіть дійсну URL-адресу проксі"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Щоб використовувати цю функцію, необхідно увімкнути Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Докладніше"
+  },
+  "proxyNowAvailable": {
+    "message": "Тепер із Mozilla VPN і розширеними налаштуваннями проксі"
+  },
+  "applyToContainer": {
+    "message": "Застосувати до контейнера"
+  },
+  "tooltipWarning": {
+    "message": "Цей контейнер налаштовано для роботи з проксі Mozilla VPN, але функція Mozilla VPN вимкнена. Увімкніть Mozilla VPN для користування цим контейнером."
   }
 }
