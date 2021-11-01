@@ -35,6 +35,12 @@
   "moveTabsToANewWindow": {
     "message": "將分頁移動到新視窗"
   },
+  "onboarding-3-description": {
+    "message": "從我們預設的容器開始，您也可以自己建立。"
+  },
+  "onboarding-4-header": {
+    "message": "可以隨您需求，用特定容器開啟特定網站。"
+  },
   "onboarding-5-header": {
     "message": "需要時，將分頁放入容器中封裝起來。"
   },
@@ -46,6 +52,9 @@
   },
   "onboarding-7-header": {
     "message": "需要 Firefox 帳戶才能同步。"
+  },
+  "onboarding-7-description": {
+    "message": "點擊登入，即可確認您的 Firefox 帳號啟用狀態。"
   },
   "oneHundredTabsHeader": {
     "message": "100 個分頁！"
@@ -254,7 +263,13 @@
   "learnMore": {
     "message": "了解更多"
   },
+  "proxyNowAvailable": {
+    "message": "現在起整合了 Mozilla VPN 及進階 Proxy 設定"
+  },
   "applyToContainer": {
     "message": "套用至容器"
+  },
+  "tooltipWarning": {
+    "message": "此容器已設定使用 Mozilla VPN proxy 連線，但 Mozilla VPN 並未開啟。請先開啟 Mozilla VPN 再使用此容器。"
   }
 }
