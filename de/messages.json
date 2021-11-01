@@ -12,7 +12,7 @@
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Tabs nach Container sortieren",
+    "message": "Tabs nach Umgebung sortieren",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
@@ -24,13 +24,13 @@
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Website immer in Container öffnen"
+    "message": "Website immer in Umgebung öffnen"
   },
   "openANewTabIn": {
     "message": "Einen neuen Tab öffnen in…"
   },
   "openNewTabInThisContainer": {
-    "message": "Neuen Tab in diesem Container öffnen"
+    "message": "Neuen Tab in dieser Umgebung öffnen"
   },
   "openTabs": {
     "message": "Offene Tabs",
@@ -43,37 +43,37 @@
     "message": "Eine bessere Möglichkeit, all Ihre Online-Aktivitäten zu verwalten"
   },
   "onboarding-1-description": {
-    "message": "Verwenden Sie Container, um Aufgaben zu organisieren, Konten zu verwalten und Ihren Fokus gezielt auszurichten."
+    "message": "Verwenden Sie Umgebungen, um Aufgaben zu organisieren, Konten zu verwalten und Ihren Fokus gezielt auszurichten."
   },
   "onboarding-2-header": {
-    "message": "Lassen Sie Containers für sich arbeiten."
+    "message": "Lassen Sie Umgebungen für sich arbeiten."
   },
   "onboarding-2-description": {
-    "message": "Funktionen wie Farbcodierung und separate Container-Tabs helfen Ihnen, Dinge leicht zu finden, Ihre Aufmerksamkeit zu lenken und Ablenkungen zu minimieren."
+    "message": "Funktionen wie Farbcodierung und separate Tab-Umgebungen helfen Ihnen, Dinge leicht zu finden, Ihre Aufmerksamkeit zu lenken und Ablenkungen zu minimieren."
   },
   "onboarding-3-header": {
     "message": "Ein Platz für alles und alles an seinem Platz."
   },
   "onboarding-3-description": {
-    "message": "Beginnen Sie mit den von uns erstellten Containern oder erstellen Sie Ihre eigenen."
+    "message": "Beginnen Sie mit den von uns erstellten Umgebungen oder erstellen Sie Ihre eigenen."
   },
   "onboarding-4-header": {
-    "message": "Öffnen Sie Websites immer in den gewünschten Containern."
+    "message": "Öffnen Sie Websites immer in den gewünschten Umgebungen."
   },
   "onboarding-4-description": {
-    "message": "Klicken Sie mit der rechten Maustaste auf einen Container-Tab, um festzulegen, dass die Website immer im Container geöffnet wird."
+    "message": "Klicken Sie mit der rechten Maustaste auf eine Tab-Umgebung, um festzulegen, dass die Website immer in der Umgebung geöffnet wird."
   },
   "onboarding-5-header": {
-    "message": "Container-Tabs, wenn Sie sie brauchen."
+    "message": "Tab-Umgebungen, wenn Sie sie brauchen."
   },
   "onboarding-5-description": {
-    "message": "Drücken Sie lange auf die Neuer-Tab-Schaltfläche, um einen neuen Container-Tab zu öffnen."
+    "message": "Drücken Sie lange auf die Neuer-Tab-Schaltfläche, um eine neue Tab-Umgebung zu öffnen."
   },
   "onboarding-6-header": {
-    "message": "Das Synchronisieren von Containern ist jetzt verfügbar!"
+    "message": "Das Synchronisieren von Umgebungen ist jetzt verfügbar!"
   },
   "onboarding-6-description": {
-    "message": "Aktivieren Sie die Synchronisierung, um Container- und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Firefox-Konto verbunden ist."
+    "message": "Aktivieren Sie die Synchronisierung, um Tab-Umgebungen und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Firefox-Konto verbunden ist."
   },
   "onboarding-7-header": {
     "message": "Zum Synchronisieren ist ein Firefox-Konto erforderlich."
@@ -88,7 +88,7 @@
     "message": "100 Tabs!"
   },
   "youHaveOpened": {
-    "message": "Sie haben 100 Container-Tabs geöffnet."
+    "message": "Sie haben 100 Tab-Umgebungen geöffnet."
   },
   "spreadTheWord": {
     "message": "Wenn Ihnen Containers gefällt, erzählen Sie anderen davon!"
@@ -225,5 +225,91 @@
   },
   "replaceTab": {
     "message": "Tab ersetzen, anstatt einen neuen zu erstellen"
+  },
+  "replaceTabDescription": {
+    "message": "Den aktuellen Tab ersetzen, wenn eine Seite geöffnet wird, die einer anderen Umgebung zugeordnet ist (anstatt den aktuellen Tab geöffnet zu lassen). Das Öffnen von Tabs mit der mittleren Maustaste ist davon nicht betroffen."
+  },
+  "editWhichContainer": {
+    "message": "Einstellen, welche Umgebung geöffnet wird, wenn Sie die nummerierten Tastenkombinationen verwenden."
+  },
+  "keyboardShortCut": {
+    "message": "Umgebung, die mit der Tastenkombination $keyId$ geöffnet wird",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account-Container – Navigation bestätigen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "In Umgebung $containerName$ öffnen",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Sie haben Firefox gebeten, für diese Website immer $containerName$ zu öffnen:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Standort auswählen",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ausblenden"
+  },
+  "show": {
+    "message": "Anzeigen"
+  },
+  "protectYourContainers": {
+    "message": "Schützen Sie Ihre Umgebungen mit Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Schützen Sie diese Umgebung mit Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Erweiterte Proxy-Einstellungen"
+  },
+  "proxyInputLabel": {
+    "message": "Benutzerdefinierten Proxy eingeben"
+  },
+  "useCustomLocation": {
+    "message": "Benutzerdefinierten Standort für diese Umgebung verwenden"
+  },
+  "clearproxylabel": {
+    "message": "Proxy löschen"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN ist aktiviert"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN ist deaktiviert"
+  },
+  "invalidProxyAlert": {
+    "message": "Bitte geben Sie eine gültige Proxy-URL ein"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN muss aktiviert sein, um diese Funktion nutzen zu können."
+  },
+  "learnMore": {
+    "message": "Weitere Informationen"
+  },
+  "proxyNowAvailable": {
+    "message": "Jetzt mit Mozilla VPN und erweiterten Proxy-Einstellungen"
+  },
+  "applyToContainer": {
+    "message": "Auf Umgebung anwenden"
+  },
+  "tooltipWarning": {
+    "message": "Diese Umgebung ist so eingerichtet, dass sie einen Mozilla VPN-Proxy verwendet, aber Mozilla VPN ist nicht aktiviert. Schalten Sie Mozilla VPN ein, um diese Umgebung zu verwenden."
   }
 }
