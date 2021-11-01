@@ -1,0 +1,63 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers hjälper dig att hålla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och färgkodade flikar hjälper till att hålla olika aktiviteter — som onlineshopping, reseplanering eller kolla jobbmejl — åtskilda.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Öppna ny flik i…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Återöppna den här webbplatsen i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sortera flikar efter behållare",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Öppna alltid den här webbplatsen i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Öppna alltid i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Öppna alltid webbplats i behållare"
+  },
+  "openANewTabIn": {
+    "message": "Öppna en ny flik i…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Öppna ny flik i den här behållaren"
+  },
+  "openTabs": {
+    "message": "Öppna flikar",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Flytta flikar till ett nytt fönster"
+  },
+  "onboarding-1-header": {
+    "message": "Ett bättre sätt att hantera allt du gör online"
+  },
+  "onboarding-1-description": {
+    "message": "Använd behållare för att organisera uppgifter, hantera konton och hålla fokus där du vill ha det."
+  },
+  "onboarding-2-header": {
+    "message": "Få behållarna att fungera för dig."
+  },
+  "onboarding-2-description": {
+    "message": "Funktioner som färgkodning och separata innehållsflikar hjälper dig att enkelt hitta saker, fokusera din uppmärksamhet och minimera distraktioner."
+  },
+  "onboarding-3-header": {
+    "message": "En plats för allt och allt på sin plats."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 flikar!"
+  },
+  "youHaveOpened": {
+    "message": "Du har öppnat 100 innehållsflikar."
+  }
+}
