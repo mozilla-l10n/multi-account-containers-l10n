@@ -35,10 +35,151 @@
   "moveTabsToANewWindow": {
     "message": "將分頁移動到新視窗"
   },
+  "onboarding-5-header": {
+    "message": "需要時，將分頁放入容器中封裝起來。"
+  },
   "onboarding-6-header": {
     "message": "容器同步功能已經推出！"
   },
   "onboarding-7-header": {
     "message": "需要 Firefox 帳戶才能同步。"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 個分頁！"
+  },
+  "youHaveOpened": {
+    "message": "您已開啟 100 個容器分頁。"
+  },
+  "spreadTheWord": {
+    "message": "若您喜歡容器功能，也請幫助我們廣傳！"
+  },
+  "rate": {
+    "message": "評分"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "tweet": {
+    "message": "推文"
+  },
+  "default": {
+    "message": "預設"
+  },
+  "manageContainers": {
+    "message": "管理容器"
+  },
+  "newContainer": {
+    "message": "新容器"
+  },
+  "hideThisContainer": {
+    "message": "隱藏此容器"
+  },
+  "showThisContainer": {
+    "message": "顯示此容器"
+  },
+  "removeThisContainer": {
+    "message": "移除此容器"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "您確定要刪除此容器嗎？"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "ok": {
+    "message": "確定"
+  },
+  "options": {
+    "message": "選項"
+  },
+  "name": {
+    "message": "名稱"
+  },
+  "color": {
+    "message": "色彩"
+  },
+  "icon": {
+    "message": "圖示"
+  },
+  "limitToDesignatedSites": {
+    "message": "限制特定網站"
+  },
+  "deleteThisContainer": {
+    "message": "刪除此容器"
+  },
+  "manageSiteList": {
+    "message": "管理網站清單…"
+  },
+  "manageThisContainer": {
+    "message": "管理此容器"
+  },
+  "containers": {
+    "message": "容器"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "getStarted": {
+    "message": "開始使用"
+  },
+  "signIn": {
+    "message": "登入"
+  },
+  "notNow": {
+    "message": "現在不要"
+  },
+  "startSyncing": {
+    "message": "開始同步"
+  },
+  "info": {
+    "message": "資訊",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "rememberMyDecision": {
+    "message": "對此網站記住我的決定"
+  },
+  "optionalPermissions": {
+    "message": "非必要權限:"
+  },
+  "keyboardShortCuts": {
+    "message": "快速鍵:"
+  },
+  "onboarding": {
+    "message": "使用入門"
+  },
+  "resetOnboardingPanels": {
+    "message": "重設入門面板"
+  },
+  "onboardingToggle": {
+    "message": "切換此選項即可再次檢視入門面板。"
+  },
+  "tabBehavior": {
+    "message": "分頁行為:"
+  },
+  "enableBookMarkMenus": {
+    "message": "啟用書籤選單"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox 帳號同步:"
+  },
+  "enableSync": {
+    "message": "開啟同步"
+  },
+  "openInContainer": {
+    "message": "用 $containerName$ 容器開啟",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "hide": {
+    "message": "隱藏"
+  },
+  "show": {
+    "message": "顯示"
   }
 }
