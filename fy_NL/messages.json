@@ -155,5 +155,17 @@
   },
   "openThisSiteConfirmation": {
     "message": "Dizze side yn jo tawiisde kontener iepenje?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Wolle jo noch hieltyd yn dizze aktuele kontener iepenje?"
+  },
+  "rememberMyDecision": {
+    "message": "Beslissing foar dizze website ûnthâlde"
+  },
+  "optionalPermissions": {
+    "message": "Opsjonele tastimmingen:"
+  },
+  "keyboardShortCuts": {
+    "message": "Fluchtoetsen:"
   }
 }
