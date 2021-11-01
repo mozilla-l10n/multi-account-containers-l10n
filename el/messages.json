@@ -14,6 +14,9 @@
     "message": "Ανοικτές καρτέλες",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "moveTabsToANewWindow": {
+    "message": "Μετακίνηση καρτελών σε νέο παράθυρο"
+  },
   "onboarding-7-header": {
     "message": "Απαιτείται λογαριασμός Firefox για συγχρονισμό."
   },
@@ -49,6 +52,9 @@
   },
   "icon": {
     "message": "Εικονίδιο"
+  },
+  "manageSiteList": {
+    "message": "Διαχείριση λίστας ιστοτόπων…"
   },
   "done": {
     "message": "Τέλος"
