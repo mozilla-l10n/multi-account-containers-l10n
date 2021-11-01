@@ -4,11 +4,41 @@
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "將此網站於其他容器開啟…",
+    "message": "用其他容器重新開啟此網站…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
     "message": "依照容器排序分頁",
     "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "總是用下列容器開啟此網站…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "總是用下列容器開啟…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "總是用容器開啟網站"
+  },
+  "openANewTabIn": {
+    "message": "用下列容器開啟新分頁…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "用此容器開啟新分頁"
+  },
+  "openTabs": {
+    "message": "開啟的分頁",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "將分頁移動到新視窗"
+  },
+  "onboarding-6-header": {
+    "message": "容器同步功能已經推出！"
+  },
+  "onboarding-7-header": {
+    "message": "需要 Firefox 帳戶才能同步。"
   }
 }
