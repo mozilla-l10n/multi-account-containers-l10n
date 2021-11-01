@@ -14,8 +14,17 @@
     "message": "Ανοικτές καρτέλες",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "onboarding-7-header": {
+    "message": "Απαιτείται λογαριασμός Firefox για συγχρονισμό."
+  },
   "oneHundredTabsHeader": {
     "message": "100 καρτέλες!"
+  },
+  "rate": {
+    "message": "Αξιολόγηση"
+  },
+  "share": {
+    "message": "Κοινοποίηση"
   },
   "tweet": {
     "message": "Tweet"
@@ -41,11 +50,58 @@
   "icon": {
     "message": "Εικονίδιο"
   },
+  "done": {
+    "message": "Τέλος"
+  },
+  "getStarted": {
+    "message": "Έναρξη"
+  },
+  "signIn": {
+    "message": "Σύνδεση"
+  },
+  "notNow": {
+    "message": "Όχι τώρα"
+  },
+  "startSyncing": {
+    "message": "Έναρξη συγχρονισμού"
+  },
+  "info": {
+    "message": "πληροφορίες",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Επόμενο"
+  },
+  "optionalPermissions": {
+    "message": "Προαιρετικά δικαιώματα:"
+  },
+  "keyboardShortCuts": {
+    "message": "Συντομεύσεις πληκτρολογίου:"
+  },
+  "tabBehavior": {
+    "message": "Συμπεριφορά καρτέλας:"
+  },
+  "enableSync": {
+    "message": "Ενεργοποίηση συγχρονισμού"
+  },
+  "chooseLocation": {
+    "message": "Επιλογή τοποθεσίας",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Απόκρυψη"
   },
   "show": {
     "message": "Εμφάνιση"
+  },
+  "moz-vpn-connected": {
+    "message": "Το Mozilla VPN είναι ενεργό"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Το Mozilla VPN είναι ανενεργό"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Το Mozilla VPN πρέπει να είναι ενεργό για αυτήν τη λειτουργία."
   },
   "learnMore": {
     "message": "Μάθετε περισσότερα"
