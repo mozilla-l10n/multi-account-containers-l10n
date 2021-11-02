@@ -239,5 +239,38 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Tudalen Cadarnhau Llywio Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Agor yng Nghynhwysydd $containerName",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Rydych wedi gofyn i Firefox i agor $containerName bob tro ar gyfer y wefan hon:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Dewis lleoliad",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Cuddio"
+  },
+  "show": {
+    "message": "Dangos"
+  },
+  "protectYourContainers": {
+    "message": "Diogelwch eich Cynhwysyddion gyda Mozilla VPN"
   }
 }
