@@ -1,0 +1,17 @@
+{
+  "share": {
+    "message": "Compartir"
+  },
+  "hide": {
+    "message": "Celar"
+  },
+  "show": {
+    "message": "Monstrar"
+  },
+  "clearproxylabel": {
+    "message": "Clarar proxy"
+  },
+  "learnMore": {
+    "message": "Pro saper plus"
+  }
+}
