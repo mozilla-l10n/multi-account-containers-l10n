@@ -47,5 +47,269 @@
   },
   "onboarding-2-header": {
     "message": "Put Containers to work for you."
+  },
+  "onboarding-2-description": {
+    "message": "Features like colour-coding and separate Container tabs help you find things easily, focus your attention, and minimise distractions."
+  },
+  "onboarding-3-header": {
+    "message": "A place for everything, and everything in its place."
+  },
+  "onboarding-3-description": {
+    "message": "Start with the Containers we’ve created, or create your own."
+  },
+  "onboarding-4-header": {
+    "message": "Always open sites in the Containers you want."
+  },
+  "onboarding-4-description": {
+    "message": "Right-click inside a Container tab to assign the site to always open in the Container."
+  },
+  "onboarding-5-header": {
+    "message": "Container tabs when you need them."
+  },
+  "onboarding-5-description": {
+    "message": "Long-press the New Tab button to create a new Container tab."
+  },
+  "onboarding-6-header": {
+    "message": "Synchronising Containers is now Available!"
+  },
+  "onboarding-6-description": {
+    "message": "Turn on synchronisation to share Container and site assignments with any computer connected to your Firefox account."
+  },
+  "onboarding-7-header": {
+    "message": "Firefox account is required to synchronise."
+  },
+  "onboarding-7-description": {
+    "message": "Click Sign In to confirm that your Firefox account is active."
+  },
+  "onboarding-8-description": {
+    "message": "Now Containers can integrate with Mozilla VPN or your own proxy to create a secure, private connection that protects your activity."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tabs!"
+  },
+  "youHaveOpened": {
+    "message": "You’ve opened 100 Container tabs."
+  },
+  "spreadTheWord": {
+    "message": "If you enjoy Containers, help us spread the word!"
+  },
+  "rate": {
+    "message": "Rate"
+  },
+  "share": {
+    "message": "Share"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Default"
+  },
+  "manageContainers": {
+    "message": "Manage Containers"
+  },
+  "newContainer": {
+    "message": "New Container"
+  },
+  "hideThisContainer": {
+    "message": "Hide This Container"
+  },
+  "showThisContainer": {
+    "message": "Show This Container"
+  },
+  "removeThisContainer": {
+    "message": "Remove This Container"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Are you sure you want to remove this Container?"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites assigned to this Container"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "color": {
+    "message": "Colour"
+  },
+  "icon": {
+    "message": "Icon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limit to Designated Sites"
+  },
+  "deleteThisContainer": {
+    "message": "Delete This Container"
+  },
+  "manageSiteList": {
+    "message": "Manage Site List…"
+  },
+  "manageThisContainer": {
+    "message": "Manage This Container"
+  },
+  "containers": {
+    "message": "Containers"
+  },
+  "done": {
+    "message": "Done"
+  },
+  "getStarted": {
+    "message": "Get Started"
+  },
+  "signIn": {
+    "message": "Sign In"
+  },
+  "notNow": {
+    "message": "Not Now"
+  },
+  "startSyncing": {
+    "message": "Start Synchronising"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Next"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Open this site in your assigned Container?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Would you still like to open in this current Container?"
+  },
+  "rememberMyDecision": {
+    "message": "Remember my decision for this site"
+  },
+  "optionalPermissions": {
+    "message": "Optional Permissions:"
+  },
+  "keyboardShortCuts": {
+    "message": "Keyboard Shortcuts:"
+  },
+  "onboarding": {
+    "message": "Onboarding"
+  },
+  "resetOnboardingPanels": {
+    "message": "Reset Onboarding Panels"
+  },
+  "onboardingToggle": {
+    "message": "Toggle this to see the onboarding panels again."
+  },
+  "tabBehavior": {
+    "message": "Tab behaviour:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Enable Bookmark Menus"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox accounts synchronisation:"
+  },
+  "enableSync": {
+    "message": "Enable synchronisation"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "This setting allows you to open a bookmark or folder of bookmarks in a Container."
+  },
+  "enableSyncDescription": {
+    "message": "This setting allows you to synchronise your Containers and site assignments across devices."
+  },
+  "replaceTab": {
+    "message": "Replace tab instead of creating a new one"
+  },
+  "replaceTabDescription": {
+    "message": "Replace the current tab if a page which is assigned to another Container is opened (instead of keeping the current tab open). Opening tabs with middle mouse button is not affected."
+  },
+  "editWhichContainer": {
+    "message": "Edit which Container is opened when using the numbered shortcuts."
+  },
+  "keyboardShortCut": {
+    "message": "Container to open with Keyboard Shortcut $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers Confirm Navigation",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Open in $containerName$ Container",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "You asked Firefox to always open $containerName$ for this site:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Choose location",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Hide"
+  },
+  "show": {
+    "message": "Show"
+  },
+  "protectYourContainers": {
+    "message": "Protect your Containers with Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protect this Container with Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Advanced proxy settings"
+  },
+  "proxyInputLabel": {
+    "message": "Enter custom proxy"
+  },
+  "useCustomLocation": {
+    "message": "Use a custom location for this Container"
+  },
+  "clearproxylabel": {
+    "message": "Clear proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN is on"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN is off"
+  },
+  "invalidProxyAlert": {
+    "message": "Please enter a valid proxy URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN must be on to use this feature."
+  },
+  "learnMore": {
+    "message": "Learn more"
+  },
+  "proxyNowAvailable": {
+    "message": "Now with Mozilla VPN and advanced proxy settings"
+  },
+  "applyToContainer": {
+    "message": "Apply to Container"
+  },
+  "tooltipWarning": {
+    "message": "This Container is set up to use a Mozilla VPN proxy, but Mozilla VPN is not on. Turn Mozilla VPN on to use this Container."
   }
 }
