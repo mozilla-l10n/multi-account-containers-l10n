@@ -203,7 +203,7 @@
     "message": "Ripristina introduzione"
   },
   "onboardingToggle": {
-    "message": "Attiva o disattiva questa opzione per visualizzare nuovamente l’introduzione."
+    "message": "Utilizza questa opzione per visualizzare nuovamente l’introduzione."
   },
   "tabBehavior": {
     "message": "Comportamento della scheda:"
@@ -227,7 +227,7 @@
     "message": "Sostituisci scheda invece di crearne una nuova"
   },
   "replaceTabDescription": {
-    "message": "Sostituisci la scheda corrente se viene aperta una pagina assegnata a un altro contenitore (invece di tenere aperta la scheda corrente). L’apertura delle schede con il pulsante centrale del mouse non viene modificata da questa opzione."
+    "message": "Quando viene aperta una pagina assegnata a un altro contenitore, sostituisci la scheda corrente invece di mantenerla aperta. L’apertura delle schede con il pulsante centrale del mouse non è interessata da questa opzione."
   },
   "editWhichContainer": {
     "message": "Modifica quale contenitore viene aperto quando si utilizzano le scorciatoie numerate."
