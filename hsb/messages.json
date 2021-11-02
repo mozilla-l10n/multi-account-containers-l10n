@@ -135,5 +135,11 @@
   },
   "invalidProxyAlert": {
     "message": "Prošu zapodajće płaćiwy proksy-URL"
+  },
+  "learnMore": {
+    "message": "Dalše informacije"
+  },
+  "applyToContainer": {
+    "message": "Na kontejner nałožić"
   }
 }
