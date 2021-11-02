@@ -101,6 +101,21 @@
   "manageContainers": {
     "message": "Gestionar contenedores"
   },
+  "newContainer": {
+    "message": "Nuevo contenedor"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar este contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Remover este contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "¿Estás seguro de que desea remover este contenedor?"
+  },
   "cancel": {
     "message": "Cancelar"
   },
@@ -210,5 +225,8 @@
   },
   "learnMore": {
     "message": "Aprender más"
+  },
+  "applyToContainer": {
+    "message": "Aplicar al contenedor"
   }
 }
