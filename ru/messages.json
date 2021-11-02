@@ -3,6 +3,14 @@
     "message": "Открыть новую вкладку в…",
     "description": "Menu title"
   },
+  "reopenThisSiteIn": {
+    "message": "Открыть этот сайт ещё раз в…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Отсортировать вкладки по контейнерам",
+    "description": "Menu title"
+  },
   "alwaysOpenThisSiteIn": {
     "message": "Всегда открывать этот сайт в…",
     "description": "Menu title"
@@ -27,14 +35,41 @@
   "moveTabsToANewWindow": {
     "message": "Переместить вкладки в новое окно"
   },
+  "onboarding-1-header": {
+    "message": "Лучший способ управлять всем, что вы делаете в Интернете"
+  },
+  "onboarding-1-description": {
+    "message": "Используйте контейнеры для организации задач и управления аккаунтами, и концентрируйтесь на чём хотите."
+  },
+  "onboarding-2-header": {
+    "message": "Пусть контейнеры работают на вас."
+  },
+  "onboarding-2-description": {
+    "message": "Такие функции, как цветовая маркировка и отдельные контейнеры для вкладок, помогают легко находить нужные объекты и сосредотачиваться на них, сводя к минимуму отвлекающие факторы."
+  },
+  "onboarding-3-header": {
+    "message": "Для всего есть место, и всё — на своих местах."
+  },
   "onboarding-3-description": {
     "message": "Начните с предложенных контейнеров или создайте собственные."
   },
   "onboarding-4-header": {
     "message": "Всегда открывайте сайты в нужных вам контейнерах."
   },
+  "onboarding-5-description": {
+    "message": "Нажмите и удерживайте кнопку «Новая вкладка», чтобы открыть новую вкладку в контейнере."
+  },
   "onboarding-6-header": {
     "message": "Доступна синхронизация контейнеров!"
+  },
+  "onboarding-6-description": {
+    "message": "Включите синхронизацию, чтобы делиться контейнерами и распределением сайтов с любыми компьютерами, подключенными к вашему аккаунту Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Для синхронизации требуется аккаунт Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Нажмите «Войти», чтобы подтвердить, что ваш аккаунт Firefox активен."
   },
   "oneHundredTabsHeader": {
     "message": "100 вкладок!"
@@ -75,6 +110,9 @@
   "ok": {
     "message": "OK"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайты, назначенные этому контейнеру"
+  },
   "options": {
     "message": "Настройки"
   },
@@ -102,6 +140,9 @@
   "done": {
     "message": "Готово"
   },
+  "getStarted": {
+    "message": "Приступим"
+  },
   "signIn": {
     "message": "Войти"
   },
@@ -115,6 +156,12 @@
     "message": "Информация",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
+  "next": {
+    "message": "Далее"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Открыть этот сайт в назначенном вами контейнере?"
+  },
   "rememberMyDecision": {
     "message": "Запомнить моё решение для этого сайта"
   },
@@ -127,6 +174,9 @@
   "tabBehavior": {
     "message": "Поведение вкладок:"
   },
+  "enableBookMarkMenus": {
+    "message": "Включить меню закладок"
+  },
   "firefoxAccountsSync": {
     "message": "Синхронизация аккаунтов:"
   },
@@ -134,10 +184,16 @@
     "message": "Включить синхронизацию"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Эта настройка позволяет вам открывать закладки или папки с ними в контейнерах."
+    "message": "Эта настройка позволит вам открывать закладки и папки с ними в контейнерах."
+  },
+  "enableSyncDescription": {
+    "message": "Эта настройка позволит вам синхронизировать ваши контейнеры и распределение сайтов между устройствами."
   },
   "replaceTab": {
     "message": "Заменять вкладку вместо открытия новой"
+  },
+  "editWhichContainer": {
+    "message": "Укажите, какие контейнеры будут открыты при использовании сочетаний клавиш с цифрами."
   },
   "keyboardShortCut": {
     "message": "Контейнер для открытия с помощью сочетания клавиш $keyId$",
