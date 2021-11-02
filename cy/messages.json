@@ -152,5 +152,36 @@
   },
   "manageSiteList": {
     "message": "Rheoli Rhestr Gwefannau..."
+  },
+  "manageThisContainer": {
+    "message": "Rheoli'r Cynhwysydd hwn"
+  },
+  "containers": {
+    "message": "Cynwysyddion"
+  },
+  "done": {
+    "message": "Gorffen"
+  },
+  "getStarted": {
+    "message": "Cychwyn Arni"
+  },
+  "signIn": {
+    "message": "Mewngofnodi"
+  },
+  "notNow": {
+    "message": "Nid Nawr"
+  },
+  "startSyncing": {
+    "message": "Cychwyn Cydweddu"
+  },
+  "info": {
+    "message": "gwyb",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Nesaf"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Agorwch y wefan hon yn eich Cynhwysydd neilltuedig?"
   }
 }
