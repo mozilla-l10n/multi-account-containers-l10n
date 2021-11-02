@@ -78,14 +78,29 @@
   "next": {
     "message": "Επόμενο"
   },
+  "rememberMyDecision": {
+    "message": "Αποθήκευση επιλογής για τον ιστότοπο"
+  },
   "optionalPermissions": {
     "message": "Προαιρετικά δικαιώματα:"
   },
   "keyboardShortCuts": {
     "message": "Συντομεύσεις πληκτρολογίου:"
   },
+  "onboarding": {
+    "message": "Καλωσόρισμα"
+  },
+  "resetOnboardingPanels": {
+    "message": "Επαναφορά οθονών καλωσορίσματος"
+  },
   "tabBehavior": {
     "message": "Συμπεριφορά καρτέλας:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ενεργοποίηση μενού σελιδοδεικτών"
+  },
+  "firefoxAccountsSync": {
+    "message": "Συγχρονισμός λογαριασμών Firefox:"
   },
   "enableSync": {
     "message": "Ενεργοποίηση συγχρονισμού"
