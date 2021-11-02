@@ -23,5 +23,117 @@
   },
   "hideThisContainer": {
     "message": "Tutón kontejner schować"
+  },
+  "showThisContainer": {
+    "message": "Tutón kontejner pokazać"
+  },
+  "removeThisContainer": {
+    "message": "Tutón kontejner wotstronić"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Chceće woprawdźe tutón kontejner wotstronić?"
+  },
+  "cancel": {
+    "message": "Přetorhnyć"
+  },
+  "ok": {
+    "message": "W porjadku"
+  },
+  "options": {
+    "message": "Nastajenja"
+  },
+  "name": {
+    "message": "Mjeno"
+  },
+  "color": {
+    "message": "Barba"
+  },
+  "icon": {
+    "message": "Symbol"
+  },
+  "deleteThisContainer": {
+    "message": "Tutón kontejner zhašeć"
+  },
+  "manageThisContainer": {
+    "message": "Tutón kontejner rjadować"
+  },
+  "containers": {
+    "message": "Kontejnery"
+  },
+  "done": {
+    "message": "Dokónčeny"
+  },
+  "getStarted": {
+    "message": "Prěnje kroki"
+  },
+  "signIn": {
+    "message": "Přizjewić"
+  },
+  "notNow": {
+    "message": "Nic nětko"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Dale"
+  },
+  "rememberMyDecision": {
+    "message": "Mój rozsud za tute sydło sej spomjatkować"
+  },
+  "optionalPermissions": {
+    "message": "Opcionalne prawa:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastowe skrótšenki:"
+  },
+  "tabBehavior": {
+    "message": "Rajtarkowe zadźerženje:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Menije zapołožkow zmóžnić"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronizacija z kontami Firefox:"
+  },
+  "enableSync": {
+    "message": "Synchronizowanje zmóžnić"
+  },
+  "openInContainer": {
+    "message": "Wotkaz w kontejnerje $containerName$ wočinić",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Stejnišćo wubrać",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Schować"
+  },
+  "show": {
+    "message": "Pokazać"
+  },
+  "advancedProxySettings": {
+    "message": "Rozšěrjene proksy-nastajenja"
+  },
+  "proxyInputLabel": {
+    "message": "Swójski proksy zapodać"
+  },
+  "clearproxylabel": {
+    "message": "Proksy zhašeć"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN je zmóžnjeny"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN je znjemóžnjeny"
+  },
+  "invalidProxyAlert": {
+    "message": "Prošu zapodajće płaćiwy proksy-URL"
   }
 }
