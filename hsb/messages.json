@@ -1,0 +1,27 @@
+{
+  "openTabs": {
+    "message": "Wočinjene rajtarki",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 rajtarkow!"
+  },
+  "rate": {
+    "message": "Pohódnoćić"
+  },
+  "share": {
+    "message": "Dźělić"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Kontejnery rjadować"
+  },
+  "newContainer": {
+    "message": "Nowy kontejner"
+  },
+  "hideThisContainer": {
+    "message": "Tutón kontejner schować"
+  }
+}
