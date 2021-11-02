@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers 可透過將網路生活中所需的各種網站封裝於不同容器中，來幫助您管理分頁。自訂標籤及色彩，幫助您分別管理各種活動 — 例如線上購物、行程規劃、收發工作郵件等等。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "使用其他容器開啟新分頁…",
     "description": "Menu title"
@@ -43,6 +47,12 @@
   },
   "onboarding-2-header": {
     "message": "讓容器為您所用。"
+  },
+  "onboarding-2-description": {
+    "message": "透過分頁色彩標籤、分離容器分頁等功能，幫助您簡單找到各種內容、聚焦專注、避免干擾。"
+  },
+  "onboarding-3-header": {
+    "message": "一個可容納所有項目的地方，所有東西都能整齊安排好。"
   },
   "onboarding-3-description": {
     "message": "從我們預設的容器開始，您也可以自己建立。"
