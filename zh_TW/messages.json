@@ -35,6 +35,15 @@
   "moveTabsToANewWindow": {
     "message": "將分頁移動到新視窗"
   },
+  "onboarding-1-header": {
+    "message": "管理您線上生活的更佳方式"
+  },
+  "onboarding-1-description": {
+    "message": "使用容器來安排任務、管理帳號，聚焦於您想要的地方。"
+  },
+  "onboarding-2-header": {
+    "message": "讓容器為您所用。"
+  },
   "onboarding-3-description": {
     "message": "從我們預設的容器開始，您也可以自己建立。"
   },
