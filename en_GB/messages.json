@@ -1,0 +1,51 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers helps you keep all the parts of your online life contained in different tabs. Custom labels and colour-coded tabs help keep different activities — like online shopping, travel planning, or checking work email — separate.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Open New Tab in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Reopen This Site in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sort Tabs by Container",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Always Open This Site in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Always open in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Always Open Site in Container"
+  },
+  "openANewTabIn": {
+    "message": "Open a New Tab in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Open New Tab in this Container"
+  },
+  "openTabs": {
+    "message": "Open Tabs",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Move Tabs to a New Window"
+  },
+  "onboarding-1-header": {
+    "message": "A better way to manage all the things you do online"
+  },
+  "onboarding-1-description": {
+    "message": "Use Containers to organise tasks, manage accounts, and keep your focus where you want it."
+  },
+  "onboarding-2-header": {
+    "message": "Put Containers to work for you."
+  }
+}
