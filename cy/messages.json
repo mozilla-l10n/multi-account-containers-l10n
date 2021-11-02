@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Mae Cynhwysyddion Aml-Gyfrif yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
+    "message": "Mae Cynhwysyddion Aml-Gyfrifon yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -73,7 +73,7 @@
     "message": "Mae cydweddu Cynwysyddion nawr ar gael!"
   },
   "onboarding-6-description": {
-    "message": "Trowch cydweddu ymlaen i rannu Cynhwysydd ac gwefannau neulltuol gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
+    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd a gwefannau neilltuol gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
   },
   "onboarding-7-header": {
     "message": "Mae'n angen cyfrif Firefox i gydweddu."
@@ -88,7 +88,7 @@
     "message": "100 tab!"
   },
   "youHaveOpened": {
-    "message": "Rydych wedi agor 100 o dabiau Cynhwysydd."
+    "message": "Rydych wedi agor 100 o dabiau Cynhwysyddion."
   },
   "spreadTheWord": {
     "message": "Os ydych chi'n mwynhau Cynhwysyddion, cofiwch ddweud wrth bawb!"
@@ -151,7 +151,7 @@
     "message": "Dileu'r Cynhwysydd Hwn"
   },
   "manageSiteList": {
-    "message": "Rheoli Rhestr Gwefannau..."
+    "message": "Rheoli'r Rhestr Gwefannau..."
   },
   "manageThisContainer": {
     "message": "Rheoli'r Cynhwysydd hwn"
@@ -182,7 +182,7 @@
     "message": "Nesaf"
   },
   "openThisSiteConfirmation": {
-    "message": "Agorwch y wefan hon yn eich Cynhwysydd neilltuedig?"
+    "message": "Agor y wefan hon yn eich Cynhwysydd neilltuedig?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Hoffech chi ei agor yn y Cynhwysydd cyfredol hwn?"
@@ -191,13 +191,13 @@
     "message": "Cofio fy mhenderfyniad ar gyfer y wefan hon"
   },
   "optionalPermissions": {
-    "message": "Caniatadau Dewisol:"
+    "message": "Caniatâd Dewisol:"
   },
   "keyboardShortCuts": {
     "message": "Llwybrau Byr Bysellfwrdd:"
   },
   "onboarding": {
-    "message": "Cyflwyno"
+    "message": "Cyflwyniad"
   },
   "resetOnboardingPanels": {
     "message": "Ailosod y Paneli Cyflwyno"
@@ -221,7 +221,7 @@
     "message": "Mae'r gosodiad hwn yn caniatáu i chi agor nod tudalen neu ffolder o nodau tudalen mewn Cynhwysydd."
   },
   "enableSyncDescription": {
-    "message": "Mae'r gosodiad hwn yn caniatáu ichi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
+    "message": "Mae'r gosodiad hwn yn caniatáu i chi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
   },
   "replaceTab": {
     "message": "Amnewid tab yn lle creu un newydd"
@@ -241,7 +241,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Tudalen Cadarnhau Llywio Multi-Account Containers",
+    "message": "Tudalen Cadarnhau Llywio Cynwysyddion Aml-Gyfrifon",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -272,5 +272,44 @@
   },
   "protectYourContainers": {
     "message": "Diogelwch eich Cynhwysyddion gyda Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Diogelu'r Cynhwysydd hwn gyda Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Gosodiadau dirprwy uwch"
+  },
+  "proxyInputLabel": {
+    "message": "Rhowch ddirprwy cyfaddas"
+  },
+  "useCustomLocation": {
+    "message": "Defnyddiwch leoliad cyfaddas i'r Cynhwysydd hwn"
+  },
+  "clearproxylabel": {
+    "message": "Tynnu'r dirprwy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mae Mozilla VPN ymlaen"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mae Mozilla VPN i ffwrdd"
+  },
+  "invalidProxyAlert": {
+    "message": "Rhowch URL dirprwy dilys"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Rhaid i Mozilla VPN fod ymlaen i ddefnyddio'r nodwedd hon."
+  },
+  "learnMore": {
+    "message": "Dysgu rhagor"
+  },
+  "proxyNowAvailable": {
+    "message": "Nawr gyda Mozilla VPN a gosodiadau dirprwy uwch"
+  },
+  "applyToContainer": {
+    "message": "Gosod i'r Cynhwysydd"
+  },
+  "tooltipWarning": {
+    "message": "Mae'r Cynhwysydd hwn wedi'i osod i ddefnyddio dirprwy Mozilla VPN, ond nid yw Mozilla VPN ymlaen. Trowch Mozilla VPN ymlaen i ddefnyddio'r Cynhwysydd hwn."
   }
 }
