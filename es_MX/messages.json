@@ -1,0 +1,32 @@
+{
+  "oneHundredTabsHeader": {
+    "message": "100 pestañas!"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "name": {
+    "message": "Nombre"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "signIn": {
+    "message": "Iniciar sesión"
+  },
+  "notNow": {
+    "message": "Ahora no"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "learnMore": {
+    "message": "Saber más"
+  }
+}
