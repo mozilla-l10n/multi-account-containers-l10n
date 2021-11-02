@@ -3,6 +3,10 @@
     "message": "Άνοιγμα νέας καρτέλας σε…",
     "description": "Menu title"
   },
+  "reopenThisSiteIn": {
+    "message": "Νέο άνοιγμα ιστοτόπου σε…",
+    "description": "Menu title"
+  },
   "alwaysOpenIn": {
     "message": "Πάντα άνοιγμα σε…",
     "description": "Menu title"
@@ -17,8 +21,17 @@
   "moveTabsToANewWindow": {
     "message": "Μετακίνηση καρτελών σε νέο παράθυρο"
   },
+  "onboarding-1-header": {
+    "message": "Ένας καλύτερος τρόπος για να διαχειριστείτε όλα αυτά που κάνετε στο διαδίκτυο"
+  },
+  "onboarding-3-header": {
+    "message": "Ένα μέρος για όλα και όλα στη θέση τους."
+  },
   "onboarding-7-header": {
     "message": "Απαιτείται λογαριασμός Firefox για συγχρονισμό."
+  },
+  "onboarding-7-description": {
+    "message": "Κάντε κλικ στο «Σύνδεση» για να επιβεβαιώσετε ότι ο λογαριασμός Firefox σας είναι ενεργός."
   },
   "oneHundredTabsHeader": {
     "message": "100 καρτέλες!"
@@ -114,6 +127,9 @@
   },
   "show": {
     "message": "Εμφάνιση"
+  },
+  "advancedProxySettings": {
+    "message": "Σύνθετες ρυθμίσεις διακομιστή μεσολάβησης"
   },
   "moz-vpn-connected": {
     "message": "Το Mozilla VPN είναι ενεργό"
