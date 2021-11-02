@@ -183,5 +183,61 @@
   },
   "openThisSiteConfirmation": {
     "message": "Agorwch y wefan hon yn eich Cynhwysydd neilltuedig?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Hoffech chi ei agor yn y Cynhwysydd cyfredol hwn?"
+  },
+  "rememberMyDecision": {
+    "message": "Cofio fy mhenderfyniad ar gyfer y wefan hon"
+  },
+  "optionalPermissions": {
+    "message": "Caniatadau Dewisol:"
+  },
+  "keyboardShortCuts": {
+    "message": "Llwybrau Byr Bysellfwrdd:"
+  },
+  "onboarding": {
+    "message": "Cyflwyno"
+  },
+  "resetOnboardingPanels": {
+    "message": "Ailosod y Paneli Cyflwyno"
+  },
+  "onboardingToggle": {
+    "message": "Toglo hwn i weld y paneli cyflwyno eto."
+  },
+  "tabBehavior": {
+    "message": "Ymddygiad tabiau:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Galluogi Dewislenni Nodau Tudalen"
+  },
+  "firefoxAccountsSync": {
+    "message": "Cydweddu cyfrifon Firefox:"
+  },
+  "enableSync": {
+    "message": "Galluogi cydweddu"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu i chi agor nod tudalen neu ffolder o nodau tudalen mewn Cynhwysydd."
+  },
+  "enableSyncDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu ichi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
+  },
+  "replaceTab": {
+    "message": "Amnewid tab yn lle creu un newydd"
+  },
+  "replaceTabDescription": {
+    "message": "Amnewid y tab cyfredol os fydd tudalen sydd wedi'i neilltuo i Gynhwysydd arall yn cael ei hagor (yn lle cadw'r tab cyfredol ar agor). Nid yw agor tabiau gyda botwm canol y llygoden yn cael ei effeithio."
+  },
+  "editWhichContainer": {
+    "message": "Golygu pa Gynhwysydd sy'n cael ei agor wrth ddefnyddio'r llwybrau byr wedi'u rhifo."
+  },
+  "keyboardShortCut": {
+    "message": "Y cynhwysydd i agor gyda Llwybr Byr Bysellfwrdd $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
