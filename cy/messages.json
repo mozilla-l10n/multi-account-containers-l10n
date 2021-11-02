@@ -4,7 +4,7 @@
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Agorwch Tab Newydd yn…",
+    "message": "Agor y Tab Newydd yn…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
@@ -16,7 +16,7 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Agorwch y Wefan hon bob tro yn…",
+    "message": "Agor y Wefan hon bob tro yn…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
@@ -43,12 +43,114 @@
     "message": "Ffordd well o reoli'r holl bethau rydych chi'n eu gwneud ar-lein"
   },
   "onboarding-1-description": {
-    "message": "Defnyddiwch Gynhwysyddion i drefnu tasgau, rheoli cyfrifon, a chadw'ch ffocws ar lle rydych chi ei eisiau."
+    "message": "Defnyddiwch Gynhwysyddion i drefnu tasgau, rheoli cyfrifon, a chadw'ch llygaid ar eich tasg."
   },
   "onboarding-2-header": {
     "message": "Rhowch Gynhwysyddion ar waith i chi."
   },
   "onboarding-2-description": {
     "message": "Mae nodweddion fel lliwiau a thabiau Cynhwysyddion gwahanol yn eich helpu i ddod o hyd i bethau'n hawdd, canolbwyntio'ch sylw, a lleihau pethau eraill sy'n tynnu'ch sylw."
+  },
+  "onboarding-3-header": {
+    "message": "Lle i bopeth, a phopeth yn ei le."
+  },
+  "onboarding-3-description": {
+    "message": "Cychwynnwch gyda'r Cynhwysyddion rydyn ni wedi'u creu, neu crëwch eich rai eich hun."
+  },
+  "onboarding-4-header": {
+    "message": "Agorwch wefannau bob tro yn y Cynhwysyddion rydych chi eu heisiau."
+  },
+  "onboarding-4-description": {
+    "message": "De-gliciwch y tu mewn i dab Cynhwysydd i neilltuo fod y wefan i agor yn y Cynhwysydd bob amser."
+  },
+  "onboarding-5-header": {
+    "message": "Tabiau cynhwysydd pan fyddwch chi eu hangen."
+  },
+  "onboarding-5-description": {
+    "message": "Pwyswch y botwm Tab Newydd yn hir i greu tab Cynhwysydd newydd."
+  },
+  "onboarding-6-header": {
+    "message": "Mae cydweddu Cynwysyddion nawr ar gael!"
+  },
+  "onboarding-6-description": {
+    "message": "Trowch cydweddu ymlaen i rannu Cynhwysydd ac gwefannau neulltuol gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Mae'n angen cyfrif Firefox i gydweddu."
+  },
+  "onboarding-7-description": {
+    "message": "Cliciwch Mewngofnodi i gadarnhau bod eich cyfrif Firefox yn weithredol."
+  },
+  "onboarding-8-description": {
+    "message": "Mae Cynhwysyddion nawr yn gallu integreiddio â Mozilla VPN neu'ch dirprwy eich hun i greu cysylltiad preifat, diogel sy'n diogelu eich gweithgaredd."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tab!"
+  },
+  "youHaveOpened": {
+    "message": "Rydych wedi agor 100 o dabiau Cynhwysydd."
+  },
+  "spreadTheWord": {
+    "message": "Os ydych chi'n mwynhau Cynhwysyddion, cofiwch ddweud wrth bawb!"
+  },
+  "rate": {
+    "message": "Graddio"
+  },
+  "share": {
+    "message": "Rhannu"
+  },
+  "tweet": {
+    "message": "Trydar"
+  },
+  "default": {
+    "message": "Rhagosodedig"
+  },
+  "manageContainers": {
+    "message": "Rheoli Cynhwysyddion"
+  },
+  "newContainer": {
+    "message": "Cynhwysydd Newydd"
+  },
+  "hideThisContainer": {
+    "message": "Cuddio'r Cynhwysydd hwn"
+  },
+  "showThisContainer": {
+    "message": "Dangos y Cynhwysydd hwn"
+  },
+  "removeThisContainer": {
+    "message": "Tynnu'r Cynhwysydd Hwn"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Ydych chi'n siŵr eich bod eisiau tynnu'r Cynhwysydd hwn?"
+  },
+  "cancel": {
+    "message": "Diddymu"
+  },
+  "ok": {
+    "message": "Iawn"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Gwefannau a neilltuwyd i'r Cynhwysydd hwn"
+  },
+  "options": {
+    "message": "Dewisiadau"
+  },
+  "name": {
+    "message": "Enw"
+  },
+  "color": {
+    "message": "Lliw"
+  },
+  "icon": {
+    "message": "Eicon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Terfyn i Wefannau Dynodedig"
+  },
+  "deleteThisContainer": {
+    "message": "Dileu'r Cynhwysydd Hwn"
+  },
+  "manageSiteList": {
+    "message": "Rheoli Rhestr Gwefannau..."
   }
 }
