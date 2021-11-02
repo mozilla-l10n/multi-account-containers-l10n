@@ -47,5 +47,8 @@
   },
   "onboarding-2-header": {
     "message": "Rhowch Gynhwysyddion ar waith i chi."
+  },
+  "onboarding-2-description": {
+    "message": "Mae nodweddion fel lliwiau a thabiau Cynhwysyddion gwahanol yn eich helpu i ddod o hyd i bethau'n hawdd, canolbwyntio'ch sylw, a lleihau pethau eraill sy'n tynnu'ch sylw."
   }
 }
