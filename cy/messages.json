@@ -1,0 +1,51 @@
+{
+  "extensionDescription": {
+    "message": "Mae Cynhwysyddion Aml-Gyfrif yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Agorwch Tab Newydd yn…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ailagor y Wefan hon yn…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Trefnu Tabiau yn ôl Cynhwysydd",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Agorwch y Wefan hon bob tro yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ar agor bob tro yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Agor y Wefan mewn Cynhwysydd bob tro"
+  },
+  "openANewTabIn": {
+    "message": "Agor Tab Newydd yn…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Agor Tab Newydd yn y Cynhwysydd hwn"
+  },
+  "openTabs": {
+    "message": "Agor Tabiau",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Symud Tabiau i Ffenestr Newydd"
+  },
+  "onboarding-1-header": {
+    "message": "Ffordd well o reoli'r holl bethau rydych chi'n eu gwneud ar-lein"
+  },
+  "onboarding-1-description": {
+    "message": "Defnyddiwch Gynhwysyddion i drefnu tasgau, rheoli cyfrifon, a chadw'ch ffocws ar lle rydych chi ei eisiau."
+  },
+  "onboarding-2-header": {
+    "message": "Rhowch Gynhwysyddion ar waith i chi."
+  }
+}
