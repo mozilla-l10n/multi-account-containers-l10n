@@ -118,10 +118,10 @@
     "message": "Показати цей контейнер"
   },
   "removeThisContainer": {
-    "message": "Вилучити цей контейнер"
+    "message": "Видалити цей контейнер"
   },
   "removeThisContainerConfirmation": {
-    "message": "Ви дійсно хочете вилучити цей контейнер?"
+    "message": "Ви дійсно хочете видалити цей контейнер?"
   },
   "cancel": {
     "message": "Скасувати"
@@ -175,7 +175,7 @@
     "message": "Почати синхронізацію"
   },
   "info": {
-    "message": "Інфо",
+    "message": "Інформація",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
@@ -203,7 +203,7 @@
     "message": "Скинути панелі початку роботи"
   },
   "onboardingToggle": {
-    "message": "Перемкніть, щоб знову бачити панелі початку роботи."
+    "message": "Натисніть сюди, щоб знову побачити панелі початку роботи."
   },
   "tabBehavior": {
     "message": "Поведінка вкладки:"
@@ -274,13 +274,13 @@
     "message": "Захистіть свої контейнери за допомогою Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Захистити цей контейнер за допомогою Mozilla VPN"
+    "message": "Захистіть цей контейнер за допомогою Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Розширені налаштування проксі"
   },
   "proxyInputLabel": {
-    "message": "Введіть власний проксі"
+    "message": "Уведіть власний проксі"
   },
   "useCustomLocation": {
     "message": "Використовувати власне розташування для цього контейнера"
