@@ -1,0 +1,164 @@
+{
+  "extensionDescription": {
+    "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਦੇ ਸਾਰੇ ਹਿੱਸਿਆਂ ਨੂੰ ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਿੱਚ ਵੰਡਣ ਲਈ ਮਦਦਗਾਰ ਹਨ। ਵੱਖੋ-ਵੱਖਰੀ ਸਰਗਰਮੀਆਂ ਲਈ ਪਸੰਦੀਦਾ ਲੇਬਲ ਤੇ ਰੰਗ-ਬਰੰਗੀਆਂ ਟੈਬਾਂ ਰੱਖੋ — ਜਿਵੇਂ ਆਨਲਾਈਨ ਖਰੀਦਦਾਰੀ, ਯਾਤਰਾ ਦੀਆਂ ਸਕੀਮਾਂ ਜਾਂ ਕੰਮ ਵਾਲੀਆਂ ਈਮੇਲਾਂ — ਸਭ ਵੱਖੋ-ਵੱਖ।",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "ਇਸ ਟੈਬ ਨੂੰ ਇਸ ਵਿੱਚ ਮੁੜ-ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "ਟੈਬਾਂ ਨੂੰ ਕਨਟੇਨਰ ਮੁਤਾਬਕ ਲੜੀਬੱਧ",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "openANewTabIn": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "openTabs": {
+    "message": "ਟੈਬਾਂ ਖੋਲ੍ਹੋ",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "ਟੈਬਾਂ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ"
+  },
+  "onboarding-1-header": {
+    "message": "ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੇ ਇੰਤਜ਼ਾਮ ਦਾ ਵਧੀਆ ਢੰਗ"
+  },
+  "onboarding-7-header": {
+    "message": "ਸਿੰਕ ਕਰਨ ਲਈ Firefox ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 ਟੈਬਾਂ!"
+  },
+  "youHaveOpened": {
+    "message": "ਤੁਸੀਂ 100 ਕਨਟੇਨਰ ਟੈਬਾਂ ਖੋਲ੍ਹ ਚੁੱਕੇ ਹੋ।"
+  },
+  "spreadTheWord": {
+    "message": "ਜੇ ਤੁਹਾਨੂੰ ਕਨਟੇਨਰ ਪਸੰਦ ਆਏ ਹਨ ਤਾਂ ਪ੍ਰਚਾਰ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ!"
+  },
+  "rate": {
+    "message": "ਰੇਟ"
+  },
+  "share": {
+    "message": "ਸਾਂਝਾ ਕਰੋ"
+  },
+  "tweet": {
+    "message": "ਟਵੀਟ"
+  },
+  "default": {
+    "message": "ਮੂਲ"
+  },
+  "manageContainers": {
+    "message": "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ"
+  },
+  "newContainer": {
+    "message": "ਨਵਾਂ ਕਨਟੇਨਰ"
+  },
+  "hideThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਲੁਕਾਓ"
+  },
+  "showThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਵੇਖਾਓ"
+  },
+  "removeThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਹਟਾਓ"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "ਕੀ ਤੁਸੀਂ ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+  },
+  "cancel": {
+    "message": "ਰੱਦ ਕਰੋ"
+  },
+  "ok": {
+    "message": "ਠੀਕ ਹੈ"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ"
+  },
+  "options": {
+    "message": "ਚੋਣਾਂ"
+  },
+  "name": {
+    "message": "ਨਾਂ"
+  },
+  "color": {
+    "message": "ਰੰਗ"
+  },
+  "icon": {
+    "message": "ਆਈਕਾਨ"
+  },
+  "manageThisContainer": {
+    "message": "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ"
+  },
+  "containers": {
+    "message": "ਕਨਟੇਨਰ"
+  },
+  "done": {
+    "message": "ਮੁਕੰਮਲ"
+  },
+  "getStarted": {
+    "message": "ਸ਼ੁਰੂ ਕਰੀਏ"
+  },
+  "signIn": {
+    "message": "ਸਾਈਨ ਇਨ"
+  },
+  "notNow": {
+    "message": "ਹੁਣੇ ਨਹੀਂ"
+  },
+  "startSyncing": {
+    "message": "ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ"
+  },
+  "info": {
+    "message": "ਜਾਣਕਾਰੀ",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ਅੱਗੇ"
+  },
+  "openThisSiteConfirmation": {
+    "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਨਿਯਤ ਕੀਤੇ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਹੈ?"
+  },
+  "rememberMyDecision": {
+    "message": "ਇਸ ਸਾਈਟ ਲਈ ਮੇਰਾ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ"
+  },
+  "optionalPermissions": {
+    "message": "ਚੋਣਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:"
+  },
+  "keyboardShortCuts": {
+    "message": "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ:"
+  },
+  "chooseLocation": {
+    "message": "ਟਿਕਾਣਾ ਚੁਣੋ",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "ਲੁਕਾਓ"
+  },
+  "show": {
+    "message": "ਵੇਖਾਓ"
+  },
+  "learnMore": {
+    "message": "ਹੋਰ ਜਾਣੋ"
+  },
+  "applyToContainer": {
+    "message": "ਕਨਟੇਨਰ ਤੇ ਲਾਗੂ ਕਰੋ"
+  }
+}
