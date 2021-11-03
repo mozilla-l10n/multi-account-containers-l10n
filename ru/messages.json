@@ -108,7 +108,7 @@
     "message": "Отмена"
   },
   "ok": {
-    "message": "OK"
+    "message": "Да"
   },
   "sitesAssignedToThisContainer": {
     "message": "Сайты, назначенные этому контейнеру"
@@ -171,6 +171,15 @@
   "keyboardShortCuts": {
     "message": "Сочетания клавиш:"
   },
+  "onboarding": {
+    "message": "Начало работы"
+  },
+  "resetOnboardingPanels": {
+    "message": "Сбросить ознакомительные панели"
+  },
+  "onboardingToggle": {
+    "message": "Нажмите сюда, чтобы снова увидеть ознакомительные панели."
+  },
   "tabBehavior": {
     "message": "Поведение вкладок:"
   },
@@ -217,14 +226,38 @@
   "show": {
     "message": "Показать"
   },
+  "protectYourContainers": {
+    "message": "Защитите свои контейнеры с помощью Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Защитите этот контейнер с помощью Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Расширенные настройки прокси"
+  },
+  "proxyInputLabel": {
+    "message": "Введите собственный прокси"
+  },
+  "clearproxylabel": {
+    "message": "Удалить прокси"
+  },
   "moz-vpn-connected": {
     "message": "Mozilla VPN включён"
   },
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN отключён"
   },
+  "invalidProxyAlert": {
+    "message": "Введите корректный URL прокси"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Для использования этой функции должен быть включён Mozilla VPN."
+  },
   "learnMore": {
     "message": "Подробнее"
+  },
+  "proxyNowAvailable": {
+    "message": "Теперь с Mozilla VPN и расширенными настройками прокси"
   },
   "applyToContainer": {
     "message": "Применить к контейнеру"
