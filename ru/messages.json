@@ -171,6 +171,9 @@
   "openThisSiteConfirmation": {
     "message": "Открыть этот сайт в назначенном вами контейнере?"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Вы по-прежнему хотите открыть в текущем контейнере?"
+  },
   "rememberMyDecision": {
     "message": "Запомнить моё решение для этого сайта"
   },
@@ -274,5 +277,8 @@
   },
   "applyToContainer": {
     "message": "Применить к контейнеру"
+  },
+  "tooltipWarning": {
+    "message": "Для этого контейнера установлен прокси Mozilla VPN, но Mozilla VPN отключён. Включите Mozilla VPN для использования контейнера."
   }
 }
