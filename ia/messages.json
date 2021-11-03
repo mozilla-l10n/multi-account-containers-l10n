@@ -3,6 +3,9 @@
     "message": "Aperir un nove scheda in…",
     "description": "Menu title"
   },
+  "openANewTabIn": {
+    "message": "Aperir un nove scheda in…"
+  },
   "openTabs": {
     "message": "Schedas aperte",
     "description": "Section title for tabs that are currently open in that container"
@@ -10,8 +13,17 @@
   "moveTabsToANewWindow": {
     "message": "Mover schedas a un nove fenestra"
   },
+  "rate": {
+    "message": "Rata"
+  },
   "share": {
     "message": "Compartir"
+  },
+  "tweet": {
+    "message": "Tweetta"
+  },
+  "default": {
+    "message": "Predefinite"
   },
   "cancel": {
     "message": "Cancellar"
@@ -73,6 +85,12 @@
   },
   "clearproxylabel": {
     "message": "Clarar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN es active"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN es inactive"
   },
   "learnMore": {
     "message": "Pro saper plus"
