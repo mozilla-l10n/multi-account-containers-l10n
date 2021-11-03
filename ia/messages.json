@@ -1,6 +1,59 @@
 {
+  "openInNewTabTitle": {
+    "message": "Aperir un nove scheda in…",
+    "description": "Menu title"
+  },
   "share": {
     "message": "Compartir"
+  },
+  "cancel": {
+    "message": "Cancellar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "options": {
+    "message": "Optiones"
+  },
+  "name": {
+    "message": "Nomine"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Icone"
+  },
+  "containers": {
+    "message": "Contentores"
+  },
+  "done": {
+    "message": "Facite"
+  },
+  "getStarted": {
+    "message": "Comenciar"
+  },
+  "signIn": {
+    "message": "Aperir session"
+  },
+  "notNow": {
+    "message": "Non ora"
+  },
+  "startSyncing": {
+    "message": "Comencia a synchronisar"
+  },
+  "info": {
+    "message": "Informationes",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sequente"
+  },
+  "optionalPermissions": {
+    "message": "Permissiones optional:"
+  },
+  "keyboardShortCuts": {
+    "message": "Vias breve de claviero"
   },
   "hide": {
     "message": "Celar"
