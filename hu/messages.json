@@ -50,5 +50,17 @@
   },
   "onboarding-3-header": {
     "message": "Egy hely mindennek, és minden a helyén."
+  },
+  "onboarding-3-description": {
+    "message": "Kezdje az általunk létrehozott konténerekkel, vagy hozza létre a sajátjait."
+  },
+  "onboarding-4-header": {
+    "message": "Mindig a kívánt konténerben nyissa meg a webhelyeket."
+  },
+  "onboarding-4-description": {
+    "message": "Kattintson a jobb gombbal egy konténerlapon, és rendelje hozzá a webhelyet, hogy mindig abban a konténerben nyíljon meg."
+  },
+  "onboarding-5-header": {
+    "message": "Konténerlapok, ha szüksége van rájuk."
   }
 }
