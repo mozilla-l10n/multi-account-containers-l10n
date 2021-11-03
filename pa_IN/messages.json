@@ -155,6 +155,12 @@
   "show": {
     "message": "ਵੇਖਾਓ"
   },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN ਚਾਲੂ ਹੈ"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN ਬੰਦ ਹੈ"
+  },
   "learnMore": {
     "message": "ਹੋਰ ਜਾਣੋ"
   },
