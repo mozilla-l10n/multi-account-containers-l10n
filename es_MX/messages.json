@@ -1,4 +1,8 @@
 {
+  "openTabs": {
+    "message": "Pestañas abiertas",
+    "description": "Section title for tabs that are currently open in that container"
+  },
   "oneHundredTabsHeader": {
     "message": "100 pestañas!"
   },
