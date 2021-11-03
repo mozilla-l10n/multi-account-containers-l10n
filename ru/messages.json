@@ -56,6 +56,9 @@
   "onboarding-4-header": {
     "message": "Всегда открывайте сайты в нужных вам контейнерах."
   },
+  "onboarding-4-description": {
+    "message": "Щёлкните правой кнопкой мыши внутри вкладки контейнера, чтобы указать сайт, который всегда будет открываться в нём."
+  },
   "onboarding-5-description": {
     "message": "Нажмите и удерживайте кнопку «Новая вкладка», чтобы открыть новую вкладку в контейнере."
   },
@@ -71,8 +74,14 @@
   "onboarding-7-description": {
     "message": "Нажмите «Войти», чтобы подтвердить, что ваш аккаунт Firefox активен."
   },
+  "onboarding-8-description": {
+    "message": "Теперь контейнеры могут работать с Mozilla VPN или вашим собственным прокси для создания безопасного приватного соединения, защищающего вашу активность в Интернете."
+  },
   "oneHundredTabsHeader": {
     "message": "100 вкладок!"
+  },
+  "spreadTheWord": {
+    "message": "Если вам нравятся контейнеры, помогите нам рассказать про них другим!"
   },
   "rate": {
     "message": "Оценить"
@@ -219,6 +228,10 @@
         "content": "$1"
       }
     }
+  },
+  "chooseLocation": {
+    "message": "Выбрать местоположение",
+    "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
     "message": "Скрыть"
