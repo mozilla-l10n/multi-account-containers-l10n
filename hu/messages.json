@@ -1,0 +1,54 @@
+{
+  "extensionDescription": {
+    "message": "A Többfiókos konténerek segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Új lap megnyitása itt…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ezen oldal újranyitása itt…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Lapok rendezése konténer szerint",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ezen weboldal megnyitása mindig itt…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Megnyitás mindig itt…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Oldal megnyitása mindig konténerben"
+  },
+  "openANewTabIn": {
+    "message": "Új lap megnyitása itt…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Új lap megnyitása ebben a konténerben"
+  },
+  "openTabs": {
+    "message": "Lapok megnyitása",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Lapok áthelyezése új ablakba"
+  },
+  "onboarding-1-header": {
+    "message": "Egy jobb módja az összes online tevékenységének kezelésének"
+  },
+  "onboarding-1-description": {
+    "message": "Konténerek használata a feladatok szervezéséhez, fiókok kezeléséhez, és hogy arra koncentráljon, amire szeretne."
+  },
+  "onboarding-2-header": {
+    "message": "Dolgozzanak Önnek a konténerek."
+  },
+  "onboarding-3-header": {
+    "message": "Egy hely mindennek, és minden a helyén."
+  }
+}
