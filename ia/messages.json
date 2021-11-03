@@ -55,6 +55,9 @@
   "keyboardShortCuts": {
     "message": "Vias breve de claviero"
   },
+  "enableSync": {
+    "message": "Activar le synchronisation"
+  },
   "hide": {
     "message": "Celar"
   },
