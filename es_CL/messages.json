@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers te ayuda a tener todas las partes de tu vida en línea aisladas en diferentes pestañas. Etiquetas personalizadas y pestañas coloreadas te ayudan a mantener diferentes actividades — como compras en línea, planificaciones de viajes o revisar tu correo del trabajo — separadas.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Abrir nueva pestaña en…",
     "description": "Menu title"
@@ -77,6 +81,9 @@
   "onboarding-7-description": {
     "message": "Haz clic en Conectarse para confirmar que tu cuenta de Firefox esté activa."
   },
+  "onboarding-8-description": {
+    "message": "Ahora los contenedores se puede integrar con Mozilla VPN o tu propio proxy para crear una conexión segura y privada que protege tu actividad."
+  },
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
   },
@@ -136,6 +143,18 @@
   },
   "icon": {
     "message": "Ícono"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitios designados"
+  },
+  "deleteThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "manageSiteList": {
+    "message": "Gestionar la lista de sitios…"
+  },
+  "manageThisContainer": {
+    "message": "Gestionar este contenedor"
   },
   "containers": {
     "message": "Contenedores"
@@ -213,6 +232,34 @@
   "editWhichContainer": {
     "message": "Edite qué contenedor se abre cuando se utilizan los atajos numerados."
   },
+  "keyboardShortCut": {
+    "message": "Contenedor a abrir con el atajo $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegación",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Abrir en el contenedor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Le pediste a Firefox que siempre abriera $containerName$ para este sitio:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "Elegir ubicación",
     "description": "Location refers to the geographical position used by the VPN"
@@ -223,10 +270,46 @@
   "show": {
     "message": "Mostrar"
   },
+  "protectYourContainers": {
+    "message": "Protege tus contenedores con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protege este contenedor con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Configuración de proxy avanzada"
+  },
+  "proxyInputLabel": {
+    "message": "Ingresar proxy personalizado"
+  },
+  "useCustomLocation": {
+    "message": "Usa una ubicación personalizada para este contenedor"
+  },
+  "clearproxylabel": {
+    "message": "Limpiar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está activado"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desactivado"
+  },
+  "invalidProxyAlert": {
+    "message": "Por favor, ingresa una URL de proxy válida"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe estar activado para utilizar esta funcionalidad."
+  },
   "learnMore": {
     "message": "Aprender más"
   },
+  "proxyNowAvailable": {
+    "message": "Ahora con Mozilla VPN y configuración avanzada de proxy"
+  },
   "applyToContainer": {
     "message": "Aplicar al contenedor"
+  },
+  "tooltipWarning": {
+    "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activado. Activa Mozilla VPN para usar este contenedor."
   }
 }
