@@ -87,6 +87,12 @@
   "oneHundredTabsHeader": {
     "message": "100 schedas!"
   },
+  "youHaveOpened": {
+    "message": "Tu ha aperite 100 Schedas recipente.\n"
+  },
+  "spreadTheWord": {
+    "message": "Si tu apprecia Recipentes, adjuta nos a diffunder le parola!"
+  },
   "rate": {
     "message": "Rata"
   },
@@ -99,11 +105,32 @@
   "default": {
     "message": "Predefinite"
   },
+  "manageContainers": {
+    "message": "Gerer recipentes"
+  },
+  "newContainer": {
+    "message": "Nove recipente"
+  },
+  "hideThisContainer": {
+    "message": "Celar iste recipente"
+  },
+  "showThisContainer": {
+    "message": "Monstrar iste recipente"
+  },
+  "removeThisContainer": {
+    "message": "Remover iste recipente"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Desira tu vermente remover iste Recipente?"
+  },
   "cancel": {
     "message": "Cancellar"
   },
   "ok": {
     "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitos assignate a iste recipente"
   },
   "options": {
     "message": "Optiones"
@@ -116,6 +143,18 @@
   },
   "icon": {
     "message": "Icone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitos destinate"
+  },
+  "deleteThisContainer": {
+    "message": "Deler iste recipente"
+  },
+  "manageSiteList": {
+    "message": "Gerer lista de sitos…"
+  },
+  "manageThisContainer": {
+    "message": "Gerer iste recipente"
   },
   "containers": {
     "message": "Contentores"
@@ -141,6 +180,15 @@
   },
   "next": {
     "message": "Sequente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Aperi iste sito in tu recipente assignate?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vole tu ancora aperir iste sito in le actual recipente?"
+  },
+  "rememberMyDecision": {
+    "message": "Rememorar mi decision pro iste sito"
   },
   "optionalPermissions": {
     "message": "Permissiones optional:"
