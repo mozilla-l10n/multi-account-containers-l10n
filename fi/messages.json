@@ -1,19 +1,32 @@
 {
   "openInNewTabTitle": {
-    "message": "Avaa uusi välilehti…",
+    "message": "Avaa uusi välilehti eristystilassa…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Avaa tämä sivusto uudelleen…",
+    "message": "Avaa tämä sivusto uudelleen eristystilassa…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Lajittele välilehdet eristystilan mukaan",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Avaa tämä sivusto aina…",
+    "message": "Avaa tämä sivusto aina eristystilassa…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Avaa aina…",
+    "message": "Avaa aina eristystilassa…",
     "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Avaa sivusto aina eristystilassa"
+  },
+  "openANewTabIn": {
+    "message": "Avaa uusi välilehti eristystilassa…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Avaa uusi välilehti tässä eristystilassa"
   },
   "openTabs": {
     "message": "Avoimet välilehdet",
@@ -24,6 +37,15 @@
   },
   "onboarding-1-header": {
     "message": "Parempi tapa hallita kaikkia verkossa tekemiäsi asioita"
+  },
+  "onboarding-4-header": {
+    "message": "Avaa aina haluamasi sivustot haluamissasi eristystiloissa."
+  },
+  "onboarding-5-header": {
+    "message": "Eristetyt välilehdet kun niitä tarvitset."
+  },
+  "onboarding-6-header": {
+    "message": "Eristystilojen synkronointi on nyt saatavilla!"
   },
   "onboarding-7-header": {
     "message": "Synkronointiin tarvitaan Firefox-tili."
@@ -151,6 +173,12 @@
   },
   "show": {
     "message": "Näytä"
+  },
+  "protectYourContainers": {
+    "message": "Suojaa eristystilasi Mozilla VPN:llä"
+  },
+  "protectThisContainer": {
+    "message": "Suojaa tämä eristystila Mozilla VPN:llä"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN on päällä"
