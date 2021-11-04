@@ -221,24 +221,28 @@
     "message": "Mei dizze ynstelling kinne jo in blêdwizer of map mei blêdwizers yn in kontener iepenje."
   },
   "enableSyncDescription": {
-    "message": "Dizze ynstelling lit jo jo konteners en website-tawizingen nei oare apparaten syngronisearje."
+    "message": "Mei dizze ynstelling kinne jo jo konteners en websitetawizingen mei oare apparaten syngronisearje."
   },
   "replaceTab": {
     "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
   },
   "replaceTabDescription": {
-    "message": "Ferfang it aktuele ljepblêd as in side dy't tawiisd is oan in oare kontener iepene wurdt (yn stee fan it aktuele ljepblêd iepen te hâlden). It iepenjen fan ljepblêden mei de middelste mûsknop wurdt net beynfloede."
+    "message": "It aktuele ljepblêd ferfange as in side dy't tawiisd is oan in oare kontener iepene wurdt (yn stee fan it aktuele ljepblêd iepen te hâlden). It iepenjen fan ljepblêden mei de middelste mûsknop wurdt net beynfloede."
   },
   "editWhichContainer": {
     "message": "Bewurkje hokker kontener iepene wurdt by it brûken fan de nûmere fluchtoetsen."
   },
   "keyboardShortCut": {
-    "message": "Kontener om te iepenjen mei fluchtoets $keyId$",
+    "message": "Te iepenjen kontener mei fluchtoets $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers – Navigaasje befêstigje",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "Yn kontener $containerName$ iepenje",
@@ -267,10 +271,10 @@
     "message": "Toane"
   },
   "protectYourContainers": {
-    "message": "Beskermje jo konteners mei Mozilla VPN"
+    "message": "Jo konteners beskermje mei Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Beskermje dizze kontener mei Mozilla VPN"
+    "message": "Dizze kontener beskermje mei Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Avansearre proxyynstellingen"
@@ -294,7 +298,7 @@
     "message": "Fier in jildige proxy-URL yn"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN moat oan wêze om dizze funksje te brûken."
+    "message": "Mozilla VPN moat ynskeakele wêze om dizze funksje te brûken."
   },
   "learnMore": {
     "message": "Mear ynfo"
@@ -303,7 +307,7 @@
     "message": "No mei Mozilla VPN en avansearre proxyynstellingen"
   },
   "applyToContainer": {
-    "message": "Op kontener tapasse"
+    "message": "Tapasse op kontener"
   },
   "tooltipWarning": {
     "message": "Dizze kontener is ynsteld om in Mozilla VPN-proxy te brûken, mar Mozilla VPN is net ynskeakele. Skeakelje Mozilla VPN yn om dizze kontener te brûken."
