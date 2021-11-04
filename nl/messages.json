@@ -51,7 +51,7 @@
     "message": "100 tabbladen!"
   },
   "youHaveOpened": {
-    "message": "U hebt 100 container-tabbladen geopend."
+    "message": "U hebt 100 containertabbladen geopend."
   },
   "spreadTheWord": {
     "message": "Als u van containers houdt, help ons dan om het verder te vertellen!"
@@ -93,7 +93,7 @@
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sites toegewezen aan deze container"
+    "message": "Websites toegewezen aan deze container"
   },
   "options": {
     "message": "Opties"
@@ -108,7 +108,7 @@
     "message": "Pictogram"
   },
   "limitToDesignatedSites": {
-    "message": "Beperken tot aangewezen sites"
+    "message": "Beperken tot aangewezen websites"
   },
   "deleteThisContainer": {
     "message": "Deze container verwijderen"
@@ -163,12 +163,91 @@
     "message": "Tabbladgedrag:"
   },
   "enableBookMarkMenus": {
-    "message": "Bladwijzermenu's inschakelen"
+    "message": "Bladwijzermenu’s inschakelen"
   },
   "firefoxAccountsSync": {
     "message": "Synchronisatie met Firefox-accounts:"
   },
   "enableSync": {
-    "message": "Sync inschakelen"
+    "message": "Synchronisatie inschakelen"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Deze instelling laat u een bladwijzer of map met bladwijzers in een container openen."
+  },
+  "enableSyncDescription": {
+    "message": "Deze instelling laat u uw containers en website-toewijzingen naar andere apparaten synchroniseren."
+  },
+  "replaceTab": {
+    "message": "Tabblad vervangen in plaats van een nieuwe maken"
+  },
+  "replaceTabDescription": {
+    "message": "Vervang het huidige tabblad als een pagina die is toegewezen aan een andere container wordt geopend (in plaats van het huidige tabblad open te houden). Het openen van tabbladen met de middelste muisknop wordt niet beïnvloed."
+  },
+  "editWhichContainer": {
+    "message": "Bewerk welke container wordt geopend bij het gebruik van de genummerde sneltoetsen."
+  },
+  "keyboardShortCut": {
+    "message": "Container om te openen met sneltoets $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "In container $containerName$ openen",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "U hebt Firefox gevraagd om voor deze website altijd $containerName$ te openen:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Locatie kiezen",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Verbergen"
+  },
+  "show": {
+    "message": "Tonen"
+  },
+  "advancedProxySettings": {
+    "message": "Geavanceerde proxyinstellingen"
+  },
+  "proxyInputLabel": {
+    "message": "Aangepaste proxy invoeren"
+  },
+  "clearproxylabel": {
+    "message": "Proxy wissen"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN is aan"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN is uit"
+  },
+  "invalidProxyAlert": {
+    "message": "Voer een geldige proxy in"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN moet ingeschakeld zijn om deze functie te gebruiken."
+  },
+  "learnMore": {
+    "message": "Meer info"
+  },
+  "proxyNowAvailable": {
+    "message": "Nu met Mozilla VPN en geavanceerde proxyinstellingen"
+  },
+  "applyToContainer": {
+    "message": "Toepassen op container"
   }
 }
