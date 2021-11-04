@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers -eristystilat mahdollistavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värikoodatut välilehdet auttavat pitämään erilaiset toimet — kuten verkko-ostokset, lomasuunnitelmat ja työsähköpostin — erillään.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Avaa uusi välilehti eristystilassa…",
     "description": "Menu title"
