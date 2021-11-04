@@ -31,5 +31,120 @@
   "openTabs": {
     "message": "Open tabbladen",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Tabbladen naar een nieuw venster verplaatsen"
+  },
+  "onboarding-1-description": {
+    "message": "Gebruik containers om taken te organiseren, accounts te beheren en uw aandacht te houden waar u dat wilt."
+  },
+  "onboarding-2-header": {
+    "message": "Zet containers voor u aan het werk."
+  },
+  "onboarding-7-header": {
+    "message": "Firefox-account is vereist om te synchroniseren."
+  },
+  "onboarding-7-description": {
+    "message": "Klik op Aanmelden om te bevestigen dat uw Firefox-account actief is."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tabbladen!"
+  },
+  "youHaveOpened": {
+    "message": "U hebt 100 container-tabbladen geopend."
+  },
+  "spreadTheWord": {
+    "message": "Als u van containers houdt, help ons dan om het verder te vertellen!"
+  },
+  "rate": {
+    "message": "Waarderen"
+  },
+  "share": {
+    "message": "Delen"
+  },
+  "tweet": {
+    "message": "Tweeten"
+  },
+  "default": {
+    "message": "Standaard"
+  },
+  "manageContainers": {
+    "message": "Containers beheren"
+  },
+  "newContainer": {
+    "message": "Nieuwe container"
+  },
+  "hideThisContainer": {
+    "message": "Deze container verbergen"
+  },
+  "showThisContainer": {
+    "message": "Deze container tonen"
+  },
+  "removeThisContainer": {
+    "message": "Deze container verwijderen"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Weet u zeker dat u deze container wilt verwijderen?"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites toegewezen aan deze container"
+  },
+  "options": {
+    "message": "Opties"
+  },
+  "name": {
+    "message": "Naam"
+  },
+  "color": {
+    "message": "Kleur"
+  },
+  "icon": {
+    "message": "Pictogram"
+  },
+  "limitToDesignatedSites": {
+    "message": "Beperken tot aangewezen sites"
+  },
+  "deleteThisContainer": {
+    "message": "Deze container verwijderen"
+  },
+  "manageSiteList": {
+    "message": "Websitelijst beheren…"
+  },
+  "manageThisContainer": {
+    "message": "Deze container beheren"
+  },
+  "containers": {
+    "message": "Containers"
+  },
+  "done": {
+    "message": "Gereed"
+  },
+  "getStarted": {
+    "message": "Beginnen"
+  },
+  "signIn": {
+    "message": "Aanmelden"
+  },
+  "notNow": {
+    "message": "Niet nu"
+  },
+  "startSyncing": {
+    "message": "Begin met synchroniseren"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Volgende"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Deze website in uw toegewezen container openen?"
   }
 }
