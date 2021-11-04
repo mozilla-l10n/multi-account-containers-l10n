@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers te ayuda a mantener todas las partes de tu vida en línea contenidas en diferentes pestañas. Etiquetas personalizadas y pestañas con códigos de colores ayudan a mantener diferentes actividades — como compras en línea, planificación de viajes o verificar el correo electrónico del trabajo — separadas.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Abrir nueva pestaña en…",
     "description": "Menu title"
