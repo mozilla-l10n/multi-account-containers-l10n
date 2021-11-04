@@ -4,7 +4,7 @@
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Dizze side opnij iepenje yn…",
+    "message": "Dizze website opnij iepenje yn…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -12,7 +12,7 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Dizze side altyd iepenje yn…",
+    "message": "Dizze website altyd iepenje yn…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
@@ -39,13 +39,13 @@
     "message": "In bettere manier om alle dingen dy't jo online dogge te behearen"
   },
   "onboarding-1-description": {
-    "message": "Brûk konteners om taken te organisearjen, accounts te behearen en jo fokus te hâlden wêr't jo dat wolle."
+    "message": "Brûk konteners om taken te organisearjen, accounts te behearen en jo oandacht te hâlden wêr't jo dat wolle."
   },
   "onboarding-2-header": {
-    "message": "Set konteners yn om foar jo te wurkjen."
+    "message": "Set konteners foar jo oan it wurk."
   },
   "onboarding-2-description": {
-    "message": "Funksjes lykas kleurkodearingen en aparte kontenerljepblêden helpe jo dingen maklik te finen, jo oandacht te fokussen en ôfliedingen te minimalisearjen."
+    "message": "Funksjes lykas kleurkodearing en aparte kontenerljepblêden helpe jo dingen maklik te finen, jo oandacht rjochte te hâlden en ôfliedingen te minimalisearjen."
   },
   "onboarding-3-header": {
     "message": "In plak foar alles, en alles op syn plak."
