@@ -1,4 +1,8 @@
 {
+  "openInNewTabTitle": {
+    "message": "Abrir nueva pestaña en…",
+    "description": "Menu title"
+  },
   "reopenThisSiteIn": {
     "message": "Reabrir este sitio en…",
     "description": "Menu title"
@@ -15,12 +19,24 @@
     "message": "Siempre abrir en…",
     "description": "Menu title"
   },
+  "alwaysOpenSiteInContainer": {
+    "message": "Siempre abrir el sitio en un contenedor"
+  },
   "openANewTabIn": {
     "message": "Abrir una nueva pestaña en…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Abrir nueva pestaña en este contenedor"
   },
   "openTabs": {
     "message": "Pestañas abiertas",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mover pestañas a una nueva ventana"
+  },
+  "onboarding-7-header": {
+    "message": "Se requiere una cuenta de Firefox para sincronizar."
   },
   "oneHundredTabsHeader": {
     "message": "100 pestañas!"
@@ -48,6 +64,9 @@
   },
   "ok": {
     "message": "Aceptar"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitios asignados a este contenedor"
   },
   "options": {
     "message": "Opciones"
@@ -84,6 +103,12 @@
   },
   "next": {
     "message": "Siguiente"
+  },
+  "rememberMyDecision": {
+    "message": "Recordar mi decisión para este sitio"
+  },
+  "optionalPermissions": {
+    "message": "Permisos opcionales:"
   },
   "chooseLocation": {
     "message": "Elegir ubicación",
