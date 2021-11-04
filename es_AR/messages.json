@@ -34,5 +34,103 @@
   },
   "moveTabsToANewWindow": {
     "message": "Mover pestañas a una nueva ventana"
+  },
+  "oneHundredTabsHeader": {
+    "message": "¡100 pestañas!"
+  },
+  "spreadTheWord": {
+    "message": "Si te gustan los contenedores, ¡ayudanos a correr la voz!"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "tweet": {
+    "message": "Tuitear"
+  },
+  "default": {
+    "message": "Predeterminado"
+  },
+  "manageContainers": {
+    "message": "Administrar contenedores"
+  },
+  "newContainer": {
+    "message": "Nuevo contenedor"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar este contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "¿Estás seguro de querer eliminar este contenedor?"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "ok": {
+    "message": "Aceptar"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitios asignados a este contenedor"
+  },
+  "options": {
+    "message": "Opciones"
+  },
+  "name": {
+    "message": "Nombre"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Ícono"
+  },
+  "limitToDesignatedSites": {
+    "message": "Límitar a sitios designados"
+  },
+  "deleteThisContainer": {
+    "message": "Borrar este contenedor"
+  },
+  "manageSiteList": {
+    "message": "Administrar lista de sitios…"
+  },
+  "manageThisContainer": {
+    "message": "Administrar este contenedor"
+  },
+  "containers": {
+    "message": "Contenedores"
+  },
+  "notNow": {
+    "message": "No ahora"
+  },
+  "startSyncing": {
+    "message": "Empezar a sincronizar"
+  },
+  "info": {
+    "message": "información",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "optionalPermissions": {
+    "message": "Permisos opcionales:"
+  },
+  "chooseLocation": {
+    "message": "Elegir ubicación",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "learnMore": {
+    "message": "Conocer más"
+  },
+  "applyToContainer": {
+    "message": "Aplicar a contenedor"
   }
 }
