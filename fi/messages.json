@@ -34,6 +34,12 @@
   "oneHundredTabsHeader": {
     "message": "100 välilehteä!"
   },
+  "youHaveOpened": {
+    "message": "Olet avannut 100 eristystilassa olevaa välilehteä!"
+  },
+  "spreadTheWord": {
+    "message": "Jos pidät eristystiloissa olevista välilehdistä, auta levittämään sanaa!"
+  },
   "rate": {
     "message": "Arvostele"
   },
@@ -46,11 +52,35 @@
   "default": {
     "message": "Oletus"
   },
+  "manageContainers": {
+    "message": "Hallitse eristystiloja"
+  },
+  "newContainer": {
+    "message": "Uusi eristystila"
+  },
+  "hideThisContainer": {
+    "message": "Piilota tämä eristystila"
+  },
+  "showThisContainer": {
+    "message": "Näytä tämä eristystila"
+  },
+  "removeThisContainer": {
+    "message": "Poista tämä eristystila"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Haluatko varmasti poistaa tämän eristystilan?"
+  },
   "cancel": {
     "message": "Peruuta"
   },
   "ok": {
     "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Tähän eristystilaan määritetyt sivustot"
+  },
+  "options": {
+    "message": "Valinnat"
   },
   "name": {
     "message": "Nimi"
@@ -60,6 +90,18 @@
   },
   "icon": {
     "message": "Kuvake"
+  },
+  "deleteThisContainer": {
+    "message": "Poista tämä eristystila"
+  },
+  "manageSiteList": {
+    "message": "Hallitse sivustoluetteloa…"
+  },
+  "manageThisContainer": {
+    "message": "Hallitse tätä eristystilaa"
+  },
+  "containers": {
+    "message": "Eristystilat"
   },
   "done": {
     "message": "Valmis"
@@ -91,6 +133,9 @@
   "tabBehavior": {
     "message": "Välilehden toiminta:"
   },
+  "enableBookMarkMenus": {
+    "message": "Ota kirjanmerkkivalikot käyttöön"
+  },
   "firefoxAccountsSync": {
     "message": "Firefox-tilien synkronointi:"
   },
@@ -107,7 +152,19 @@
   "show": {
     "message": "Näytä"
   },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN on päällä"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN on pois päältä"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN:n tulee olla päällä tämän ominaisuuden käyttämiseksi."
+  },
   "learnMore": {
     "message": "Lue lisää"
+  },
+  "applyToContainer": {
+    "message": "Toteuta eristystilaan"
   }
 }
