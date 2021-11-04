@@ -1,0 +1,35 @@
+{
+  "openInNewTabTitle": {
+    "message": "Nieuw tabblad openen…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Deze website opnieuw openen in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Tabbladen op container sorteren",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Deze website altijd openen in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Altijd openen in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Website altijd in container openen"
+  },
+  "openANewTabIn": {
+    "message": "Nieuw tabblad openen in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Nieuw tabblad openen in deze container"
+  },
+  "openTabs": {
+    "message": "Open tabbladen",
+    "description": "Section title for tabs that are currently open in that container"
+  }
+}
