@@ -72,6 +72,18 @@
   "onboarding-6-header": {
     "message": "Le Synchronisation de recipentes es ora disponibile!"
   },
+  "onboarding-6-description": {
+    "message": "Activa le synchronisation pro compartir le assignationes de recipente e sito con ulle computator connectite a tu Firefox Account"
+  },
+  "onboarding-7-header": {
+    "message": "Firefox Account es necesse pro synchronisar."
+  },
+  "onboarding-7-description": {
+    "message": "Clicca Authenticar se, pro confirmar que tu Firefox Account es active."
+  },
+  "onboarding-8-description": {
+    "message": "Ora le recipentes pote integrar se con Mozilla VPN o tu proprie proxy pro crear un connexion secur, private, que protege tu activitate."
+  },
   "rate": {
     "message": "Rata"
   },
