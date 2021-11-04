@@ -1,0 +1,81 @@
+{
+  "oneHundredTabsHeader": {
+    "message": "100 välilehteä!"
+  },
+  "rate": {
+    "message": "Arvostele"
+  },
+  "share": {
+    "message": "Jaa"
+  },
+  "tweet": {
+    "message": "Twiittaa"
+  },
+  "default": {
+    "message": "Oletus"
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "color": {
+    "message": "Väri"
+  },
+  "icon": {
+    "message": "Kuvake"
+  },
+  "done": {
+    "message": "Valmis"
+  },
+  "getStarted": {
+    "message": "Aloitetaan"
+  },
+  "signIn": {
+    "message": "Kirjaudu sisään"
+  },
+  "notNow": {
+    "message": "Ei nyt"
+  },
+  "startSyncing": {
+    "message": "Aloita synkronointi"
+  },
+  "next": {
+    "message": "Seuraava"
+  },
+  "rememberMyDecision": {
+    "message": "Muista valinta tälle sivustolle"
+  },
+  "optionalPermissions": {
+    "message": "Valinnaiset oikeudet:"
+  },
+  "keyboardShortCuts": {
+    "message": "Pikanäppäimet:"
+  },
+  "tabBehavior": {
+    "message": "Välilehden toiminta:"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox-tilien synkronointi:"
+  },
+  "enableSync": {
+    "message": "Ota synkronointi käyttöön"
+  },
+  "chooseLocation": {
+    "message": "Valitse sijainti",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Piilota"
+  },
+  "show": {
+    "message": "Näytä"
+  },
+  "learnMore": {
+    "message": "Lue lisää"
+  }
+}
