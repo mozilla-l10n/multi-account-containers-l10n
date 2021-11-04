@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers vous aide à garder toutes les facettes de votre vie numérique dans différents onglets. Les noms personnalisés et les onglets à code couleur permettent de séparer les différentes activités, telles que les achats en ligne, la planification de voyages ou la consultation des e-mails professionnels.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Ouvrir un nouvel onglet dans…",
     "description": "Menu title"
@@ -31,5 +35,8 @@
   "openTabs": {
     "message": "Onglets ouverts",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "onboarding-1-header": {
+    "message": "Une meilleure façon de gérer tout ce que vous faites en ligne"
   }
 }
