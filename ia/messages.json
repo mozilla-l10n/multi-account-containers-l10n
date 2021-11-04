@@ -252,11 +252,38 @@
       }
     }
   },
+  "youAskedFirefox": {
+    "message": "Tu ha demandate a Firefox de sempre aperir $containerName$ pro iste sito:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Elige un position",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Celar"
   },
   "show": {
     "message": "Monstrar"
+  },
+  "protectYourContainers": {
+    "message": "Protege tu recipentes con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protege iste recipente con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Parametros del servitor proxy avantiate"
+  },
+  "proxyInputLabel": {
+    "message": "Insere un proxy personalisate"
+  },
+  "useCustomLocation": {
+    "message": "Usa un position personalisate pro iste recipente ."
   },
   "clearproxylabel": {
     "message": "Clarar proxy"
@@ -267,7 +294,22 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN es inactive"
   },
+  "invalidProxyAlert": {
+    "message": "Insere un valide URL proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe esser active pro usar iste functionalitate."
+  },
   "learnMore": {
     "message": "Pro saper plus"
+  },
+  "proxyNowAvailable": {
+    "message": "Ora con Mozilla VPN e parametros del servitor proxy avantiate"
+  },
+  "applyToContainer": {
+    "message": "Applicar al recipente"
+  },
+  "tooltipWarning": {
+    "message": "Iste Recipente es configurate pro usar un proxy Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste recipente."
   }
 }
