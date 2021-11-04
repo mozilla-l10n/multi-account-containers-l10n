@@ -63,6 +63,15 @@
   "onboarding-4-description": {
     "message": "Clicca dextre intra un scheda recipente pro assignar le sito a sempre aperir lo in ille recipente."
   },
+  "onboarding-5-header": {
+    "message": "Schedas recipente quando te besonia illos."
+  },
+  "onboarding-5-description": {
+    "message": "Retene pulsate longemente le button Nove Scheda pro crear un nove Scheda recipente."
+  },
+  "onboarding-6-header": {
+    "message": "Le Synchronisation de recipentes es ora disponibile!"
+  },
   "rate": {
     "message": "Rata"
   },
