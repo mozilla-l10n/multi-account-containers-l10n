@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Mei Multi-Account Containers kinne jo alle ûnderdielen fan jo onlinelibben yn ferskate ljepblêden hâlde. Oanpaste labels en kleurkodearre ljepblêden helpe ferskate aktiviteiten – lykas online winkelje, reisplanning of it lêzen fan saaklike e-mail – skieden te hâlden.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Nij ljepblêd iepenje yn…",
     "description": "Menu title"
@@ -33,7 +37,7 @@
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Ljepblêden ferpleatse nei nij finster"
+    "message": "Ljepblêden nei in nij finster ferpleatse"
   },
   "onboarding-1-header": {
     "message": "In bettere manier om alle dingen dy't jo online dogge te behearen"
@@ -55,6 +59,18 @@
   },
   "onboarding-4-header": {
     "message": "Iepenje websites altyd yn de konteners dy't jo wolle."
+  },
+  "onboarding-4-description": {
+    "message": "Klik mei de rjochtermûsknop yn in kontenerljepblêd om de website altyd yn de kontener te iepenjen."
+  },
+  "onboarding-5-header": {
+    "message": "Kontenerljepblêden wannear't jo se nedich hawwe."
+  },
+  "onboarding-5-description": {
+    "message": "Hâld de knop Nij ljepblêd lang yndrukt om in nij kontenerljepblêd oan te meitsjen."
+  },
+  "onboarding-6-header": {
+    "message": "It syngronisearjen fan konteners is no beskikber!"
   },
   "oneHundredTabsHeader": {
     "message": "100 ljepblêden!"
