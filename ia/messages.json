@@ -48,6 +48,21 @@
   "onboarding-2-header": {
     "message": "Pone le recipentes a laborar pro te."
   },
+  "onboarding-2-description": {
+    "message": "Functionalitates como codice de color e schedas de recipiente separate te adjuta a trovar facilemente le cosas, concentra tu attention e minimisa le distractiones."
+  },
+  "onboarding-3-header": {
+    "message": "Un loco pro cata cosa, e cata cosa in su loco."
+  },
+  "onboarding-3-description": {
+    "message": "Initia con le recipentes que nos ha create o crea tu proprie."
+  },
+  "onboarding-4-header": {
+    "message": "Sempre aperi le sitos in le recipentes que tu desira."
+  },
+  "onboarding-4-description": {
+    "message": "Clicca dextre intra un scheda recipente pro assignar le sito a sempre aperir lo in ille recipente."
+  },
   "rate": {
     "message": "Rata"
   },
