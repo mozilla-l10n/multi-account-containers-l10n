@@ -211,6 +211,9 @@
   "enableBookMarkMenus": {
     "message": "Activar menus de marcapaginas"
   },
+  "firefoxAccountsSync": {
+    "message": "Synchronisation con conto Firefox:"
+  },
   "enableSync": {
     "message": "Activar le synchronisation"
   },
@@ -224,7 +227,30 @@
     "message": "Replaciar le scheda in vice del creation de un nove"
   },
   "replaceTabDescription": {
-    "message": "Replaciar le scheda active si un pagina que es assignate a un altere recipente es aperite (in vice del mantener aperte le scheda active)."
+    "message": "Replaciar le scheda active si un pagina que es assignate a un altere recipente es aperite (in vice del mantener aperte le scheda active). Aperir schedas con le button medie del mus non es afficite."
+  },
+  "editWhichContainer": {
+    "message": "Modificar qual recipente es aperite quando on usa le vias breve numerate."
+  },
+  "keyboardShortCut": {
+    "message": "Recipente a aperir con le via breve de claviero $keyId$ .",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Recipientes multi-conto Confirmar Navigation .",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Aperir in le recipente $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "hide": {
     "message": "Celar"
