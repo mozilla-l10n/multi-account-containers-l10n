@@ -1,4 +1,36 @@
 {
+  "openInNewTabTitle": {
+    "message": "Avaa uusi välilehti…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Avaa tämä sivusto uudelleen…",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Avaa tämä sivusto aina…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Avaa aina…",
+    "description": "Menu title"
+  },
+  "openTabs": {
+    "message": "Avoimet välilehdet",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Siirrä välilehdet uuteen ikkunaan"
+  },
+  "onboarding-1-header": {
+    "message": "Parempi tapa hallita kaikkia verkossa tekemiäsi asioita"
+  },
+  "onboarding-7-header": {
+    "message": "Synkronointiin tarvitaan Firefox-tili."
+  },
+  "onboarding-7-description": {
+    "message": "Napsauta Kirjaudu sisään -painiketta vahvistaaksesi, että Firefox-tilisi on aktiivinen."
+  },
   "oneHundredTabsHeader": {
     "message": "100 välilehteä!"
   },
