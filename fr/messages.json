@@ -1,0 +1,35 @@
+{
+  "openInNewTabTitle": {
+    "message": "Ouvrir un nouvel onglet dans…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Rouvrir ce site dans…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Trier les onglets par conteneur",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Toujours ouvrir ce site dans…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Toujours ouvrir dans…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Toujours ouvrir le site dans ce conteneur"
+  },
+  "openANewTabIn": {
+    "message": "Ouvrir un nouvel onglet dans…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Ouvrir un nouvel onglet dans ce conteneur"
+  },
+  "openTabs": {
+    "message": "Onglets ouverts",
+    "description": "Section title for tabs that are currently open in that container"
+  }
+}
