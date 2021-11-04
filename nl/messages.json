@@ -1,6 +1,6 @@
 {
   "openInNewTabTitle": {
-    "message": "Nieuw tabblad openen…",
+    "message": "Nieuw tabblad openen in…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
@@ -146,5 +146,29 @@
   },
   "openThisSiteConfirmation": {
     "message": "Deze website in uw toegewezen container openen?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Wilt u toch in deze huidige container openen?"
+  },
+  "rememberMyDecision": {
+    "message": "Beslissing onthouden voor deze website"
+  },
+  "optionalPermissions": {
+    "message": "Optionele toestemmingen:"
+  },
+  "keyboardShortCuts": {
+    "message": "Sneltoetsen:"
+  },
+  "tabBehavior": {
+    "message": "Tabbladgedrag:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Bladwijzermenu's inschakelen"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronisatie met Firefox-accounts:"
+  },
+  "enableSync": {
+    "message": "Sync inschakelen"
   }
 }
