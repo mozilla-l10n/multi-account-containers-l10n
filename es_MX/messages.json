@@ -1,4 +1,23 @@
 {
+  "reopenThisSiteIn": {
+    "message": "Reabrir este sitio en…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordenar pestañas por contenedor",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Siempre abrir este sitio en…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Siempre abrir en…",
+    "description": "Menu title"
+  },
+  "openANewTabIn": {
+    "message": "Abrir una nueva pestaña en…"
+  },
   "openTabs": {
     "message": "Pestañas abiertas",
     "description": "Section title for tabs that are currently open in that container"
@@ -59,6 +78,9 @@
   },
   "notNow": {
     "message": "Ahora no"
+  },
+  "startSyncing": {
+    "message": "Empezar a sincronizar"
   },
   "next": {
     "message": "Siguiente"
