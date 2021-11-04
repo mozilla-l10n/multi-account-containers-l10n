@@ -62,5 +62,11 @@
   },
   "onboarding-5-header": {
     "message": "Konténerlapok, ha szüksége van rájuk."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 lap!"
+  },
+  "youHaveOpened": {
+    "message": "100 konténerlapot nyitott meg."
   }
 }
