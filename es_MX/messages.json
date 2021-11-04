@@ -80,6 +80,9 @@
   "icon": {
     "message": "Ícono"
   },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitios designados"
+  },
   "deleteThisContainer": {
     "message": "Eliminar este contenedor"
   },
