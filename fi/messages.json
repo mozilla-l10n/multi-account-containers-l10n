@@ -44,6 +44,9 @@
   "onboarding-5-header": {
     "message": "Eristetyt välilehdet kun niitä tarvitset."
   },
+  "onboarding-5-description": {
+    "message": "Paina pitkään Uusi välilehti -painiketta luodaksesi uuden eristystilassa olevan välilehden."
+  },
   "onboarding-6-header": {
     "message": "Eristystilojen synkronointi on nyt saatavilla!"
   },
@@ -164,6 +167,22 @@
   "enableSync": {
     "message": "Ota synkronointi käyttöön"
   },
+  "openInContainer": {
+    "message": "Avaa $containerName$ eristystilassa",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ tälle sivustolle:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "Valitse sijainti",
     "description": "Location refers to the geographical position used by the VPN"
@@ -179,6 +198,18 @@
   },
   "protectThisContainer": {
     "message": "Suojaa tämä eristystila Mozilla VPN:llä"
+  },
+  "advancedProxySettings": {
+    "message": "Välityspalvelimen lisäasetukset"
+  },
+  "proxyInputLabel": {
+    "message": "Anna mukautettu välityspalvelin"
+  },
+  "useCustomLocation": {
+    "message": "Käytä mukautettua sijaintia tälle eristystilalle"
+  },
+  "clearproxylabel": {
+    "message": "Tyhjennä välityspalvelin"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN on päällä"
