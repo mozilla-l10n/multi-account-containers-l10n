@@ -9,8 +9,29 @@
   "share": {
     "message": "Compartir"
   },
+  "tweet": {
+    "message": "Tuitear"
+  },
+  "manageContainers": {
+    "message": "Administrar contenedores"
+  },
+  "newContainer": {
+    "message": "Nuevo contenedor"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar este contenedor"
+  },
   "cancel": {
     "message": "Cancelar"
+  },
+  "ok": {
+    "message": "Aceptar"
+  },
+  "options": {
+    "message": "Opciones"
   },
   "name": {
     "message": "Nombre"
@@ -18,17 +39,45 @@
   "color": {
     "message": "Color"
   },
+  "icon": {
+    "message": "Ícono"
+  },
+  "deleteThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "manageSiteList": {
+    "message": "Administrar lista de sitios…"
+  },
+  "manageThisContainer": {
+    "message": "Administrar este contenedor"
+  },
+  "containers": {
+    "message": "Contenedores"
+  },
   "signIn": {
     "message": "Iniciar sesión"
   },
   "notNow": {
     "message": "Ahora no"
   },
+  "next": {
+    "message": "Siguiente"
+  },
+  "chooseLocation": {
+    "message": "Elegir ubicación",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Ocultar"
   },
   "show": {
     "message": "Mostrar"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está activado"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desactivado"
   },
   "learnMore": {
     "message": "Saber más"
