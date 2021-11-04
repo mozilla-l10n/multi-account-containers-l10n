@@ -80,6 +80,9 @@
   "oneHundredTabsHeader": {
     "message": "100 вкладок!"
   },
+  "youHaveOpened": {
+    "message": "Вы открыли 100 вкладок в контейнерах."
+  },
   "spreadTheWord": {
     "message": "Если вам нравятся контейнеры, помогите нам рассказать про них другим!"
   },
