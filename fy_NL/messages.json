@@ -72,6 +72,18 @@
   "onboarding-6-header": {
     "message": "It syngronisearjen fan konteners is no beskikber!"
   },
+  "onboarding-6-description": {
+    "message": "Skeakelje syngronisaasje yn om kontener- en websitetawizingen te dielen mei elke kompjûter dy't ferbûn is mei jo Firefox-account."
+  },
+  "onboarding-7-header": {
+    "message": "Firefox-account is fereaske om te syngronisearjen."
+  },
+  "onboarding-7-description": {
+    "message": "Klik op Oanmelde om te befêstigjen dat jo Firefox-account aktyf is."
+  },
+  "onboarding-8-description": {
+    "message": "Konteners kinne no yntegrearje mei Mozilla VPN of jo eigen proxy om in feilige priveeferbining te kreëarjen dy't jo aktiviteit beskermet."
+  },
   "oneHundredTabsHeader": {
     "message": "100 ljepblêden!"
   },
@@ -118,7 +130,7 @@
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sites tawiisd oan dizze kontener"
+    "message": "Websites tawiisd oan dizze kontener"
   },
   "options": {
     "message": "Opsjes"
@@ -133,7 +145,7 @@
     "message": "Piktogram"
   },
   "limitToDesignatedSites": {
-    "message": "Limyt oan oanwiisde websites"
+    "message": "Beheine ta oanwiisde websites"
   },
   "deleteThisContainer": {
     "message": "Dizze kontener fuortsmite"
@@ -160,7 +172,7 @@
     "message": "No net"
   },
   "startSyncing": {
-    "message": "Syngronisaasje starte"
+    "message": "Begjinne mei syngronisearjen"
   },
   "info": {
     "message": "ynfo",
@@ -170,13 +182,13 @@
     "message": "Folgjende"
   },
   "openThisSiteConfirmation": {
-    "message": "Dizze side yn jo tawiisde kontener iepenje?"
+    "message": "Dizze website yn jo tawiisde kontener iepenje?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Wolle jo noch hieltyd yn dizze aktuele kontener iepenje?"
   },
   "rememberMyDecision": {
-    "message": "Beslissing foar dizze website ûnthâlde"
+    "message": "Beslissing ûnthâlde foar dizze website"
   },
   "optionalPermissions": {
     "message": "Opsjonele tastimmingen:"
@@ -184,17 +196,29 @@
   "keyboardShortCuts": {
     "message": "Fluchtoetsen:"
   },
+  "onboarding": {
+    "message": "Wolkomstberjocht"
+  },
+  "resetOnboardingPanels": {
+    "message": "Wolkomstpanielen opnij inisjalisearje"
+  },
+  "onboardingToggle": {
+    "message": "Skeakelje dit om om de wolkomstpanielen nochris te sjen."
+  },
   "tabBehavior": {
     "message": "Ljepblêdgedrach:"
   },
   "enableBookMarkMenus": {
-    "message": "Blêdwizermenu's ynskeakelje"
+    "message": "Blêdwizermenu’s ynskeakelje"
+  },
+  "firefoxAccountsSync": {
+    "message": "Syngronisaasje mei Firefox-accounts:"
   },
   "enableSync": {
-    "message": "Sync ynskeakelje"
+    "message": "Syngronisaasje ynskeakelje"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Dizze ynstelling lit jo in blêdwizer of map mei blêdwizers yn in kontener iepenje."
+    "message": "Mei dizze ynstelling kinne jo in blêdwizer of map mei blêdwizers yn in kontener iepenje."
   },
   "enableSyncDescription": {
     "message": "Dizze ynstelling lit jo jo konteners en website-tawizingen nei oare apparaten syngronisearje."
