@@ -196,8 +196,35 @@
   "keyboardShortCuts": {
     "message": "Vias breve de claviero"
   },
+  "onboarding": {
+    "message": "Introduction"
+  },
+  "resetOnboardingPanels": {
+    "message": "Reinitialisar le quadros de introduction."
+  },
+  "onboardingToggle": {
+    "message": "Mutar isto pro revider le quadros de introduction."
+  },
+  "tabBehavior": {
+    "message": "Comportamento del scheda:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activar menus de marcapaginas"
+  },
   "enableSync": {
     "message": "Activar le synchronisation"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Iste parametro te permitte de aperir un marcapagina o un plica de marcapaginas in un recipente."
+  },
+  "enableSyncDescription": {
+    "message": "Iste parametro te permitte de synchronisar tu assignationes de recipentes e sitos inter apparatos."
+  },
+  "replaceTab": {
+    "message": "Replaciar le scheda in vice del creation de un nove"
+  },
+  "replaceTabDescription": {
+    "message": "Replaciar le scheda active si un pagina que es assignate a un altere recipente es aperite (in vice del mantener aperte le scheda active)."
   },
   "hide": {
     "message": "Celar"
