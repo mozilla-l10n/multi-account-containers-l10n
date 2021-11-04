@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Met Multi-Account Containers kunt u alle onderdelen van uw onlineleven in verschillende tabbladen houden. Aangepaste labels en kleurgecodeerde tabbladen helpen verschillende activiteiten – zoals online winkelen, reisplanning of het lezen van zakelijke e-mail – gescheiden te houden.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Nieuw tabblad openen in…",
     "description": "Menu title"
@@ -35,17 +39,50 @@
   "moveTabsToANewWindow": {
     "message": "Tabbladen naar een nieuw venster verplaatsen"
   },
+  "onboarding-1-header": {
+    "message": "Een betere manier om alle dingen die u online doet te beheren"
+  },
   "onboarding-1-description": {
     "message": "Gebruik containers om taken te organiseren, accounts te beheren en uw aandacht te houden waar u dat wilt."
   },
   "onboarding-2-header": {
     "message": "Zet containers voor u aan het werk."
   },
+  "onboarding-2-description": {
+    "message": "Functies als kleurcodering en aparte containertabbladen helpen u om dingen gemakkelijk te vinden, uw aandacht gericht te houden en afleiding te minimaliseren."
+  },
+  "onboarding-3-header": {
+    "message": "Een plek voor alles, en alles op zijn plek."
+  },
+  "onboarding-3-description": {
+    "message": "Begin met de containers die we hebben gemaakt, of maak er zelf een."
+  },
+  "onboarding-4-header": {
+    "message": "Open websites altijd in de containers die u wilt."
+  },
+  "onboarding-4-description": {
+    "message": "Klik met de rechtermuisknop in een containertabblad om de website altijd in de container te openen."
+  },
+  "onboarding-5-header": {
+    "message": "Containertabbladen wanneer u ze nodig heeft."
+  },
+  "onboarding-5-description": {
+    "message": "Houd de knop Nieuw tabblad lang ingedrukt om een nieuw containertabblad aan te maken."
+  },
+  "onboarding-6-header": {
+    "message": "Het synchroniseren van containers is nu beschikbaar!"
+  },
+  "onboarding-6-description": {
+    "message": "Schakel synchronisatie in om container- en websitetoewijzingen te delen met elke computer die is verbonden met uw Firefox-account."
+  },
   "onboarding-7-header": {
     "message": "Firefox-account is vereist om te synchroniseren."
   },
   "onboarding-7-description": {
     "message": "Klik op Aanmelden om te bevestigen dat uw Firefox-account actief is."
+  },
+  "onboarding-8-description": {
+    "message": "Containers kunnen nu integreren met Mozilla VPN of uw eigen proxy om een veilige privéverbinding te creëren die uw activiteit beschermt."
   },
   "oneHundredTabsHeader": {
     "message": "100 tabbladen!"
@@ -135,7 +172,7 @@
     "message": "Niet nu"
   },
   "startSyncing": {
-    "message": "Begin met synchroniseren"
+    "message": "Beginnen met synchroniseren"
   },
   "info": {
     "message": "info",
@@ -159,6 +196,15 @@
   "keyboardShortCuts": {
     "message": "Sneltoetsen:"
   },
+  "onboarding": {
+    "message": "Welkomstbericht"
+  },
+  "resetOnboardingPanels": {
+    "message": "Welkomstpanelen herinitialiseren"
+  },
+  "onboardingToggle": {
+    "message": "Schakel dit om om de welkomstpanelen weer te zien."
+  },
   "tabBehavior": {
     "message": "Tabbladgedrag:"
   },
@@ -172,27 +218,31 @@
     "message": "Synchronisatie inschakelen"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Deze instelling laat u een bladwijzer of map met bladwijzers in een container openen."
+    "message": "Met deze instelling kunt u een bladwijzer of map met bladwijzers in een container openen."
   },
   "enableSyncDescription": {
-    "message": "Deze instelling laat u uw containers en website-toewijzingen naar andere apparaten synchroniseren."
+    "message": "Met deze instelling kunt u uw containers en websitetoewijzingen met andere apparaten synchroniseren."
   },
   "replaceTab": {
-    "message": "Tabblad vervangen in plaats van een nieuwe maken"
+    "message": "Tabblad vervangen in plaats van een nieuw maken"
   },
   "replaceTabDescription": {
-    "message": "Vervang het huidige tabblad als een pagina die is toegewezen aan een andere container wordt geopend (in plaats van het huidige tabblad open te houden). Het openen van tabbladen met de middelste muisknop wordt niet beïnvloed."
+    "message": "Het huidige tabblad vervangen als een pagina die is toegewezen aan een andere container wordt geopend (in plaats van het huidige tabblad open te houden). Het openen van tabbladen met de middelste muisknop wordt niet beïnvloed."
   },
   "editWhichContainer": {
-    "message": "Bewerk welke container wordt geopend bij het gebruik van de genummerde sneltoetsen."
+    "message": "Bewerken welke container wordt geopend bij het gebruik van de genummerde sneltoetsen."
   },
   "keyboardShortCut": {
-    "message": "Container om te openen met sneltoets $keyId$",
+    "message": "Te openen container met sneltoets $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers – Navigatie bevestigen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "In container $containerName$ openen",
@@ -220,11 +270,20 @@
   "show": {
     "message": "Tonen"
   },
+  "protectYourContainers": {
+    "message": "Uw containers beschermen met Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Deze container beschermen met Mozilla VPN"
+  },
   "advancedProxySettings": {
     "message": "Geavanceerde proxyinstellingen"
   },
   "proxyInputLabel": {
     "message": "Aangepaste proxy invoeren"
+  },
+  "useCustomLocation": {
+    "message": "Een aangepaste locatie voor deze container gebruiken"
   },
   "clearproxylabel": {
     "message": "Proxy wissen"
@@ -236,7 +295,7 @@
     "message": "Mozilla VPN is uit"
   },
   "invalidProxyAlert": {
-    "message": "Voer een geldige proxy in"
+    "message": "Voer een geldige proxy-URL in"
   },
   "mozillaVpnMustBeOn": {
     "message": "Mozilla VPN moet ingeschakeld zijn om deze functie te gebruiken."
@@ -249,5 +308,8 @@
   },
   "applyToContainer": {
     "message": "Toepassen op container"
+  },
+  "tooltipWarning": {
+    "message": "Deze container is ingesteld om een Mozilla VPN-proxy te gebruiken, maar Mozilla VPN is niet ingeschakeld. Schakel Mozilla VPN in om deze container te gebruiken."
   }
 }
