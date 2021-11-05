@@ -143,5 +143,32 @@
   },
   "show": {
     "message": "Exibir"
+  },
+  "protectYourContainers": {
+    "message": "Proteja seus contêineres com o Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Proteger este contêiner com o Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Configurações avançadas de proxy"
+  },
+  "clearproxylabel": {
+    "message": "Limpar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está ativado"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desativado"
+  },
+  "learnMore": {
+    "message": "Saiba mais"
+  },
+  "proxyNowAvailable": {
+    "message": "Agora com Mozilla VPN e configurações avançadas de proxy"
+  },
+  "applyToContainer": {
+    "message": "Aplicar ao contêiner"
   }
 }
