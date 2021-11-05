@@ -123,6 +123,9 @@
   "show": {
     "message": "Mostrar"
   },
+  "protectYourContainers": {
+    "message": "Protege tus contenedores con Mozilla VPN"
+  },
   "moz-vpn-connected": {
     "message": "Mozilla VPN está activado"
   },
