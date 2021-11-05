@@ -68,5 +68,65 @@
   },
   "youHaveOpened": {
     "message": "100 konténerlapot nyitott meg."
+  },
+  "spreadTheWord": {
+    "message": "Ha élvezi a konténereket, akkor segítsen megismertetni!"
+  },
+  "rate": {
+    "message": "Értékelés"
+  },
+  "share": {
+    "message": "Megosztás"
+  },
+  "tweet": {
+    "message": "Tweetelés"
+  },
+  "default": {
+    "message": "Alapértelmezett"
+  },
+  "manageContainers": {
+    "message": "Konténerek kezelése"
+  },
+  "newContainer": {
+    "message": "Új konténer"
+  },
+  "hideThisContainer": {
+    "message": "Konténer elrejtése"
+  },
+  "showThisContainer": {
+    "message": "Konténer megjelenítése"
+  },
+  "removeThisContainer": {
+    "message": "Konténer eltávolítása"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Biztos, hogy törli ezt a konténert?"
+  },
+  "cancel": {
+    "message": "Mégse"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "E tárolóhoz rendelt webhelyek"
+  },
+  "options": {
+    "message": "Beállítások"
+  },
+  "name": {
+    "message": "Név"
+  },
+  "color": {
+    "message": "Szín"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Korlátozás a kijelölt webhelyekre"
+  },
+  "deleteThisContainer": {
+    "message": "Konténer törlése"
   }
 }
