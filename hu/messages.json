@@ -48,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Dolgozzanak Önnek a konténerek."
   },
+  "onboarding-2-description": {
+    "message": "Az olyan funkciók, mint a színkódolás és a különálló konténerlapok, segítenek könnyen megtalálni a dolgokat, összpontosítani a figyelmét, és minimalizálni a zavaró tényezőket."
+  },
   "onboarding-3-header": {
     "message": "Egy hely mindennek, és minden a helyén."
   },
@@ -62,6 +65,24 @@
   },
   "onboarding-5-header": {
     "message": "Konténerlapok, ha szüksége van rájuk."
+  },
+  "onboarding-5-description": {
+    "message": "Nyomja hosszan az Új lap gombot egy új konténerlap létrehozásához."
+  },
+  "onboarding-6-header": {
+    "message": "A konténerek szinkronizálása már elérhető!"
+  },
+  "onboarding-6-description": {
+    "message": "Kapcsolja be a szinkronizálást, hogy megossza a konténereit és a webhely-hozzárendeléseket bármely, a Firefox-fiókjához csatlakoztatott számítógéppel."
+  },
+  "onboarding-7-header": {
+    "message": "A szinkronizáláshoz Firefox-fiók szükséges."
+  },
+  "onboarding-7-description": {
+    "message": "Kattintson a Bejelentkezésre annak a megerősítéséhez, hogy a Firefox-fiókja aktív."
+  },
+  "onboarding-8-description": {
+    "message": "A konténerek mostantól integrációra képesek a Mozilla VPN-nel vagy a saját proxyjával, hogy biztonságos, privát kapcsolatot hozzanak létre, melyek megvédik a tevékenységét."
   },
   "oneHundredTabsHeader": {
     "message": "100 lap!"
@@ -281,5 +302,14 @@
   },
   "learnMore": {
     "message": "További tudnivalók"
+  },
+  "proxyNowAvailable": {
+    "message": "Mostantól Mozilla VPN-nel és speciális proxybeállításokkal"
+  },
+  "applyToContainer": {
+    "message": "Alkalmazás a konténerre"
+  },
+  "tooltipWarning": {
+    "message": "A tároló úgy van beállítva, hogy a Mozilla VPN proxyját használja, de a Mozilla VPN nincs bekapcsolva. A konténer használatához kapcsolja be a Mozilla VPN-t."
   }
 }
