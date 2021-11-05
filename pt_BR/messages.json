@@ -38,6 +38,33 @@
   "onboarding-1-header": {
     "message": "Um jeito melhor de gerenciar todas as coisas que você faz online"
   },
+  "onboarding-1-description": {
+    "message": "Use contêineres para organizar tarefas, gerenciar contas e manter o foco onde você quiser."
+  },
+  "onboarding-2-header": {
+    "message": "Coloque contêineres para trabalhar para você."
+  },
+  "onboarding-3-header": {
+    "message": "Um lugar para cada coisa e tudo em seu lugar."
+  },
+  "onboarding-3-description": {
+    "message": "Comece com os contêineres que criamos, ou crie seus próprios."
+  },
+  "onboarding-4-header": {
+    "message": "Sempre abra sites nos contêineres que quiser."
+  },
+  "onboarding-5-header": {
+    "message": "Abas contêiner quando você precisar."
+  },
+  "onboarding-5-description": {
+    "message": "Mantenha pressionado o botão de nova aba para criar uma aba contêiner."
+  },
+  "onboarding-6-header": {
+    "message": "Agora está disponível sincronização de contêineres!"
+  },
+  "onboarding-6-description": {
+    "message": "Ative a sincronização para compartilhar contêineres e atribuições de sites com qualquer computador conectado à sua Conta Firefox."
+  },
   "oneHundredTabsHeader": {
     "message": "100 abas!"
   },
@@ -162,6 +189,9 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN está desativado"
   },
+  "mozillaVpnMustBeOn": {
+    "message": "O Mozilla VPN deve estar ativado para usar este recurso."
+  },
   "learnMore": {
     "message": "Saiba mais"
   },
@@ -170,5 +200,8 @@
   },
   "applyToContainer": {
     "message": "Aplicar ao contêiner"
+  },
+  "tooltipWarning": {
+    "message": "Este contêiner está configurado para usar um proxy do Mozilla VPN, mas o Mozilla VPN não está ativado. Ative o Mozilla VPN para usar este contêiner."
   }
 }
