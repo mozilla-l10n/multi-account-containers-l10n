@@ -7,12 +7,26 @@
     "message": "Νέο άνοιγμα ιστοτόπου σε…",
     "description": "Menu title"
   },
+  "sortTabsByContainer": {
+    "message": "Ταξινόμηση καρτελών κατά θεματική ενότητα",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Πάντα άνοιγμα του ιστοτόπου σε…",
+    "description": "Menu title"
+  },
   "alwaysOpenIn": {
     "message": "Πάντα άνοιγμα σε…",
     "description": "Menu title"
   },
+  "alwaysOpenSiteInContainer": {
+    "message": "Πάντα άνοιγμα του ιστοτόπου σε θεματική ενότητα"
+  },
   "openANewTabIn": {
     "message": "Άνοιγμα νέας καρτέλας σε…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Άνοιγμα νέας καρτέλας σε αυτήν τη θεματική ενότητα"
   },
   "openTabs": {
     "message": "Ανοικτές καρτέλες",
@@ -26,6 +40,15 @@
   },
   "onboarding-3-header": {
     "message": "Ένα μέρος για όλα και όλα στη θέση τους."
+  },
+  "onboarding-3-description": {
+    "message": "Ξεκινήστε με τις θεματικές ενότητες που δημιουργήσαμε ή φτιάξτε τις δικές σας."
+  },
+  "onboarding-5-header": {
+    "message": "Θεματικές καρτέλες όταν τις χρειάζεστε."
+  },
+  "onboarding-6-header": {
+    "message": "Ο συγχρονισμός θεματικών ενοτήτων είναι πλέον διαθέσιμος!"
   },
   "onboarding-7-header": {
     "message": "Απαιτείται λογαριασμός Firefox για συγχρονισμό."
@@ -118,6 +141,14 @@
   "enableSync": {
     "message": "Ενεργοποίηση συγχρονισμού"
   },
+  "openInContainer": {
+    "message": "Άνοιγμα σε καρτέλα «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "Επιλογή τοποθεσίας",
     "description": "Location refers to the geographical position used by the VPN"
@@ -137,10 +168,16 @@
   "moz-vpn-disconnected": {
     "message": "Το Mozilla VPN είναι ανενεργό"
   },
+  "invalidProxyAlert": {
+    "message": "Παρακαλώ εισαγάγετε ένα έγκυρο URL μεσολάβησης"
+  },
   "mozillaVpnMustBeOn": {
     "message": "Το Mozilla VPN πρέπει να είναι ενεργό για αυτήν τη λειτουργία."
   },
   "learnMore": {
     "message": "Μάθετε περισσότερα"
+  },
+  "proxyNowAvailable": {
+    "message": "Τώρα με το Mozilla VPN και τις σύνθετες ρυθμίσεις μεσολάβησης"
   }
 }
