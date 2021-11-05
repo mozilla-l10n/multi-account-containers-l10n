@@ -53,11 +53,20 @@
   "onboarding-4-header": {
     "message": "Ανοίξτε ιστοτόπους στις ενότητες που θέλετε."
   },
+  "onboarding-4-description": {
+    "message": "Κάντε δεξί κλικ εντός μιας θεματικής καρτέλας για να ανοίγει πάντα ο ιστότοπος σε αυτήν τη θεματική ενότητα."
+  },
   "onboarding-5-header": {
     "message": "Θεματικές καρτέλες όταν τις χρειάζεστε."
   },
+  "onboarding-5-description": {
+    "message": "Πατήστε παρατεταμένα το κουμπί νέας καρτέλας για να δημιουργήσετε μια νέα θεματική καρτέλα."
+  },
   "onboarding-6-header": {
     "message": "Ο συγχρονισμός θεματικών ενοτήτων είναι πλέον διαθέσιμος!"
+  },
+  "onboarding-6-description": {
+    "message": "Ενεργοποιήστε τον συγχρονισμό για να έχετε τις θεματικές ενότητες και τις αναθέσεις ιστοτόπων σε κάθε υπολογιστή με τον λογαριασμό Firefox σας."
   },
   "onboarding-7-header": {
     "message": "Απαιτείται λογαριασμός Firefox για συγχρονισμό."
@@ -67,6 +76,9 @@
   },
   "oneHundredTabsHeader": {
     "message": "100 καρτέλες!"
+  },
+  "youHaveOpened": {
+    "message": "Έχετε ανοίξει 100 θεματικές καρτέλες."
   },
   "rate": {
     "message": "Αξιολόγηση"
@@ -79,6 +91,24 @@
   },
   "default": {
     "message": "Προεπιλογή"
+  },
+  "manageContainers": {
+    "message": "Διαχείριση θεματικών ενοτήτων"
+  },
+  "newContainer": {
+    "message": "Νέα θεματική ενότητα"
+  },
+  "hideThisContainer": {
+    "message": "Απόκρυψη θεματικής ενότητας"
+  },
+  "showThisContainer": {
+    "message": "Εμφάνιση θεματικής ενότητας"
+  },
+  "removeThisContainer": {
+    "message": "Αφαίρεση θεματικής ενότητας"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Θέλετε σίγουρα να αφαιρέσετε τη θεματική ενότητα;"
   },
   "cancel": {
     "message": "Ακύρωση"
@@ -98,8 +128,17 @@
   "icon": {
     "message": "Εικονίδιο"
   },
+  "deleteThisContainer": {
+    "message": "Διαγραφή θεματικής ενότητας"
+  },
   "manageSiteList": {
     "message": "Διαχείριση λίστας ιστοτόπων…"
+  },
+  "manageThisContainer": {
+    "message": "Διαχείριση θεματικής ενότητας"
+  },
+  "containers": {
+    "message": "Θεματικές ενότητες"
   },
   "done": {
     "message": "Τέλος"
@@ -122,6 +161,12 @@
   },
   "next": {
     "message": "Επόμενο"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Άνοιγμα ιστοτόπου στην καθορισμένη θεματική ενότητα;"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Θα θέλατε ακόμα να το ανοίξετε σε αυτήν τη θεματική ενότητα;"
   },
   "rememberMyDecision": {
     "message": "Αποθήκευση επιλογής για τον ιστότοπο"
@@ -149,6 +194,9 @@
   },
   "enableSync": {
     "message": "Ενεργοποίηση συγχρονισμού"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Αυτή η ρύθμιση σάς επιτρέπει να ανοίξετε έναν σελιδοδείκτη ή φάκελο σελιδοδεικτών σε θεματική ενότητα."
   },
   "openInContainer": {
     "message": "Άνοιγμα σε καρτέλα «$containerName$»",
@@ -188,5 +236,8 @@
   },
   "proxyNowAvailable": {
     "message": "Τώρα με το Mozilla VPN και τις σύνθετες ρυθμίσεις μεσολάβησης"
+  },
+  "applyToContainer": {
+    "message": "Εφαρμογή στη θεματική ενότητα"
   }
 }
