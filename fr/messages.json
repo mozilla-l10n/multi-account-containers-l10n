@@ -193,6 +193,9 @@
   "resetOnboardingPanels": {
     "message": "Réinitialiser les panneaux d’accueil"
   },
+  "onboardingToggle": {
+    "message": "Cliquez sur le bouton ci-dessus pour revoir les panneaux d’accueil."
+  },
   "tabBehavior": {
     "message": "Comportement de l’onglet :"
   },
