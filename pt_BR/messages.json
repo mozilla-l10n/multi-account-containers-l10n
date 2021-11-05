@@ -1,0 +1,22 @@
+{
+  "openInNewTabTitle": {
+    "message": "Abrir nova aba em…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Reabrir este site em…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordenar abas por contêiner",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Sempre abrir este site em…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Sempre abrir em…",
+    "description": "Menu title"
+  }
+}
