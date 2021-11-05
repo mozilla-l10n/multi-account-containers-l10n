@@ -128,5 +128,39 @@
   },
   "deleteThisContainer": {
     "message": "Konténer törlése"
+  },
+  "manageSiteList": {
+    "message": "Webhelylista kezelése…"
+  },
+  "manageThisContainer": {
+    "message": "Konténer kezelése"
+  },
+  "containers": {
+    "message": "Konténerek"
+  },
+  "done": {
+    "message": "Kész"
+  },
+  "getStarted": {
+    "message": "Kezdő lépések"
+  },
+  "signIn": {
+    "message": "Bejelentkezés"
+  },
+  "notNow": {
+    "message": "Most nem"
+  },
+  "startSyncing": {
+    "message": "Szinkronizálás indítása"
+  },
+  "info": {
+    "message": "információ",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Tovább"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Megnyitja ezt a webhelyet a hozzárendelt konténerben?"
   }
 }
