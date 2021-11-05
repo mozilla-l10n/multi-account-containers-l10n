@@ -134,5 +134,8 @@
   },
   "learnMore": {
     "message": "Saber más"
+  },
+  "applyToContainer": {
+    "message": "Aplicar al contenedor"
   }
 }
