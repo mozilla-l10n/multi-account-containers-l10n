@@ -65,6 +65,12 @@
   "onboarding-6-description": {
     "message": "Ative a sincronização para compartilhar contêineres e atribuições de sites com qualquer computador conectado à sua Conta Firefox."
   },
+  "onboarding-7-header": {
+    "message": "Precisa ter uma Conta Firefox para sincronizar."
+  },
+  "onboarding-7-description": {
+    "message": "Clique em Entrar para confirmar que sua Conta Firefox está ativa."
+  },
   "oneHundredTabsHeader": {
     "message": "100 abas!"
   },
