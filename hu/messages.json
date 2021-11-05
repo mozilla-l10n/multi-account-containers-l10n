@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "A Többfiókos konténerek segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
+    "message": "A Multi-Account Containers segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -162,5 +162,124 @@
   },
   "openThisSiteConfirmation": {
     "message": "Megnyitja ezt a webhelyet a hozzárendelt konténerben?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Továbbra is a jelenlegi konténerben nyitja meg?"
+  },
+  "rememberMyDecision": {
+    "message": "Döntés megjegyzése ehhez az oldalhoz"
+  },
+  "optionalPermissions": {
+    "message": "Nem kötelező engedélyek:"
+  },
+  "keyboardShortCuts": {
+    "message": "Gyorsbillentyűk:"
+  },
+  "onboarding": {
+    "message": "Ismertető"
+  },
+  "resetOnboardingPanels": {
+    "message": "Ismertető panelek alaphelyzetbe állítása"
+  },
+  "onboardingToggle": {
+    "message": "Kapcsolja be, hogy újra láthassa az ismertető paneleket."
+  },
+  "tabBehavior": {
+    "message": "Lap viselkedése:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Könyvjelző menük engedélyezése"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox-fiókok szinkronizálása:"
+  },
+  "enableSync": {
+    "message": "Szinkronizálás engedélyezése"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Ez a beállítás lehetővé teszi egy könyvjelző vagy könyvjelzőmappa konténerben történő megnyitását."
+  },
+  "enableSyncDescription": {
+    "message": "Ez a beállítás lehetővé teszi a konténerek és a webhely-hozzárendelések szinkronizálását az eszközök között."
+  },
+  "replaceTab": {
+    "message": "Lap cseréje ahelyett, hogy új lapot hozna létre"
+  },
+  "replaceTabDescription": {
+    "message": "A jelenlegi lap cseréje, ha egy másik konténerhez rendelt oldalt nyílik meg (ahelyett, hogy nyitva maradna a jelenlegi lap). A középső egérgombbal megnyitott lapokat nem érinti."
+  },
+  "editWhichContainer": {
+    "message": "Szerkesztés, hogy melyik konténer nyíljon meg a számozott gyorsbillentyű használatakor."
+  },
+  "keyboardShortCut": {
+    "message": "A $keyId$ gyorsbillentyűre megnyitandó tároló",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers  – Navigáció megerősítése",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Megnyitás a(z) $containerName$ konténerben",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Azt kért a Firefoxtól, hogy ezt az oldalt mindig a(z) $containerName$ konténerben nyissa meg:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Válasszon helyet",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Elrejtés"
+  },
+  "show": {
+    "message": "Megjelenítés"
+  },
+  "protectYourContainers": {
+    "message": "Védje meg a konténereit a Mozilla VPN segítségével"
+  },
+  "protectThisContainer": {
+    "message": "Ezen konténer megvédése a Mozilla VPN segítségével"
+  },
+  "advancedProxySettings": {
+    "message": "Speciális proxybeállítások"
+  },
+  "proxyInputLabel": {
+    "message": "Egyéni proxy megadása"
+  },
+  "useCustomLocation": {
+    "message": "Egyéni hely használata ehhez a konténerhez"
+  },
+  "clearproxylabel": {
+    "message": "Proxy törlése"
+  },
+  "moz-vpn-connected": {
+    "message": "A Mozilla VPN be van kapcsolva"
+  },
+  "moz-vpn-disconnected": {
+    "message": "A Mozilla VPN ki van kapcsolva"
+  },
+  "invalidProxyAlert": {
+    "message": "Írjon be egy érvényes proxy URL-t"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "A funkció használatához be kell kapcsolni a Mozilla VPN-t."
+  },
+  "learnMore": {
+    "message": "További tudnivalók"
   }
 }
