@@ -1,10 +1,54 @@
 {
+  "openInNewTabTitle": {
+    "message": "Nowy rajtark wočinić w…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Tute sydło znowa wočinić w…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Rajtarki po kontejnerje sortěrować",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Tute sydło přeco wočinić w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Přeco wočinić w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sydło přeco w kontejnerje wočinić"
+  },
+  "openANewTabIn": {
+    "message": "Nowy rajtark wočinić w…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Nowy rajtark w tutym kontejnerje wočinić"
+  },
   "openTabs": {
     "message": "Wočinjene rajtarki",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "moveTabsToANewWindow": {
+    "message": "Rajtarki do noweho wokna přesunyć"
+  },
+  "onboarding-5-description": {
+    "message": "Tłóčće dołho na tłóčatko Nowy rajtark, zo byšće nowy kontejnerowy rajtark wutworił."
+  },
+  "onboarding-6-header": {
+    "message": "Synchronizowanje kontejnerow je nětko k dispoziciji!"
+  },
+  "onboarding-7-header": {
+    "message": "Trjebaće konto Firefox, zo byšće synchronizował."
+  },
   "oneHundredTabsHeader": {
     "message": "100 rajtarkow!"
+  },
+  "youHaveOpened": {
+    "message": "Sće 100 kontejnerowych rajtarkow wočinił."
   },
   "rate": {
     "message": "Pohódnoćić"
@@ -54,6 +98,9 @@
   "deleteThisContainer": {
     "message": "Tutón kontejner zhašeć"
   },
+  "manageSiteList": {
+    "message": "Lisćinu websydłow rjadować…"
+  },
   "manageThisContainer": {
     "message": "Tutón kontejner rjadować"
   },
@@ -71,6 +118,9 @@
   },
   "notNow": {
     "message": "Nic nětko"
+  },
+  "startSyncing": {
+    "message": "Synchronizaciju započeć"
   },
   "info": {
     "message": "info",
