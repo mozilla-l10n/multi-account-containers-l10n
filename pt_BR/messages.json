@@ -18,5 +18,130 @@
   "alwaysOpenIn": {
     "message": "Sempre abrir em…",
     "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sempre abrir site em contêiner"
+  },
+  "openANewTabIn": {
+    "message": "Abrir nova aba em…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Abrir nova aba neste contêiner"
+  },
+  "openTabs": {
+    "message": "Abas abertas",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mover abas para nova janela"
+  },
+  "onboarding-1-header": {
+    "message": "Um jeito melhor de gerenciar todas as coisas que você faz online"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 abas!"
+  },
+  "youHaveOpened": {
+    "message": "Você abriu 100 abas contêiner."
+  },
+  "manageContainers": {
+    "message": "Gerenciar contêineres"
+  },
+  "newContainer": {
+    "message": "Novo contêiner"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contêiner"
+  },
+  "showThisContainer": {
+    "message": "Exibir este contêiner"
+  },
+  "removeThisContainer": {
+    "message": "Remover este contêiner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Tem certeza que quer remover este contêiner?"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites atribuídos a este contêiner"
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "color": {
+    "message": "Cor"
+  },
+  "icon": {
+    "message": "Ícone"
+  },
+  "deleteThisContainer": {
+    "message": "Excluir este contêiner"
+  },
+  "manageThisContainer": {
+    "message": "Gerenciar este contêiner"
+  },
+  "containers": {
+    "message": "Contêineres"
+  },
+  "done": {
+    "message": "Pronto"
+  },
+  "getStarted": {
+    "message": "Introdução"
+  },
+  "signIn": {
+    "message": "Entrar"
+  },
+  "notNow": {
+    "message": "Agora não"
+  },
+  "startSyncing": {
+    "message": "Começar a sincronizar"
+  },
+  "info": {
+    "message": "informações",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Avançar"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Abrir este site em seu contêiner atribuído?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Você ainda quer abrir neste contêiner atual?"
+  },
+  "rememberMyDecision": {
+    "message": "Memorizar decisão para este site"
+  },
+  "optionalPermissions": {
+    "message": "Permissões opcionais:"
+  },
+  "keyboardShortCuts": {
+    "message": "Atalhos de teclado:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ativar menus de favoritos"
+  },
+  "firefoxAccountsSync": {
+    "message": "Sincronização de contas Firefox:"
+  },
+  "enableSync": {
+    "message": "Ativar sincronização"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "show": {
+    "message": "Exibir"
   }
 }
