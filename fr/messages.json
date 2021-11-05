@@ -80,5 +80,214 @@
   },
   "oneHundredTabsHeader": {
     "message": "100 onglets !"
+  },
+  "youHaveOpened": {
+    "message": "Vous avez ouvert cent onglets conteneurs."
+  },
+  "spreadTheWord": {
+    "message": "Si vous appréciez les conteneurs, aidez-nous à les faire connaître partout !"
+  },
+  "rate": {
+    "message": "Noter"
+  },
+  "share": {
+    "message": "Partager"
+  },
+  "tweet": {
+    "message": "Tweeter"
+  },
+  "default": {
+    "message": "Par défaut"
+  },
+  "manageContainers": {
+    "message": "Gérer les conteneurs"
+  },
+  "newContainer": {
+    "message": "Nouveau conteneur"
+  },
+  "hideThisContainer": {
+    "message": "Masquer ce conteneur"
+  },
+  "showThisContainer": {
+    "message": "Afficher ce conteneur"
+  },
+  "removeThisContainer": {
+    "message": "Supprimer ce conteneur"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Confirmez-vous la suppression de ce conteneur ?"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites assignés à ce conteneur"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "color": {
+    "message": "Couleur"
+  },
+  "icon": {
+    "message": "Icône"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limiter aux sites désignés"
+  },
+  "deleteThisContainer": {
+    "message": "Supprimer ce conteneur"
+  },
+  "manageSiteList": {
+    "message": "Gérer la liste des sites…"
+  },
+  "manageThisContainer": {
+    "message": "Gérer ce conteneur"
+  },
+  "containers": {
+    "message": "Conteneurs"
+  },
+  "done": {
+    "message": "Terminé"
+  },
+  "getStarted": {
+    "message": "Démarrer"
+  },
+  "signIn": {
+    "message": "Se connecter"
+  },
+  "notNow": {
+    "message": "Plus tard"
+  },
+  "info": {
+    "message": "Informations",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Suivant"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Ouvrir ce site dans le conteneur que vous avez choisi ?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Voulez-vous poursuivre l’ouverture dans le conteneur actuel ?"
+  },
+  "rememberMyDecision": {
+    "message": "Se souvenir de ma décision pour ce site"
+  },
+  "optionalPermissions": {
+    "message": "Autorisations facultatives :"
+  },
+  "keyboardShortCuts": {
+    "message": "Raccourcis clavier :"
+  },
+  "onboarding": {
+    "message": "Accueil"
+  },
+  "resetOnboardingPanels": {
+    "message": "Réinitialiser les panneaux d’accueil"
+  },
+  "tabBehavior": {
+    "message": "Comportement de l’onglet :"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronisation avec les comptes Firefox : "
+  },
+  "enableSync": {
+    "message": "Activer la synchronisation"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Ce paramètre vous permet d’ouvrir un marque-page ou un dossier de marque-pages dans un conteneur."
+  },
+  "enableSyncDescription": {
+    "message": "Ce paramètre vous permet de synchroniser vos conteneurs et affectations de sites entre vos appareils."
+  },
+  "replaceTab": {
+    "message": "Remplacer l’onglet plutôt qu’en créer un nouveau"
+  },
+  "replaceTabDescription": {
+    "message": "Remplacer l’onglet actuel si une page assignée à un autre conteneur est ouverte (plutôt que de garder l’onglet actuel ouvert). L’ouverture des onglets par un clic du bouton du milieu de la souris n’est pas affectée."
+  },
+  "editWhichContainer": {
+    "message": "Modifier quel conteneur est ouvert en utilisant les raccourcis numérotés."
+  },
+  "keyboardShortCut": {
+    "message": "Conteneur à ouvrir par le raccourci clavier $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "Ouvrir dans le conteneur $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Vous avez demandé à Firefox de toujours ouvrir dans le conteneur $containerName$ ce site :",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Choisir l’emplacement",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Masquer"
+  },
+  "show": {
+    "message": "Afficher"
+  },
+  "protectYourContainers": {
+    "message": "Protégez vos conteneurs avec Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protéger ce conteneur avec Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Paramètres proxy avancés"
+  },
+  "proxyInputLabel": {
+    "message": "Saisissez un proxy personnalisé"
+  },
+  "useCustomLocation": {
+    "message": "Utiliser un emplacement personnalisé pour ce conteneur"
+  },
+  "clearproxylabel": {
+    "message": "Effacer le proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN est activé"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN est désactivé"
+  },
+  "invalidProxyAlert": {
+    "message": "Veuillez saisir une adresse (URL) de proxy valide"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN doit être activé pour utiliser cette fonctionnalité."
+  },
+  "learnMore": {
+    "message": "En savoir plus"
+  },
+  "applyToContainer": {
+    "message": "Appliquer au conteneur"
+  },
+  "tooltipWarning": {
+    "message": "Ce conteneur est configuré pour utiliser un proxy Mozilla VPN, mais Mozilla VPN n’est pas activé. Activez Mozilla VPN pour utiliser ce conteneur."
   }
 }
