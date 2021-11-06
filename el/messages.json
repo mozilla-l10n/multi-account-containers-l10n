@@ -116,6 +116,9 @@
   "ok": {
     "message": "OK"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Καταχωρημένοι ιστότοποι θεματικής ενότητας"
+  },
   "options": {
     "message": "Επιλογές"
   },
@@ -127,6 +130,9 @@
   },
   "icon": {
     "message": "Εικονίδιο"
+  },
+  "limitToDesignatedSites": {
+    "message": "Περιορισμός σε καθορισμένους ιστοτόπους"
   },
   "deleteThisContainer": {
     "message": "Διαγραφή θεματικής ενότητας"
@@ -198,6 +204,13 @@
   "enableBookMarkMenusDescription": {
     "message": "Αυτή η ρύθμιση σάς επιτρέπει να ανοίξετε έναν σελιδοδείκτη ή φάκελο σελιδοδεικτών σε θεματική ενότητα."
   },
+  "replaceTab": {
+    "message": "Αντικατάσταση καρτέλας αντί για δημιουργία νέας"
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Επιβεβαίωση πλοήγησης",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Άνοιγμα σε καρτέλα «$containerName$»",
     "placeholders": {
@@ -218,6 +231,9 @@
   },
   "advancedProxySettings": {
     "message": "Σύνθετες ρυθμίσεις διακομιστή μεσολάβησης"
+  },
+  "useCustomLocation": {
+    "message": "Χρήση προσαρμοσμένης τοποθεσίας για θεματική ενότητα"
   },
   "moz-vpn-connected": {
     "message": "Το Mozilla VPN είναι ενεργό"
