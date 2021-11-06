@@ -59,6 +59,9 @@
   "onboarding-4-description": {
     "message": "Щёлкните правой кнопкой мыши внутри вкладки контейнера, чтобы указать сайт, который всегда будет открываться в нём."
   },
+  "onboarding-5-header": {
+    "message": "Помещайте вкладки в контейнеры, когда вам это необходимо."
+  },
   "onboarding-5-description": {
     "message": "Нажмите и удерживайте кнопку «Новая вкладка», чтобы открыть новую вкладку в контейнере."
   },
@@ -229,6 +232,14 @@
   },
   "openInContainer": {
     "message": "Открыть в контейнере «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Вы попросили Firefox всегда открывать этот сайт в $containerName$:",
     "placeholders": {
       "containerName": {
         "content": "$1"
