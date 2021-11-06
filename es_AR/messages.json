@@ -60,6 +60,9 @@
   "spreadTheWord": {
     "message": "Si te gustan los contenedores, ¡ayudanos a correr la voz!"
   },
+  "rate": {
+    "message": "Calificar"
+  },
   "share": {
     "message": "Compartir"
   },
@@ -122,6 +125,9 @@
   },
   "containers": {
     "message": "Contenedores"
+  },
+  "getStarted": {
+    "message": "Primeros pasos"
   },
   "signIn": {
     "message": "Iniciar sesión"
