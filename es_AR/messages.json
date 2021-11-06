@@ -54,6 +54,9 @@
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
   },
+  "youHaveOpened": {
+    "message": "Abriste 100 pestañas contenedoras."
+  },
   "spreadTheWord": {
     "message": "Si te gustan los contenedores, ¡ayudanos a correr la voz!"
   },
@@ -120,6 +123,9 @@
   "containers": {
     "message": "Contenedores"
   },
+  "signIn": {
+    "message": "Iniciar sesión"
+  },
   "notNow": {
     "message": "No ahora"
   },
@@ -130,8 +136,23 @@
     "message": "información",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
+  "next": {
+    "message": "Siguiente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "¿Abrir este sitio en su contenedor asignado?"
+  },
   "optionalPermissions": {
     "message": "Permisos opcionales:"
+  },
+  "keyboardShortCuts": {
+    "message": "Atajos de teclado:"
+  },
+  "tabBehavior": {
+    "message": "Comportamiento de la pestaña:"
+  },
+  "enableSync": {
+    "message": "Habilitar sincronización"
   },
   "chooseLocation": {
     "message": "Elegir ubicación",
