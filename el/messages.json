@@ -207,6 +207,9 @@
   "enableBookMarkMenusDescription": {
     "message": "Αυτή η ρύθμιση σάς επιτρέπει να ανοίξετε έναν σελιδοδείκτη ή φάκελο σελιδοδεικτών σε θεματική ενότητα."
   },
+  "enableSyncDescription": {
+    "message": "Αυτή η ρύθμιση σάς επιτρέπει να συγχρονίζετε τις θεματικές σας καρτέλες και τις αναθέσεις ιστοτόπων σας σε όλες τις συσκευές σας."
+  },
   "replaceTab": {
     "message": "Αντικατάσταση καρτέλας αντί για δημιουργία νέας"
   },
@@ -233,6 +236,14 @@
       }
     }
   },
+  "youAskedFirefox": {
+    "message": "Έχετε ζητήσει από το Firefox να ανοίγει πάντα το «$containerName$» για τον ιστότοπο:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "Επιλογή τοποθεσίας",
     "description": "Location refers to the geographical position used by the VPN"
@@ -252,8 +263,14 @@
   "advancedProxySettings": {
     "message": "Σύνθετες ρυθμίσεις διακομιστή μεσολάβησης"
   },
+  "proxyInputLabel": {
+    "message": "Εισαγωγή προσαρμοσμένου διακομιστή μεσολάβησης"
+  },
   "useCustomLocation": {
     "message": "Χρήση προσαρμοσμένης τοποθεσίας για θεματική ενότητα"
+  },
+  "clearproxylabel": {
+    "message": "Απαλοιφή διακομιστή μεσολάβησης"
   },
   "moz-vpn-connected": {
     "message": "Το Mozilla VPN είναι ενεργό"
@@ -275,5 +292,8 @@
   },
   "applyToContainer": {
     "message": "Εφαρμογή στη θεματική ενότητα"
+  },
+  "tooltipWarning": {
+    "message": "Αυτή η θεματική ενότητα έχει ρυθμιστεί ώστε να χρησιμοποιεί διακομιστή μεσολάβησης του Mozilla VPN, αλλά το Mozilla VPN δεν είναι ενεργό. Ενεργοποιήστε το Mozilla VPN για να χρησιμοποιήσετε αυτήν τη θεματική ενότητα."
   }
 }
