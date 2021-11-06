@@ -217,11 +217,43 @@
   "enableSync": {
     "message": "Habilitar sincronización"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Está opción permite abrir un marcador o carpeta de marcadores en un contenedor."
+  },
+  "enableSyncDescription": {
+    "message": "Esta opción permite sincronizar tus contenedores y la asignación de sitios en todos los dispositivos."
+  },
   "replaceTab": {
     "message": "Reemplazar pestaña en vez de crear una nueva"
   },
+  "replaceTabDescription": {
+    "message": "Reemplaza la pestaña actual si se abre una página que está asignada a otro contenedor (en lugar de mantener abierta la pestaña actual). La apertura de pestañas con el botón central del mouse no se ve afectada."
+  },
+  "editWhichContainer": {
+    "message": "Edite qué contenedor se abre cuando se utilizan los atajos numerados."
+  },
+  "keyboardShortCut": {
+    "message": "Contenedor para abrir con el atajo $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegación",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Abrir en el contenedor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Le pediste a Firefox que siempre abriera $containerName$ para este sitio:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -244,6 +276,9 @@
   "protectThisContainer": {
     "message": "Protege este contenedor con Mozilla VPN"
   },
+  "advancedProxySettings": {
+    "message": "Configuración avanzada de proxy"
+  },
   "proxyInputLabel": {
     "message": "Ingresar proxy personalizado"
   },
@@ -259,6 +294,12 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN está desactivado"
   },
+  "invalidProxyAlert": {
+    "message": "Por favor, ingresa una URL de proxy válida"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe estar activado para utilizar esta funcionalidad."
+  },
   "learnMore": {
     "message": "Saber más"
   },
@@ -267,5 +308,8 @@
   },
   "applyToContainer": {
     "message": "Aplicar al contenedor"
+  },
+  "tooltipWarning": {
+    "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activado. Activa Mozilla VPN para usar este contenedor."
   }
 }
