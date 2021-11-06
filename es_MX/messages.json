@@ -35,17 +35,56 @@
   "moveTabsToANewWindow": {
     "message": "Mover pestañas a una nueva ventana"
   },
+  "onboarding-2-header": {
+    "message": "Usa los contenedores a tu favor."
+  },
+  "onboarding-3-header": {
+    "message": "Un lugar para cada cosa y cada cosa en su lugar."
+  },
+  "onboarding-3-description": {
+    "message": "Empieza con los contenedores que hemos creado, o crea los tuyos."
+  },
+  "onboarding-4-header": {
+    "message": "Siempre abre los sitios en los contenedores que deseas."
+  },
+  "onboarding-4-description": {
+    "message": "Haz clic con el botón derecho dentro de una pestaña de contenedor para asignar el sitio para que siempre se abra en ese contenedor."
+  },
+  "onboarding-5-header": {
+    "message": "Pestañas de contenedores donde las necesitas."
+  },
+  "onboarding-5-description": {
+    "message": "Mantén apretado el botón Nueva Pestaña para crear una nueva pestaña de contenedores."
+  },
+  "onboarding-6-header": {
+    "message": "¡Ahora está disponible la sincronización de contenedores!"
+  },
   "onboarding-7-header": {
     "message": "Se requiere una cuenta de Firefox para sincronizar."
   },
+  "onboarding-7-description": {
+    "message": "Haz clic en Iniciar sesión para confirmar que tu cuenta de Firefox está activa."
+  },
   "oneHundredTabsHeader": {
     "message": "100 pestañas!"
+  },
+  "youHaveOpened": {
+    "message": "Has abierto 100 pestañas de contenedores."
+  },
+  "spreadTheWord": {
+    "message": "Si te gustan los contenedores, ¡ayúdanos a correr la voz!"
+  },
+  "rate": {
+    "message": "Calificar"
   },
   "share": {
     "message": "Compartir"
   },
   "tweet": {
     "message": "Tuitear"
+  },
+  "default": {
+    "message": "Predeterminado"
   },
   "manageContainers": {
     "message": "Administrar contenedores"
@@ -58,6 +97,12 @@
   },
   "showThisContainer": {
     "message": "Mostrar este contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "¿Estás seguro de que deseas remover este contenedor?"
   },
   "cancel": {
     "message": "Cancelar"
@@ -95,6 +140,12 @@
   "containers": {
     "message": "Contenedores"
   },
+  "done": {
+    "message": "Hecho"
+  },
+  "getStarted": {
+    "message": "Comenzar"
+  },
   "signIn": {
     "message": "Iniciar sesión"
   },
@@ -104,14 +155,27 @@
   "startSyncing": {
     "message": "Empezar a sincronizar"
   },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
   "next": {
     "message": "Siguiente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "¿Abrir este sitio en su contenedor asignado?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "¿Todavía te gustaría abrirlo en el contenedor actual?"
   },
   "rememberMyDecision": {
     "message": "Recordar mi decisión para este sitio"
   },
   "optionalPermissions": {
     "message": "Permisos opcionales:"
+  },
+  "keyboardShortCuts": {
+    "message": "Atajos del teclado:"
   },
   "chooseLocation": {
     "message": "Elegir ubicación",
