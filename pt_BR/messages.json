@@ -71,11 +71,29 @@
   "onboarding-7-description": {
     "message": "Clique em Entrar para confirmar que sua Conta Firefox está ativa."
   },
+  "onboarding-8-description": {
+    "message": "Agora, contêineres podem se integrar ao Mozilla VPN ou ao seu próprio proxy para criar uma conexão segura e privativa que protege sua atividade."
+  },
   "oneHundredTabsHeader": {
     "message": "100 abas!"
   },
   "youHaveOpened": {
     "message": "Você abriu 100 abas contêiner."
+  },
+  "spreadTheWord": {
+    "message": "Se você gosta de contêineres, ajude-nos a divulgar!"
+  },
+  "rate": {
+    "message": "Avaliar"
+  },
+  "share": {
+    "message": "Compartilhar"
+  },
+  "tweet": {
+    "message": "Enviar tweet"
+  },
+  "default": {
+    "message": "Padrão"
   },
   "manageContainers": {
     "message": "Gerenciar contêineres"
@@ -118,6 +136,9 @@
   },
   "deleteThisContainer": {
     "message": "Excluir este contêiner"
+  },
+  "manageSiteList": {
+    "message": "Gerenciar lista de sites…"
   },
   "manageThisContainer": {
     "message": "Gerenciar este contêiner"
