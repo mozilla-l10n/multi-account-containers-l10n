@@ -189,6 +189,9 @@
   "resetOnboardingPanels": {
     "message": "Επαναφορά οθονών καλωσορίσματος"
   },
+  "onboardingToggle": {
+    "message": "Ενεργοποιήστε αυτό για να δείτε ξανά τις οθόνες καλωσορίσματος."
+  },
   "tabBehavior": {
     "message": "Συμπεριφορά καρτέλας:"
   },
@@ -206,6 +209,17 @@
   },
   "replaceTab": {
     "message": "Αντικατάσταση καρτέλας αντί για δημιουργία νέας"
+  },
+  "editWhichContainer": {
+    "message": "Επεξεργαστείτε ποια θεματική καρτέλα θα ανοίγει με τις αριθμημένες συντομεύσεις."
+  },
+  "keyboardShortCut": {
+    "message": "Θεματική ενότητα που ανοίγει με τη συντόμευση πληκτρολογίου $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account Containers - Επιβεβαίωση πλοήγησης",
@@ -228,6 +242,12 @@
   },
   "show": {
     "message": "Εμφάνιση"
+  },
+  "protectYourContainers": {
+    "message": "Προστατεύστε τις θεματικές σας ενότητες με το Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Προστασία θεματικής ενότητας με το Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Σύνθετες ρυθμίσεις διακομιστή μεσολάβησης"
