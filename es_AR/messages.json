@@ -39,6 +39,18 @@
   "moveTabsToANewWindow": {
     "message": "Mover pestañas a una nueva ventana"
   },
+  "onboarding-1-header": {
+    "message": "Una mejor forma de administrar todas las cosas que hacés en línea"
+  },
+  "onboarding-3-header": {
+    "message": "Un lugar para cada cosa y cada cosa en su lugar."
+  },
+  "onboarding-3-description": {
+    "message": "Empezá con los contenedores que hemos creado o creá los tuyos propios."
+  },
+  "onboarding-6-header": {
+    "message": "¡Ahora está disponible la sincronización de contenedores!"
+  },
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
   },
