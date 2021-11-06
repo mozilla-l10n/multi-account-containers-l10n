@@ -142,6 +142,9 @@
   "openThisSiteConfirmation": {
     "message": "¿Abrir este sitio en su contenedor asignado?"
   },
+  "rememberMyDecision": {
+    "message": "Recordar mí decisión para este sitio"
+  },
   "optionalPermissions": {
     "message": "Permisos opcionales:"
   },
@@ -151,8 +154,28 @@
   "tabBehavior": {
     "message": "Comportamiento de la pestaña:"
   },
+  "enableBookMarkMenus": {
+    "message": "Habilitar menús de marcadores"
+  },
   "enableSync": {
     "message": "Habilitar sincronización"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Está opción permite abrir un marcador o carpeta de marcadores en un contenedor."
+  },
+  "enableSyncDescription": {
+    "message": "Está opción permite sincronizar tus contenedores y la asignación de sitios en todos los dispositivos."
+  },
+  "replaceTab": {
+    "message": "Reemplazar pestaña en vez de crear una nueva"
+  },
+  "openInContainer": {
+    "message": "Abrir en contenedor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Elegir ubicación",
@@ -163,6 +186,18 @@
   },
   "show": {
     "message": "Mostrar"
+  },
+  "protectYourContainers": {
+    "message": "Proteger los contenedores con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Proteger este contenedor con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Configuración avanzada de proxy"
+  },
+  "proxyInputLabel": {
+    "message": "Ingresar proxy personalizado"
   },
   "learnMore": {
     "message": "Conocer más"
