@@ -40,5 +40,44 @@
   },
   "onboarding-1-description": {
     "message": "Usa contenedores para organizar tareas, administrar cuentas y mantenerte concentrado en lo que te interesa."
+  },
+  "onboarding-2-header": {
+    "message": "Haz que los contenedores trabajen para ti."
+  },
+  "rate": {
+    "message": "Valorar"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "tweet": {
+    "message": "Tuitear"
+  },
+  "default": {
+    "message": "Predeterminado"
+  },
+  "manageContainers": {
+    "message": "Gestionar contenedores"
+  },
+  "newContainer": {
+    "message": "Nuevo contenedor"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar este contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "¿Estás seguro de querer eliminar este contenedor?"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "ok": {
+    "message": "Aceptar"
   }
 }
