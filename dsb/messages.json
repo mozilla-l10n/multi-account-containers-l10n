@@ -106,5 +106,102 @@
   },
   "manageThisContainer": {
     "message": "Toś ten kontejner zastojaś"
+  },
+  "containers": {
+    "message": "Kontejnery"
+  },
+  "done": {
+    "message": "Dokóńcony"
+  },
+  "getStarted": {
+    "message": "Prědne kšace"
+  },
+  "signIn": {
+    "message": "Pśizjawiś"
+  },
+  "notNow": {
+    "message": "Nic něnto"
+  },
+  "startSyncing": {
+    "message": "Synchronizaciju zachopiś"
+  },
+  "info": {
+    "message": "Info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Dalej"
+  },
+  "rememberMyDecision": {
+    "message": "Mój rozsud za toś to sedło se spomnjeś"
+  },
+  "optionalPermissions": {
+    "message": "Opcionalne pšawa:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastowe skrotconki:"
+  },
+  "tabBehavior": {
+    "message": "Rejtarikowe zaźaržanje:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Menije cytańskich znamjenjow zmóžniś"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronizacija z kontami Firefox:"
+  },
+  "enableSync": {
+    "message": "Synchronizěrowanje zmóžniś"
+  },
+  "openInContainer": {
+    "message": "W kontejnerje $containerName$ wócyniś",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Stojnišćo wubraś",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Schowaś"
+  },
+  "show": {
+    "message": "Pokazaś"
+  },
+  "protectYourContainers": {
+    "message": "Šćitajśo swóje kontejnery z Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Šćitajśo tos ten kontejner z Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Rozšyrjone proksy-nastajenja"
+  },
+  "proxyInputLabel": {
+    "message": "Swójski proksy zapódaś"
+  },
+  "useCustomLocation": {
+    "message": "Wužywajśo swójske stojnišćo za toś ten kontejner"
+  },
+  "clearproxylabel": {
+    "message": "Proksy lašowaś"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN jo zmóžnjony"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN jo znjemóžnjony"
+  },
+  "invalidProxyAlert": {
+    "message": "Pšosym zapódajśo płaśiwy proksy-URL"
+  },
+  "learnMore": {
+    "message": "Dalšne informacije"
+  },
+  "applyToContainer": {
+    "message": "Na kontejner nałožyś"
   }
 }
