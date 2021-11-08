@@ -1,0 +1,41 @@
+{
+  "openInNewTabTitle": {
+    "message": "Hap Skedë të Re në…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Rihape Këtë Sajt në…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Renditi Skedat sipas Kontejnerësh",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Hape Përherë Këtë Sajt në…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Hape përherë në…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Hape Sajtin Përherë në Kontejner"
+  },
+  "openANewTabIn": {
+    "message": "Hap një Skedë të Re në…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Hap Skedë të Re në këtë Kontejner"
+  },
+  "openTabs": {
+    "message": "Hapi Skedat",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Kaloji Skedat në një Dritare të Re"
+  },
+  "onboarding-1-header": {
+    "message": "Një rrugë më e mirë për të administruar krejt gjërat që bëni në internet"
+  }
+}
