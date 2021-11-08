@@ -45,6 +45,9 @@
   "onboarding-1-description": {
     "message": "Usá contenedores para organizar tareas, administrar cuentas y mantener tu foco donde vos querés."
   },
+  "onboarding-2-header": {
+    "message": "Poné a los contenedores a trabajar para vos."
+  },
   "onboarding-2-description": {
     "message": "Funcionalidades como códigos de colores y pestañas contenedoras separadas te ayudan a encontrar las cosas más fácilmente, enfocando tu atención y minimizando las distracciones."
   },
@@ -77,6 +80,9 @@
   },
   "onboarding-7-description": {
     "message": "Clic en Iniciar sesión para confirmar que tu cuenta de Firefox está activa."
+  },
+  "onboarding-8-description": {
+    "message": "Ahora los contenedores pueden integrarse con Mozilla VPN o cualquier proxy para crear una conexión segura y privada que proteja tu actividad."
   },
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
@@ -153,6 +159,9 @@
   "containers": {
     "message": "Contenedores"
   },
+  "done": {
+    "message": "Listo"
+  },
   "getStarted": {
     "message": "Primeros pasos"
   },
@@ -175,6 +184,9 @@
   "openThisSiteConfirmation": {
     "message": "¿Abrir este sitio en su contenedor asignado?"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "¿Todavía le gustaría abrir en este contenedor actual?"
+  },
   "rememberMyDecision": {
     "message": "Recordar mí decisión para este sitio"
   },
@@ -190,6 +202,9 @@
   "enableBookMarkMenus": {
     "message": "Habilitar menús de marcadores"
   },
+  "firefoxAccountsSync": {
+    "message": "Sincronización de cuentas de Firefox:"
+  },
   "enableSync": {
     "message": "Habilitar sincronización"
   },
@@ -201,6 +216,9 @@
   },
   "replaceTab": {
     "message": "Reemplazar pestaña en vez de crear una nueva"
+  },
+  "replaceTabDescription": {
+    "message": "Reemplazar la pestaña actual si una página que está asignada a otro contenedor es abierta (en vez de mantener abierta la pestaña actual). Abrir pestañas con el botón central del mouse no es afectado."
   },
   "editWhichContainer": {
     "message": "Editá que contenedor se abrirá al usar los atajos numéricos."
@@ -277,5 +295,8 @@
   },
   "applyToContainer": {
     "message": "Aplicar a contenedor"
+  },
+  "tooltipWarning": {
+    "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activada. Activá Mozilla VPN para usar este contenedor."
   }
 }
