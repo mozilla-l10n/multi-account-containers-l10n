@@ -69,6 +69,15 @@
   "onboarding-6-header": {
     "message": "¡Ahora está disponible la sincronización de contenedores!"
   },
+  "onboarding-6-description": {
+    "message": "Habilitá la sincronización para compartir contenedores y asignación de sitios con cualquier computadora conectada con tu cuenta de Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Se necesita una cuenta de Firefox para sincronizar."
+  },
+  "onboarding-7-description": {
+    "message": "Clic en Iniciar sesión para confirmar que tu cuenta de Firefox está activa."
+  },
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
   },
@@ -193,8 +202,27 @@
   "replaceTab": {
     "message": "Reemplazar pestaña en vez de crear una nueva"
   },
+  "editWhichContainer": {
+    "message": "Editá que contenedor se abrirá al usar los atajos numéricos."
+  },
+  "keyboardShortCut": {
+    "message": "Contenedor a abrir con el atajo de teclado $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openInContainer": {
     "message": "Abrir en contenedor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Pediste a Firefox que siempre abra $containerName$ para este sitio:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -223,8 +251,29 @@
   "proxyInputLabel": {
     "message": "Ingresar proxy personalizado"
   },
+  "useCustomLocation": {
+    "message": "Usar una ubicación personalizada para este contenedor"
+  },
+  "clearproxylabel": {
+    "message": "Limpiar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está activada"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desactivada"
+  },
+  "invalidProxyAlert": {
+    "message": "Ingresá una URL válida de proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe estar activada para usar esta función."
+  },
   "learnMore": {
     "message": "Conocer más"
+  },
+  "proxyNowAvailable": {
+    "message": "Ahora con Mozilla VPN y configuración avanzada de proxy"
   },
   "applyToContainer": {
     "message": "Aplicar a contenedor"
