@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "O Multi-Account Containers ajuda a manter todas as partes de sua vida online contidas em abas diferentes. Rótulos personalizados e abas codificadas por cores ajudam a manter separadas atividades diferentes, como compras, planejamento de viagens ou email do trabalho.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Abrir nova aba em…",
     "description": "Menu title"
@@ -44,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Coloque contêineres para trabalhar para você."
   },
+  "onboarding-2-description": {
+    "message": "Recursos como codificação por cores e abas contêiner separadas ajudam você a encontrar as coisas facilmente, focar sua atenção e minimizar distrações."
+  },
   "onboarding-3-header": {
     "message": "Um lugar para cada coisa e tudo em seu lugar."
   },
@@ -52,6 +59,9 @@
   },
   "onboarding-4-header": {
     "message": "Sempre abra sites nos contêineres que quiser."
+  },
+  "onboarding-4-description": {
+    "message": "Clique com o botão direito em uma aba contêiner para atribuir o site a sempre ser aberto naquele contêiner."
   },
   "onboarding-5-header": {
     "message": "Abas contêiner quando você precisar."
@@ -183,6 +193,18 @@
   "keyboardShortCuts": {
     "message": "Atalhos de teclado:"
   },
+  "onboarding": {
+    "message": "Introdução"
+  },
+  "resetOnboardingPanels": {
+    "message": "Redefinir painéis de introdução"
+  },
+  "onboardingToggle": {
+    "message": "Mude isto para ver novamente os painéis de introdução."
+  },
+  "tabBehavior": {
+    "message": "Comportamento da aba:"
+  },
   "enableBookMarkMenus": {
     "message": "Ativar menus de favoritos"
   },
@@ -191,6 +213,12 @@
   },
   "enableSync": {
     "message": "Ativar sincronização"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Esta configuração permite abrir um favorito ou pasta de favoritos em um contêiner."
+  },
+  "enableSyncDescription": {
+    "message": "Esta configuração permite sincronizar seus contêineres e atribuições de sites entre dispositivos."
   },
   "hide": {
     "message": "Ocultar"
