@@ -165,6 +165,9 @@
   "notNow": {
     "message": "Plus tard"
   },
+  "startSyncing": {
+    "message": "Commencez la synchronisation"
+  },
   "info": {
     "message": "Informations",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
@@ -286,6 +289,9 @@
   },
   "learnMore": {
     "message": "En savoir plus"
+  },
+  "proxyNowAvailable": {
+    "message": "Désormais avec Mozilla VPN et les paramètres avancés de proxy"
   },
   "applyToContainer": {
     "message": "Appliquer au conteneur"
