@@ -48,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Aseta eristystilat soveltumaan tarpeisiisi."
   },
+  "onboarding-3-header": {
+    "message": "Paikka kaikelle ja kaikki paikallaan."
+  },
   "onboarding-3-description": {
     "message": "Aloita luomillamme eristystiloilla tai luo oma eristystila."
   },
@@ -172,6 +175,9 @@
   "openThisSiteConfirmation": {
     "message": "Avataanko tämä sivusto sille määritetyssä eristystilassa?"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Haluatko silti avata tässä nykyisessä eristystilassa?"
+  },
   "rememberMyDecision": {
     "message": "Muista valinta tälle sivustolle"
   },
@@ -193,8 +199,25 @@
   "enableSync": {
     "message": "Ota synkronointi käyttöön"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Tämän asetuksen avulla voit avata kirjanmerkin tai kirjanmerkkikansion eristystilassa."
+  },
+  "enableSyncDescription": {
+    "message": "Tämän asetuksen avulla voit synkronoida eristystilat ja sivustomääritykset eri laitteiden välillä."
+  },
   "replaceTab": {
     "message": "Korvaa välilehti sen sijaan että luot uuden."
+  },
+  "editWhichContainer": {
+    "message": "Muokkaa, mikä eristystila avataan, kun käytät numeroituja pikanäppäimiä."
+  },
+  "keyboardShortCut": {
+    "message": "Pikanäppäimellä $keyId$ avattava eristystila",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "openInContainer": {
     "message": "Avaa $containerName$ eristystilassa",
