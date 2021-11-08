@@ -1,0 +1,18 @@
+{
+  "openInNewTabTitle": {
+    "message": "Dobrir l’onglet novèl dins…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Tornar dobrir lo site dins…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Triar los onglets per contenedor",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Totjorn dobrir lo aqueste dins…",
+    "description": "Menu title"
+  }
+}
