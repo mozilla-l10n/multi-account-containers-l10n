@@ -170,5 +170,33 @@
   },
   "tabBehavior": {
     "message": "Sjellje skede:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktivizo Menu Faqerojtësish"
+  },
+  "firefoxAccountsSync": {
+    "message": "Njëkohësim llogarish Firefox:"
+  },
+  "enableSync": {
+    "message": "Aktivizo njëkohësim"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Ky rregullim ju lejon të hapni në një Kontejner një faqerojtës, ose dosje faqerojtësish."
+  },
+  "enableSyncDescription": {
+    "message": "Ky rregullim ju lejon të njëkohësoni nëpër pajisje Kontejnerët tuaj dhe caktime sajtesh."
+  },
+  "replaceTab": {
+    "message": "Zëvendësoje skedën, në vend se të hapni një të re"
+  },
+  "chooseLocation": {
+    "message": "Zgjidhni vendndodhje",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Fshihe"
+  },
+  "show": {
+    "message": "Shfaqe"
   }
 }
