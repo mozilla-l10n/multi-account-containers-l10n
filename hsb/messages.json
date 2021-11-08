@@ -151,7 +151,7 @@
     "message": "Synchronizowanje zmóžnić"
   },
   "openInContainer": {
-    "message": "Wotkaz w kontejnerje $containerName$ wočinić",
+    "message": "W kontejnerje $containerName$ wočinić",
     "placeholders": {
       "containerName": {
         "content": "$1"
