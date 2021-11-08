@@ -169,6 +169,9 @@
   "next": {
     "message": "Seuraava"
   },
+  "openThisSiteConfirmation": {
+    "message": "Avataanko tämä sivusto sille määritetyssä eristystilassa?"
+  },
   "rememberMyDecision": {
     "message": "Muista valinta tälle sivustolle"
   },
