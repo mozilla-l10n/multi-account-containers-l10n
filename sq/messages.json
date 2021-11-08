@@ -37,5 +37,138 @@
   },
   "onboarding-1-header": {
     "message": "Një rrugë më e mirë për të administruar krejt gjërat që bëni në internet"
+  },
+  "onboarding-1-description": {
+    "message": "Përdorni Kontejnerë për të sistemuar punë, administruar llogari dhe për të pasur vëmendjen atje ku doni."
+  },
+  "onboarding-2-header": {
+    "message": "Vini Kontejnerët të punojnë për ju."
+  },
+  "onboarding-3-header": {
+    "message": "Një vend për gjithçka dhe gjithçka në vendin e vet."
+  },
+  "onboarding-3-description": {
+    "message": "Filloni me Kontejnerët që kemi krijuar, ose krijoni tuajin."
+  },
+  "onboarding-4-header": {
+    "message": "Hapini sajtet përherë në Kontejnerët që doni."
+  },
+  "onboarding-4-description": {
+    "message": "Djathtasklikoni brenda një skede Kontejneri që të caktoni hapjen e sajtit përherë në Kontejner."
+  },
+  "onboarding-5-header": {
+    "message": "Skeda kontejneri, kur ju duhen."
+  },
+  "onboarding-5-description": {
+    "message": "Shtypni gjatë butonin Skedë e Re që të krijoni një skedë të re Kontejneri."
+  },
+  "onboarding-6-header": {
+    "message": "Njëkohësimi i Kontejnerëve tani është Gati!"
+  },
+  "onboarding-7-header": {
+    "message": "Që të bëhet njëkohësim, lypset llogari Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Klikoni mbi Hyni, që të ripohoni se llogaria juaj Firefox është aktive."
+  },
+  "onboarding-8-description": {
+    "message": "Tanimë Kontejnerët mund të integrohen me Mozilla VPN, ose ndërmjetësin tuaj, për të krijuar një lidhje të sigurt, private, që mbron veprimtarinë tuaj."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 skeda!"
+  },
+  "youHaveOpened": {
+    "message": "Keni hapur 100 skeda Kontejnerësh."
+  },
+  "spreadTheWord": {
+    "message": "Nëse ju pëlqejnë Kontejnerët, ndihmonani të përhapim fjalën!"
+  },
+  "rate": {
+    "message": "Vlerësojeni"
+  },
+  "share": {
+    "message": "Ndajeni me të tjerët"
+  },
+  "default": {
+    "message": "Parazgjedhje"
+  },
+  "manageContainers": {
+    "message": "Administroni Kontejner"
+  },
+  "newContainer": {
+    "message": "Kontejner i Ri"
+  },
+  "hideThisContainer": {
+    "message": "Fshihe Këtë Kontejner"
+  },
+  "showThisContainer": {
+    "message": "Shfaqe Këtë Kontejner"
+  },
+  "removeThisContainer": {
+    "message": "Hiqe Këtë Kontejner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Jeni i sigurt se doni të hiqet ky Kontejner?"
+  },
+  "cancel": {
+    "message": "Anuloje"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "options": {
+    "message": "Mundësi"
+  },
+  "name": {
+    "message": "Emër"
+  },
+  "color": {
+    "message": "Ngjyrë"
+  },
+  "icon": {
+    "message": "Ikonë"
+  },
+  "deleteThisContainer": {
+    "message": "Fshije Këtë Kontejner"
+  },
+  "manageSiteList": {
+    "message": "Administroni Listë Sajtesh…"
+  },
+  "manageThisContainer": {
+    "message": "Administroni Këtë Kontejner"
+  },
+  "containers": {
+    "message": "Kontejnerë"
+  },
+  "done": {
+    "message": "U bë"
+  },
+  "getStarted": {
+    "message": "Fillojani"
+  },
+  "signIn": {
+    "message": "Hyni"
+  },
+  "notNow": {
+    "message": "Jo Tani"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Pasuesja"
+  },
+  "rememberMyDecision": {
+    "message": "Mbaje mend vendimin tim për këtë sajt"
+  },
+  "optionalPermissions": {
+    "message": "Leje Opsionale:"
+  },
+  "keyboardShortCuts": {
+    "message": "Shkurtore Tastiere:"
+  },
+  "tabBehavior": {
+    "message": "Sjellje skede:"
   }
 }
