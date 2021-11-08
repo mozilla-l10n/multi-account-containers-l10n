@@ -56,6 +56,9 @@
   "share": {
     "message": "Dźělić"
   },
+  "tweet": {
+    "message": "Twitrować"
+  },
   "default": {
     "message": "Standard"
   },
@@ -168,11 +171,20 @@
   "show": {
     "message": "Pokazać"
   },
+  "protectYourContainers": {
+    "message": "Škitajće swoje kontejnery z Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Škitajće tutón kontejner z Mozilla VPN"
+  },
   "advancedProxySettings": {
     "message": "Rozšěrjene proksy-nastajenja"
   },
   "proxyInputLabel": {
     "message": "Swójski proksy zapodać"
+  },
+  "useCustomLocation": {
+    "message": "Wužiwajće swójske stejnišćo za tutón kontejner"
   },
   "clearproxylabel": {
     "message": "Proksy zhašeć"
