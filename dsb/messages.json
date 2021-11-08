@@ -1,0 +1,38 @@
+{
+  "openInNewTabTitle": {
+    "message": "Nowy rejtarik wócyniś w…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Toś to sedło znowego wócyniś w…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Rejtariki pó kontejnerje sortěrowaś",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Toś to sedło pśecej wócyniś w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Pśecej wócyniś w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sedło pśecej w kontejnerje wócyniś"
+  },
+  "openANewTabIn": {
+    "message": "Nowy rejtarik wócyniś w…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Nowy rejtarik w toś tom kontejnerje wócyniś"
+  },
+  "openTabs": {
+    "message": "Wócynjone rejtarki",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Rejtariki do nowego wokna pśesunuś"
+  }
+}
