@@ -198,5 +198,47 @@
   },
   "show": {
     "message": "Shfaqe"
+  },
+  "protectYourContainers": {
+    "message": "Mbroni Kontejnerët tuaj me Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Mbroje këtë Kontejner me Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Rregullime të thelluara ndërmjetësi"
+  },
+  "proxyInputLabel": {
+    "message": "Jepni ndërmjetës vetjak"
+  },
+  "useCustomLocation": {
+    "message": "Përdorni një vendndodhje vetjake për këtë Kontejner"
+  },
+  "clearproxylabel": {
+    "message": "Spastroje ndërmjetësin"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN është aktiv"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN s’është aktiv"
+  },
+  "invalidProxyAlert": {
+    "message": "Ju lutemi, jepni një URL të vlefshme ndërmjetësi"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Që të përdoret kjo veçori, Mozilla VPN duhet të jetë aktive."
+  },
+  "learnMore": {
+    "message": "Mësoni më tepër"
+  },
+  "proxyNowAvailable": {
+    "message": "Tanimë me Mozilla VPN dhe rregullime të thelluara ndërmjetësi"
+  },
+  "applyToContainer": {
+    "message": "Aplikoje mbi Kontejner"
+  },
+  "tooltipWarning": {
+    "message": "Ky Kontejner është ujdisur të përdorë një ndërmjetës Mozilla VPN, por Mozilla VPN s’është aktive. Që të përdorni këtë Kontejner, aktivizoni Mozilla VPN."
   }
 }
