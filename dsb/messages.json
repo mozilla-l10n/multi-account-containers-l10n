@@ -57,7 +57,7 @@
     "message": "Źěliś"
   },
   "tweet": {
-    "message": "Tweetowaś"
+    "message": "Twitrowaś"
   },
   "default": {
     "message": "Standard"
@@ -175,7 +175,7 @@
     "message": "Šćitajśo swóje kontejnery z Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Šćitajśo tos ten kontejner z Mozilla VPN"
+    "message": "Šćitajśo toś ten kontejner z Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Rozšyrjone proksy-nastajenja"
