@@ -144,6 +144,9 @@
   "icon": {
     "message": "Ícone"
   },
+  "limitToDesignatedSites": {
+    "message": "Limitar aos sites designados"
+  },
   "deleteThisContainer": {
     "message": "Excluir este contêiner"
   },
@@ -229,6 +232,38 @@
   "editWhichContainer": {
     "message": "Edite qual contêiner é aberto ao usar os atalhos numerados."
   },
+  "keyboardShortCut": {
+    "message": "Contêiner a abrir com o atalho de teclado $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegação",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Abrir no contêiner $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Você pediu ao Firefox para sempre abrir este site em $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Escolher local",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Ocultar"
   },
@@ -244,6 +279,12 @@
   "advancedProxySettings": {
     "message": "Configurações avançadas de proxy"
   },
+  "proxyInputLabel": {
+    "message": "Digite proxy personalizado"
+  },
+  "useCustomLocation": {
+    "message": "Usar um local personalizado para este contêiner"
+  },
   "clearproxylabel": {
     "message": "Limpar proxy"
   },
@@ -252,6 +293,9 @@
   },
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN está desativado"
+  },
+  "invalidProxyAlert": {
+    "message": "Digite uma URL de proxy válida"
   },
   "mozillaVpnMustBeOn": {
     "message": "O Mozilla VPN deve estar ativado para usar este recurso."
