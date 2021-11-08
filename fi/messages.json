@@ -66,6 +66,9 @@
   "onboarding-6-header": {
     "message": "Eristystilojen synkronointi on nyt saatavilla!"
   },
+  "onboarding-6-description": {
+    "message": "Ota synkronointi käyttöön, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustomääritykset minkä tahansa Firefox-tiliisi yhdistetyn tietokoneen kanssa."
+  },
   "onboarding-7-header": {
     "message": "Synkronointiin tarvitaan Firefox-tili."
   },
