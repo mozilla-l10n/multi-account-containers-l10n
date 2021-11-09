@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värikoodatut välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostoksten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
+    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värikoodatut välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -48,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Aseta eristystilat soveltumaan tarpeisiisi."
   },
+  "onboarding-2-description": {
+    "message": "Ominaisuudet, kuten värikoodaus ja erilliset eristystilassa olevat välilehdet, auttavat sinua löytämään asioita aiempaa helpommin, keskittämään huomiosi ja vähentämään häiriötekijät."
+  },
   "onboarding-3-header": {
     "message": "Paikka kaikelle ja kaikki paikallaan."
   },
@@ -56,6 +59,9 @@
   },
   "onboarding-4-header": {
     "message": "Avaa aina haluamasi sivustot haluamissasi eristystiloissa."
+  },
+  "onboarding-4-description": {
+    "message": "Napsauta hiiren kakkospainikkeella eristystilassa olevaa välilehteä määrittääksesi sivuston aina avattavaksi eristystilassa."
   },
   "onboarding-5-header": {
     "message": "Eristetyt välilehdet kun niitä tarvitset."
@@ -190,6 +196,15 @@
   "keyboardShortCuts": {
     "message": "Pikanäppäimet:"
   },
+  "onboarding": {
+    "message": "Perehdytys"
+  },
+  "resetOnboardingPanels": {
+    "message": "Nollaa perehdytyspaneelit"
+  },
+  "onboardingToggle": {
+    "message": "Kytke päälle nähdäksesi perehdytyspaneelit uudelleen."
+  },
   "tabBehavior": {
     "message": "Välilehden toiminta:"
   },
@@ -221,6 +236,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers -eristystilojen navigoinnin vahvistaminen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "Avaa $containerName$ eristystilassa",
