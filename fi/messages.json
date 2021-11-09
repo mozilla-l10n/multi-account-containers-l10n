@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värikoodatut välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
+    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värein merkityt välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -225,6 +225,9 @@
   },
   "replaceTab": {
     "message": "Korvaa välilehti sen sijaan että luot uuden."
+  },
+  "replaceTabDescription": {
+    "message": "Korvaa nykyinen välilehti, jos avataan sivu, joka on määritetty toiseen eristystilaan (sen sijaan, että nykyinen välilehti pidettäisiin auki). Tämä ei vaikuta välilehtien avaamiseen hiiren keskipainikkeella."
   },
   "editWhichContainer": {
     "message": "Muokkaa, mikä eristystila avataan, kun käytät numeroituja pikanäppäimiä."
