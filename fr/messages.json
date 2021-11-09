@@ -45,6 +45,9 @@
   "onboarding-1-description": {
     "message": "Utilisez les conteneurs pour organiser vos tâches, gérer vos comptes et vous concentrer sur ce que vous voulez."
   },
+  "onboarding-2-header": {
+    "message": "Faites travailler les conteneurs à votre place."
+  },
   "onboarding-2-description": {
     "message": "Des fonctionnalités telles que le repérage par couleur des onglets et la séparation des conteneurs vous aide à vous y retrouver facilement, à vous concentrer et à minimiser les distractions."
   },
@@ -201,6 +204,9 @@
   },
   "tabBehavior": {
     "message": "Comportement de l’onglet :"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activer les menus de marque-pages"
   },
   "firefoxAccountsSync": {
     "message": "Synchronisation avec les comptes Firefox : "
