@@ -1,0 +1,14 @@
+{
+  "openInNewTabTitle": {
+    "message": "Åpne ny fane i…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Åpne denne siden på nytt i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sorter faner etter beholder",
+    "description": "Menu title"
+  }
+}
