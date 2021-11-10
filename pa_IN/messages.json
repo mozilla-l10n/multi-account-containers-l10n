@@ -42,8 +42,44 @@
   "onboarding-1-header": {
     "message": "ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੇ ਇੰਤਜ਼ਾਮ ਦਾ ਵਧੀਆ ਢੰਗ"
   },
+  "onboarding-1-description": {
+    "message": "ਕਨਟੇਨਰਾਂ ਨੂੰ ਕੰਮ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ, ਖਾਤਿਆਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰਨ ਤੇ ਜਿੱਥੇ ਤੁਸੀਂ ਚਾਹੋ, ਓਥੇ ਧਿਆਨ ਕੇਂਦਰਿਤ ਕਰਨ ਲਈ ਵਰਤੋਂ।"
+  },
+  "onboarding-2-header": {
+    "message": "ਕਨਟੇਨਰਾਂ ਨੂੰ ਆਪਣੇ ਲਈ ਵਰਤੋਂ।"
+  },
+  "onboarding-3-header": {
+    "message": "ਹਰ ਚੀਜ਼ ਲਈ ਇੱਕ ਟਿਕਾਣਾ ਅਤੇ ਹਰ ਚੀਜ਼ ਆਪਣੇ ਟਿਕਾਣੇ ਉੱਤੇ।"
+  },
+  "onboarding-3-description": {
+    "message": "ਸਾਡੇ ਵਲੋਂ ਬਣਾਏ ਹੋਏ ਕਨਟੇਨਰ ਵਰਤ ਲਵੋ ਜਾਂ ਆਪਣੇ ਖੁਦ ਦੇ ਬਣਾਓ।"
+  },
+  "onboarding-4-header": {
+    "message": "ਸਾਈਟਾਂ ਨੂੰ ਹਮੇਸ਼ਾਂ ਜਿਸ ਵਿੱਚ ਚਾਹੋ, ਉਸ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ।"
+  },
+  "onboarding-4-description": {
+    "message": "ਕਨਟੇਨਰ ਟੈਬ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰਕੇ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਖਾਸ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣ ਲਈ ਨਿਯਤ ਕਰ ਦਿਓ।"
+  },
+  "onboarding-5-header": {
+    "message": "ਜਦੋਂ ਵੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੋਵੇ ਤਾਂ ਕਨਟੇਨਰ ਟੈਬਾਂ।"
+  },
+  "onboarding-5-description": {
+    "message": "ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ ਬਣਾਉਣ ਲਈ ਨਵੀਂ ਟੈਬ ਬਟਨ ਨੂੰ ਵੱਧ ਚਿਰ ਦਬਾ ਕੇ ਰੱਖੋ।"
+  },
+  "onboarding-6-header": {
+    "message": "ਹੁਣ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸਿੰਕ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ!"
+  },
+  "onboarding-6-description": {
+    "message": "ਕਨਟੇਨਰ ਤੇ ਉਸ ਲਈ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ Firefox ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਕਿਸੇ ਵੀ ਕੰਪਿਊਟਰ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।"
+  },
   "onboarding-7-header": {
     "message": "ਸਿੰਕ ਕਰਨ ਲਈ Firefox ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ"
+  },
+  "onboarding-7-description": {
+    "message": "ਤੁਹਾਡੇ Firefox ਖਾਤੇ ਦੇ ਸਰਗਰਮ ਹੋਣ ਦੀ ਤਸਦੀਕ ਕਰਨ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।"
+  },
+  "onboarding-8-description": {
+    "message": "ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀਆਂ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਸਤੇ ਸੁਰੱਖਿਅਤ, ਪ੍ਰਾਈਵੇਟ ਕਨੈਕਸ਼ਨ ਬਣਾਉਣ ਲਈ ਨਵੇਂ ਕਨਟੇਨਰ Mozilla VPN ਜਾਂ ਤੁਹਾਡੇ ਆਪਣੇ ਪਰਾਕਸੀ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋ ਸਕਦੇ ਹਨ।"
   },
   "oneHundredTabsHeader": {
     "message": "100 ਟੈਬਾਂ!"
@@ -105,6 +141,15 @@
   "icon": {
     "message": "ਆਈਕਾਨ"
   },
+  "limitToDesignatedSites": {
+    "message": "ਨਿਯੁਕਤ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਲਈ ਸੀਮਿਤ"
+  },
+  "deleteThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਹਟਾਓ"
+  },
+  "manageSiteList": {
+    "message": "…ਸਾਈਟ ਸੂਚੀ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ"
+  },
   "manageThisContainer": {
     "message": "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ"
   },
@@ -135,6 +180,9 @@
   },
   "openThisSiteConfirmation": {
     "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਨਿਯਤ ਕੀਤੇ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਹੈ?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹਾਲੇ ਵੀ ਇਸ ਮੌਜੂਦਾ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਚਾਹੋਗੇ?"
   },
   "rememberMyDecision": {
     "message": "ਇਸ ਸਾਈਟ ਲਈ ਮੇਰਾ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ"
