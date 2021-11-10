@@ -193,6 +193,43 @@
   "keyboardShortCuts": {
     "message": "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ:"
   },
+  "onboarding": {
+    "message": "ਤਿਆਰੀ"
+  },
+  "resetOnboardingPanels": {
+    "message": "ਤਿਆਰੀ ਪੈਨਲਾਂ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+  },
+  "onboardingToggle": {
+    "message": "ਤਿਆਰੀ ਪੈਨਲਾਂ ਨੂੰ ਮੁੜ ਵੇਖਣ ਲਈ ਇਸ ਨੂੰ ਬਦਲੋ।"
+  },
+  "tabBehavior": {
+    "message": "ਟੈਬ ਰਵੱਈਆ:"
+  },
+  "enableBookMarkMenus": {
+    "message": "ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox ਖਾਤੇ ਸਿੰਕ:"
+  },
+  "enableSync": {
+    "message": "ਸਿੰਕ ਸਮਰੱਥ ਕਰੋ"
+  },
+  "openInContainer": {
+    "message": "$containerName$ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "ਟਿਕਾਣਾ ਚੁਣੋ",
     "description": "Location refers to the geographical position used by the VPN"
@@ -202,6 +239,15 @@
   },
   "show": {
     "message": "ਵੇਖਾਓ"
+  },
+  "protectYourContainers": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+  },
+  "advancedProxySettings": {
+    "message": "ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ"
+  },
+  "proxyInputLabel": {
+    "message": "ਪਸੰਦੀਦਾ ਪਰਾਕਸੀ ਦਿਓ"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN ਚਾਲੂ ਹੈ"
