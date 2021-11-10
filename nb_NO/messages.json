@@ -10,5 +10,41 @@
   "sortTabsByContainer": {
     "message": "Sorter faner etter beholder",
     "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Åpne alltid dette nettstedet i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Åpne alltid i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Åpne alltid nettstedet i beholder"
+  },
+  "openANewTabIn": {
+    "message": "Åpne en ny fane i…"
+  },
+  "openTabs": {
+    "message": "Åpne faner",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "hide": {
+    "message": "Skjul"
+  },
+  "show": {
+    "message": "Vis"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN må være aktivert for å bruke denne funksjonen."
+  },
+  "learnMore": {
+    "message": "Les mer"
+  },
+  "proxyNowAvailable": {
+    "message": "Nå med Mozilla VPN og avanserte proxy-innstillinger"
+  },
+  "tooltipWarning": {
+    "message": "Denne beholderen er satt opp til å bruke en Mozilla VPN-proxy, men Mozilla VPN er ikke aktivert. Aktiver Mozilla VPN for å bruke denne beholderen."
   }
 }
