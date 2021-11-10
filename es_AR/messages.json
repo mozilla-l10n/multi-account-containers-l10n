@@ -196,6 +196,15 @@
   "keyboardShortCuts": {
     "message": "Atajos de teclado:"
   },
+  "onboarding": {
+    "message": "Introducción"
+  },
+  "resetOnboardingPanels": {
+    "message": "Restablecer paneles de introducción"
+  },
+  "onboardingToggle": {
+    "message": "Cambiar esto para ver los paneles de introducción de nuevo."
+  },
   "tabBehavior": {
     "message": "Comportamiento de la pestaña:"
   },
@@ -230,6 +239,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegación",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "Abrir en contenedor $containerName$",
