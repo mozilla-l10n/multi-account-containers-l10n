@@ -57,6 +57,9 @@
   "onboarding-3-description": {
     "message": "Commencez avec les conteneurs que nous avons préparés ou créez les vôtres."
   },
+  "onboarding-4-header": {
+    "message": "Ouvrez toujours les sites dans les conteneurs de votre choix."
+  },
   "onboarding-4-description": {
     "message": "Effectuez un clic droit dans un onglet conteneur pour forcer le site actuel à toujours s’ouvrir dans ce conteneur."
   },
