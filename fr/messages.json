@@ -240,6 +240,10 @@
       }
     }
   },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers – Confirmer la navigation",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Ouvrir dans le conteneur $containerName$",
     "placeholders": {
