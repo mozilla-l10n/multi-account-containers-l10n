@@ -79,5 +79,69 @@
   },
   "ok": {
     "message": "Aceptar"
+  },
+  "options": {
+    "message": "Opciones"
+  },
+  "name": {
+    "message": "Nombre"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Icono"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitios designados"
+  },
+  "deleteThisContainer": {
+    "message": "Eliminar este contenedor"
+  },
+  "manageSiteList": {
+    "message": "Administrar lista de sitios…"
+  },
+  "manageThisContainer": {
+    "message": "Administrar este contenedor"
+  },
+  "containers": {
+    "message": "Contenedores"
+  },
+  "done": {
+    "message": "Hecho"
+  },
+  "getStarted": {
+    "message": "Comenzar"
+  },
+  "signIn": {
+    "message": "Iniciar sesión"
+  },
+  "notNow": {
+    "message": "Ahora no"
+  },
+  "startSyncing": {
+    "message": "Empezar a sincronizar"
+  },
+  "info": {
+    "message": "Información",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Siguiente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "¿Abrir este sitio en su contenedor asignado?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "¿Todavía te gustaría abrirlo en el contenedor actual?"
+  },
+  "rememberMyDecision": {
+    "message": "Recordar mi decisión para este sitio"
+  },
+  "optionalPermissions": {
+    "message": "Permisos opcionales:"
+  },
+  "keyboardShortCuts": {
+    "message": "Atajos de teclado:"
   }
 }
