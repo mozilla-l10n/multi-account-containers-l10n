@@ -35,6 +35,15 @@
   "moveTabsToANewWindow": {
     "message": "Rajtarki do noweho wokna přesunyć"
   },
+  "onboarding-3-description": {
+    "message": "Započńće z kontejnerami, kotryž my smy wutworili, abo wutworće swójske."
+  },
+  "onboarding-4-header": {
+    "message": "Wočińće sydła přeco w požadanych kontejnerach."
+  },
+  "onboarding-5-header": {
+    "message": "Kontejnerowe rajtarki, hdyž je trjebaće."
+  },
   "onboarding-5-description": {
     "message": "Tłóčće dołho na tłóčatko Nowy rajtark, zo byšće nowy kontejnerowy rajtark wutworił."
   },
@@ -43,6 +52,9 @@
   },
   "onboarding-7-header": {
     "message": "Trjebaće konto Firefox, zo byšće synchronizował."
+  },
+  "onboarding-7-description": {
+    "message": "Klikńće na Přizjewić, zo byšće wobkrućił, zo waše konto Firefox je aktiwne."
   },
   "oneHundredTabsHeader": {
     "message": "100 rajtarkow!"
@@ -86,6 +98,9 @@
   "ok": {
     "message": "W porjadku"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Sydła, kotrež su so tutomu kontejnerej připokazali"
+  },
   "options": {
     "message": "Nastajenja"
   },
@@ -97,6 +112,9 @@
   },
   "icon": {
     "message": "Symbol"
+  },
+  "limitToDesignatedSites": {
+    "message": "Na wěste sydła wobmjezować"
   },
   "deleteThisContainer": {
     "message": "Tutón kontejner zhašeć"
@@ -131,6 +149,9 @@
   },
   "next": {
     "message": "Dale"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Tute sydło we wašim připokazanym kontejnerje wočinić?"
   },
   "rememberMyDecision": {
     "message": "Mój rozsud za tute sydło sej spomjatkować"
