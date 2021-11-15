@@ -153,6 +153,9 @@
   "openThisSiteConfirmation": {
     "message": "Tute sydło we wašim připokazanym kontejnerje wočinić?"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Chceće hišće w aktualnym kontejnerje wočinić?"
+  },
   "rememberMyDecision": {
     "message": "Mój rozsud za tute sydło sej spomjatkować"
   },
