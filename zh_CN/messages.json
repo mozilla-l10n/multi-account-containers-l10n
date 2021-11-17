@@ -44,6 +44,15 @@
   "onboarding-2-header": {
     "message": "多个身份，一键切换。"
   },
+  "onboarding-6-header": {
+    "message": "身份同步功能正式上线！"
+  },
+  "onboarding-6-description": {
+    "message": "开启同步后，即可将身份及网站设置同步到所有登录 Firefox 账户的计算机。"
+  },
+  "onboarding-7-header": {
+    "message": "需要 Firefox 账户才能同步。"
+  },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
   },
@@ -159,6 +168,14 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "openInContainer": {
+    "message": "用 $containerName$ 身份打开",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "youAskedFirefox": {
     "message": "您要求 Firefox 总是使用“$containerName”身份打开此网站：",
     "placeholders": {
@@ -177,11 +194,20 @@
   "show": {
     "message": "显示"
   },
+  "protectYourContainers": {
+    "message": "用 Mozilla VPN 保护您的身份"
+  },
+  "protectThisContainer": {
+    "message": "用 Mozilla VPN 保护此身份"
+  },
   "advancedProxySettings": {
     "message": "高级代理设置"
   },
   "proxyInputLabel": {
     "message": "输入自定义代理"
+  },
+  "useCustomLocation": {
+    "message": "为此身份使用自定义位置"
   },
   "clearproxylabel": {
     "message": "清除代理"
@@ -203,5 +229,11 @@
   },
   "proxyNowAvailable": {
     "message": "现已整合 Mozilla VPN 及高级代理设置"
+  },
+  "applyToContainer": {
+    "message": "应用至身份"
+  },
+  "tooltipWarning": {
+    "message": "此身份已设置为使用 Mozilla VPN 代理，但 Mozilla VPN 尚未开启。请启用 Mozilla VPN 以使用此身份。"
   }
 }
