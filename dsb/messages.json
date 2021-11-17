@@ -38,6 +38,12 @@
   "onboarding-3-description": {
     "message": "Zachopśo z kontejnerami, kótarež my smy napórali, abo napórajśo swójske."
   },
+  "onboarding-4-header": {
+    "message": "Wócyńśo sedła pśecej w pominanych kontejnerach."
+  },
+  "onboarding-5-header": {
+    "message": "Kontejnerowe rejtariki, gaž je trjebaśo."
+  },
   "onboarding-5-description": {
     "message": "Tłocćo dłujko na tłocašk Nowy rrjtark, aby nowy kontejnerowy rejtarik napórał."
   },
@@ -46,6 +52,9 @@
   },
   "onboarding-7-header": {
     "message": "Trjebaśo konto Firefox, aby synchronizěrował."
+  },
+  "onboarding-7-description": {
+    "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto Firefox jo aktiwne."
   },
   "oneHundredTabsHeader": {
     "message": "100 rejtarikow!"
@@ -89,6 +98,9 @@
   "ok": {
     "message": "W pórěźe"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Sedła, kótarež su se pśipokazali toś tomu kontejneroju"
+  },
   "options": {
     "message": "Nastajenja"
   },
@@ -100,6 +112,9 @@
   },
   "icon": {
     "message": "Symbol"
+  },
+  "limitToDesignatedSites": {
+    "message": "Na wěste sedła wobgranicowaś"
   },
   "deleteThisContainer": {
     "message": "Toś ten kontejner lašowaś"
@@ -135,6 +150,12 @@
   "next": {
     "message": "Dalej"
   },
+  "openThisSiteConfirmation": {
+    "message": "Toś to sydło we wašom pśipokazanem kontejnerje wócyniś?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Cośo hyšći w aktualnem kontejnerje wócyniś?"
+  },
   "rememberMyDecision": {
     "message": "Mój rozsud za toś to sedło se spomnjeś"
   },
@@ -155,6 +176,21 @@
   },
   "enableSync": {
     "message": "Synchronizěrowanje zmóžniś"
+  },
+  "editWhichContainer": {
+    "message": "Nastajśo, kótary kontejner se wócynja, gaž se numerěrowane tastowe skrotconki wužywaju."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner, kótaryž ma se z tastoweju skrotconku $keyId$ wócyniś",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Nawigaciju wobkšuśiś",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "W kontejnerje $containerName$ wócyniś",
@@ -201,8 +237,14 @@
   "invalidProxyAlert": {
     "message": "Pšosym zapódajśo płaśiwy proksy-URL"
   },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN musy zmóžnjony byś, aby mógał toś tu funkciju wužywaś."
+  },
   "learnMore": {
     "message": "Dalšne informacije"
+  },
+  "proxyNowAvailable": {
+    "message": "Něnto z Mozilla VPN a rozšyrjonymi proksy-nastajenjami"
   },
   "applyToContainer": {
     "message": "Na kontejner nałožyś"
