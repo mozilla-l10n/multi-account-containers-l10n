@@ -68,6 +68,9 @@
   "youHaveOpened": {
     "message": "您已打开 100 个身份标签页。"
   },
+  "spreadTheWord": {
+    "message": "若您喜欢这个功能，就请向大家多多安利哟！"
+  },
   "rate": {
     "message": "评分"
   },
@@ -103,6 +106,9 @@
   },
   "ok": {
     "message": "确定"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "指定至此身份的网站"
   },
   "options": {
     "message": "选项"
