@@ -1,4 +1,8 @@
 {
+  "sortTabsByContainer": {
+    "message": "按身份排序标签页",
+    "description": "Menu title"
+  },
   "openTabs": {
     "message": "打开的标签页",
     "description": "Section title for tabs that are currently open in that container"
