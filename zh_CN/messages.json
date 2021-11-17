@@ -50,6 +50,9 @@
   "onboarding-4-header": {
     "message": "按您所需，用特定的身份打开特定网站。"
   },
+  "onboarding-5-description": {
+    "message": "长按“新建标签页”按钮，即可选择身份。"
+  },
   "onboarding-6-header": {
     "message": "身份同步功能正式上线！"
   },
