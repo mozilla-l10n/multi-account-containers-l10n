@@ -1,0 +1,97 @@
+{
+  "oneHundredTabsHeader": {
+    "message": "100 个标签页！"
+  },
+  "rate": {
+    "message": "评分"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "default": {
+    "message": "默认"
+  },
+  "hideThisContainer": {
+    "message": "隐藏此身份"
+  },
+  "showThisContainer": {
+    "message": "显示此身份"
+  },
+  "removeThisContainer": {
+    "message": "移除此身份"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "ok": {
+    "message": "确定"
+  },
+  "options": {
+    "message": "选项"
+  },
+  "name": {
+    "message": "名称"
+  },
+  "icon": {
+    "message": "图标"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "getStarted": {
+    "message": "开始使用"
+  },
+  "signIn": {
+    "message": "登录"
+  },
+  "notNow": {
+    "message": "暂时不要"
+  },
+  "startSyncing": {
+    "message": "开始同步"
+  },
+  "info": {
+    "message": "信息",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "tabBehavior": {
+    "message": "标签页行为："
+  },
+  "enableBookMarkMenus": {
+    "message": "启用书签菜单"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox 账户同步："
+  },
+  "enableSync": {
+    "message": "启用同步"
+  },
+  "chooseLocation": {
+    "message": "选择位置",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "隐藏"
+  },
+  "show": {
+    "message": "显示"
+  },
+  "advancedProxySettings": {
+    "message": "高级代理设置"
+  },
+  "proxyInputLabel": {
+    "message": "输入自定义代理"
+  },
+  "clearproxylabel": {
+    "message": "清除代理"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN 已开启"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN 已关闭"
+  },
+  "learnMore": {
+    "message": "详细了解"
+  }
+}
