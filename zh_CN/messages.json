@@ -122,6 +122,14 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "youAskedFirefox": {
+    "message": "您要求 Firefox 总是使用“$containerName”身份打开此网站：",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "选择位置",
     "description": "Location refers to the geographical position used by the VPN"
