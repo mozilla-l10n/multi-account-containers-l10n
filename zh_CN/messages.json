@@ -1,4 +1,11 @@
 {
+  "openTabs": {
+    "message": "打开的标签页",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "将标签页移动到新窗口"
+  },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
   },
@@ -32,8 +39,23 @@
   "name": {
     "message": "名称"
   },
+  "color": {
+    "message": "颜色"
+  },
   "icon": {
     "message": "图标"
+  },
+  "deleteThisContainer": {
+    "message": "删除此身份"
+  },
+  "manageSiteList": {
+    "message": "管理网站列表…"
+  },
+  "manageThisContainer": {
+    "message": "管理此身份"
+  },
+  "containers": {
+    "message": "身份"
   },
   "done": {
     "message": "完成"
@@ -53,6 +75,12 @@
   "info": {
     "message": "信息",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "openThisSiteConfirmation": {
+    "message": "要用您指定的身份打开此网站吗？"
   },
   "tabBehavior": {
     "message": "标签页行为："
