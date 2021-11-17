@@ -177,6 +177,9 @@
   "enableSync": {
     "message": "Synchronizěrowanje zmóžniś"
   },
+  "replaceTab": {
+    "message": "Rejtarik wuměniś, město aby se nowy napórał"
+  },
   "editWhichContainer": {
     "message": "Nastajśo, kótary kontejner se wócynja, gaž se numerěrowane tastowe skrotconki wužywaju."
   },
@@ -194,6 +197,14 @@
   },
   "openInContainer": {
     "message": "W kontejnerje $containerName$ wócyniś",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Sćo pšosył Firefox, $containerName$ pśecej za toś to sedło wócyniś:",
     "placeholders": {
       "containerName": {
         "content": "$1"
