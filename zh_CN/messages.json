@@ -1,7 +1,26 @@
 {
+  "openInNewTabTitle": {
+    "message": "新建身份标签页打开…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "用身份标签页重新打开…",
+    "description": "Menu title"
+  },
   "sortTabsByContainer": {
     "message": "按身份排序标签页",
     "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "总是用身份标签页打开此网站…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "总是用身份标签页打开…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "总是用身份标签页打开网站"
   },
   "openTabs": {
     "message": "打开的标签页",
