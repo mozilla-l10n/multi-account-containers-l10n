@@ -10,6 +10,9 @@
   "moveTabsToANewWindow": {
     "message": "将标签页移动到新窗口"
   },
+  "onboarding-1-description": {
+    "message": "善用身份功能安排任务、管理账户，专注于更重要的事情。"
+  },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
   },
