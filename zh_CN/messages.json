@@ -9,14 +9,26 @@
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
   },
+  "youHaveOpened": {
+    "message": "您已打开 100 个身份标签页。"
+  },
   "rate": {
     "message": "评分"
   },
   "share": {
     "message": "分享"
   },
+  "tweet": {
+    "message": "推文"
+  },
   "default": {
     "message": "默认"
+  },
+  "manageContainers": {
+    "message": "管理身份"
+  },
+  "newContainer": {
+    "message": "新建身份"
   },
   "hideThisContainer": {
     "message": "隐藏此身份"
@@ -26,6 +38,9 @@
   },
   "removeThisContainer": {
     "message": "移除此身份"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "您确定要移除此身份吗？"
   },
   "cancel": {
     "message": "取消"
@@ -81,6 +96,15 @@
   },
   "openThisSiteConfirmation": {
     "message": "要用您指定的身份打开此网站吗？"
+  },
+  "rememberMyDecision": {
+    "message": "记住我对此网站的决定"
+  },
+  "optionalPermissions": {
+    "message": "可选权限："
+  },
+  "keyboardShortCuts": {
+    "message": "键盘快捷键："
   },
   "tabBehavior": {
     "message": "标签页行为："
