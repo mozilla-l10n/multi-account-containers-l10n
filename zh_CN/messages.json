@@ -44,6 +44,12 @@
   "onboarding-2-header": {
     "message": "多个身份，一键切换。"
   },
+  "onboarding-3-description": {
+    "message": "从我们默认的身份开始，或者自己新建。"
+  },
+  "onboarding-4-header": {
+    "message": "按您所需，用特定的身份打开特定网站。"
+  },
   "onboarding-6-header": {
     "message": "身份同步功能正式上线！"
   },
@@ -52,6 +58,9 @@
   },
   "onboarding-7-header": {
     "message": "需要 Firefox 账户才能同步。"
+  },
+  "onboarding-7-description": {
+    "message": "点击登录，即可确认您的 Firefox 账户启用状态。"
   },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
@@ -106,6 +115,9 @@
   },
   "icon": {
     "message": "图标"
+  },
+  "limitToDesignatedSites": {
+    "message": "限制特定网站"
   },
   "deleteThisContainer": {
     "message": "删除此身份"
