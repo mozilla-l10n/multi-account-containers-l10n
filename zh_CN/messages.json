@@ -22,6 +22,12 @@
   "alwaysOpenSiteInContainer": {
     "message": "总是用身份标签页打开网站"
   },
+  "openANewTabIn": {
+    "message": "新建身份标签页打开…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "用此身份新建标签页"
+  },
   "openTabs": {
     "message": "打开的标签页",
     "description": "Section title for tabs that are currently open in that container"
@@ -29,8 +35,14 @@
   "moveTabsToANewWindow": {
     "message": "将标签页移动到新窗口"
   },
+  "onboarding-1-header": {
+    "message": "管理在线生活的更佳方式"
+  },
   "onboarding-1-description": {
     "message": "善用身份功能安排任务、管理账户，专注于更重要的事情。"
+  },
+  "onboarding-2-header": {
+    "message": "多个身份，一键切换。"
   },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
