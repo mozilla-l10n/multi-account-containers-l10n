@@ -135,6 +135,9 @@
   "openThisSiteConfirmation": {
     "message": "要用您指定的身份打开此网站吗？"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "您仍要用当前身份打开吗？"
+  },
   "rememberMyDecision": {
     "message": "记住我对此网站的决定"
   },
@@ -189,7 +192,16 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN 已关闭"
   },
+  "invalidProxyAlert": {
+    "message": "请输入有效的代理网址"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "须启用 Mozilla VPN 才能使用此功能。"
+  },
   "learnMore": {
     "message": "详细了解"
+  },
+  "proxyNowAvailable": {
+    "message": "现已整合 Mozilla VPN 及高级代理设置"
   }
 }
