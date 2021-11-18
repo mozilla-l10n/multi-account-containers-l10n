@@ -1,0 +1,223 @@
+{
+  "extensionDescription": {
+    "message": "Doplnok Multi-Account Containers vám pomôžu udržať všetky časti vášho online života na rôznych kartách. Vlastné štítky a farebne odlíšené karty pomáhajú oddeliť rôzne aktivity, ako je nakupovanie online, plánovanie ciest alebo kontrola pracovných e-mailov.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Otvoriť novú kartu v…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Znovu otvoriť túto stránku v…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Zoradiť karty podľa kontajnera",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Túto stránku vždy otvárať v…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Vždy otvárať v…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Stránku vždy otvárať v kontajneri"
+  },
+  "openANewTabIn": {
+    "message": "Otvoriť novú kartu v…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Otvoriť novú kartu v tomto kontajneri"
+  },
+  "openTabs": {
+    "message": "Otvorené karty",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Presunúť karty do nového okna"
+  },
+  "onboarding-1-header": {
+    "message": "Lepší spôsob, ako spravovať všetky veci, ktoré robíte online"
+  },
+  "onboarding-1-description": {
+    "message": "Pomocou kontajnerov organizujte úlohy, spravujte účty a sústreďte sa na to, čo chcete."
+  },
+  "onboarding-2-header": {
+    "message": "Nechajte kontajnery pracovať za vás."
+  },
+  "onboarding-2-description": {
+    "message": "Funkcie ako farebné odlíšenie a samostatné karty kontajnera vám pomôžu ľahko nájsť veci, sústrediť vašu pozornosť a minimalizovať rušivé vplyvy."
+  },
+  "onboarding-3-header": {
+    "message": "Miesto pre všetko a všetko na svojom mieste."
+  },
+  "onboarding-3-description": {
+    "message": "Začnite s kontajnermi, ktoré sme vytvorili, alebo si vytvorte vlastné."
+  },
+  "onboarding-4-header": {
+    "message": "Stránky vždy otvárajte v požadovaných kontajneroch."
+  },
+  "onboarding-4-description": {
+    "message": "Kliknutím pravým tlačidlom myši na kontajnerovej karte určíte, aby sa daná stránka vždy otvárala v kontajneri."
+  },
+  "onboarding-5-header": {
+    "message": "Kontajnerové karty, keď ich potrebujete."
+  },
+  "onboarding-5-description": {
+    "message": "Dlhým stlačením tlačidla Nová karta vytvorte novú kartu kontajnera."
+  },
+  "onboarding-6-header": {
+    "message": "Teraz je k dispozícii synchronizácia kontajnerov."
+  },
+  "onboarding-6-description": {
+    "message": "Zapnite synchronizáciu a zdieľajte kontajnery a priradené stránky s akýmkoľvek počítačom pripojeným k vášmu účtu Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Na synchronizáciu je potrebný účet Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Kliknutím na tlačidlo Prihlásiť sa potvrďte, že váš účet Firefox je aktívny."
+  },
+  "onboarding-8-description": {
+    "message": "Teraz je možné kontajnery integrovať s Mozilla VPN alebo vašim vlastným proxy a vytvoriť tak bezpečné súkromné pripojenie, ktoré chráni vašu aktivitu."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 kariet!"
+  },
+  "youHaveOpened": {
+    "message": "Otvorili ste 100 kariet kontajnera."
+  },
+  "spreadTheWord": {
+    "message": "Ak sa vám kontajnery páčia, pomôžte nám ich rozšíriť!"
+  },
+  "rate": {
+    "message": "Ohodnotiť"
+  },
+  "share": {
+    "message": "Zdieľať"
+  },
+  "tweet": {
+    "message": "Tweetovať"
+  },
+  "default": {
+    "message": "Predvolený"
+  },
+  "manageContainers": {
+    "message": "Spravovať kontajnery"
+  },
+  "newContainer": {
+    "message": "Nový kontajner"
+  },
+  "hideThisContainer": {
+    "message": "Skryť tento kontajner"
+  },
+  "showThisContainer": {
+    "message": "Zobraziť tento kontajner"
+  },
+  "removeThisContainer": {
+    "message": "Odstrániť tento kontajner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Naozaj chcete odstrániť tento kontajner?"
+  },
+  "cancel": {
+    "message": "Zrušiť"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Stránky priradené k tomuto kontajneru"
+  },
+  "options": {
+    "message": "Nastavenia"
+  },
+  "name": {
+    "message": "Názov"
+  },
+  "color": {
+    "message": "Farba"
+  },
+  "icon": {
+    "message": "Ikona"
+  },
+  "limitToDesignatedSites": {
+    "message": "Obmedziť na určené stránky"
+  },
+  "deleteThisContainer": {
+    "message": "Odstrániť tento kontajner"
+  },
+  "manageSiteList": {
+    "message": "Spravovať zoznam stránok…"
+  },
+  "manageThisContainer": {
+    "message": "Spravovať tento kontajner"
+  },
+  "containers": {
+    "message": "Kontajnery"
+  },
+  "done": {
+    "message": "Hotovo"
+  },
+  "getStarted": {
+    "message": "Začíname"
+  },
+  "signIn": {
+    "message": "Prihlásiť sa"
+  },
+  "notNow": {
+    "message": "Teraz nie"
+  },
+  "startSyncing": {
+    "message": "Spustiť synchronizáciu"
+  },
+  "info": {
+    "message": "Informácie",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Ďalej"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Chcete otvoriť túto lokalitu vo vami priradenom kontajneri?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Chceli by ste stránku vždy otvárať v tomto aktuálnom kontajneri?"
+  },
+  "rememberMyDecision": {
+    "message": "Zapamätať si toto rozhodnutie pre túto stránku"
+  },
+  "hide": {
+    "message": "Skryť"
+  },
+  "show": {
+    "message": "Zobraziť"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN je zapnutá"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN je vypnutá"
+  },
+  "invalidProxyAlert": {
+    "message": "Zadajte platnú adresu URL servera proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Ak chcete používať túto funkciu, musí byť zapnutá Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Ďalšie informácie"
+  },
+  "proxyNowAvailable": {
+    "message": "Teraz s Mozilla VPN a pokročilými nastaveniami proxy"
+  },
+  "applyToContainer": {
+    "message": "Použiť na kontajner"
+  },
+  "tooltipWarning": {
+    "message": "Tento kontajner je nastavený na používanie servera proxy Mozilla VPN, ale Mozilla VPN nie je zapnutá. Ak chcete používať tento kontajner, zapnite Mozilla VPN."
+  }
+}
