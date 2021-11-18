@@ -199,8 +199,17 @@
   "onboarding": {
     "message": "Úvodný sprievodca"
   },
+  "resetOnboardingPanels": {
+    "message": "Obnovenie Úvodného sprievodcu"
+  },
+  "onboardingToggle": {
+    "message": "Kliknutím opätovne povolíte Úvodného sprievodcu"
+  },
   "tabBehavior": {
     "message": "Správanie karty:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Povoliť ponuku v záložkách"
   },
   "firefoxAccountsSync": {
     "message": "Synchronizácia pomocou účtu Firefox:"
@@ -208,11 +217,48 @@
   "enableSync": {
     "message": "Povoliť synchronizáciu"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Toto nastavenie vám umožňuje otvoriť záložku alebo priečinok so záložkami v kontajneri."
+  },
   "enableSyncDescription": {
     "message": "Toto nastavenie vám umožňuje synchronizovať vaše kontajnery a priradenia stránok medzi zariadeniami."
   },
   "replaceTab": {
     "message": "Nahradiť existujúcu kartu namiesto otvárania novej"
+  },
+  "replaceTabDescription": {
+    "message": "Nahradí aktuálnu kartu, ak sa otvára stránka, ktorá je priradená k inému kontajneru (namiesto ponechania otvorenej aktuálnej karty). Otváranie kariet prostredným tlačidlom myši nie je nijak ovplyvnené."
+  },
+  "editWhichContainer": {
+    "message": "Zvoľte, ktorý kontajner sa otvorí pri použití očíslovaných skratiek."
+  },
+  "keyboardShortCut": {
+    "message": "Kontajner, ktorý sa otvorí pomocou klávesovej skratky $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Potvrdenie navigácie v Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Otvoriť v kontajneri $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Požiadali ste Firefox, aby pre túto stránku vždy otvoril kontajner $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Vyberte umiestnenie",
