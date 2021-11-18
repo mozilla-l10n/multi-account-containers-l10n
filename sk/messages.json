@@ -202,6 +202,18 @@
   "tabBehavior": {
     "message": "Správanie karty:"
   },
+  "firefoxAccountsSync": {
+    "message": "Synchronizácia pomocou účtu Firefox:"
+  },
+  "enableSync": {
+    "message": "Povoliť synchronizáciu"
+  },
+  "enableSyncDescription": {
+    "message": "Toto nastavenie vám umožňuje synchronizovať vaše kontajnery a priradenia stránok medzi zariadeniami."
+  },
+  "replaceTab": {
+    "message": "Nahradiť existujúcu kartu namiesto otvárania novej"
+  },
   "chooseLocation": {
     "message": "Vyberte umiestnenie",
     "description": "Location refers to the geographical position used by the VPN"
