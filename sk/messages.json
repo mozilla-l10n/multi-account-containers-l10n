@@ -190,11 +190,45 @@
   "rememberMyDecision": {
     "message": "Zapamätať si toto rozhodnutie pre túto stránku"
   },
+  "optionalPermissions": {
+    "message": "Voliteľné povolenia:"
+  },
+  "keyboardShortCuts": {
+    "message": "Klávesové skratky:"
+  },
+  "onboarding": {
+    "message": "Úvodný sprievodca"
+  },
+  "tabBehavior": {
+    "message": "Správanie karty:"
+  },
+  "chooseLocation": {
+    "message": "Vyberte umiestnenie",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Skryť"
   },
   "show": {
     "message": "Zobraziť"
+  },
+  "protectYourContainers": {
+    "message": "Chráňte svoje kontajnery pomocou Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Chrániť tento kontajner pomocou Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Rozšírené nastavenia servera proxy"
+  },
+  "proxyInputLabel": {
+    "message": "Zadajte vlastný proxy server"
+  },
+  "useCustomLocation": {
+    "message": "Použite vlastnú adresu pre tento kontajner"
+  },
+  "clearproxylabel": {
+    "message": "Vymazať proxy"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN je zapnutá"
