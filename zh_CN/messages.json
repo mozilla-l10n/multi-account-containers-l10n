@@ -198,6 +198,9 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "replaceTab": {
+    "message": "覆盖标签页，而非新建标签页"
+  },
   "editWhichContainer": {
     "message": "编辑各数字快捷键所对应的身份。"
   },
