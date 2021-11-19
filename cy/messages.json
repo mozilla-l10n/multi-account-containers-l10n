@@ -245,7 +245,7 @@
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Agor yng Nghynhwysydd $containerName",
+    "message": "Agor yng Nghynhwysydd $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -253,7 +253,7 @@
     }
   },
   "youAskedFirefox": {
-    "message": "Rydych wedi gofyn i Firefox i agor $containerName bob tro ar gyfer y wefan hon:",
+    "message": "Rydych wedi gofyn i Firefox i agor $containerName$ bob tro ar gyfer y wefan hon:",
     "placeholders": {
       "containerName": {
         "content": "$1"
