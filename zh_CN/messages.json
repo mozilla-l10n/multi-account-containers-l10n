@@ -177,6 +177,15 @@
   "keyboardShortCuts": {
     "message": "键盘快捷键："
   },
+  "onboarding": {
+    "message": "快速入门"
+  },
+  "resetOnboardingPanels": {
+    "message": "重置入门面板"
+  },
+  "onboardingToggle": {
+    "message": "切换此选项即可再次查看入门面板。"
+  },
   "tabBehavior": {
     "message": "标签页行为："
   },
