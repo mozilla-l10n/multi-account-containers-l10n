@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Doplnok Multi-Account Containers vám pomôžu udržať všetky časti vášho online života na rôznych kartách. Vlastné štítky a farebne odlíšené karty pomáhajú oddeliť rôzne aktivity, ako je nakupovanie online, plánovanie ciest alebo kontrola pracovných e-mailov.",
+    "message": "Doplnok Multi-Account Containers vám pomôže udržať súčasti vášho online života na rôznych kartách. Vlastné štítky a farebne odlíšené karty pomáhajú oddeliť rôzne aktivity, ako je nakupovanie online, plánovanie ciest alebo kontrola pracovných e-mailov.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -227,7 +227,7 @@
     "message": "Nahradiť existujúcu kartu namiesto otvárania novej"
   },
   "replaceTabDescription": {
-    "message": "Nahradí aktuálnu kartu, ak sa otvára stránka, ktorá je priradená k inému kontajneru (namiesto ponechania otvorenej aktuálnej karty). Otváranie kariet prostredným tlačidlom myši nie je nijak ovplyvnené."
+    "message": "Pri otváraní stránky, ktorá je priradená k inému kontajneru nahradí aktuálne otvorenú kartu (čiže neponechá ju otvorenú). Otváranie nových kariet prostredným tlačidlom myši nie je ovplyvnené."
   },
   "editWhichContainer": {
     "message": "Zvoľte, ktorý kontajner sa otvorí pri použití očíslovaných skratiek."
