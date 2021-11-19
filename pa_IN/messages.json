@@ -223,7 +223,7 @@
     }
   },
   "youAskedFirefox": {
-    "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
+    "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName$ ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
     "placeholders": {
       "containerName": {
         "content": "$1"
