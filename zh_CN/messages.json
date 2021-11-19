@@ -198,6 +198,17 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "editWhichContainer": {
+    "message": "编辑各数字快捷键所对应的身份。"
+  },
+  "keyboardShortCut": {
+    "message": "用快捷键 $keyId$ 打开身份",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openInContainer": {
     "message": "用 $containerName$ 身份打开",
     "placeholders": {
