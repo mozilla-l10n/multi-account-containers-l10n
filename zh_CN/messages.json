@@ -48,7 +48,7 @@
     "message": "一览无余，井井有条。"
   },
   "onboarding-3-description": {
-    "message": "从我们默认的身份开始，或自己新建。"
+    "message": "默认四种身份，您可按需新建更多。"
   },
   "onboarding-4-header": {
     "message": "按您所需，为特定网站指定所用身份。"
@@ -70,6 +70,9 @@
   },
   "onboarding-7-description": {
     "message": "点击登录，即可确认您的 Firefox 账户启用状态。"
+  },
+  "onboarding-8-description": {
+    "message": "现已支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
   },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
@@ -130,6 +133,9 @@
   },
   "icon": {
     "message": "图标"
+  },
+  "limitToDesignatedSites": {
+    "message": "限制特定网站"
   },
   "deleteThisContainer": {
     "message": "删除此身份"
