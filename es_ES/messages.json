@@ -44,6 +44,9 @@
   "onboarding-2-header": {
     "message": "Haz que los contenedores trabajen para ti."
   },
+  "onboarding-3-header": {
+    "message": "Un lugar para cada cosa y cada cosa en su lugar."
+  },
   "rate": {
     "message": "Valorar"
   },
