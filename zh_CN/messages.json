@@ -36,16 +36,19 @@
     "message": "将标签页移动到新窗口"
   },
   "onboarding-1-header": {
-    "message": "管理在线生活的更佳方式"
+    "message": "更佳的网络生活管理方式"
   },
   "onboarding-1-description": {
-    "message": "善用身份功能安排任务、管理账户，专注于更重要的事情。"
+    "message": "用该功能安排任务、管理账户，专注于更重要的事情。"
   },
   "onboarding-2-header": {
-    "message": "多个身份，一键切换。"
+    "message": "不同身份，一键切换。"
+  },
+  "onboarding-3-header": {
+    "message": "一览无余，井井有条。"
   },
   "onboarding-3-description": {
-    "message": "从我们默认的身份开始，或者自己新建。"
+    "message": "从我们默认的身份开始，或自己新建。"
   },
   "onboarding-4-header": {
     "message": "按您所需，为特定网站指定所用身份。"
