@@ -48,10 +48,10 @@
     "message": "从我们默认的身份开始，或者自己新建。"
   },
   "onboarding-4-header": {
-    "message": "按您所需，用特定的身份打开特定网站。"
+    "message": "按您所需，为特定网站指定所用身份。"
   },
   "onboarding-4-description": {
-    "message": "鼠标右键身份标签页，即可将网站指定为总是用该身份打开。"
+    "message": "鼠标右键地址栏图标，即可将网站指定为总是用该身份打开。"
   },
   "onboarding-5-description": {
     "message": "长按“新建标签页”按钮，即可选择身份。"
@@ -127,9 +127,6 @@
   },
   "icon": {
     "message": "图标"
-  },
-  "limitToDesignatedSites": {
-    "message": "限制特定网站"
   },
   "deleteThisContainer": {
     "message": "删除此身份"
