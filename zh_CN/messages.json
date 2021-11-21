@@ -212,6 +212,10 @@
       }
     }
   },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers 确认导航",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "用 $containerName$ 身份打开",
     "placeholders": {
