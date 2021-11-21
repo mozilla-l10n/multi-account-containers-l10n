@@ -66,14 +66,23 @@
   "onboarding-5-header": {
     "message": "Pestañas contenedoras cuando las necesites."
   },
+  "onboarding-5-description": {
+    "message": "Mantén pulsado el botón Nueva pestaña para crear una nueva pestaña contenedora."
+  },
   "onboarding-6-header": {
     "message": "¡La sincronización de contenedores ya está disponible!"
+  },
+  "onboarding-6-description": {
+    "message": "Activa la sincronización para compartir los contenedores y las asignaciones de sitios con cualquier ordenador conectado a tu cuenta de Firefox."
   },
   "onboarding-7-header": {
     "message": "Se requiere una cuenta de Firefox para sincronizar."
   },
   "onboarding-7-description": {
     "message": "Haz clic en iniciar sesión para confirmar que tu cuenta de Firefox sigue activa."
+  },
+  "onboarding-8-description": {
+    "message": "Ahora los contenedores se puede integrar con Mozilla VPN o tu propio proxy para crear una conexión segura y privada que protege tu actividad."
   },
   "oneHundredTabsHeader": {
     "message": "¡100 pestañas!"
@@ -119,6 +128,9 @@
   },
   "ok": {
     "message": "Aceptar"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitios asignados a este contenedor"
   },
   "options": {
     "message": "Opciones"
@@ -187,11 +199,66 @@
   "onboarding": {
     "message": "Introducción"
   },
+  "resetOnboardingPanels": {
+    "message": "Restablecer paneles de introducción"
+  },
+  "onboardingToggle": {
+    "message": "Cambiar esto para ver los paneles de introducción de nuevo."
+  },
   "tabBehavior": {
     "message": "Comportamiento de la pestaña:"
   },
+  "enableBookMarkMenus": {
+    "message": "Activar menús de marcadores"
+  },
+  "firefoxAccountsSync": {
+    "message": "Sincronización de cuentas de Firefox:"
+  },
   "enableSync": {
     "message": "Activar la sincronización"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Está opción permite abrir un marcador o carpeta de marcadores en un contenedor."
+  },
+  "enableSyncDescription": {
+    "message": "Está opción permite sincronizar tus contenedores y la asignación de sitios en todos los dispositivos."
+  },
+  "replaceTab": {
+    "message": "Reemplazar pestaña en vez de crear una nueva"
+  },
+  "replaceTabDescription": {
+    "message": "Reemplazar la pestaña actual si se abre una página que está asignada a otro contenedor (en vez de mantener abierta la pestaña actual). Esto no afecta a la apertura de pestañas con el botón central del ratón."
+  },
+  "editWhichContainer": {
+    "message": "Modificar qué contenedor se abre cuando se utilizan los atajos numerados."
+  },
+  "keyboardShortCut": {
+    "message": "Contenedor a abrir con el atajo de teclado $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegación",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Abrir en el contenedor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Has pedido a Firefox que siempre abra el contenedor $containerName$ para este sitio:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Elegir ubicación",
@@ -202,6 +269,15 @@
   },
   "show": {
     "message": "Mostrar"
+  },
+  "protectYourContainers": {
+    "message": "Protege tus contenedores con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protege este contenedor con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Configuración avanzada de proxy"
   },
   "proxyInputLabel": {
     "message": "Introducir proxy personalizado"
@@ -226,6 +302,9 @@
   },
   "learnMore": {
     "message": "Saber más"
+  },
+  "proxyNowAvailable": {
+    "message": "Ahora con Mozilla VPN y configuración avanzada de proxy"
   },
   "applyToContainer": {
     "message": "Aplicar al contenedor"
