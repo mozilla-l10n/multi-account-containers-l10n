@@ -51,7 +51,7 @@
     "message": "按您所需，为特定网站指定所用身份。"
   },
   "onboarding-4-description": {
-    "message": "鼠标右键地址栏图标，即可将网站指定为总是用该身份打开。"
+    "message": "鼠标右键地址栏图标，即可指定网站总以该身份打开。"
   },
   "onboarding-5-description": {
     "message": "长按“新建标签页”按钮，即可选择身份。"
@@ -166,7 +166,7 @@
     "message": "要用您指定的身份打开此网站吗？"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "您仍要用当前身份打开吗？"
+    "message": "仍要以当前身份打开？"
   },
   "rememberMyDecision": {
     "message": "记住我对此网站的决定"
@@ -226,7 +226,7 @@
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "用 $containerName$ 身份打开",
+    "message": "打开（$containerName$）",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -234,7 +234,7 @@
     }
   },
   "youAskedFirefox": {
-    "message": "您要求 Firefox 总是使用“$containerName$”身份打开此网站：",
+    "message": "您要求 Firefox 总以“$containerName$”身份打开此网站：",
     "placeholders": {
       "containerName": {
         "content": "$1"
