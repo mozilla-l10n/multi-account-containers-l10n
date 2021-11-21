@@ -198,11 +198,17 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "此设置让您可用身份标签页打开单个书签或整个书签文件夹。"
+  },
   "enableSyncDescription": {
     "message": "此设置让您可在设备间同步身份和网站设置。"
   },
   "replaceTab": {
     "message": "覆盖标签页，而非新建标签页"
+  },
+  "replaceTabDescription": {
+    "message": "打开被指定至另一身份的页面时，覆盖当前标签页（不保留打开的标签页）。用鼠标中键打开标签页则不受影响。"
   },
   "editWhichContainer": {
     "message": "编辑各数字快捷键所对应的身份。"
