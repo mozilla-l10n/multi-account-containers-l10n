@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers te ayuda a mantener todas las partes de tu vida en línea contenidas en diferentes pestañas. Etiquetas personalizadas y pestañas con códigos de colores ayudan a mantener separadas diferentes actividades, como compras en línea, planificación de viajes o verificar el correo electrónico del trabajo.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Abrir nueva pestaña en…",
     "description": "Menu title"
@@ -44,8 +48,41 @@
   "onboarding-2-header": {
     "message": "Haz que los contenedores trabajen para ti."
   },
+  "onboarding-2-description": {
+    "message": "Funcionalidades como códigos de colores y pestañas contenedoras separadas te ayudan a encontrar más fácilmente las cosas, enfocando tu atención y minimizando las distracciones."
+  },
   "onboarding-3-header": {
     "message": "Un lugar para cada cosa y cada cosa en su lugar."
+  },
+  "onboarding-3-description": {
+    "message": "Comienza con los contenedores que hemos creado o crea los tuyos propios."
+  },
+  "onboarding-4-header": {
+    "message": "Siempre abrir los sitios en los contenedores que quieras."
+  },
+  "onboarding-4-description": {
+    "message": "Haz clic con el botón derecho dentro de una pestaña de Contenedor para asignar el sitio y que siempre se abra en el Contenedor."
+  },
+  "onboarding-5-header": {
+    "message": "Pestañas contenedoras cuando las necesites."
+  },
+  "onboarding-6-header": {
+    "message": "¡La sincronización de contenedores ya está disponible!"
+  },
+  "onboarding-7-header": {
+    "message": "Se requiere una cuenta de Firefox para sincronizar."
+  },
+  "onboarding-7-description": {
+    "message": "Haz clic en iniciar sesión para confirmar que tu cuenta de Firefox sigue activa."
+  },
+  "oneHundredTabsHeader": {
+    "message": "¡100 pestañas!"
+  },
+  "youHaveOpened": {
+    "message": "Has abierto 100 pestañas contenedoras."
+  },
+  "spreadTheWord": {
+    "message": "Si te gustan las pestañas contenedoras, ¡ayúdanos a correr la voz!"
   },
   "rate": {
     "message": "Valorar"
@@ -146,5 +183,54 @@
   },
   "keyboardShortCuts": {
     "message": "Atajos de teclado:"
+  },
+  "onboarding": {
+    "message": "Introducción"
+  },
+  "tabBehavior": {
+    "message": "Comportamiento de la pestaña:"
+  },
+  "enableSync": {
+    "message": "Activar la sincronización"
+  },
+  "chooseLocation": {
+    "message": "Elegir ubicación",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "show": {
+    "message": "Mostrar"
+  },
+  "proxyInputLabel": {
+    "message": "Introducir proxy personalizado"
+  },
+  "useCustomLocation": {
+    "message": "Usar una ubicación personalizada para este contenedor"
+  },
+  "clearproxylabel": {
+    "message": "Borrar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está activado"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desactivado"
+  },
+  "invalidProxyAlert": {
+    "message": "Introduce una URL de proxy válida"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe estar activada para usar esta función."
+  },
+  "learnMore": {
+    "message": "Saber más"
+  },
+  "applyToContainer": {
+    "message": "Aplicar al contenedor"
+  },
+  "tooltipWarning": {
+    "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activado. Activa Mozilla VPN para usar este contenedor."
   }
 }
