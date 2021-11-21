@@ -198,6 +198,9 @@
   "enableSync": {
     "message": "启用同步"
   },
+  "enableSyncDescription": {
+    "message": "此设置让您可在设备间同步身份和网站设置。"
+  },
   "replaceTab": {
     "message": "覆盖标签页，而非新建标签页"
   },
