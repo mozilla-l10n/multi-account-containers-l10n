@@ -271,6 +271,9 @@
   "proxyInputLabel": {
     "message": "Введите собственный прокси"
   },
+  "useCustomLocation": {
+    "message": "Установить пользовательское местоположение для этого контейнера"
+  },
   "clearproxylabel": {
     "message": "Удалить прокси"
   },
