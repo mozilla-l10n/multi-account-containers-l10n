@@ -1,0 +1,14 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers membantu Anda memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Buka Tab Baru di…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Buka Lagi Situs Ini di…",
+    "description": "Menu title"
+  }
+}
