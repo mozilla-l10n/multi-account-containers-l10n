@@ -177,8 +177,34 @@
   "enableSync": {
     "message": "Synchronizowanje zmóžnić"
   },
+  "replaceTab": {
+    "message": "Rajtark wuměnić, město toho, zo by so nowy wutworił"
+  },
+  "editWhichContainer": {
+    "message": "Nastajće, kotry kontejner so wočinja, hdyž so čisłowane tastowe skrótšenki wužiwaja."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner, kotryž ma so z tastowej skrótšenku $keyId$ wočinić",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Nawigaciju wobkrućić",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "W kontejnerje $containerName$ wočinić",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Sće Firefox prosył, $containerName$ přeco za tute sydło wočinić:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -222,8 +248,14 @@
   "invalidProxyAlert": {
     "message": "Prošu zapodajće płaćiwy proksy-URL"
   },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN dyrbi zmóžnjeny być, zo by móhł tutu funkciju wužiwać."
+  },
   "learnMore": {
     "message": "Dalše informacije"
+  },
+  "proxyNowAvailable": {
+    "message": "Nětko z Mozilla VPN a rozšěrjenymi proksy-nastajenjemi"
   },
   "applyToContainer": {
     "message": "Na kontejner nałožić"
