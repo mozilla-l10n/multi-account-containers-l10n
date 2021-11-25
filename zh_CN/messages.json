@@ -70,7 +70,7 @@
     "message": "长按“新建标签页”按钮，即可选择身份。"
   },
   "onboarding-6-header": {
-    "message": "身份同步功能现已推出！"
+    "message": "身份同步功能正式推出！"
   },
   "onboarding-6-description": {
     "message": "开启同步后，即可将身份及网站设置同步到所有登录 Firefox 账户的计算机。"
@@ -82,7 +82,7 @@
     "message": "点击登录，即可确认您的 Firefox 账户启用状态。"
   },
   "onboarding-8-description": {
-    "message": "现已支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
+    "message": "现在起支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
   },
   "oneHundredTabsHeader": {
     "message": "100 个标签页！"
