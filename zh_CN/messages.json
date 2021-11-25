@@ -56,6 +56,9 @@
   "onboarding-4-description": {
     "message": "鼠标右键地址栏图标，即可指定网站总以该身份打开。"
   },
+  "onboarding-5-header": {
+    "message": "按需以不同身份打开标签页。"
+  },
   "onboarding-5-description": {
     "message": "长按“新建标签页”按钮，即可选择身份。"
   },
