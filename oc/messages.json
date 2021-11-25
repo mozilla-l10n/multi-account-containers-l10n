@@ -50,11 +50,26 @@
   "newContainer": {
     "message": "Contenedor novèl"
   },
+  "hideThisContainer": {
+    "message": "Amagar aqueste contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar aqueste contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Suprimir aqueste contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Volètz vertadièrament suprimir aqueste contenedor ?"
+  },
   "cancel": {
     "message": "Anullar"
   },
   "ok": {
     "message": "D’acòrdi"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites assignats a aqueste contenedor"
   },
   "options": {
     "message": "Opcions"
