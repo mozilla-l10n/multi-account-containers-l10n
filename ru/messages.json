@@ -140,6 +140,9 @@
   "icon": {
     "message": "Значок"
   },
+  "limitToDesignatedSites": {
+    "message": "Ограничить назначенными сайтами"
+  },
   "deleteThisContainer": {
     "message": "Удалить этот контейнер"
   },
@@ -232,6 +235,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Подтверждение навигации Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "Открыть в контейнере «$containerName$»",
