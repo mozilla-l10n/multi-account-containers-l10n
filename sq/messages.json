@@ -129,6 +129,9 @@
   "ok": {
     "message": "OK"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Sajte caktuar te ky Kontejner"
+  },
   "options": {
     "message": "Mundësi"
   },
@@ -140,6 +143,9 @@
   },
   "icon": {
     "message": "Ikonë"
+  },
+  "limitToDesignatedSites": {
+    "message": "Kufizoje te Sajtet e Caktuar"
   },
   "deleteThisContainer": {
     "message": "Fshije Këtë Kontejner"
@@ -165,12 +171,21 @@
   "notNow": {
     "message": "Jo Tani"
   },
+  "startSyncing": {
+    "message": "Fillo Njëkohësim"
+  },
   "info": {
     "message": "info",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
     "message": "Pasuesja"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Të hapet ky sajt në Kontejnerin që i është caktuar?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Doni ende të hapet në këtë Kontejner të tanishëm?"
   },
   "rememberMyDecision": {
     "message": "Mbaje mend vendimin tim për këtë sajt"
@@ -201,6 +216,36 @@
   },
   "replaceTab": {
     "message": "Zëvendësoje skedën, në vend se të hapni një të re"
+  },
+  "replaceTabDescription": {
+    "message": "Zëvendëso skedën e tanishme, nëse është hapur një faqe që i është caktuar një Kontejneri tjetër (në vend se të mbahet hapur skeda e tanishme). Hapja e skedave me butonin e mesit të miut nuk preket nga kjo."
+  },
+  "editWhichContainer": {
+    "message": "Përpunoni cili Kontejner hapet, kur përdoren shkurtore të numërtuara."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner për t’u hapur me Shkurtore Tastiere $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "Hape në Kontejnerin $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "I kërkuat Firefox-it të hapë përherë $containerName$ për këtë sajt:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Zgjidhni vendndodhje",
