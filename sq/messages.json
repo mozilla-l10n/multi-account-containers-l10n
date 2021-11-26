@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Kontejnerët e Llogarive të Shumëfishta ju ndihmojnë të mbani krejt anët e jetës tuaj internetore brenda skedash të ndryshme. Etiketa vetjake dhe skeda të koduara përmes ngjyrash ju ndihmojnë t’i mbani veprimtaritë e ndryshme — bie fjala, blerje, planifikim udhëtimesh, apo parje email-esh të punë — ndarazi.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Hap Skedë të Re në…",
     "description": "Menu title"
@@ -44,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Vini Kontejnerët të punojnë për ju."
   },
+  "onboarding-2-description": {
+    "message": "Veçori të tilla si, skeda të koduara përmes ngjyrash dhe Kontejner më vete ju ndihmojnë të gjeni gjërat kollaj, të përqendroni vëmendjen tuaj dhe të minimizoni shpërqendrimet."
+  },
   "onboarding-3-header": {
     "message": "Një vend për gjithçka dhe gjithçka në vendin e vet."
   },
@@ -64,6 +71,9 @@
   },
   "onboarding-6-header": {
     "message": "Njëkohësimi i Kontejnerëve tani është Gati!"
+  },
+  "onboarding-6-description": {
+    "message": "Që të ndani Kontejner dhe caktime sajtesh me çfarëdo kompjuteri të lidhur me llogarinë tuaj Firefox, aktivizoni njëkohësimin."
   },
   "onboarding-7-header": {
     "message": "Që të bëhet njëkohësim, lypset llogari Firefox."
@@ -88,6 +98,9 @@
   },
   "share": {
     "message": "Ndajeni me të tjerët"
+  },
+  "tweet": {
+    "message": "Tweet"
   },
   "default": {
     "message": "Parazgjedhje"
