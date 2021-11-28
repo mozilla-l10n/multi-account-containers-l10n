@@ -1,0 +1,35 @@
+{
+  "openInNewTabTitle": {
+    "message": "新しいタブを開くコンテナー...",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "このサイトを再開するコンテナー...",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "コンテナーでタブを並べ替える",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "常にこのサイトを開くコンテナー...",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "常に開くコンテナー...",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "常にコンテナーでサイトを開く"
+  },
+  "openANewTabIn": {
+    "message": "新しいタブを開くコンテナー..."
+  },
+  "openNewTabInThisContainer": {
+    "message": "このコンテナーで新しいタブを開く"
+  },
+  "openTabs": {
+    "message": "開いているタブ",
+    "description": "Section title for tabs that are currently open in that container"
+  }
+}
