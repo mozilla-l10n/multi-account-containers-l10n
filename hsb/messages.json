@@ -35,6 +35,12 @@
   "moveTabsToANewWindow": {
     "message": "Rajtarki do noweho wokna přesunyć"
   },
+  "onboarding-1-header": {
+    "message": "Lěpša móžnosć wšitko rjadować, štož online činiće"
+  },
+  "onboarding-3-header": {
+    "message": "Městno za wšitko, a wšitko na jeho městnje."
+  },
   "onboarding-3-description": {
     "message": "Započńće z kontejnerami, kotrež my smy wutworili, abo wutworće swójske."
   },
@@ -164,6 +170,12 @@
   },
   "keyboardShortCuts": {
     "message": "Tastowe skrótšenki:"
+  },
+  "onboarding": {
+    "message": "Zapokazanje"
+  },
+  "resetOnboardingPanels": {
+    "message": "Zapokazanske wokna wróćo stajić"
   },
   "tabBehavior": {
     "message": "Rajtarkowe zadźerženje:"
