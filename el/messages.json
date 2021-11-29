@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Το Multi-Account Containers σάς βοηθά να έχετε όλες τις πτυχές της διαδικτυακής σας ζωής σε διαφορετικές καρτέλες. Οι προσαρμοσμένες ετικέτες και τα χρώματα σάς επιτρέπουν να ξεχωρίσετε τις διάφορες δραστηριότητες — αγορές, σχεδιασμός ταξιδιών ή έλεγχος εργασιακού email.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Άνοιγμα νέας καρτέλας σε…",
     "description": "Menu title"
@@ -74,11 +78,17 @@
   "onboarding-7-description": {
     "message": "Κάντε κλικ στο «Σύνδεση» για να επιβεβαιώσετε ότι ο λογαριασμός Firefox σας είναι ενεργός."
   },
+  "onboarding-8-description": {
+    "message": "Τώρα οι θεματικές ενότητες συνεργάζονται με το Mozilla VPN ή τον δικό σας διακομιστή μεσολάβησης για να δημιουργήσουν μια ασφαλή, ιδιωτική σύνδεση που προστατεύει τη δραστηριότητά σας."
+  },
   "oneHundredTabsHeader": {
     "message": "100 καρτέλες!"
   },
   "youHaveOpened": {
     "message": "Έχετε ανοίξει 100 θεματικές καρτέλες."
+  },
+  "spreadTheWord": {
+    "message": "Αν σας αρέσουν οι θεματικές ενότητες, βοηθήστε μας να τις διαδώσουμε!"
   },
   "rate": {
     "message": "Αξιολόγηση"
