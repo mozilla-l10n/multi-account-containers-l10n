@@ -38,6 +38,12 @@
   "onboarding-1-header": {
     "message": "Lěpša móžnosć wšitko rjadować, štož online činiće"
   },
+  "onboarding-1-description": {
+    "message": "Wužiwajće kontejnery, zo byšće nadawki organizował, konta rjadował a koncentrujće so na to, štož chceće."
+  },
+  "onboarding-2-header": {
+    "message": "Dajće kontejneram za sebje dźěłać."
+  },
   "onboarding-3-header": {
     "message": "Městno za wšitko, a wšitko na jeho městnje."
   },
@@ -47,6 +53,9 @@
   "onboarding-4-header": {
     "message": "Wočińće sydła přeco w požadanych kontejnerach."
   },
+  "onboarding-4-description": {
+    "message": "Klikńće z prawej tastu na kontejnerowy rajtark, zo byšće postajił, zo so sydło přeco w kontejnerje wočinja."
+  },
   "onboarding-5-header": {
     "message": "Kontejnerowe rajtarki, hdyž je trjebaće."
   },
@@ -55,6 +64,9 @@
   },
   "onboarding-6-header": {
     "message": "Synchronizowanje kontejnerow je nětko k dispoziciji!"
+  },
+  "onboarding-6-description": {
+    "message": "Zmóžńće synchronizaciju, zo byšće kontejner a sydłowe připokazanja z kóždym ličakom dźělił, kotryž je z wašim kontom Firefox zwjazany."
   },
   "onboarding-7-header": {
     "message": "Trjebaće konto Firefox, zo byšće synchronizował."
