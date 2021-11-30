@@ -226,6 +226,9 @@
   "replaceTab": {
     "message": "ਨਵੀਂ ਬਣਾਉਣ ਦੀ ਬਜਾਏ ਟੈਬ ਨੂੰ ਤਬਦੀਲ ਕਰੋ"
   },
+  "editWhichContainer": {
+    "message": "ਦੱਸੋ ਕਿ ਅੰਕਾਂ ਵਾਲੇ ਸ਼ਾਰਟਕੱਟ ਵਰਤ ਕੇ ਕਿਹੜੇ ਕਨਟੇਨਰ ਖੋਲ੍ਹੇ ਜਾਣ।"
+  },
   "keyboardShortCut": {
     "message": "$keyId ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਨਾਲ ਖੁੱਲ੍ਹਣ ਵਾਲਾ ਕਨਟੇਨਰ",
     "placeholders": {
@@ -233,6 +236,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤਸਦੀਕ ਨੇਵੀਗੇਸ਼ਨ",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "$containerName$ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ",
