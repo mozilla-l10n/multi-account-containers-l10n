@@ -48,6 +48,9 @@
   "onboarding-2-header": {
     "message": "ਕਨਟੇਨਰਾਂ ਨੂੰ ਆਪਣੇ ਲਈ ਵਰਤੋਂ।"
   },
+  "onboarding-2-description": {
+    "message": "ਰੰਗਦਾਰ ਸਕੀਮ ਤੇ ਵੱਖਰੇਵਾਂ ਕਨਟੇਨਰ ਟੈਬ ਵਰਗੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਤੁਸੀਂ ਚੀਜ਼ਾਂ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭ ਸਕਦੇ ਹੋ, ਤੁਹਾਡਾ ਧਿਆਨ ਕੇਂਦਰਿਤ ਰਹਿੰਦਾ ਹੈ ਤੇ ਰੁਕਾਵਟਾਂ ਘੱਟ ਤੋਂ ਘੱਟ ਹੁੰਦੀਆਂ ਹਨ।"
+  },
   "onboarding-3-header": {
     "message": "ਹਰ ਚੀਜ਼ ਲਈ ਇੱਕ ਟਿਕਾਣਾ ਅਤੇ ਹਰ ਚੀਜ਼ ਆਪਣੇ ਟਿਕਾਣੇ ਉੱਤੇ।"
   },
@@ -214,6 +217,15 @@
   "enableSync": {
     "message": "ਸਿੰਕ ਸਮਰੱਥ ਕਰੋ"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "ਇਹ ਸੈਟਿੰਗ ਤੁਹਾਨੂੰ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਜਾਂ ਬੁੱਕਮਾਰਕ ਦਾ ਫੋਲਡਰ ਖੋਲ੍ਹਣ ਲਈ ਸਹਾਇਕ ਹੈ।"
+  },
+  "enableSyncDescription": {
+    "message": "ਇਹ ਸੈਟਿੰਗ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਕਨਟੇਨਰਾਂ ਤੇ ਤੈਅ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"
+  },
+  "replaceTab": {
+    "message": "ਨਵੀਂ ਬਣਾਉਣ ਦੀ ਬਜਾਏ ਟੈਬ ਨੂੰ ਤਬਦੀਲ ਕਰੋ"
+  },
   "openInContainer": {
     "message": "$containerName$ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ",
     "placeholders": {
@@ -243,11 +255,20 @@
   "protectYourContainers": {
     "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
   },
+  "protectThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ Mozilla VPN ਨਾਲ ਸੁਰੱਖਿਅਤ ਬਣਾਇਆ ਹੈ"
+  },
   "advancedProxySettings": {
     "message": "ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ"
   },
   "proxyInputLabel": {
     "message": "ਪਸੰਦੀਦਾ ਪਰਾਕਸੀ ਦਿਓ"
+  },
+  "useCustomLocation": {
+    "message": "ਇਸ ਕਨਟੇਨਰ ਲਈ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਵਰਤੋਂ"
+  },
+  "clearproxylabel": {
+    "message": "ਪਰਾਕਸੀ ਮਿਟਾਓ"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN ਚਾਲੂ ਹੈ"
@@ -255,10 +276,22 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN ਬੰਦ ਹੈ"
   },
+  "invalidProxyAlert": {
+    "message": "ਵਾਜਬ ਪਰਾਕਸੀ URL ਦਿਓ"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "ਇਹ ਫ਼ੀਚਰ ਵਰਤਣ ਵਾਸਤੇ Mozilla VPN ਚਾਲੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+  },
   "learnMore": {
     "message": "ਹੋਰ ਜਾਣੋ"
   },
+  "proxyNowAvailable": {
+    "message": "ਹੁਣ Mozilla VPN ਅਤੇ ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਨਾਲ ਲੈੱਸ"
+  },
   "applyToContainer": {
     "message": "ਕਨਟੇਨਰ ਤੇ ਲਾਗੂ ਕਰੋ"
+  },
+  "tooltipWarning": {
+    "message": "ਇਹ ਕਨਟੇਨਰ Mozilla VPN ਪਰਕਾਸੀ ਵਰਤਣ ਲਈ ਸੈਟਅੱਪ ਕੀਤਾ ਹੈ, ਪਰ Mozilla VPN ਚਾਲੂ ਨਹੀਂ ਹੈ। ਇਹ ਕਨਟੇਨਰ ਵਰਤਣ ਲਈ Mozilla VPN  ਚਾਲੂ ਕਰੋ।"
   }
 }
