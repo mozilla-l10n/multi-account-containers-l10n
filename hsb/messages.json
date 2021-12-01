@@ -201,8 +201,17 @@
   "enableSync": {
     "message": "Synchronizowanje zmóžnić"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Z tutym nastajenjom móžeće zapołožku abo rjadowak ze zapołožkami w kontejnerje wočinić."
+  },
+  "enableSyncDescription": {
+    "message": "Z tutym nastajenjom móžeće swoje kontejnery a sydłowe připokazanja přez graty synchronizować."
+  },
   "replaceTab": {
     "message": "Rajtark wuměnić, město toho, zo by so nowy wutworił"
+  },
+  "replaceTabDescription": {
+    "message": "Wuměńće aktualny rajtark, jeli so strona, kotraž je so druhemu kontejnerej připokazała, wočinja (město toho, zo so aktualny rajtark wočinjeny wostawa). Wočinjenje rajtarkow ze srjedźnej tastu myški so njewobwliwuje."
   },
   "editWhichContainer": {
     "message": "Nastajće, kotry kontejner so wočinja, hdyž so čisłowane tastowe skrótšenki wužiwaja."
@@ -283,5 +292,8 @@
   },
   "applyToContainer": {
     "message": "Na kontejner nałožić"
+  },
+  "tooltipWarning": {
+    "message": "Tutón kontejner je tak nastajeny, zo proksy Mozilla VPN wužiwa, ale Mozilla VPN njeje zmóžnjeny. Zmóžńće Mozilla VPN, zo byšće tutón kontejner wužiwał."
   }
 }
