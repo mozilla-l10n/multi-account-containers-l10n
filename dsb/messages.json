@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers wam pomaga, wšykne źěle wašogo žywjenja online do rozdźělnych rejtarikow rozdźěliś. Swójske etikety a z barwu koděrowane rejtariki pomagaju, rozdźělne aktiwity – ako nakupowanje online, planowanje drogowanjow abo cytanje słužbnych mejlkow – wótgranicowaś.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Nowy rejtarik wócyniś w…",
     "description": "Menu title"
