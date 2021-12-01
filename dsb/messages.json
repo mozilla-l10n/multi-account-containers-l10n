@@ -220,8 +220,14 @@
   "enableBookMarkMenusDescription": {
     "message": "Z toś tym nastajenim móžośo cytańske znamjenja abo zarědnik z cytańskimi znamjenjami w kontejnerje wócyniś."
   },
+  "enableSyncDescription": {
+    "message": "Z toś tym nastajenim móžośo swóje kontejnery a sedłowe pśipokazanja pśez rědy synchronizěrowaś."
+  },
   "replaceTab": {
     "message": "Rejtarik wuměniś, město aby se nowy napórał"
+  },
+  "replaceTabDescription": {
+    "message": "Wuměńśo aktualny rejtarik, jolic se bok, kótaryž jo sr pśipokazał drugemu kontejneroju, wócynja (město togo, aby aktualny rejtarik wócynjony wóstawał). Wócynjanje rejtarikow ze srjejźneju tastu myški se njewobwliwujo."
   },
   "editWhichContainer": {
     "message": "Nastajśo, kótary kontejner se wócynja, gaž se numerěrowane tastowe skrotconki wužywaju."
@@ -302,5 +308,8 @@
   },
   "applyToContainer": {
     "message": "Na kontejner nałožyś"
+  },
+  "tooltipWarning": {
+    "message": "Toś ten kontejner jo tak nastajony, až proksy Mozilla VPN wužywa, ale Mozilla VPN njejo zmóžnjony. Zmóžniśo Mozilla VPN, aby toś ten kontejner wužywał."
   }
 }
