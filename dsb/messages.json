@@ -48,6 +48,9 @@
   "onboarding-2-header": {
     "message": "Dajśo kontejneram za sebje źěłaś."
   },
+  "onboarding-2-description": {
+    "message": "Funkcije ako koděrowanje z barwu a separatne kontejnerowe rejtariki wam pomagaju, wěcy lažko namakaś, wašu zajmowanosć koncentrěrowaś a wótchylenja miniměrowaś."
+  },
   "onboarding-3-header": {
     "message": "Městno za wšykno, a wšykno na jogo městnje."
   },
@@ -78,11 +81,17 @@
   "onboarding-7-description": {
     "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto Firefox jo aktiwne."
   },
+  "onboarding-8-description": {
+    "message": "Něnto kontejnery daju se do Mozilla VPN abo swójogo proksy integrěrowaś, aby wěsty, priwatny zwisk napórał, kótaryž wašu aktiwitu šćita."
+  },
   "oneHundredTabsHeader": {
     "message": "100 rejtarikow!"
   },
   "youHaveOpened": {
     "message": "Sćo wócynił 100 kontejnerowych rejtarikow."
+  },
+  "spreadTheWord": {
+    "message": "Jolic se wam kontejnery spódobaju, wulicujśo drugim wó tom!"
   },
   "rate": {
     "message": "Pógódnośiś"
@@ -193,6 +202,9 @@
   "resetOnboardingPanels": {
     "message": "Rozpokazańske wokna slědk stajiś"
   },
+  "onboardingToggle": {
+    "message": "Pśešaltujśo to, aby rozpokazańske wokna zasej wiźeł."
+  },
   "tabBehavior": {
     "message": "Rejtarikowe zaźaržanje:"
   },
@@ -204,6 +216,9 @@
   },
   "enableSync": {
     "message": "Synchronizěrowanje zmóžniś"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Z toś tym nastajenim móžośo cytańske znamjenja abo zarědnik z cytańskimi znamjenjami w kontejnerje wócyniś."
   },
   "replaceTab": {
     "message": "Rejtarik wuměniś, město aby se nowy napórał"
