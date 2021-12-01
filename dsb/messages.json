@@ -35,11 +35,26 @@
   "moveTabsToANewWindow": {
     "message": "Rejtariki do nowego wokna pśesunuś"
   },
+  "onboarding-1-header": {
+    "message": "Lěpša móžnosć wšykno zastojaś, což online cyniśo"
+  },
+  "onboarding-1-description": {
+    "message": "Wužywajśo kontejnery, aby nadawki organizěrował, konta zastojał a koncentrěrujśo se na to, což cośo."
+  },
+  "onboarding-2-header": {
+    "message": "Dajśo kontejneram za sebje źěłaś."
+  },
+  "onboarding-3-header": {
+    "message": "Městno za wšykno, a wšykno na jogo městnje."
+  },
   "onboarding-3-description": {
     "message": "Zachopśo z kontejnerami, kótarež my smy napórali, abo napórajśo swójske."
   },
   "onboarding-4-header": {
     "message": "Wócyńśo sedła pśecej w pominanych kontejnerach."
+  },
+  "onboarding-4-description": {
+    "message": "Klikniśo z pšaweju tastu na kontejnerowy rejtarik, aby póstajił, až se sedło pśecej w kontejnerje wócynja."
   },
   "onboarding-5-header": {
     "message": "Kontejnerowe rejtariki, gaž je trjebaśo."
@@ -49,6 +64,9 @@
   },
   "onboarding-6-header": {
     "message": "Synchronizěrowanje kontejnerow jo něnto k dispoziciji!"
+  },
+  "onboarding-6-description": {
+    "message": "Zmóžniśo synchronizaciju, aby kontejner a sedłowe pśipokazanja z kuždym licadłom źělił, kótarež je z wašym kontom Firefox zwězane."
   },
   "onboarding-7-header": {
     "message": "Trjebaśo konto Firefox, aby synchronizěrował."
@@ -164,6 +182,12 @@
   },
   "keyboardShortCuts": {
     "message": "Tastowe skrotconki:"
+  },
+  "onboarding": {
+    "message": "Rozpokazanje"
+  },
+  "resetOnboardingPanels": {
+    "message": "Rozpokazańske wokna slědk stajiś"
   },
   "tabBehavior": {
     "message": "Rejtarikowe zaźaržanje:"
