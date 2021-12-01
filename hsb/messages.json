@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers wam pomha, wšě dźěle wašeho žiwjenja online do rozdźělnych rajtarkow rozdźělić. Swójske etikety a z barbu kodowane rajtarki pomhaja, rozdźělne aktiwity – kaž nakupowanje online, planowanje pućowanjow abo čitanje słužbnych mejlkow – wotmjezować.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Nowy rajtark wočinić w…",
     "description": "Menu title"
