@@ -74,11 +74,17 @@
   "onboarding-7-description": {
     "message": "Klikńće na Přizjewić, zo byšće wobkrućił, zo waše konto Firefox je aktiwne."
   },
+  "onboarding-8-description": {
+    "message": "Nětko kontejnery dadźa so do Mozilla VPN abo swojeho proksy integrować, zo bychu wěsty, priwatny zwisk wutworił, kotryž wašu aktiwitu škita."
+  },
   "oneHundredTabsHeader": {
     "message": "100 rajtarkow!"
   },
   "youHaveOpened": {
     "message": "Sće 100 kontejnerowych rajtarkow wočinił."
+  },
+  "spreadTheWord": {
+    "message": "Jeli so wam kontejnery spodobaja, powědajće druhim wo tym!"
   },
   "rate": {
     "message": "Pohódnoćić"
