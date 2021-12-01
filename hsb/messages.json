@@ -195,6 +195,9 @@
   "resetOnboardingPanels": {
     "message": "Zapokazanske wokna wróćo stajić"
   },
+  "onboardingToggle": {
+    "message": "Přepinajće to, zo byšće zapokazanske wokna zaso widźał."
+  },
   "tabBehavior": {
     "message": "Rajtarkowe zadźerženje:"
   },
