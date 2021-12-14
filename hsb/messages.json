@@ -323,16 +323,24 @@
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Rozšěrjenje zmóžnić, zo byšće powěsće z druhimi programami hač Firefox wuměnił",
+    "message": "Rozšěrjenju zmóžnić, zo by powěsće z druhimi programami hač Firefox wuměniło",
     "description": "Permission title"
   },
+  "nativeMessagingPermissionDescription": {
+    "message": "Tute nastajenje rozšěrjenju zmóžnja, powěsće z klientom Mozilla VPN wuměnić a je trěbne, zo bychu integraciske funkcije Mozilla VPN fungowali.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
-    "message": "Rozšěrjenje zmóžnić, zo byšće proksy-nastajenja wodźił",
+    "message": "Rozšěrjenju zmóžnić, zo by proksy-nastajenja wodźiło",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
     "message": "To wam zmóžnja, rozšěrjene proksy-nastajenja wužiwać a integraciske funkcije Mozilla VPN zmóžnić.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Tuta funkcija sej přidatne prawo wužaduje, zo by fungowała. Prawa dadźa so kóždy čas na stronje nastajenjow znjemóžnić.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "Integracija z Mozilla VPN sej abonement a přidatne prawa wužaduje, zo by fungowała."
