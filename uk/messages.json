@@ -314,5 +314,42 @@
   },
   "getMozillaVpn": {
     "message": "Отримати Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Інтегруйте свої контейнери з Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN і дозволи проксі",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Дозволити розширенню обмінюватися повідомленнями окрім Firefox ще й з іншими програмами",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Це налаштування дозволяє розширенню обмінюватися повідомленнями з клієнтом Mozilla VPN і необхідний для роботи функцій інтеграції Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Дозволити розширенню керувати налаштуваннями проксі",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Це уможливлює користування розширеними налаштуваннями проксі та ввімкнути функції інтеграції Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Для роботи цієї функції потрібен додатковий дозвіл. Дозволи можна будь-коли вимкнути на сторінці налаштувань.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Для інтеграції з Mozilla VPN потрібна передплата й додаткові дозволи для роботи."
+  },
+  "enable": {
+    "message": "Увімкнути",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Інтегруйте свої контейнери з Mozilla VPN"
   }
 }
