@@ -311,5 +311,15 @@
   },
   "tooltipWarning": {
     "message": "Este contêiner está configurado para usar um proxy do Mozilla VPN, mas o Mozilla VPN não está ativado. Ative o Mozilla VPN para usar este contêiner."
+  },
+  "getMozillaVpn": {
+    "message": "Instale o Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integre seus contêineres com o Mozilla VPN"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Permitir que a extensão troque mensagens com outros programas além do Firefox",
+    "description": "Permission title"
   }
 }
