@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Diese Umgebung ist so eingerichtet, dass sie einen Mozilla VPN-Proxy verwendet, aber Mozilla VPN ist nicht aktiviert. Schalten Sie Mozilla VPN ein, um diese Umgebung zu verwenden."
+  },
+  "getMozillaVpn": {
+    "message": "Holen Sie sich Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrieren Sie Ihre Umgebungen bei Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN und Proxy-Berechtigungen",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Der Erweiterung erlauben, Nachrichten mit anderen Programmen als Firefox auszutauschen",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Diese Einstellung ermöglicht der Erweiterung den Austausch von Nachrichten mit dem Mozilla-VPN-Client und ist erforderlich, damit die Mozilla VPN-Integrationsfunktionen funktionieren.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Erweiterung erlauben, Proxy-Einstellungen zu steuern",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Auf diese Weise können Sie erweiterte Proxy-Einstellungen verwenden und Mozilla-VPN-Integrationsfunktionen aktivieren.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Diese Funktion erfordert eine zusätzliche Berechtigung, damit sie eingesetzt werden kann. Berechtigungen können auf der Einstellungen-Seite jederzeit deaktiviert werden.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Die Integration mit Mozilla VPN erfordert ein Abonnement und zusätzliche Berechtigungen, um zu funktionieren."
+  },
+  "enable": {
+    "message": "Aktivieren",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrieren Sie Ihre Umgebungen bei Mozilla VPN"
   }
 }
