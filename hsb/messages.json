@@ -311,5 +311,37 @@
   },
   "tooltipWarning": {
     "message": "Tutón kontejner je tak nastajeny, zo proksy Mozilla VPN wužiwa, ale Mozilla VPN njeje zmóžnjeny. Zmóžńće Mozilla VPN, zo byšće tutón kontejner wužiwał."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN wobstarać"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrujće swoje kontejnery z Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a proksy-prawa",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Rozšěrjenje zmóžnić, zo byšće powěsće z druhimi programami hač Firefox wuměnił",
+    "description": "Permission title"
+  },
+  "proxyPermissionTitle": {
+    "message": "Rozšěrjenje zmóžnić, zo byšće proksy-nastajenja wodźił",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "To wam zmóžnja, rozšěrjene proksy-nastajenja wužiwać a integraciske funkcije Mozilla VPN zmóžnić.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integracija z Mozilla VPN sej abonement a přidatne prawa wužaduje, zo by fungowała."
+  },
+  "enable": {
+    "message": "Zmóžnić",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrujće swoje kontejnery z Mozilla VPN"
   }
 }
