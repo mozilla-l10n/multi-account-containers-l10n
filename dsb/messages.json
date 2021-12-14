@@ -311,5 +311,31 @@
   },
   "tooltipWarning": {
     "message": "Toś ten kontejner jo tak nastajony, až proksy Mozilla VPN wužywa, ale Mozilla VPN njejo zmóžnjony. Zmóžniśo Mozilla VPN, aby toś ten kontejner wužywał."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN wobstaraś"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a proksy-pšawa",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Rozšyrjenjeju zmóžniś, aby powěsći z drugimi programami ako Firefox wuměniło",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Toś to nastajenje rozšyrjenjeju zmóžnja, powěsći z klientom Mozilla VPN wuměniś a jo trjebne, aby integraciske funkcije Mozilla VPN funkcioněrowali.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Rozšyrjenjeju zmóžniś, aby proksy-nastajenja wóźiło",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "To wam zmóžnja, rozšyrjone proksy-nastajenja wužywaś a integraciske funkcije Mozilla VPN zmóžniś.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   }
 }
