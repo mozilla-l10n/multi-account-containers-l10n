@@ -311,5 +311,12 @@
   },
   "tooltipWarning": {
     "message": "此容器已設定使用 Mozilla VPN proxy 連線，但 Mozilla VPN 並未開啟。請先開啟 Mozilla VPN 再使用此容器。"
+  },
+  "getMozillaVpn": {
+    "message": "下載 Mozilla VPN"
+  },
+  "enable": {
+    "message": "啟用",
+    "description": "Button title "
   }
 }
