@@ -311,5 +311,8 @@
   },
   "tooltipWarning": {
     "message": "Цей контейнер налаштовано для роботи з проксі Mozilla VPN, але функція Mozilla VPN вимкнена. Увімкніть Mozilla VPN для користування цим контейнером."
+  },
+  "getMozillaVpn": {
+    "message": "Отримати Mozilla VPN"
   }
 }
