@@ -311,5 +311,22 @@
   },
   "tooltipWarning": {
     "message": "Iste Recipente es configurate pro usar un proxy Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste recipente."
+  },
+  "getMozillaVpn": {
+    "message": "Installa Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integra tu recipentes con Mozilla VPN"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Premitte al extension de excambiar messages con programmas differente de Firefox",
+    "description": "Permission title"
+  },
+  "enable": {
+    "message": "Activar",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integra tu recipentes con Mozilla VPN"
   }
 }
