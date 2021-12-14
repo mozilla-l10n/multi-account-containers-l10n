@@ -331,7 +331,7 @@
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Allow Firefox to control proxy settings",
+    "message": "Allow extension to control proxy settings",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
