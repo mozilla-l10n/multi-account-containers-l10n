@@ -337,5 +337,19 @@
   "proxyPermissionDescription": {
     "message": "To wam zmóžnja, rozšyrjone proksy-nastajenja wužywaś a integraciske funkcije Mozilla VPN zmóžniś.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Toś ta funkcija se pśidatne pšawo pomina, aby funkcioněrowała. Pšawa daju se kuždy cas na boku nastajenjow znjemóžniś.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integracija z Mozilla VPN se abonement a pśidatne pšawa pomina, aby funkcioněrowała."
+  },
+  "enable": {
+    "message": "Zmóžniś",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
   }
 }
