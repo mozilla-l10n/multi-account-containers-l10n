@@ -311,5 +311,41 @@
   },
   "tooltipWarning": {
     "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activada. Activá Mozilla VPN para usar este contenedor."
+  },
+  "getMozillaVpn": {
+    "message": "Obtener Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrá tus contenedores con Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Permisos de Mozilla VPN y proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Permitir que la extensión intercambie mensajes con programas distintos a Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Esta configuración permite que la extensión intercambie mensajes con el cliente de Mozilla VPN y es necesaria para que trabajen las funciones de integración de Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Permitir que la extensión controle la configuración de proxy",
+    "description": "Permission title"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Esta característica requiere permisos adicionales para funcionar. Los permisos pueden deshabilitarse en cualquier momento en la página de configuración.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "La integración con Mozilla VPN requiere una suscripción y permisos adicionales para funcionar."
+  },
+  "enable": {
+    "message": "Habilitar",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrá tus contenedores con Mozilla VPN"
   }
 }
