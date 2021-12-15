@@ -318,8 +318,38 @@
   "integratewithmozillavpn": {
     "message": "Integre seus contêineres com o Mozilla VPN"
   },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Permissões de proxy e do Mozilla VPN",
+    "description": "Section headline in settings"
+  },
   "nativeMessagingPermissionTitle": {
     "message": "Permitir que a extensão troque mensagens com outros programas além do Firefox",
     "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Esta configuração permite que a extensão troque mensagens com o cliente Mozilla VPN e é necessária para que os recursos de integração do Mozilla VPN funcionem.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Permitir que a extensão controle configurações de proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Permite usar configurações avançadas de proxy e ativar recursos de integração do Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Este recurso requer uma permissão adicional para funcionar. Permissões podem ser desativadas quando você quiser na página de configurações.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "A integração com o Mozilla VPN requer assinatura e permissões adicionais para funcionar."
+  },
+  "enable": {
+    "message": "Ativar",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integre seus contêineres com o Mozilla VPN"
   }
 }
