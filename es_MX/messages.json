@@ -318,6 +318,10 @@
   "integratewithmozillavpn": {
     "message": "Integra tus contenedores con Mozilla VPN"
   },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN y permisos de proxy",
+    "description": "Section headline in settings"
+  },
   "nativeMessagingPermissionTitle": {
     "message": "Permitir que la extensión intercambie mensajes con programas que no sean Firefox",
     "description": "Permission title"
