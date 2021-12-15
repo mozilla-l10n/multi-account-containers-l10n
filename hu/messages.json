@@ -311,5 +311,19 @@
   },
   "tooltipWarning": {
     "message": "A tároló úgy van beállítva, hogy a Mozilla VPN proxyját használja, de a Mozilla VPN nincs bekapcsolva. A konténer használatához kapcsolja be a Mozilla VPN-t."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN beszerzése"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrálja a konténereit a Mozilla VPN-nel"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN és proxy jogosultságok",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Engedélyezés a kiegészítő számára, hogy üzeneteket váltson a Firefoxtől eltérő programokkal",
+    "description": "Permission title"
   }
 }
