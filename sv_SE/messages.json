@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Den här behållaren är inställd för att använda en Mozilla VPN-proxy, men Mozilla VPN är inte aktiverat. Aktivera Mozilla VPN för att använda den här behållaren."
+  },
+  "getMozillaVpn": {
+    "message": "Hämta Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrera dina behållare med Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN och proxybehörigheter",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Tillåt tillägg att utbyta meddelanden med andra program än Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Den här inställningen tillåter tillägget att utbyta meddelanden med Mozilla VPN-klienten och krävs för att Mozilla VPN-integreringsfunktioner ska fungera.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Tillåt tillägg att styra proxyinställningar",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Detta låter dig använda avancerade proxyinställningar och aktivera Mozilla VPN-integreringsfunktioner.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Den här funktionen kräver ytterligare behörighet för att fungera. Behörigheter kan inaktiveras när som helst på inställningssidan.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrering med Mozilla VPN kräver ett abonnemang och ytterligare behörigheter för att fungera."
+  },
+  "enable": {
+    "message": "Aktivera",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrera dina behållare med Mozilla VPN"
   }
 }
