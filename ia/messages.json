@@ -322,6 +322,14 @@
     "message": "Premitte al extension de excambiar messages con programmas differente de Firefox",
     "description": "Permission title"
   },
+  "proxyPermissionTitle": {
+    "message": "Premitte al extension de controlar le parametros del proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Isto te permitte de usar le parametros de proxy avantiate e de activar le functionalitates de integration de Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
   "enable": {
     "message": "Activar",
     "description": "Button title "
