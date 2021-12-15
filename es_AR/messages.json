@@ -334,6 +334,10 @@
     "message": "Permitir que la extensión controle la configuración de proxy",
     "description": "Permission title"
   },
+  "proxyPermissionDescription": {
+    "message": "Esto permite que se use la configuración avanzada de proxy y se habiliten las funciones de integración de Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
   "additionalPermissionNeeded": {
     "message": "Esta característica requiere permisos adicionales para funcionar. Los permisos pueden deshabilitarse en cualquier momento en la página de configuración.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
