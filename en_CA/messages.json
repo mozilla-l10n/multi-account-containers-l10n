@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "This Container is set up to use a Mozilla VPN proxy, but Mozilla VPN is not on. Turn Mozilla VPN on to use this Container."
+  },
+  "getMozillaVpn": {
+    "message": "Get Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrate your Containers with Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN & Proxy Permissions",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Allow extension to exchange messages with programs other than Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "This setting allows the extension to exchange messages with the Mozilla VPN client and is required for Mozilla VPN integration features to work.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Allow extension to control proxy settings",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "This allows you to use advanced proxy settings and enable Mozilla VPN integration features.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "This feature requires an additional permission to work. Permissions can be disabled at any time on the settings page.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integration with Mozilla VPN requires a subscription and additional permissions to work."
+  },
+  "enable": {
+    "message": "Enable",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrate your Containers with Mozilla VPN"
   }
 }
