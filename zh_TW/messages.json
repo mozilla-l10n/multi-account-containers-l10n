@@ -315,8 +315,41 @@
   "getMozillaVpn": {
     "message": "下載 Mozilla VPN"
   },
+  "integratewithmozillavpn": {
+    "message": "將容器與 Mozilla VPN 整合使用"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN 與代理伺服器權限",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "允許擴充套件與 Firefox 以外的程式交換訊息",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "此設定讓擴充套件能與 Mozilla VPN 客戶端交換訊息，對 Mozilla VPN 的整合功能才可以運作。",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "允許擴充套件控制代理伺服器設定",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "此權限讓您可使用進階代理伺服器設定，並開啟與 Mozilla VPN 的整合功能。",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "此功能需要額外權限才可運作，可以隨時到設定頁面撤回授權。",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "與 Mozilla VPN 的整合功能需要訂閱與授予更多權限才可正常使用。"
+  },
   "enable": {
     "message": "啟用",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "將容器與 Mozilla VPN 整合使用"
   }
 }
