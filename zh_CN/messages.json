@@ -326,6 +326,10 @@
     "message": "允许扩展与 Firefox 以外的程序交换消息",
     "description": "Permission title"
   },
+  "nativeMessagingPermissionDescription": {
+    "message": "此设置允许扩展与 Mozilla VPN 客户端交换消息，如此与 Mozilla VPN 整合功能才可正常使用。",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
     "message": "允许扩展控制代理设置",
     "description": "Permission title"
@@ -333,6 +337,10 @@
   "proxyPermissionDescription": {
     "message": "此权限允许您使用高级代理设置，并启用与 Mozilla VPN 的整合功能。",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "此功能需额外权限才可使用，可随时到设置页面撤回。",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "与 Mozilla VPN 的整合功能需要订阅并授予更多权限才可使用。"
