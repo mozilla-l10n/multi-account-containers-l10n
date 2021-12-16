@@ -316,10 +316,40 @@
     "message": "Cael Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Integreiddiwch eich Cynhwysyddion â Mozilla VPN"
+    "message": "Integreiddiwch eich Cynhwysyddion gyda Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN a Chaniatâd Dirprwyol",
     "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Caniatáu i estyniad gyfnewid negeseuon â rhaglenni heblaw Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu i'r estyniad gyfnewid negeseuon gyda'r cleient Mozilla VPN ac mae'n ofynnol i nodweddion integreiddio Mozilla VPN weithio.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Caniatáu i estyniad reoli gosodiadau dirprwyol",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Mae hyn yn caniatáu i chi ddefnyddio gosodiadau dirprwyol datblygedig a galluogi nodweddion integreiddio Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Mae angen caniatâd ychwanegol i'r nodwedd hon weithio. Mae modd analluogi caniatâd ar unrhyw bryd ar y dudalen gosodiadau.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mae integreiddio â Mozilla VPN yn gofyn am danysgrifiad a chaniatâd ychwanegol iddo weithio."
+  },
+  "enable": {
+    "message": "Galluogi",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integreiddio eich Cynhwysyddion gyda Mozilla VPN"
   }
 }
