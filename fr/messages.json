@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Ce conteneur est configuré pour utiliser un proxy Mozilla VPN, mais Mozilla VPN n’est pas activé. Activez Mozilla VPN pour utiliser ce conteneur."
+  },
+  "getMozillaVpn": {
+    "message": "Obtenir Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Intégrez vos conteneurs avec Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN et autorisations de proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Autoriser l’extension à communiquer avec d’autres programmes que Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Ce paramètre autorise l’extension à communiquer avec le client Mozilla VPN et est requis pour que les fonctionnalités d’intégration avec Mozilla VPN fonctionnent.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Autoriser l’extension à contrôler les paramètres de proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Cette autorisation vous permet d’utiliser des paramètres proxy avancés et d’activer les fonctionnalités d’intégration de Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Cette fonctionnalité nécessite une autorisation supplémentaire pour fonctionner. Les autorisations peuvent être désactivées à tout moment dans les paramètres.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "L’intégration avec Mozilla VPN nécessite un abonnement et des permissions supplémentaires pour fonctionner."
+  },
+  "enable": {
+    "message": "Activer",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Intégrez vos conteneurs avec Mozilla VPN"
   }
 }
