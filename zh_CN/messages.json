@@ -315,6 +315,9 @@
   "getMozillaVpn": {
     "message": "下载 Mozilla VPN"
   },
+  "integratewithmozillavpn": {
+    "message": "将 Mozilla VPN 与身份标签页整合"
+  },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN 与代理权限",
     "description": "Section headline in settings"
@@ -330,5 +333,8 @@
   "enable": {
     "message": "启用",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "将 Mozilla VPN 与身份标签页整合"
   }
 }
