@@ -311,5 +311,24 @@
   },
   "tooltipWarning": {
     "message": "此身份已设置为使用 Mozilla VPN 代理，但 Mozilla VPN 尚未开启。请启用 Mozilla VPN 以使用此身份。"
+  },
+  "getMozillaVpn": {
+    "message": "下载 Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN 与代理权限",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "允许扩展与 Firefox 以外的程序交换消息",
+    "description": "Permission title"
+  },
+  "proxyPermissionTitle": {
+    "message": "允许扩展控制代理设置",
+    "description": "Permission title"
+  },
+  "enable": {
+    "message": "启用",
+    "description": "Button title "
   }
 }
