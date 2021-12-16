@@ -311,5 +311,15 @@
   },
   "tooltipWarning": {
     "message": "Mae'r Cynhwysydd hwn wedi'i osod i ddefnyddio dirprwy Mozilla VPN, ond nid yw Mozilla VPN ymlaen. Trowch Mozilla VPN ymlaen i ddefnyddio'r Cynhwysydd hwn."
+  },
+  "getMozillaVpn": {
+    "message": "Cael Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integreiddiwch eich Cynhwysyddion â Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a Chaniatâd Dirprwyol",
+    "description": "Section headline in settings"
   }
 }
