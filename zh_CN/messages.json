@@ -330,6 +330,14 @@
     "message": "允许扩展控制代理设置",
     "description": "Permission title"
   },
+  "proxyPermissionDescription": {
+    "message": "此权限允许您使用高级代理设置，并启用与 Mozilla VPN 的整合功能。",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "使用此功能需额外权限，可随时到设置页面撤回授权。",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
   "enable": {
     "message": "启用",
     "description": "Button title "
