@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Tento kontajner je nastavený na používanie servera proxy Mozilla VPN, ale Mozilla VPN nie je zapnutá. Ak chcete používať tento kontajner, zapnite Mozilla VPN."
+  },
+  "getMozillaVpn": {
+    "message": "Získajte Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrujte svoje kontajnery s Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Povolenia pre proxy a Mozilla VPN",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Povoliť rozšíreniu výmenu správ s ďalšími programami okrem Firefoxu",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Toto nastavenie umožňuje rozšíreniu vymieňať si správy s klientom Mozilla VPN a je potrebné na fungovanie integračných funkcií Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Povoliť rozšíreniu ovládať nastavenia servera proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Toto vám umožní používať pokročilé nastavenia servera proxy a povoliť funkcie integrácie Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Táto funkcia vyžaduje dodatočné povolenie na fungovanie. Povolenia je možné kedykoľvek zrušiť na stránke nastavení.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrácia s Mozilla VPN vyžaduje predplatné a ďalšie povolenia."
+  },
+  "enable": {
+    "message": "Povoliť",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrujte svoje kontajnery s Mozilla VPN"
   }
 }
