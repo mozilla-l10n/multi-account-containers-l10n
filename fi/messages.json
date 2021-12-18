@@ -314,5 +314,15 @@
   },
   "getMozillaVpn": {
     "message": "Hanki Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
+  },
+  "enable": {
+    "message": "Käytä",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
   }
 }
