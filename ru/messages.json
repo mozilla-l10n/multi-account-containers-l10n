@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Для этого контейнера установлен прокси Mozilla VPN, но Mozilla VPN отключён. Включите Mozilla VPN для использования контейнера."
+  },
+  "getMozillaVpn": {
+    "message": "Получить Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Интегрируйте свои контейнеры с Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Разрешения для Mozilla VPN и Прокси",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Разрешить расширению обмениваться сообщениями с программами, помимо Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Эта настройка позволяет расширению обмениваться сообщениями с клиентом Mozilla VPN и необходима для работы функций интеграции Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Разрешить расширению управлять настройками прокси",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Это позволит вам использовать расширенные настройки прокси и включить функции интеграции Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Для работы этой функции требуется дополнительное разрешение. Разрешения можно отключить в любой момент на странице настроек.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Для работы интеграции с Mozilla VPN необходима подписка и дополнительные разрешения."
+  },
+  "enable": {
+    "message": "Включить",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Интегрируйте свои контейнеры с Mozilla VPN"
   }
 }
