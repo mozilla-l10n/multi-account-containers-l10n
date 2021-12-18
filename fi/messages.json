@@ -311,5 +311,8 @@
   },
   "tooltipWarning": {
     "message": "Tämä eristystila on määritetty käyttämään Mozilla VPN -välityspalvelinta, mutta Mozilla VPN ei ole päällä. Ota Mozilla VPN käyttöön käyttääksesi tätä eristystilaa."
+  },
+  "getMozillaVpn": {
+    "message": "Hanki Mozilla VPN"
   }
 }
