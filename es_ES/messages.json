@@ -311,5 +311,8 @@
   },
   "tooltipWarning": {
     "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activado. Activa Mozilla VPN para usar este contenedor."
+  },
+  "getMozillaVpn": {
+    "message": "Obtener Mozilla VPN"
   }
 }
