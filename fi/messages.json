@@ -318,6 +318,33 @@
   "integratewithmozillavpn": {
     "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
   },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN ja välityspalvelimen käyttöoikeudet",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Salli laajennuksen vaihtaa viestejä muiden ohjelmien kuin Firefoxin kanssa",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Tämä asetus sallii laajennuksen vaihtaa viestejä Mozilla VPN -asiakkaan kanssa, ja se on välttämätön, jotta Mozilla VPN -integraatio-ominaisuudet toimivat.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Salli laajennuksen hallita välityspalvelimen asetuksia",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Tämän avulla voit käyttää välityspalvelimen lisäasetuksia ja ottaa käyttöön Mozilla VPN -integraatio-ominaisuudet.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Tämä ominaisuus vaatii käyttöoikeuden toimiakseen. Käyttöoikeuksia voi poistaa käytöstä milloin tahansa asetussivulla.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrointi Mozilla VPN:n kanssa vaatii tilauksen ja lisäoikeudet toimiakseen."
+  },
   "enable": {
     "message": "Käytä",
     "description": "Button title "
