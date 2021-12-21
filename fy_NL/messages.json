@@ -344,5 +344,12 @@
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "Yntegraasje mei Mozilla VPN fereasket in abonnemint en oanfoljende tastimmingen om te wurkjen."
+  },
+  "enable": {
+    "message": "Ynskeakelje",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Jo konteners yntegrearje mei Mozilla VPN"
   }
 }
