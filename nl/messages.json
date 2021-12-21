@@ -311,5 +311,45 @@
   },
   "tooltipWarning": {
     "message": "Deze container is ingesteld om een Mozilla VPN-proxy te gebruiken, maar Mozilla VPN is niet ingeschakeld. Schakel Mozilla VPN in om deze container te gebruiken."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN downloaden"
+  },
+  "integratewithmozillavpn": {
+    "message": "Uw containers integreren met Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN- en proxytoestemmingen",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Extensie toestaan om berichten met andere programma’s dan Firefox uit te wisselen",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Deze instelling laat de extensie berichten uitwisselen met de Mozilla VPN-client en is vereist om de integratiefuncties van Mozilla VPN te laten werken.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Extensie toestaan om proxy-instellingen te beheren",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Hierdoor kunt u geavanceerde proxy-instellingen gebruiken en Mozilla VPN-integratiefuncties inschakelen.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Deze functie vereist een extra toestemming om te werken. Toestemmingen kunnen op elk moment worden uitgeschakeld op de instellingenpagina.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integratie met Mozilla VPN vereist een abonnement en aanvullende toestemmingen om te werken."
+  },
+  "enable": {
+    "message": "Inschakelen",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Uw containers integreren met Mozilla VPN"
   }
 }
