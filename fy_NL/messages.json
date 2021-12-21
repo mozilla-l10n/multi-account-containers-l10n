@@ -311,5 +311,38 @@
   },
   "tooltipWarning": {
     "message": "Dizze kontener is ynsteld om in Mozilla VPN-proxy te brûken, mar Mozilla VPN is net ynskeakele. Skeakelje Mozilla VPN yn om dizze kontener te brûken."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN downloade"
+  },
+  "integratewithmozillavpn": {
+    "message": "Jo konteners yntegrearje mei Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN- en proxytastimmingen",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Utwreiding tastean om berjochten mei oare programma’s as Firefox út te wikseljen",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Dizze ynstelling lit de útwreiding berjochten útwikselje mei de Mozilla VPN-client en is fereaske om de yntegraasjefunksjes fan Mozilla VPN wurkje te litten.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Utwreiding tastean om proxy-ynstellingen te behearen",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Hjirtroch kinne jo avansearre proxy-ynstellingen brûke en Mozilla VPN-yntegraasjefunksjes ynskeakelje.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Dizze funksje fereasket in ekstra tastimming om te wurkjen. Tastimmingen kinne op elk momint útskeakele wurde op de ynstellingenside.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Yntegraasje mei Mozilla VPN fereasket in abonnemint en oanfoljende tastimmingen om te wurkjen."
   }
 }
