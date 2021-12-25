@@ -319,15 +319,15 @@
     "message": "Интегрируйте свои контейнеры с Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Разрешения для Mozilla VPN и Прокси",
+    "message": "Разрешения Mozilla VPN и прокси",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Разрешить расширению обмениваться сообщениями с программами, помимо Firefox",
+    "message": "Разрешить расширению обмениваться сообщениями с другими программами, помимо Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Эта настройка позволяет расширению обмениваться сообщениями с клиентом Mozilla VPN и необходима для работы функций интеграции Mozilla VPN.",
+    "message": "Эта настройка позволит расширению обмениваться сообщениями с клиентом Mozilla VPN и необходима для работы функций интеграции с Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
@@ -335,7 +335,7 @@
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Это позволит вам использовать расширенные настройки прокси и включить функции интеграции Mozilla VPN.",
+    "message": "Это позволит вам использовать расширенные настройки прокси и включить функции интеграции с Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
