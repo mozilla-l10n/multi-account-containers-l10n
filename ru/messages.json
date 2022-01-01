@@ -343,7 +343,7 @@
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Для работы интеграции с Mozilla VPN необходима подписка и дополнительные разрешения."
+    "message": "Для интеграции с Mozilla VPN необходима подписка и дополнительные разрешения."
   },
   "enable": {
     "message": "Включить",
