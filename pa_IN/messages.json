@@ -325,5 +325,28 @@
   "nativeMessagingPermissionTitle": {
     "message": "ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ Firefox ਤੋਂ ਬਿਨਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਨਾਲ ਸੁਨੇਹੇ ਤਬਾਦਲੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
     "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "ਇਸ ਸੈਟਿੰਗ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ Mozilla VPN ਨਾਲ ਸੁਨੇਹੇ ਤਬਾਦਲੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਧੀ ਹੈ ਅਤੇ ਕੰਮ ਕਰਨ ਲਈ Mozilla VPN ਜੋੜ ਲਈ ਚਾਹੀਦੀ ਹੈ।",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਕੰਟਰੋਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "ਇਹ ਤੁਹਾਨੂੰ ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਵਰਤਣ ਤੇ Mozilla VPN ਜੋੜ ਫ਼ੀਚਰ ਸਮੱਰਥ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "ਇਹ ਫ਼ੀਚਰ ਨੂੰ ਕੰਮ ਕਰਨ ਲਈ ਵਧੀਕ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਸਫ਼ੇ ਤੋਂ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "enable": {
+    "message": "ਸਮਰੱਥ ਕਰੋ",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨੈਕਟਰਾਂ ਨੂੰ ਜੋੜੋ"
   }
 }
