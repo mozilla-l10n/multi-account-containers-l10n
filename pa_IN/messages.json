@@ -342,6 +342,9 @@
     "message": "ਇਹ ਫ਼ੀਚਰ ਨੂੰ ਕੰਮ ਕਰਨ ਲਈ ਵਧੀਕ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਸਫ਼ੇ ਤੋਂ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN ਨਾਲ ਜੋੜਨ ਲਈ ਮੈਂਬਰੀ ਤੇ ਕੰਮ ਕਰਨ ਲਈ ਵਧੀਕ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੈ।"
+  },
   "enable": {
     "message": "ਸਮਰੱਥ ਕਰੋ",
     "description": "Button title "
