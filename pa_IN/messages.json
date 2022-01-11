@@ -311,5 +311,19 @@
   },
   "tooltipWarning": {
     "message": "ਇਹ ਕਨਟੇਨਰ Mozilla VPN ਪਰਕਾਸੀ ਵਰਤਣ ਲਈ ਸੈਟਅੱਪ ਕੀਤਾ ਹੈ, ਪਰ Mozilla VPN ਚਾਲੂ ਨਹੀਂ ਹੈ। ਇਹ ਕਨਟੇਨਰ ਵਰਤਣ ਲਈ Mozilla VPN  ਚਾਲੂ ਕਰੋ।"
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN ਲਵੋ"
+  },
+  "integratewithmozillavpn": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨੈਕਟਰਾਂ ਨੂੰ ਜੋੜੋ"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN ਤੇ ਪਰਾਕਸੀ ਇਜਾਜ਼ਤਾਂ",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ Firefox ਤੋਂ ਬਿਨਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਨਾਲ ਸੁਨੇਹੇ ਤਬਾਦਲੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
+    "description": "Permission title"
   }
 }
