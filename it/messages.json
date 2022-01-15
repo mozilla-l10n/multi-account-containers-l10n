@@ -245,7 +245,7 @@
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Apri in contenitore “$containerName$”",
+    "message": "Apri in contenitore $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
