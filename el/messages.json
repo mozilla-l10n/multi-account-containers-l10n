@@ -314,5 +314,22 @@
   },
   "getMozillaVpn": {
     "message": "Λήψη του Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Αυτή η ρύθμιση επιτρέπει στην επέκταση να ανταλλάσσει μηνύματα με το πρόγραμμα-πελάτη Mozilla VPN και απαιτείται για τις δυνατότητες ενοποίησης του Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Η ενσωμάτωση με το Mozilla VPN απαιτεί συνδρομή και πρόσθετα δικαιώματα για να λειτουργήσει."
+  },
+  "enable": {
+    "message": "Ενεργοποίηση",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
   }
 }
