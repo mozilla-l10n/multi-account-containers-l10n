@@ -1,7 +1,8 @@
 {
-	"placeholders": {
-		"LOCALE": [
-			"MESSAGE_ID"
+	"ellipsis": {
+		"excluded_locales": [
+			"ja"
 		]
-	}
+	},
+	"placeholders": {}
 }

@@ -121,11 +121,22 @@ def main():
                 )
 
         for message_id, message_data in locale_messages.items():
-            # Check for pilcrows
             l10n_message = message_data["text"]
-            if "¶" in message_data["text"]:
+
+            # Check for pilcrows
+            if "¶" in l10n_message:
                 errors.append(
                     f"{locale}:\n  '¶' in {message_id}\n  Text: {l10n_message}"
+                )
+
+            # Check for ellipsis
+            if (
+                "..." in l10n_message
+                and message_id not in exceptions["ellipsis"].get(locale, {})
+                and locale not in exceptions["ellipsis"].get("excluded_locales", [])
+            ):
+                errors.append(
+                    f"{locale}:\n  '...' in {message_id}\n  Text: {l10n_message}"
                 )
 
     if errors:
