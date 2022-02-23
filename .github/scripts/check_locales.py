@@ -94,7 +94,7 @@ def main():
     locales.sort()
 
     messages_with_placeholders = {
-        k: v["placeholders"]
+        k: [p.upper() for p in v["placeholders"]]
         for (k, v) in reference_messages.items()
         if v["placeholders"]
     }
