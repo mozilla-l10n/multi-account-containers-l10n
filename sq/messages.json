@@ -298,5 +298,45 @@
   },
   "tooltipWarning": {
     "message": "Ky Kontejner është ujdisur të përdorë një ndërmjetës Mozilla VPN, por Mozilla VPN s’është aktive. Që të përdorni këtë Kontejner, aktivizoni Mozilla VPN."
+  },
+  "getMozillaVpn": {
+    "message": "Merrni Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integroni Kontejnerët tuaj me Mozilla VPN-në"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN & Leje Ndërmjetësish",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Lejojeni zgjerimin të shkëmbejë mesazhe me programe të tjera veç Firefox-it",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Ky rregullim e lejon zgjerimin të shkëmbejë mesazhe me klientin Mozilla VPN dhe është i domosdoshëm që të funksionojë integrimi me Mozilla VPN-në.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Lejojeni zgjerimin të kontrollojë rregullime ndërmjetësi",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Kjo ju lejon të përdorni rregullime të thelluara ndërmjetësi dhe të aktivizoni veçori integrimi me Mozilla VPN-në.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Që të funksionojë, kjo veçori lyp një leje shtesë. Lejet mund të çaktivizohen kurdo, që nga faqja e rregullimeve.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Që të funksionojë, integrimi me Mozilla VPN-në lyp një pajtim dhe leje shtesë."
+  },
+  "enable": {
+    "message": "Aktivizoje",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integroni Kontejnerët tuaj me Mozilla VPN-në"
   }
 }
