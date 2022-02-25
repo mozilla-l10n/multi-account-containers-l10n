@@ -318,9 +318,29 @@
   "integratewithmozillavpn": {
     "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
   },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Δικαιώματα Mozilla VPN & διακομιστή μεσολάβησης",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Να επιτρέπεται στην επέκταση η ανταλλαγή μηνυμάτων με προγράμματα εκτός του Firefox",
+    "description": "Permission title"
+  },
   "nativeMessagingPermissionDescription": {
     "message": "Αυτή η ρύθμιση επιτρέπει στην επέκταση να ανταλλάσσει μηνύματα με το πρόγραμμα-πελάτη Mozilla VPN και απαιτείται για τις δυνατότητες ενοποίησης του Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Να επιτρέπεται στην επέκταση ο έλεγχος των ρυθμίσεων διακομιστή μεσολάβησης",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Αυτό σας επιτρέπει να χρησιμοποιείτε προηγμένες ρυθμίσεις διακομιστή μεσολάβησης και να ενεργοποιήσετε τις δυνατότητες ενσωμάτωσης του Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Αυτή η δυνατότητα απαιτεί πρόσθετη άδεια για να λειτουργήσει. Τα δικαιώματα μπορούν να απενεργοποιηθούν ανά πάσα στιγμή από τη σελίδα ρυθμίσεων.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "Η ενσωμάτωση με το Mozilla VPN απαιτεί συνδρομή και πρόσθετα δικαιώματα για να λειτουργήσει."
