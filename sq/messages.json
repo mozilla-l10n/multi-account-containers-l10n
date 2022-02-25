@@ -196,6 +196,9 @@
   "keyboardShortCuts": {
     "message": "Shkurtore Tastiere:"
   },
+  "onboarding": {
+    "message": "Mirëseardhje"
+  },
   "tabBehavior": {
     "message": "Sjellje skede:"
   },
