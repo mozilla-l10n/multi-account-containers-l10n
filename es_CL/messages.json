@@ -121,7 +121,7 @@
     "message": "Remover este contenedor"
   },
   "removeThisContainerConfirmation": {
-    "message": "¿Estás seguro de que desea remover este contenedor?"
+    "message": "¿De verdad quieres eliminar este contenedor?"
   },
   "cancel": {
     "message": "Cancelar"
