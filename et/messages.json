@@ -47,5 +47,38 @@
   },
   "onboarding-2-header": {
     "message": "Pane konteinerid enda kasuks tööle."
+  },
+  "onboarding-2-description": {
+    "message": "Funktsioonid nagu kaartide värvikoodistamine ja eraldiseisvad konteinerid aitavad sul asju hõlpsamini leida, tähelepanu koondada ja segavaid tegureid minimeerida."
+  },
+  "onboarding-3-header": {
+    "message": "Koht kõige jaoks ja kõik omal kohal."
+  },
+  "onboarding-3-description": {
+    "message": "Alusta meie loodud konteineritega või loo enda omad."
+  },
+  "onboarding-4-header": {
+    "message": "Ava saite alati soovitud konteinerites."
+  },
+  "onboarding-4-description": {
+    "message": "Paremklõpsa konteinerkaardi sees, et määrata see alati avanema antud konteineris."
+  },
+  "onboarding-5-header": {
+    "message": "Lisa kaardid vajadusel konteinerisse."
+  },
+  "onboarding-5-description": {
+    "message": "Uue konteinerkaardi avamiseks vajuta pikalt uue kaardi nupul."
+  },
+  "onboarding-6-header": {
+    "message": "Konteinerite sünkroniseerimine on nüüd saadaval!"
+  },
+  "onboarding-6-description": {
+    "message": "Lülita sünkroniseerimine sisse, et jagada konteinereid ja saitide määramist konteinerisse kõigi oma Firefoxi kontoga ühendatud arvutite vahel."
+  },
+  "onboarding-7-header": {
+    "message": "Sünkroonimiseks on vaja Firefoxi kontot."
+  },
+  "onboarding-7-description": {
+    "message": "Firefoxi konto aktiivsuse kinnitamiseks klõpsa nupul Logi sisse."
   }
 }
