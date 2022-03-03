@@ -10,5 +10,42 @@
   "reopenThisSiteIn": {
     "message": "Ava see sait uuesti konteineris…",
     "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sordi kaardid konteineri alusel",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ava see sait alati konteineris…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ava alati konteineris…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sait avatakse alati konteineris"
+  },
+  "openANewTabIn": {
+    "message": "Ava uus kaart konteineris…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Ava uus kaart selles konteineris"
+  },
+  "openTabs": {
+    "message": "Avatud kaardid",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Liiguta kaardid uude aknasse"
+  },
+  "onboarding-1-header": {
+    "message": "Parem viis kõigi veebis tehtavate asjade haldamiseks"
+  },
+  "onboarding-1-description": {
+    "message": "Kasuta konteinereid tegevuste korraldamiseks, kontode haldamiseks ja soovitud asjadele keskendumiseks."
+  },
+  "onboarding-2-header": {
+    "message": "Pane konteinerid enda kasuks tööle."
   }
 }
