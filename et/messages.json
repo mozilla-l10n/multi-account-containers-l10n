@@ -1,0 +1,14 @@
+{
+  "extensionDescription": {
+    "message": "Mitme konto konteinerid aitavad sul hoida kõik oma võrguelu osad erinevatel kaartidel. Kohandatud siltide ja värvikoodidega kaartidega on sul võimalik hoida lahus erinevad tegevused — nagu veebipoodlemine, reisimise planeerimine, töö e-posti kontrollimine jne.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Ava uuel kaardil konteineris…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ava see sait uuesti konteineris…",
+    "description": "Menu title"
+  }
+}
