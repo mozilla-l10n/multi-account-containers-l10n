@@ -92,5 +92,108 @@
   },
   "spreadTheWord": {
     "message": "Kui sulle meeldivad konteinerid, siis aita sõna levitada!"
+  },
+  "rate": {
+    "message": "Hinda"
+  },
+  "share": {
+    "message": "Jaga"
+  },
+  "tweet": {
+    "message": "Säutsu"
+  },
+  "default": {
+    "message": "Vaikimisi"
+  },
+  "manageContainers": {
+    "message": "Halda konteinereid"
+  },
+  "newContainer": {
+    "message": "Uus konteiner"
+  },
+  "hideThisContainer": {
+    "message": "Peida see konteiner"
+  },
+  "showThisContainer": {
+    "message": "Kuva seda konteinerit"
+  },
+  "removeThisContainer": {
+    "message": "Eemalda see konteiner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Kas oled kindel, et soovid selle konteineri eemaldada?"
+  },
+  "cancel": {
+    "message": "Loobu"
+  },
+  "ok": {
+    "message": "Olgu"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sellele konteinerile määratud saidid"
+  },
+  "options": {
+    "message": "Sätted"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "color": {
+    "message": "Värv"
+  },
+  "icon": {
+    "message": "Ikoon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Piira määratud saitidele"
+  },
+  "deleteThisContainer": {
+    "message": "Kustuta see konteiner"
+  },
+  "manageSiteList": {
+    "message": "Halda saitide nimekirja…"
+  },
+  "manageThisContainer": {
+    "message": "Halda seda konteinerit"
+  },
+  "containers": {
+    "message": "Konteinerid"
+  },
+  "done": {
+    "message": "Valmis"
+  },
+  "getStarted": {
+    "message": "Tee algust"
+  },
+  "signIn": {
+    "message": "Logi sisse"
+  },
+  "notNow": {
+    "message": "Mitte praegu"
+  },
+  "startSyncing": {
+    "message": "Alusta sünkroniseerimist"
+  },
+  "info": {
+    "message": "ikoon",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Edasi"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Kas avada see sait määratud konteineris?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Kas soovid siiski avada selles praeguses konteineris?"
+  },
+  "rememberMyDecision": {
+    "message": "Otsus selle saidi jaoks peetakse meeles"
+  },
+  "optionalPermissions": {
+    "message": "Valikulised õigused:"
+  },
+  "keyboardShortCuts": {
+    "message": "Kiirklahvid:"
   }
 }
