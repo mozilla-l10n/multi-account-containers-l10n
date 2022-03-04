@@ -195,5 +195,32 @@
   },
   "keyboardShortCuts": {
     "message": "Kiirklahvid:"
+  },
+  "onboarding": {
+    "message": "Alustamisjuhendid"
+  },
+  "resetOnboardingPanels": {
+    "message": "Lähtesta alustamisjuhendid"
+  },
+  "onboardingToggle": {
+    "message": "Alustamisjuhendite uuesti nägemiseks vajuta seda nuppu."
+  },
+  "tabBehavior": {
+    "message": "Kaardi käitumine:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Järjehoidjate menüüd lubatakse"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefoxi kontode sünkroniseerimine:"
+  },
+  "enableSync": {
+    "message": "Sünkroniseerimine lubatakse"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "See säte võimaldab sul avada järjehoidja või järjehoidjate kausta järjehoidjad konteineris."
+  },
+  "enableSyncDescription": {
+    "message": "See säte võimaldab sünkroniseerida konteinerid ja neile määratud saidid sinu seadmete vahel."
   }
 }
