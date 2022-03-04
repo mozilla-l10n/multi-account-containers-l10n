@@ -80,5 +80,17 @@
   },
   "onboarding-7-description": {
     "message": "Firefoxi konto aktiivsuse kinnitamiseks klõpsa nupul Logi sisse."
+  },
+  "onboarding-8-description": {
+    "message": "Nüüd on võimalik konteinereid integreerida Mozilla VPNiga või sinu enda puhverserveriga, et luua turvaline ja privaatne ühendus, mis kaitseb sinu tegevust."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 kaarti!"
+  },
+  "youHaveOpened": {
+    "message": "Sa oled avanud 100 konteinerkaarti."
+  },
+  "spreadTheWord": {
+    "message": "Kui sulle meeldivad konteinerid, siis aita sõna levitada!"
   }
 }
