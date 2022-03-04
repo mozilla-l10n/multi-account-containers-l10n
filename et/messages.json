@@ -222,5 +222,34 @@
   },
   "enableSyncDescription": {
     "message": "See säte võimaldab sünkroniseerida konteinerid ja neile määratud saidid sinu seadmete vahel."
+  },
+  "replaceTab": {
+    "message": "Uue kaardi loomise asemel asendatakse see olemasolevaga"
+  },
+  "replaceTabDescription": {
+    "message": "Teisele konteinerile määratud saidi avamisel asendatakse olemasolev kaart (selle asemel, et jätta olemasolev kaart alles). Kaartide avamine hiire keskmise nupuga ei ole mõjutatud."
+  },
+  "editWhichContainer": {
+    "message": "Määra, milline konteiner nummerdatud kiirklahvi kasutamisel avatakse."
+  },
+  "keyboardShortCut": {
+    "message": "Kiirklahvide kombinatsiooniga $keyId$ avatakse konteiner",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Lisa Multi-Account Containers navigeerimise kinnitamine",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Ava konteineris $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
