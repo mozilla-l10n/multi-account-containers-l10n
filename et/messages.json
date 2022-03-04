@@ -251,5 +251,23 @@
         "content": "$1"
       }
     }
+  },
+  "youAskedFirefox": {
+    "message": "Oled määranud Firefoxi järgnevat saiti alati avama konteineris $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Vali asukoht",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Peida"
+  },
+  "show": {
+    "message": "Kuva"
   }
 }
