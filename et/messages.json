@@ -269,5 +269,17 @@
   },
   "show": {
     "message": "Kuva"
+  },
+  "protectYourContainers": {
+    "message": "Kaitse oma konteinereid Mozilla VPNiga"
+  },
+  "protectThisContainer": {
+    "message": "Kaitse seda konteinerit Mozilla VPNiga"
+  },
+  "advancedProxySettings": {
+    "message": "Puhverserveri täpsemad sätted"
+  },
+  "proxyInputLabel": {
+    "message": "Sisesta kohandatud puhverserver"
   }
 }
