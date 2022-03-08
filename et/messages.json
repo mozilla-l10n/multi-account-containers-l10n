@@ -296,5 +296,42 @@
   },
   "invalidProxyAlert": {
     "message": "Palun sisesta korrektne puhverserveri URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Selle funktsionaalsuse kasutamiseks peab Mozilla VPN olema sisse lülitatud."
+  },
+  "learnMore": {
+    "message": "Rohkem teavet"
+  },
+  "proxyNowAvailable": {
+    "message": "Nüüd Mozilla VPNi ja täpsemate puhverserveri sätetega"
+  },
+  "applyToContainer": {
+    "message": "Rakenda konteinerile"
+  },
+  "tooltipWarning": {
+    "message": "See konteiner on seadistatud kasutama Mozilla VPNi puhverserverit. Konteineri kasutamiseks lülita Mozilla VPN sisse."
+  },
+  "getMozillaVpn": {
+    "message": "Hangi Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integreeri oma konteinerid Mozilla VPNiga"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPNi ja puhverserveri õigused",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Laiendusel lubatakse vahetada sõnumeid muude programmidega peale Firefoxi",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "See säte lubab laiendusel vahetada sõnumeid Mozilla VPNi kliendiga ja on vajalik, et Mozilla VPNi integreerimise funktsionaalsus töötaks.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Laiendus võib muuta puhverserveri sätteid",
+    "description": "Permission title"
   }
 }
