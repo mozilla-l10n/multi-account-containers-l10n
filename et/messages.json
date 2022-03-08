@@ -333,5 +333,23 @@
   "proxyPermissionTitle": {
     "message": "Laiendus võib muuta puhverserveri sätteid",
     "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "See võimaldab kasutada täpsemaid puhverserveri sätteid ja lubada integreerimise funktsionaalsuse Mozilla VPNiga.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "See funktsionaalsus vajab toimimiseks täiendavaid õigusi. Õigused saab sätete lehel igal ajal keelata.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integreerimine Mozilla VPNiga vajab töötamiseks teenuslepingut ning täiendavaid õigusi."
+  },
+  "enable": {
+    "message": "Luba",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integreeri oma konteinerid Mozilla VPNiga"
   }
 }
