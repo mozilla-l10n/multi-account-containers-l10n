@@ -281,5 +281,20 @@
   },
   "proxyInputLabel": {
     "message": "Sisesta kohandatud puhverserver"
+  },
+  "useCustomLocation": {
+    "message": "Kasuta selle konteineri jaoks kohandatud asukohta"
+  },
+  "clearproxylabel": {
+    "message": "Tühjenda puhverserver"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN on sisse lülitatud"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN on välja lülitatud"
+  },
+  "invalidProxyAlert": {
+    "message": "Palun sisesta korrektne puhverserveri URL"
   }
 }
