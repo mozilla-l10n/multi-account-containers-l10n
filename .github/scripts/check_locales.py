@@ -93,8 +93,10 @@ def main():
     ]
     locales.sort()
 
+    # Placeholder names are case insensitive, so transform them to lowercase
+    # https://developer.chrome.com/docs/extensions/mv3/i18n-messages/#name
     messages_with_placeholders = {
-        k: [p.upper() for p in v["placeholders"]]
+        k: [p.lower() for p in v["placeholders"]]
         for (k, v) in reference_messages.items()
         if v["placeholders"]
     }
@@ -115,6 +117,9 @@ def main():
 
             l10n_message = locale_messages[message_id]["text"]
             l10n_placeholders = placeholder_pattern.findall(l10n_message)
+            # Make placeholders lowercase, and remove duplicates
+            l10n_placeholders = list(set(p.lower() for p in l10n_placeholders))
+
             if sorted(placeholders) != sorted(l10n_placeholders):
                 errors.append(
                     f"{locale}:\n  Placeholder mismatch in {message_id}\n  Text: {l10n_message}"
