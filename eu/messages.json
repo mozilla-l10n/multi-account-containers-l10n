@@ -1,6 +1,29 @@
 {
+  "openInNewTabTitle": {
+    "message": "Ireki fitxa berria hemen…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ireki berriro gune hau hemen…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordenatu fitxak edukiontziaren arabera",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ireki beti gune hau hemen…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ireki beti hemen…",
+    "description": "Menu title"
+  },
   "alwaysOpenSiteInContainer": {
     "message": "Ireki beti gunea edukiontzi batean"
+  },
+  "openANewTabIn": {
+    "message": "Ireki fitxa berria hemen…"
   },
   "openNewTabInThisContainer": {
     "message": "Ireki fitxa berria edukiontzi honetan"
@@ -62,6 +85,9 @@
   },
   "icon": {
     "message": "Ikonoa"
+  },
+  "deleteThisContainer": {
+    "message": "Ezabatu edukiontzi hau"
   },
   "manageThisContainer": {
     "message": "Kudeatu edukiontzi hau"
