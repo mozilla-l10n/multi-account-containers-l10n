@@ -1,0 +1,47 @@
+{
+  "share": {
+    "message": "Del"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Handsam behaldarar"
+  },
+  "newContainer": {
+    "message": "Ny behaldar"
+  },
+  "hideThisContainer": {
+    "message": "Skjul denne behaldaren"
+  },
+  "showThisContainer": {
+    "message": "Vis denne behaldaren"
+  },
+  "removeThisContainer": {
+    "message": "Fjern denne behaldaren"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Er du sikker på at du vil fjerne denne behaldaren?"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "options": {
+    "message": "Innstillingar"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "color": {
+    "message": "Farge"
+  },
+  "icon": {
+    "message": "Ikon"
+  }
+}
