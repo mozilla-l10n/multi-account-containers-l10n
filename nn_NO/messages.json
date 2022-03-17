@@ -77,7 +77,14 @@
   "next": {
     "message": "Neste"
   },
+  "enableSync": {
+    "message": "Aktiver sync"
+  },
   "learnMore": {
     "message": "Les meir"
+  },
+  "enable": {
+    "message": "Aktiver",
+    "description": "Button title "
   }
 }
