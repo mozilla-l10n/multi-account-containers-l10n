@@ -3,6 +3,14 @@
     "message": "Opne ny fane i…",
     "description": "Menu title"
   },
+  "alwaysOpenThisSiteIn": {
+    "message": "Opne alltid denne nettstaden i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Opne alltid i…",
+    "description": "Menu title"
+  },
   "openTabs": {
     "message": "Opne faner",
     "description": "Section title for tabs that are currently open in that container"
