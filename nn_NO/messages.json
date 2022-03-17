@@ -1,4 +1,12 @@
 {
+  "openInNewTabTitle": {
+    "message": "Opne ny fane i…",
+    "description": "Menu title"
+  },
+  "openTabs": {
+    "message": "Opne faner",
+    "description": "Section title for tabs that are currently open in that container"
+  },
   "share": {
     "message": "Del"
   },
@@ -43,5 +51,30 @@
   },
   "icon": {
     "message": "Ikon"
+  },
+  "containers": {
+    "message": "Behaldarar"
+  },
+  "done": {
+    "message": "Ferdig"
+  },
+  "getStarted": {
+    "message": "Kom i gang"
+  },
+  "signIn": {
+    "message": "Logg inn"
+  },
+  "notNow": {
+    "message": "Ikkje no"
+  },
+  "startSyncing": {
+    "message": "Start synkronisering"
+  },
+  "info": {
+    "message": "Info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Neste"
   }
 }
