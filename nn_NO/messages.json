@@ -3,6 +3,14 @@
     "message": "Opne ny fane i…",
     "description": "Menu title"
   },
+  "reopenThisSiteIn": {
+    "message": "Opne denne sida på nytt i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sorter faner etter behaldar",
+    "description": "Menu title"
+  },
   "alwaysOpenThisSiteIn": {
     "message": "Opne alltid denne nettstaden i…",
     "description": "Menu title"
