@@ -11,9 +11,24 @@
     "message": "Opne alltid i…",
     "description": "Menu title"
   },
+  "alwaysOpenSiteInContainer": {
+    "message": "Opne alltid nettstaden i behaldar"
+  },
+  "openANewTabIn": {
+    "message": "Opne ei ny fane i…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Opne ny fane i denne kontaineren"
+  },
   "openTabs": {
     "message": "Opne faner",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Flytt faner til eit nytt vindauge"
+  },
+  "onboarding-1-header": {
+    "message": "Ein betre måte å handsame alt du gjer på nettet"
   },
   "share": {
     "message": "Del"
@@ -59,6 +74,12 @@
   },
   "icon": {
     "message": "Ikon"
+  },
+  "manageSiteList": {
+    "message": "Handsam nettstadliste…"
+  },
+  "manageThisContainer": {
+    "message": "Handsam denne behaldaren"
   },
   "containers": {
     "message": "Behaldarar"
