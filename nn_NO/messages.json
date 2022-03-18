@@ -120,6 +120,9 @@
   "learnMore": {
     "message": "Les meir"
   },
+  "getMozillaVpn": {
+    "message": "Last ned Mozilla VPN"
+  },
   "enable": {
     "message": "Aktiver",
     "description": "Button title "
