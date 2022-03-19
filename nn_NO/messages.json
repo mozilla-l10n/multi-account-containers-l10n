@@ -83,6 +83,9 @@
   "icon": {
     "message": "Ikon"
   },
+  "deleteThisContainer": {
+    "message": "Slett denne behaldaren"
+  },
   "manageSiteList": {
     "message": "Handsam nettstadliste…"
   },
@@ -114,8 +117,50 @@
   "next": {
     "message": "Neste"
   },
+  "rememberMyDecision": {
+    "message": "Hugs avgjerda mi for denne nettstaden"
+  },
+  "optionalPermissions": {
+    "message": "Valfrie løyve:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastatursnarvegar:"
+  },
+  "tabBehavior": {
+    "message": "Faneverkemåte:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktiver bokmerkemenyar"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox-kontosynkronisering:"
+  },
   "enableSync": {
     "message": "Aktiver sync"
+  },
+  "openInContainer": {
+    "message": "Opne i behaldaren $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Vel plassering",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Skjul"
+  },
+  "show": {
+    "message": "Vis"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN er på"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN er av"
   },
   "learnMore": {
     "message": "Les meir"
