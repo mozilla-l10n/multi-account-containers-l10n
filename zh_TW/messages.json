@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "將容器與 Mozilla VPN 整合使用"
+  },
+  "theme": {
+    "message": "佈景主題:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "選擇佈景主題",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "自動偵測（預設）",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "亮色",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "暗色",
+    "description": "Value for the theme option select tag"
   }
 }
