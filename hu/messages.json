@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integrálja a konténereit a Mozilla VPN-nel"
+  },
+  "theme": {
+    "message": "Téma:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Válasszon témát",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatikus észlelés (alapértelmezett)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Világos",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Sötét",
+    "description": "Value for the theme option select tag"
   }
 }
