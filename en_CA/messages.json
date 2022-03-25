@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integrate your Containers with Mozilla VPN"
+  },
+  "theme": {
+    "message": "Theme:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Choose a theme",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Auto-detect (default)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Light",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Dark",
+    "description": "Value for the theme option select tag"
   }
 }
