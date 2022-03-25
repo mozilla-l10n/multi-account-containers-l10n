@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integrera dina behållare med Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Välj ett tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatisk identifiering (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Ljust",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Mörkt",
+    "description": "Value for the theme option select tag"
   }
 }
