@@ -359,5 +359,17 @@
   "chooseTheme": {
     "message": "Elige un tema",
     "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Detectar automáticamente (predeterminado)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Claro",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Oscuro",
+    "description": "Value for the theme option select tag"
   }
 }
