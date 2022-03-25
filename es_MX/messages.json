@@ -351,5 +351,13 @@
   },
   "integrateContainers": {
     "message": "Integra tus contenedores con Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Elige un tema",
+    "description": "Description for the theme option"
   }
 }
