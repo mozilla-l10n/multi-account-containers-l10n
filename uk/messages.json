@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Інтегруйте свої контейнери з Mozilla VPN"
+  },
+  "theme": {
+    "message": "Тема:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Обрати тему",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Автовизначення (типово)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Світла",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Темна",
+    "description": "Value for the theme option select tag"
   }
 }
