@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
+  },
+  "theme": {
+    "message": "Θέμα:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Επιλέξτε ένα θέμα",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Αυτόματη ανίχνευση (προεπιλογή)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Ανοιχτόχρωμο",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Σκουρόχρωμο",
+    "description": "Value for the theme option select tag"
   }
 }
