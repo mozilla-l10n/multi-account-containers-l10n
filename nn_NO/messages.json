@@ -38,6 +38,9 @@
   "onboarding-1-header": {
     "message": "Ein betre måte å handsame alt du gjer på nettet"
   },
+  "onboarding-2-header": {
+    "message": "Få behaldarane til å fungere for deg."
+  },
   "onboarding-4-header": {
     "message": "Opne alltid nettstadar i behaldarane du ønskjer."
   },
@@ -192,6 +195,14 @@
   "replaceTabDescription": {
     "message": "Erstatt gjeldande fane dersom ei side som er tilordna ein annan behalder vert opna (i staden for å halde gjeldande fane open). Dette påverkar ikkje opning av faner med midtre museknapp."
   },
+  "keyboardShortCut": {
+    "message": "Behaldar som skal opnast med tastatursnarveg $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openInContainer": {
     "message": "Opne i behaldaren $containerName$",
     "placeholders": {
@@ -230,20 +241,94 @@
   "proxyInputLabel": {
     "message": "Skriv inn eigendefinert proxy"
   },
+  "useCustomLocation": {
+    "message": "Bruk ei eigendefinert plassering for denne behaldaren"
+  },
+  "clearproxylabel": {
+    "message": "Tøm proxy"
+  },
   "moz-vpn-connected": {
     "message": "Mozilla VPN er på"
   },
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN er av"
   },
+  "invalidProxyAlert": {
+    "message": "Skriv inn ei gyldig proxy-adresse"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN må vere aktivert for å bruke denne funksjonen."
+  },
   "learnMore": {
     "message": "Les meir"
+  },
+  "proxyNowAvailable": {
+    "message": "No med Mozilla VPN og avanserte proxy-innstillingar"
+  },
+  "applyToContainer": {
+    "message": "Bruk på behaldar"
+  },
+  "tooltipWarning": {
+    "message": "Denne behaldaren er sett opp til å bruke ein Mozilla VPN-proxy, men Mozilla VPN er ikkje aktivert. Aktiver Mozilla VPN for å bruke denne behaldaren."
   },
   "getMozillaVpn": {
     "message": "Last ned Mozilla VPN"
   },
+  "integratewithmozillavpn": {
+    "message": "Integrer behaldarane dine med Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN og proxy-løyve",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Tillat utviding å utveksle meldingar med andre program enn Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Denne innstillinga tillèt utvidinga å utveksle meldingar med Mozilla VPN-klienten og er nødvendig for at Mozilla VPN-integrasjonsfunksjonar skal fungere.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Tillat utviding å kontrollere proxy-innstillingar",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Dette tillèt deg å bruke avanserte proxy-innstillingar og aktivere Mozilla VPN-integrasjonsfunksjonar.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Denne funksjonen krev eit ekstra løyve for å fungere. Løyve kan deaktiverast når som helst på innstillingssida.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrasjon med Mozilla VPN krev eit abonnement og ekstra løyve for å fungere."
+  },
   "enable": {
     "message": "Aktiver",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrer behaldarane dine med Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Vel eit tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatisk attkjenning (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Lyst",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Mørkt",
+    "description": "Value for the theme option select tag"
   }
 }
