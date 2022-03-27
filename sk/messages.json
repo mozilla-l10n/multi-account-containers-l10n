@@ -351,5 +351,13 @@
   },
   "integrateContainers": {
     "message": "Integrujte svoje kontajnery s Mozilla VPN"
+  },
+  "theme": {
+    "message": "Téma vzhľadu:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Vyberte si tému vzhľadu",
+    "description": "Description for the theme option"
   }
 }
