@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
+  },
+  "theme": {
+    "message": "Drastwa:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Drastwu wubraś",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Awtomatiski namakaś (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Swětły",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Śamny",
+    "description": "Value for the theme option select tag"
   }
 }
