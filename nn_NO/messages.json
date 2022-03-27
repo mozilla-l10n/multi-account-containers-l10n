@@ -38,6 +38,15 @@
   "onboarding-1-header": {
     "message": "Ein betre måte å handsame alt du gjer på nettet"
   },
+  "onboarding-4-header": {
+    "message": "Opne alltid nettstadar i behaldarane du ønskjer."
+  },
+  "onboarding-5-header": {
+    "message": "Innhaldsfaner når du treng dei."
+  },
+  "onboarding-5-description": {
+    "message": "Trykk lenge på Ny fane-knappen for å opprette ei ny innhaldsfane."
+  },
   "share": {
     "message": "Del"
   },
