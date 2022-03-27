@@ -50,6 +50,24 @@
   "onboarding-6-header": {
     "message": "Synkronisering av behaldarar er no tilgjengeleg!"
   },
+  "onboarding-7-header": {
+    "message": "Firefox-konto er nødvendig for å synkronisere."
+  },
+  "onboarding-7-description": {
+    "message": "Klikk på Logg på for å stadfeste at Firefox-kontoen din er aktiv."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 faner!"
+  },
+  "youHaveOpened": {
+    "message": "Du har opna 100 innhaldsfaner."
+  },
+  "spreadTheWord": {
+    "message": "Dersom du likar behaldarar, hjelp oss å spreie ordet!"
+  },
+  "rate": {
+    "message": "Vurdering"
+  },
   "share": {
     "message": "Del"
   },
@@ -83,6 +101,9 @@
   "ok": {
     "message": "OK"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Nettstadar som er tilordna til denne behalderen"
+  },
   "options": {
     "message": "Innstillingar"
   },
@@ -94,6 +115,9 @@
   },
   "icon": {
     "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Avgrens til utpeikte nettstadar"
   },
   "deleteThisContainer": {
     "message": "Slett denne behaldaren"
@@ -129,6 +153,12 @@
   "next": {
     "message": "Neste"
   },
+  "openThisSiteConfirmation": {
+    "message": "Opne denne nettstaden i den tildelte behaldaren?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vil du framleis opne i denne gjeldande behaldaren?"
+  },
   "rememberMyDecision": {
     "message": "Hugs avgjerda mi for denne nettstaden"
   },
@@ -159,8 +189,19 @@
   "replaceTab": {
     "message": "Erstatt fana i staden for å opprette ei ny"
   },
+  "replaceTabDescription": {
+    "message": "Erstatt gjeldande fane dersom ei side som er tilordna ein annan behalder vert opna (i staden for å halde gjeldande fane open). Dette påverkar ikkje opning av faner med midtre museknapp."
+  },
   "openInContainer": {
     "message": "Opne i behaldaren $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Du ba Firefox om alltid å opne $containerName$ for denne nettstaden:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -176,6 +217,18 @@
   },
   "show": {
     "message": "Vis"
+  },
+  "protectYourContainers": {
+    "message": "Vern behaldarane dine med Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Vern denne behaldaren med Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avanserte proxy-innstillingar"
+  },
+  "proxyInputLabel": {
+    "message": "Skriv inn eigendefinert proxy"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN er på"
