@@ -47,6 +47,9 @@
   "onboarding-5-description": {
     "message": "Trykk lenge på Ny fane-knappen for å opprette ei ny innhaldsfane."
   },
+  "onboarding-6-header": {
+    "message": "Synkronisering av behaldarar er no tilgjengeleg!"
+  },
   "share": {
     "message": "Del"
   },
@@ -135,6 +138,12 @@
   "keyboardShortCuts": {
     "message": "Tastatursnarvegar:"
   },
+  "onboarding": {
+    "message": "Innføring"
+  },
+  "resetOnboardingPanels": {
+    "message": "Tilbakestill innføringspanel"
+  },
   "tabBehavior": {
     "message": "Faneverkemåte:"
   },
@@ -146,6 +155,9 @@
   },
   "enableSync": {
     "message": "Aktiver sync"
+  },
+  "replaceTab": {
+    "message": "Erstatt fana i staden for å opprette ei ny"
   },
   "openInContainer": {
     "message": "Opne i behaldaren $containerName$",
