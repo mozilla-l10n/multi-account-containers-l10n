@@ -359,5 +359,17 @@
   "chooseTheme": {
     "message": "Vyberte si tému vzhľadu",
     "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatická (predvolené)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Svetlá",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tmavá",
+    "description": "Value for the theme option select tag"
   }
 }
