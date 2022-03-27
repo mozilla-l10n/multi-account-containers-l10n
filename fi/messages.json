@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
+  },
+  "theme": {
+    "message": "Teema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Valitse teema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automaattinen tunnistus (oletus)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Vaalea",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tumma",
+    "description": "Value for the theme option select tag"
   }
 }
