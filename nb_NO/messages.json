@@ -25,9 +25,21 @@
   "openANewTabIn": {
     "message": "Åpne en ny fane i…"
   },
+  "openNewTabInThisContainer": {
+    "message": "Åpne ny fane i denne beholderen"
+  },
   "openTabs": {
     "message": "Åpne faner",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Flytt faner til et nytt vindu"
+  },
+  "onboarding-1-header": {
+    "message": "En bedre måte å behandle alle tingene du gjør på nettet"
+  },
+  "onboarding-7-header": {
+    "message": "Firefox-konto er nødvendig for å synkronisere."
   },
   "oneHundredTabsHeader": {
     "message": "100 faner!"
@@ -130,7 +142,10 @@
     "message": "Vis"
   },
   "protectYourContainers": {
-    "message": "Beskytt beholderene dine med Mozilla VPN"
+    "message": "Beskytt beholderne dine med Mozilla VPN"
+  },
+  "clearproxylabel": {
+    "message": "Tøm proxy"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN er på"
@@ -150,7 +165,58 @@
   "proxyNowAvailable": {
     "message": "Nå med Mozilla VPN og avanserte proxy-innstillinger"
   },
+  "applyToContainer": {
+    "message": "Bruk på beholder"
+  },
   "tooltipWarning": {
     "message": "Denne beholderen er satt opp til å bruke en Mozilla VPN-proxy, men Mozilla VPN er ikke aktivert. Aktiver Mozilla VPN for å bruke denne beholderen."
+  },
+  "getMozillaVpn": {
+    "message": "Få Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrer beholderne dine med Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN og proxy-tillatelser",
+    "description": "Section headline in settings"
+  },
+  "proxyPermissionTitle": {
+    "message": "Tillat utvidelse å kontrollere proxy-innstillinger",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Dette lar deg bruke avanserte proxy-innstillinger og aktivere Mozilla VPN-integrasjonsfunksjoner.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrasjon med Mozilla VPN krever et abonnement og flere tillatelser for å fungere."
+  },
+  "enable": {
+    "message": "Slå på",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrer beholderne dine med Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Velg et tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatisk gjenkjenning (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Lyst",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Mørkt",
+    "description": "Value for the theme option select tag"
   }
 }
