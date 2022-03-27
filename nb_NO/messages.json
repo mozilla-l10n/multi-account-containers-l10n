@@ -135,6 +135,50 @@
   "openThisSiteConfirmation": {
     "message": "Åpne dette nettstedet i den tildelte beholderen?"
   },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vil du fortsatt åpne i denne nåværende beholderen?"
+  },
+  "rememberMyDecision": {
+    "message": "Husk avgjørelsen min for dette nettstedet"
+  },
+  "optionalPermissions": {
+    "message": "Valgfrie tillatelser:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastatursnarveier:"
+  },
+  "onboarding": {
+    "message": "Innføring"
+  },
+  "resetOnboardingPanels": {
+    "message": "Tilbakestill innføringspaneler"
+  },
+  "tabBehavior": {
+    "message": "Faneatferd:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktiver bokmerkemenyer"
+  },
+  "openInContainer": {
+    "message": "Åpne i ny $containerName$-beholder",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Du ba Firefox om alltid å åpne $containerName$ for dette nettstedet:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Velg plassering",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
   "hide": {
     "message": "Skjul"
   },
@@ -143,6 +187,18 @@
   },
   "protectYourContainers": {
     "message": "Beskytt beholderne dine med Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Beskytt denne beholderen med Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avanserte proxy-innstillinger"
+  },
+  "proxyInputLabel": {
+    "message": "Angi egendefinert proxy"
+  },
+  "useCustomLocation": {
+    "message": "Bruk en egendefinert plassering for denne beholderen"
   },
   "clearproxylabel": {
     "message": "Tøm proxy"
@@ -181,6 +237,14 @@
     "message": "Mozilla VPN og proxy-tillatelser",
     "description": "Section headline in settings"
   },
+  "nativeMessagingPermissionTitle": {
+    "message": "Tillat utvidelse å utveksle meldinger med andre programmer enn Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Denne innstillingen lar utvidelsen utveksle meldinger med Mozilla VPN-klienten og er nødvendig for at Mozilla VPN-integrasjonsfunksjoner skal fungere.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
     "message": "Tillat utvidelse å kontrollere proxy-innstillinger",
     "description": "Permission title"
@@ -189,8 +253,12 @@
     "message": "Dette lar deg bruke avanserte proxy-innstillinger og aktivere Mozilla VPN-integrasjonsfunksjoner.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
+  "additionalPermissionNeeded": {
+    "message": "Denne funksjonen krever en ekstra tillatelse for å fungere. Tillatelser kan deaktiveres når som helst på innstillingssiden.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Integrasjon med Mozilla VPN krever et abonnement og flere tillatelser for å fungere."
+    "message": "Integrasjon med Mozilla VPN krever et abonnement og ekstra tillatelser for å fungere."
   },
   "enable": {
     "message": "Slå på",
