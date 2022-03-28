@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Integreiddio eich Cynhwysyddion gyda Mozilla VPN"
+  },
+  "theme": {
+    "message": "Thema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Dewiswch thema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Awto-ganfod (rhagosodedig)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Golau",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tywyll",
+    "description": "Value for the theme option select tag"
   }
 }
