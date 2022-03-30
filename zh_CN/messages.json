@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "将 Mozilla VPN 与身份标签页整合"
+  },
+  "theme": {
+    "message": "主题：",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "选择主题",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "自动检测（默认）",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "浅色",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "深色",
+    "description": "Value for the theme option select tag"
   }
 }
