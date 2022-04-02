@@ -15,4 +15,4 @@ jobs:
           python-version: '3.9'
       - name: Check strings
         run: |
-          python .github/scripts/check_locales.py .
+          python .github/scripts/json_l10n.py --l10n . --ref en --exceptions .github/scripts/exceptions.json

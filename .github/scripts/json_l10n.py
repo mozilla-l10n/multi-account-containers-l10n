@@ -1,12 +1,10 @@
 #! /usr/bin/env python3
+
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-"""
- check_locales.py <locales_path> --ref <locale>
-"""
-
+from collections import defaultdict
 from glob import glob
 import argparse
 import json
@@ -46,7 +44,9 @@ def parseJsonFiles(base_path, messages, locale):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "locales_path",
+        "--l10n",
+        required=True,
+        dest="locales_path",
         help="Path to folder including subfolders for all locales",
     )
     parser.add_argument(
@@ -55,6 +55,17 @@ def main():
         dest="ref_locale",
         default="en",
         help="Reference locale code (default 'en')",
+    )
+    parser.add_argument(
+        "--dest",
+        dest="dest_file",
+        help="Save output to file",
+    )
+    parser.add_argument(
+        "--exceptions",
+        nargs="?",
+        dest="exceptions_file",
+        help="Path to JSON exceptions file",
     )
     args = parser.parse_args()
 
@@ -71,18 +82,18 @@ def main():
     reference_messages = {}
     parseJsonFiles(base_path, reference_messages, reference_locale)
 
-    # Get path to check_exceptions.json from script path
-    exception_file = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "check_exceptions.json")
-    )
-    if os.path.isfile(exception_file):
-        with open(exception_file) as f:
-            exceptions = json.load(f)
+    # Load exceptions
+    if not args.exceptions_file:
+        exceptions = defaultdict(dict)
     else:
-        print(f"{exception_file} is missing")
-        exceptions = {}
+        exceptions_filename = os.path.basename(args.exceptions_file)
+        try:
+            with open(args.exceptions_file) as f:
+                exceptions = json.load(f)
+        except Exception as e:
+            sys.exit(e)
 
-    errors = []
+    errors = defaultdict(list)
     placeholder_pattern = re.compile("\$([a-zA-Z0-9_@]+)\$")
 
     # Get a list of locales (subfolders in <locales_path>, exclude hidden folders)
@@ -121,8 +132,8 @@ def main():
             l10n_placeholders = list(set(p.lower() for p in l10n_placeholders))
 
             if sorted(placeholders) != sorted(l10n_placeholders):
-                errors.append(
-                    f"{locale}:\n  Placeholder mismatch in {message_id}\n  Text: {l10n_message}"
+                errors[locale].append(
+                    f"Placeholder mismatch in {message_id}\n  Text: {l10n_message}"
                 )
 
         for message_id, message_data in locale_messages.items():
@@ -130,9 +141,7 @@ def main():
 
             # Check for pilcrows
             if "¶" in l10n_message:
-                errors.append(
-                    f"{locale}:\n  '¶' in {message_id}\n  Text: {l10n_message}"
-                )
+                errors[locale].append(f"'¶' in {message_id}\n  Text: {l10n_message}")
 
             # Check for ellipsis
             if (
@@ -140,16 +149,31 @@ def main():
                 and message_id not in exceptions["ellipsis"].get(locale, {})
                 and locale not in exceptions["ellipsis"].get("excluded_locales", [])
             ):
-                errors.append(
-                    f"{locale}:\n  '...' in {message_id}\n  Text: {l10n_message}"
-                )
+                errors[locale].append(f"'...' in {message_id}\n  Text: {l10n_message}")
 
     if errors:
-        print("ERRORS:")
-        print("\n".join(errors))
+        locales = list(errors.keys())
+        locales.sort()
+
+        output = []
+        total_errors = 0
+        for locale in locales:
+            output.append(f"Locale: {locale} ({len(errors[locale])})")
+            total_errors += len(errors[locale])
+            for e in errors[locale]:
+                output.append(f"  {e}")
+        output.append(f"\nTotal errors: {total_errors}")
+
+        out_file = args.dest_file
+        if out_file:
+            print(f"Saving output to {out_file}")
+            with open(out_file, "w") as f:
+                f.write("\n".join(output))
+        # Print errors anyway on screen
+        print("\n".join(output))
         sys.exit(1)
     else:
-        print("No errors found.")
+        print("No issues found.")
 
 
 if __name__ == "__main__":
