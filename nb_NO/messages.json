@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers hjelper deg med å holde alle delene av livet ditt på nettet i forskjellige faner. Egendefinerte etiketter og fargekodede faner hjelper deg med å holde ulike aktiviteter — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — atskilt.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Åpne ny fane i…",
     "description": "Menu title"
