@@ -50,8 +50,14 @@
   "onboarding-3-header": {
     "message": "Et sted for alt, og alt på sin plass."
   },
+  "onboarding-3-description": {
+    "message": "Start med beholderne vi har laget, eller lag dine egne."
+  },
   "onboarding-4-header": {
     "message": "Åpne alltid nettsteder i beholderne du ønsker."
+  },
+  "onboarding-4-description": {
+    "message": "Høyreklikk inne i en innholdsfane for å tilordne nettstedet til alltid å åpne i beholderen."
   },
   "onboarding-5-header": {
     "message": "Innholdsfaner når du trenger dem."
@@ -62,11 +68,17 @@
   "onboarding-6-header": {
     "message": "Synkronisering av beholdere er nå tilgjengelig!"
   },
+  "onboarding-6-description": {
+    "message": "Slå på synkronisering for å dele beholder- og nettstedstildelinger med hvilken som helst datamaskin som er koblet til Firefox-kontoen din."
+  },
   "onboarding-7-header": {
     "message": "Firefox-konto er nødvendig for å synkronisere."
   },
   "onboarding-7-description": {
     "message": "Klikk på Logg på for å bekrefte at Firefox-kontoen din er aktiv."
+  },
+  "onboarding-8-description": {
+    "message": "Nå kan beholdere integreres med Mozilla VPN eller din egen proxy for å lage en sikker, privat tilkobling som beskytter aktiviteten din."
   },
   "oneHundredTabsHeader": {
     "message": "100 faner!"
@@ -185,6 +197,9 @@
   },
   "resetOnboardingPanels": {
     "message": "Tilbakestill innføringspaneler"
+  },
+  "onboardingToggle": {
+    "message": "Veksle på denne for å se introduksjonspanelene igjen."
   },
   "tabBehavior": {
     "message": "Faneatferd:"
