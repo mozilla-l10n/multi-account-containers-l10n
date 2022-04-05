@@ -183,8 +183,17 @@
   "enableBookMarkMenus": {
     "message": "Aktiver bokmerkemenyer"
   },
+  "firefoxAccountsSync": {
+    "message": "Firefox-kontosynkronisering:"
+  },
   "enableSync": {
     "message": "Slå på synkronisering"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Denne innstillingen lar deg åpne et bokmerke eller mappe med bokmerker i en beholder."
+  },
+  "enableSyncDescription": {
+    "message": "Denne innstillingen lar deg synkronisere dine beholdere og nettstedstilordningene på tvers av enheter."
   },
   "replaceTab": {
     "message": "Erstatt fanen i stedet for å opprette en ny"
