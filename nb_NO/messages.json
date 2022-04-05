@@ -38,8 +38,17 @@
   "onboarding-1-header": {
     "message": "En bedre måte å behandle alle tingene du gjør på nettet"
   },
+  "onboarding-1-description": {
+    "message": "Bruk beholdere til å organisere oppgaver, behandle kontoer og holde fokus der du vil ha det."
+  },
   "onboarding-2-header": {
     "message": "Få beholderne til å fungere for deg."
+  },
+  "onboarding-2-description": {
+    "message": "Funksjoner som fargekoding og separate innholdsfaner hjelper deg med å finne ting enkelt, fokusere oppmerksomheten og minimere distraksjoner."
+  },
+  "onboarding-3-header": {
+    "message": "Et sted for alt, og alt på sin plass."
   },
   "onboarding-4-header": {
     "message": "Åpne alltid nettsteder i beholderne du ønsker."
@@ -201,6 +210,9 @@
   "replaceTabDescription": {
     "message": "Erstatt gjeldende fane hvis en side som er tilordnet en annen beholder åpnes (i stedet for å holde gjeldende fane åpen). Åpning av faner med midtre museknapp påvirkes ikke."
   },
+  "editWhichContainer": {
+    "message": "Rediger hvilken beholder som åpnes når du bruker de nummererte snarveiene."
+  },
   "keyboardShortCut": {
     "message": "Beholder som skal åpnes med tastatursnarvei $keyId$",
     "placeholders": {
@@ -208,6 +220,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account-Container – Bekreft navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "Åpne i ny $containerName$-beholder",
