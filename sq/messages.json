@@ -341,5 +341,25 @@
   },
   "integrateContainers": {
     "message": "Integroni Kontejnerët tuaj me Mozilla VPN-në"
+  },
+  "theme": {
+    "message": "Temë:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Zgjidhni një temë",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Vetëpikase (parazgjedhje)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "E çelët",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "E errët",
+    "description": "Value for the theme option select tag"
   }
 }
