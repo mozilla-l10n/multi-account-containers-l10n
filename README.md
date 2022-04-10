@@ -7,6 +7,8 @@ Localization for the Firefox Multi-Account Containers add-on
 The application code with build instructions can be found
 at <https://github.com/mozilla/multi-account-containers>.
 
+Contributions can happen from [Pontoon](https://pontoon.mozilla.org/projects/firefox-multi-account-containers/).
+
 # License
 
 Translations in this repository are available under the
