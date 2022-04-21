@@ -1,6 +1,84 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Container를 사용하면 온라인 생활의 모든 부분을 다양한 탭에 보관할 수 있습니다. 사용자 지정 레이블과 색상으로 구분된 탭은 온라인 쇼핑, 여행 계획 또는 업무 이메일 확인과 같은 다양한 활동을 별도로 유지하는 데 도움이 됩니다.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "다음에서 새 탭 열기…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "다음에서 이 사이트 다시 열기…",
+    "description": "Menu title"
+  },
   "sortTabsByContainer": {
     "message": "컨테이너 순서대로 탭 정렬",
     "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "이 사이트를 항상 다음 위치에서 열기…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "항상 다음에서 열기…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "항상 컨테이너에 사이트 열기"
+  },
+  "openANewTabIn": {
+    "message": "다음에서 새 탭 열기…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "이 컨테이너에서 새 탭 열기"
+  },
+  "openTabs": {
+    "message": "탭 열기",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "새 창으로 탭 이동"
+  },
+  "onboarding-1-header": {
+    "message": "온라인에서 하는 모든 작업을 관리하는 더 나은 방법"
+  },
+  "onboarding-1-description": {
+    "message": "Container를 사용하여 작업을 구성하고 계정을 관리하며 원하는 곳에 집중할 수 있습니다."
+  },
+  "onboarding-2-header": {
+    "message": "Container를 사용하여 작업하세요."
+  },
+  "onboarding-2-description": {
+    "message": "색상 코딩 및 별도의 Container 탭과 같은 기능을 사용하면 쉽게 물건을 찾고 주의를 집중하며 산만함을 최소화할 수 있습니다."
+  },
+  "onboarding-3-header": {
+    "message": "모든 것을 위한 장소, 그 자리에 있는 모든 것"
+  },
+  "onboarding-3-description": {
+    "message": "우리가 만든 Container로 시작하거나 직접 만들어 보세요."
+  },
+  "onboarding-4-header": {
+    "message": "항상 원하는 Container에서 사이트를 엽니다."
+  },
+  "onboarding-4-description": {
+    "message": "컨테이너 탭 내부를 마우스 오른쪽 버튼으로 클릭하여 Container에서 항상 열리도록 사이트를 지정합니다."
+  },
+  "onboarding-5-header": {
+    "message": "필요할 때 있는 Container 탭"
+  },
+  "onboarding-5-description": {
+    "message": "새 탭 버튼을 길게 눌러 새 Container 탭을 만듭니다."
+  },
+  "onboarding-6-header": {
+    "message": "이제 Container를 동기화 할 수 있습니다!"
+  },
+  "onboarding-6-description": {
+    "message": "Firefox 계정에 연결된 모든 컴퓨터와 Container 및 사이트 할당을 공유하려면 동기화를 켜십시오."
+  },
+  "onboarding-7-header": {
+    "message": "동기화하려면 Firefox 계정이 필요합니다."
+  },
+  "onboarding-7-description": {
+    "message": "로그인을 클릭하여 Firefox 계정이 활성 상태인지 확인합니다."
   }
 }
