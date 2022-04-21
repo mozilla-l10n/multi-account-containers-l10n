@@ -367,5 +367,9 @@
   "themeLight": {
     "message": "밝게",
     "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "어둡게",
+    "description": "Value for the theme option select tag"
   }
 }
