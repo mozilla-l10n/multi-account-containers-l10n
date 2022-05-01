@@ -351,5 +351,25 @@
   },
   "integrateContainers": {
     "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨੈਕਟਰਾਂ ਨੂੰ ਜੋੜੋ"
+  },
+  "theme": {
+    "message": "ਥੀਮ:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "ਥੀਮ ਚੁਣੋ",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ਆਪੇ-ਖੋਜੋ (ਮੂਲ)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "ਹਲਕਾ",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "ਗੂੜ੍ਹਾ",
+    "description": "Value for the theme option select tag"
   }
 }
