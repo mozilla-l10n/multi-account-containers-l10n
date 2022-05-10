@@ -109,5 +109,18 @@
   },
   "signIn": {
     "message": "ลงชื่อเข้า"
+  },
+  "notNow": {
+    "message": "ไม่ใช่ตอนนี้"
+  },
+  "startSyncing": {
+    "message": "เริ่มซิงค์"
+  },
+  "info": {
+    "message": "ข้อมูล",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ถัดไป"
   }
 }
