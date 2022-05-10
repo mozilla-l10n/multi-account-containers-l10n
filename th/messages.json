@@ -79,5 +79,32 @@
   },
   "name": {
     "message": "ชื่อ"
+  },
+  "color": {
+    "message": "สี"
+  },
+  "icon": {
+    "message": "ไอคอน"
+  },
+  "limitToDesignatedSites": {
+    "message": "จำกัดเฉพาะไซต์ที่กำหนด"
+  },
+  "deleteThisContainer": {
+    "message": "ลบการแยกข้อมูลนี้"
+  },
+  "manageSiteList": {
+    "message": "จัดการรายการไซต์…"
+  },
+  "manageThisContainer": {
+    "message": "จัดการการแยกข้อมูลนี้"
+  },
+  "containers": {
+    "message": "การแยกข้อมูล"
+  },
+  "done": {
+    "message": "เสร็จสิ้น"
+  },
+  "getStarted": {
+    "message": "เริ่มต้นใช้งาน"
   }
 }
