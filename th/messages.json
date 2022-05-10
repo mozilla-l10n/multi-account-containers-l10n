@@ -55,5 +55,29 @@
   },
   "hideThisContainer": {
     "message": "ซ่อนการแยกข้อมูลนี้"
+  },
+  "showThisContainer": {
+    "message": "แสดงการแยกข้อมูลนี้"
+  },
+  "removeThisContainer": {
+    "message": "เอาการแยกข้อมูลนี้ออก"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "ok": {
+    "message": "ตกลง"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "ไซต์ที่กำหนดให้กับการแยกข้อมูลนี้"
+  },
+  "options": {
+    "message": "ตัวเลือก"
+  },
+  "name": {
+    "message": "ชื่อ"
   }
 }
