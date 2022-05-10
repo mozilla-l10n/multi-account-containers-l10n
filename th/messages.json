@@ -52,5 +52,8 @@
   },
   "newContainer": {
     "message": "การแยกข้อมูลใหม่"
+  },
+  "hideThisContainer": {
+    "message": "ซ่อนการแยกข้อมูลนี้"
   }
 }
