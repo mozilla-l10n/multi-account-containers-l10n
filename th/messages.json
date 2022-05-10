@@ -1,0 +1,10 @@
+{
+  "openInNewTabTitle": {
+    "message": "เปิดแท็บใหม่ใน…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "เปิดไซต์นี้ใหม่ใน…",
+    "description": "Menu title"
+  }
+}
