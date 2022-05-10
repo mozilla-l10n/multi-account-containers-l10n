@@ -24,5 +24,33 @@
   },
   "openANewTabIn": {
     "message": "เปิดแท็บใหม่ใน…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "เปิดแท็บใหม่ในการแยกข้อมูลนี้"
+  },
+  "openTabs": {
+    "message": "แท็บที่เปิด",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "ย้ายแท็บไปยังหน้าต่างใหม่"
+  },
+  "rate": {
+    "message": "ให้คะแนน"
+  },
+  "share": {
+    "message": "แบ่งปัน"
+  },
+  "tweet": {
+    "message": "ทวีต"
+  },
+  "default": {
+    "message": "ค่าเริ่มต้น"
+  },
+  "manageContainers": {
+    "message": "จัดการการแยกข้อมูล"
+  },
+  "newContainer": {
+    "message": "การแยกข้อมูลใหม่"
   }
 }
