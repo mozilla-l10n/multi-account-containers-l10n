@@ -6,5 +6,23 @@
   "reopenThisSiteIn": {
     "message": "เปิดไซต์นี้ใหม่ใน…",
     "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "เรียงแท็บตามการแยกข้อมูล",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "เปิดเว็บไซต์นี้ในการแยกข้อมูลต่อไปนี้เสมอ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "เปิดในการแยกข้อมูลต่อไปนี้เสมอ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "เปิดไซต์ในการแยกข้อมูลเสมอ"
+  },
+  "openANewTabIn": {
+    "message": "เปิดแท็บใหม่ใน…"
   }
 }
