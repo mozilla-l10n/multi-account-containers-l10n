@@ -122,5 +122,20 @@
   },
   "next": {
     "message": "ถัดไป"
+  },
+  "openThisSiteConfirmation": {
+    "message": "ต้องการเปิดไซต์นี้ในการแยกข้อมูลที่กำหนดของคุณหรือไม่?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "คุณยังต้องการเปิดในการแยกข้อมูลปัจจุบันนี้หรือไม่?"
+  },
+  "rememberMyDecision": {
+    "message": "จดจำการตัดสินใจของฉันสำหรับไซต์นี้"
+  },
+  "optionalPermissions": {
+    "message": "สิทธิอนุญาตที่เลือกได้:"
+  },
+  "keyboardShortCuts": {
+    "message": "แป้นพิมพ์ลัด:"
   }
 }
