@@ -106,5 +106,8 @@
   },
   "getStarted": {
     "message": "เริ่มต้นใช้งาน"
+  },
+  "signIn": {
+    "message": "ลงชื่อเข้า"
   }
 }
