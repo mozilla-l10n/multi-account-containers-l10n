@@ -137,5 +137,115 @@
   },
   "keyboardShortCuts": {
     "message": "แป้นพิมพ์ลัด:"
+  },
+  "onboarding": {
+    "message": "การออนบอร์ด"
+  },
+  "resetOnboardingPanels": {
+    "message": "ตั้งค่าแผงออนบอร์ดใหม่"
+  },
+  "onboardingToggle": {
+    "message": "สลับตัวเลือกนี้เพื่อดูแผงออนบอร์ดใหม่อีกครั้ง"
+  },
+  "tabBehavior": {
+    "message": "ลักษณะการทำงานของแท็บ:"
+  },
+  "enableBookMarkMenus": {
+    "message": "เปิดใช้งานเมนที่คั่นหน้า"
+  },
+  "firefoxAccountsSync": {
+    "message": "การซิงค์กับบัญชี Firefox:"
+  },
+  "enableSync": {
+    "message": "เปิดใช้งานการซิงค์"
+  },
+  "openInContainer": {
+    "message": "เปิดในการแยกข้อมูล $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "คุณได้ขอให้ Firefox เปิด $containerName$ สำหรับไซต์นี้เสมอ:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "เลือกตำแหน่งที่ตั้ง",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "ซ่อน"
+  },
+  "show": {
+    "message": "แสดง"
+  },
+  "protectYourContainers": {
+    "message": "ปกป้องการแยกข้อมูลของคุณด้วย Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "ปกป้องการแยกข้อมูลนี้ด้วย Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "การตั้งค่าพร็อกซีขั้นสูง"
+  },
+  "proxyInputLabel": {
+    "message": "ใส่พร็อกซีที่กำหนดเอง"
+  },
+  "useCustomLocation": {
+    "message": "ใช้ตำแหน่งที่กำหนดเองสำหรับการแยกข้อมูลนี้"
+  },
+  "clearproxylabel": {
+    "message": "ล้างพร็อกซี"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN เปิดอยู่"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN ปิดอยู่"
+  },
+  "invalidProxyAlert": {
+    "message": "โปรดใส่ URL พร็อกซีที่ถูกต้อง"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "ต้องเปิด Mozilla VPN เพื่อใช้คุณลักษณะนี้"
+  },
+  "learnMore": {
+    "message": "เรียนรู้เพิ่มเติม"
+  },
+  "applyToContainer": {
+    "message": "นำไปใช้กับการแยกข้อมูล"
+  },
+  "getMozillaVpn": {
+    "message": "รับ Mozilla VPN"
+  },
+  "enable": {
+    "message": "เปิดใช้งาน",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "ชุดตกแต่ง:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "เลือกชุดตกแต่ง",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ตรวจหาอัตโนมัติ (ค่าเริ่มต้น)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "สว่าง",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "มืด",
+    "description": "Value for the theme option select tag"
   }
 }
