@@ -35,8 +35,20 @@
   "moveTabsToANewWindow": {
     "message": "Eraman fitxak leiho berri batera"
   },
+  "onboarding-1-header": {
+    "message": "Sarean egiten dituzun gauza guztiak kudeatzeko modu hobea"
+  },
   "onboarding-2-header": {
     "message": "Jarri edukiontziak zuretzat lanean."
+  },
+  "onboarding-4-header": {
+    "message": "Ireki beti guneak nahi dituzun edukiontzietan."
+  },
+  "onboarding-6-header": {
+    "message": "Edukiontzien sinkronizazioa eskuragarri dago!"
+  },
+  "onboarding-7-header": {
+    "message": "Firefox kontua behar da sinkronizatzeko."
   },
   "oneHundredTabsHeader": {
     "message": "100 fitxa!"
@@ -89,6 +101,9 @@
   "deleteThisContainer": {
     "message": "Ezabatu edukiontzi hau"
   },
+  "manageSiteList": {
+    "message": "Kudeatu guneen zerrenda…"
+  },
   "manageThisContainer": {
     "message": "Kudeatu edukiontzi hau"
   },
@@ -117,14 +132,26 @@
   "next": {
     "message": "Hurrengoa"
   },
+  "optionalPermissions": {
+    "message": "Aukerako baimenak:"
+  },
+  "keyboardShortCuts": {
+    "message": "Teklatuaren lasterbideak:"
+  },
   "onboarding": {
     "message": "Sarrera"
+  },
+  "resetOnboardingPanels": {
+    "message": "Berrezarri aurkezpeneko panelak"
   },
   "tabBehavior": {
     "message": "Fitxaren portaera:"
   },
   "enableBookMarkMenus": {
     "message": "Gaitu laster-marken menuak"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox kontuen sinkronizazioa:"
   },
   "enableSync": {
     "message": "Gaitu sinkronizazioa"
@@ -138,6 +165,21 @@
   },
   "show": {
     "message": "Erakutsi"
+  },
+  "advancedProxySettings": {
+    "message": "Proxy-ezarpen aurreratuak"
+  },
+  "proxyInputLabel": {
+    "message": "Sartu proxy pertsonalizatua"
+  },
+  "clearproxylabel": {
+    "message": "Garbitu proxy-a"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN aktibatuta dago"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN desaktibatuta dago"
   },
   "learnMore": {
     "message": "Argibide gehiago"
@@ -158,5 +200,25 @@
   "enable": {
     "message": "Gaitu",
     "description": "Button title "
+  },
+  "theme": {
+    "message": "Itxura:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Aukeratu itxura",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatikoki detektatu (lehenetsia)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Argia",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Iluna",
+    "description": "Value for the theme option select tag"
   }
 }
