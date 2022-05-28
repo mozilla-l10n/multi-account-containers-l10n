@@ -1,0 +1,375 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers vám pomůže uchovávat všechny části vašeho online života v různých panelech. Vlastní štítky a barevně odlišené panely pomáhají držet různé činnosti – jako třeba nakupování online, plánování cestování nebo kontrolu pracovních e-mailů – odděleně.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Otevřít nový panel v…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Znovu otevřít tuto stránku v…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Seřadit panely dle kontejneru",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Vždy otevírat tuto stránku v…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Vždy otevírat v…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Stránku vždy otevírat v kontejneru"
+  },
+  "openANewTabIn": {
+    "message": "Otevřít nový panel v…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Otevřít nový panel v tomto kontejneru"
+  },
+  "openTabs": {
+    "message": "Otevřené panely",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Přesunout panely do nového okna"
+  },
+  "onboarding-1-header": {
+    "message": "Lepší způsob správy všech věcí, které děláte online"
+  },
+  "onboarding-1-description": {
+    "message": "Pomocí kontejnerů organizujte úkoly, spravujte účty a soustřeďte se jen na to, co potřebujete."
+  },
+  "onboarding-2-header": {
+    "message": "Nechte kontejnery, aby pro vás pracovaly."
+  },
+  "onboarding-2-description": {
+    "message": "Funkce, jako barevné odlišení a samostatné kontejnerové panely, vám pomohou snadno najít věci, soustředit pozornost a minimalizovat rušivé vlivy."
+  },
+  "onboarding-3-header": {
+    "message": "Místo pro všechno a vše na svém místě."
+  },
+  "onboarding-3-description": {
+    "message": "Začněte s kontejnery, které jsme vytvořili, nebo si vytvořte vlastní."
+  },
+  "onboarding-4-header": {
+    "message": "Stránky vždy otevírejte v požadovaných kontejnerech."
+  },
+  "onboarding-4-description": {
+    "message": "Kliknutím pravým tlačítkem myši uvnitř kontejnerového panelu určete, aby se stránka vždy otevírala v daném kontejneru."
+  },
+  "onboarding-5-header": {
+    "message": "Kontejnerové panely, když je potřebujete."
+  },
+  "onboarding-5-description": {
+    "message": "Dlouhým stisknutím tlačítka Nový panel vytvoříte nový kontejnerový panel."
+  },
+  "onboarding-6-header": {
+    "message": "Synchronizace kontejnerů je už možná!"
+  },
+  "onboarding-6-description": {
+    "message": "Zapněte synchronizaci a sdílejte kontejnery a přiřazení webů s jakýmkoli počítačem připojeným k vašemu účtu Firefoxu."
+  },
+  "onboarding-7-header": {
+    "message": "K synchronizaci je potřeba účet Firefoxu."
+  },
+  "onboarding-7-description": {
+    "message": "Kliknutím na Přihlásit se potvrďte, že je váš účet Firefoxu aktivní."
+  },
+  "onboarding-8-description": {
+    "message": "Nyní lze kontejnery integrovat se službou Mozilla VPN nebo s vaším vlastním proxy serverem a vytvořit tak bezpečné soukromé připojení, které chrání vaši aktivitu."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 panelů!"
+  },
+  "youHaveOpened": {
+    "message": "Otevřeli jste 100 kontejnerových panelů."
+  },
+  "spreadTheWord": {
+    "message": "Pokud se vám Multi-Account Containers líbí, pomozte nám to říct ostatním!"
+  },
+  "rate": {
+    "message": "Ohodnotit"
+  },
+  "share": {
+    "message": "Sdílet"
+  },
+  "tweet": {
+    "message": "Tweetnout"
+  },
+  "default": {
+    "message": "Výchozí"
+  },
+  "manageContainers": {
+    "message": "Správa kontejnerů"
+  },
+  "newContainer": {
+    "message": "Nový kontejner"
+  },
+  "hideThisContainer": {
+    "message": "Skrýt tento kontejner"
+  },
+  "showThisContainer": {
+    "message": "Zobrazit tento kontejner"
+  },
+  "removeThisContainer": {
+    "message": "Odstranit tento kontejner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Opravdu chcete odstranit tento kontejner?"
+  },
+  "cancel": {
+    "message": "Zrušit"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Weby přiřazené tomuto kontejneru"
+  },
+  "options": {
+    "message": "Nastavení"
+  },
+  "name": {
+    "message": "Název"
+  },
+  "color": {
+    "message": "Barva"
+  },
+  "icon": {
+    "message": "Ikona"
+  },
+  "limitToDesignatedSites": {
+    "message": "Omezit na určené weby"
+  },
+  "deleteThisContainer": {
+    "message": "Odstranit tento kontejner"
+  },
+  "manageSiteList": {
+    "message": "Spravovat seznam webů…"
+  },
+  "manageThisContainer": {
+    "message": "Spravovat tento kontejner"
+  },
+  "containers": {
+    "message": "Kontejnery"
+  },
+  "done": {
+    "message": "Hotovo"
+  },
+  "getStarted": {
+    "message": "Jdeme na to"
+  },
+  "signIn": {
+    "message": "Přihlásit se"
+  },
+  "notNow": {
+    "message": "Teď ne"
+  },
+  "startSyncing": {
+    "message": "Zahájit synchronizaci"
+  },
+  "info": {
+    "message": "Informace",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Dále"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Otevřít tento web ve vámi přiřazeném kontejneru?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Stále si přejete web otevřít v aktuálním kontejneru?"
+  },
+  "rememberMyDecision": {
+    "message": "Pamatovat si pro tento web"
+  },
+  "optionalPermissions": {
+    "message": "Volitelná oprávnění:"
+  },
+  "keyboardShortCuts": {
+    "message": "Klávesové zkratky:"
+  },
+  "onboarding": {
+    "message": "Úvodní průvodce"
+  },
+  "resetOnboardingPanels": {
+    "message": "Obnovit úvodního průvodce"
+  },
+  "onboardingToggle": {
+    "message": "Kliknutím na tlačítko znovu zobrazíte úvodního průvodce."
+  },
+  "tabBehavior": {
+    "message": "Chování panelů:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Povolit nabídku v záložkách"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronizace pomocí účtu Firefoxu:"
+  },
+  "enableSync": {
+    "message": "Povolit synchronizaci"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Toto nastavení umožňuje otevřít záložku nebo složku záložek v kontejneru."
+  },
+  "enableSyncDescription": {
+    "message": "Toto nastavení umožňuje synchronizovat kontejnery a přiřazení webů napříč zařízeními."
+  },
+  "replaceTab": {
+    "message": "Nahradit panel místo vytvoření nového"
+  },
+  "replaceTabDescription": {
+    "message": "Dojde k nahrazení aktuálního panelu při otevírání stránky, která je přiřazena jinému kontejneru (namísto ponechání aktuálního panelu otevřeného). Otevírání panelů prostředním tlačítkem myši není ovlivněno."
+  },
+  "editWhichContainer": {
+    "message": "Určete, který kontejner se otevře při použití očíslovaných zkratek."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner, který se otevře pomocí klávesové zkratky $keyId$:",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Potvrzení navigace v Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Otevřít v kontejneru $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Požádali jste Firefox, aby pro tento web vždy otevřel kontejner $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Vyberte umístění",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Skrýt"
+  },
+  "show": {
+    "message": "Zobrazit"
+  },
+  "protectYourContainers": {
+    "message": "Chraňte své kontejnery pomocí služby Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Chraňte tento kontejner pomocí služby Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Pokročilé nastavení proxy serveru"
+  },
+  "proxyInputLabel": {
+    "message": "Zadejte vlastní proxy server"
+  },
+  "useCustomLocation": {
+    "message": "Pro tento kontejner použít vlastní umístění"
+  },
+  "clearproxylabel": {
+    "message": "Vymazat proxy server"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN je zapnutá"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN je vypnutá"
+  },
+  "invalidProxyAlert": {
+    "message": "Zadejte prosím platnou adresu URL proxy serveru"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Aby bylo možné tuto funkci používat, musí být zapnutá služba Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Zjistit více"
+  },
+  "proxyNowAvailable": {
+    "message": "Nyní se službou Mozilla VPN a pokročilým nastavením proxy serveru"
+  },
+  "applyToContainer": {
+    "message": "Použít na kontejner"
+  },
+  "tooltipWarning": {
+    "message": "Tento kontejner je nastaven tak, že má používat proxy server služby Mozilla VPN, ale služba Mozilla VPN není zapnutá. Zapněte ji, chcete-li tento kontejner používat."
+  },
+  "getMozillaVpn": {
+    "message": "Získat Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrujte své kontejnery s Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a oprávnění proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Povolit rozšíření vyměňovat si zprávy s jinými programy než s Firefoxem",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Toto nastavení umožňuje rozšíření vyměňovat si zprávy s klientem Mozilla VPN a je vyžadováno pro fungování integrace s Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Povolit rozšíření ovládat nastavení proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Toto nastavení umožní používat pokročilá nastavení proxy a aktivovat integraci s Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Tato funkce vyžaduje dodatečná oprávnění. Tato oprávnění můžete kdykoliv zrušit v nastavení.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrace s Mozilla VPN vyžaduje předplatné a dodatečná oprávnění."
+  },
+  "enable": {
+    "message": "Povolit",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrujte své kontejnery s Mozilla VPN"
+  },
+  "theme": {
+    "message": "Vzhled:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Vybrat vzhled",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automaticky (výchozí)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Světlý",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tmavý",
+    "description": "Value for the theme option select tag"
+  }
+}
