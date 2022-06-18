@@ -7,10 +7,6 @@
     "message": "Відкрити нову вкладку в…",
     "description": "Menu title"
   },
-  "reopenThisSiteIn": {
-    "message": "Повторно відкрити цей сайт у…",
-    "description": "Menu title"
-  },
   "sortTabsByContainer": {
     "message": "Упорядкувати вкладки за контейнерами",
     "description": "Menu title"
