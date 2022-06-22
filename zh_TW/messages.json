@@ -1,0 +1,315 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers 可透過將網路生活中所需的各種網站封裝於不同容器中，來幫助您管理分頁。自訂標籤及色彩，幫助您分別管理各種活動 — 例如線上購物、行程規劃、收發工作郵件等等。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "使用其他容器開啟新分頁…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "用其他容器重新開啟此網站…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "依照容器排序分頁",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "總是用下列容器開啟此網站…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "總是用下列容器開啟…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "總是用容器開啟網站"
+  },
+  "openANewTabIn": {
+    "message": "用下列容器開啟新分頁…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "用此容器開啟新分頁"
+  },
+  "openTabs": {
+    "message": "開啟的分頁",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "將分頁移動到新視窗"
+  },
+  "onboarding-1-header": {
+    "message": "管理您線上生活的更佳方式"
+  },
+  "onboarding-1-description": {
+    "message": "使用容器來安排任務、管理帳號，聚焦於您想要的地方。"
+  },
+  "onboarding-2-header": {
+    "message": "讓容器為您所用。"
+  },
+  "onboarding-2-description": {
+    "message": "透過分頁色彩標籤、分離容器分頁等功能，幫助您簡單找到各種內容、聚焦專注、避免干擾。"
+  },
+  "onboarding-3-header": {
+    "message": "一個可容納所有項目的地方，所有東西都能整齊安排好。"
+  },
+  "onboarding-3-description": {
+    "message": "從我們預設的容器開始，您也可以自己建立。"
+  },
+  "onboarding-4-header": {
+    "message": "可以隨您需求，用特定容器開啟特定網站。"
+  },
+  "onboarding-4-description": {
+    "message": "對容器分頁按右鍵，即可將網站指定為總是使用該容器開啟。"
+  },
+  "onboarding-5-header": {
+    "message": "需要時，將分頁放入容器中封裝起來。"
+  },
+  "onboarding-5-description": {
+    "message": "長按「開新分頁」按鈕，即可建立新容器分頁。"
+  },
+  "onboarding-6-header": {
+    "message": "容器同步功能已經推出！"
+  },
+  "onboarding-6-description": {
+    "message": "開啟同步後，即可將容器及網站設定同步到所有連結到您 Firefox 帳號的電腦。"
+  },
+  "onboarding-7-header": {
+    "message": "需要 Firefox 帳戶才能同步。"
+  },
+  "onboarding-7-description": {
+    "message": "點擊登入，即可確認您的 Firefox 帳號啟用狀態。"
+  },
+  "onboarding-8-description": {
+    "message": "現在起，容器功能已與 Mozilla VPN 或您自己的 Proxy 整合起來，讓您有安全、有隱私的連線，並能保護上網安全。"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 個分頁！"
+  },
+  "youHaveOpened": {
+    "message": "您已開啟 100 個容器分頁。"
+  },
+  "spreadTheWord": {
+    "message": "若您喜歡容器功能，也請幫助我們廣傳！"
+  },
+  "rate": {
+    "message": "評分"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "tweet": {
+    "message": "推文"
+  },
+  "default": {
+    "message": "預設"
+  },
+  "manageContainers": {
+    "message": "管理容器"
+  },
+  "newContainer": {
+    "message": "新容器"
+  },
+  "hideThisContainer": {
+    "message": "隱藏此容器"
+  },
+  "showThisContainer": {
+    "message": "顯示此容器"
+  },
+  "removeThisContainer": {
+    "message": "移除此容器"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "您確定要刪除此容器嗎？"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "ok": {
+    "message": "確定"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "指派到此容器的網站"
+  },
+  "options": {
+    "message": "選項"
+  },
+  "name": {
+    "message": "名稱"
+  },
+  "color": {
+    "message": "色彩"
+  },
+  "icon": {
+    "message": "圖示"
+  },
+  "limitToDesignatedSites": {
+    "message": "限制特定網站"
+  },
+  "deleteThisContainer": {
+    "message": "刪除此容器"
+  },
+  "manageSiteList": {
+    "message": "管理網站清單…"
+  },
+  "manageThisContainer": {
+    "message": "管理此容器"
+  },
+  "containers": {
+    "message": "容器"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "getStarted": {
+    "message": "開始使用"
+  },
+  "signIn": {
+    "message": "登入"
+  },
+  "notNow": {
+    "message": "現在不要"
+  },
+  "startSyncing": {
+    "message": "開始同步"
+  },
+  "info": {
+    "message": "資訊",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "openThisSiteConfirmation": {
+    "message": "要用您指定的容器開啟此網站嗎？"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "您還想要使用目前的容器開啟嗎？"
+  },
+  "rememberMyDecision": {
+    "message": "對此網站記住我的決定"
+  },
+  "optionalPermissions": {
+    "message": "非必要權限:"
+  },
+  "keyboardShortCuts": {
+    "message": "快速鍵:"
+  },
+  "onboarding": {
+    "message": "使用入門"
+  },
+  "resetOnboardingPanels": {
+    "message": "重設入門面板"
+  },
+  "onboardingToggle": {
+    "message": "切換此選項即可再次檢視入門面板。"
+  },
+  "tabBehavior": {
+    "message": "分頁行為:"
+  },
+  "enableBookMarkMenus": {
+    "message": "啟用書籤選單"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox 帳號同步:"
+  },
+  "enableSync": {
+    "message": "開啟同步"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "此設定讓您可直接使用容器開啟單一書籤或整個書籤資料夾。"
+  },
+  "enableSyncDescription": {
+    "message": "此設定讓您可在不同裝置間同步容器與網站設定。"
+  },
+  "replaceTab": {
+    "message": "取代分頁，而非開新分頁"
+  },
+  "replaceTabDescription": {
+    "message": "若將分頁指派到另一個已開啟的容器時，取代目前分頁（而不保留已開啟的分頁）。使用滑鼠中鍵開啟分頁時的行為則不受影響。"
+  },
+  "editWhichContainer": {
+    "message": "編輯按下編號快速鍵時，要分別開啟哪些帳號。"
+  },
+  "keyboardShortCut": {
+    "message": "使用快速鍵 $keyId$ 開啟下列容器",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers 確認瀏覽",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "用 $containerName$ 容器開啟",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "您要求 Firefox 總是使用 $containerName$ 開啟此網站:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "選擇位置",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "隱藏"
+  },
+  "show": {
+    "message": "顯示"
+  },
+  "protectYourContainers": {
+    "message": "使用 Mozilla VPN 保護您的容器"
+  },
+  "protectThisContainer": {
+    "message": "使用 Mozilla VPN 保護此容器"
+  },
+  "advancedProxySettings": {
+    "message": "進階 Proxy 設定"
+  },
+  "proxyInputLabel": {
+    "message": "輸入自訂 Proxy"
+  },
+  "useCustomLocation": {
+    "message": "為此容器使用自動位置"
+  },
+  "clearproxylabel": {
+    "message": "清除 Proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN 已開啟"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN 已關閉"
+  },
+  "invalidProxyAlert": {
+    "message": "請輸入有效的 proxy 網址"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "必須開啟 Mozilla VPN 才能使用此功能。"
+  },
+  "learnMore": {
+    "message": "了解更多"
+  },
+  "proxyNowAvailable": {
+    "message": "現在起整合了 Mozilla VPN 及進階 Proxy 設定"
+  },
+  "applyToContainer": {
+    "message": "套用至容器"
+  },
+  "tooltipWarning": {
+    "message": "此容器已設定使用 Mozilla VPN proxy 連線，但 Mozilla VPN 並未開啟。請先開啟 Mozilla VPN 再使用此容器。"
+  }
+}

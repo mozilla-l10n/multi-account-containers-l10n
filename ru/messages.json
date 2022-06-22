@@ -1,0 +1,315 @@
+{
+  "extensionDescription": {
+    "message": "С помощью «Multi-Account Containers» вы можете хранить все аспекты вашей работы в Интернете в отдельных независимых вкладках. Пользовательские метки и цветная маркировка помогают разделять покупки в Интернете, планирование поездок, проверку электронной почты и другие различные действия.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Открыть новую вкладку в…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Открыть этот сайт ещё раз в…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Отсортировать вкладки по контейнерам",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Всегда открывать этот сайт в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Всегда открывать в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Всегда открывать сайт в контейнере"
+  },
+  "openANewTabIn": {
+    "message": "Открыть новую вкладку в…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Открыть новую вкладку в этом контейнере"
+  },
+  "openTabs": {
+    "message": "Открытые вкладки",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Переместить вкладки в новое окно"
+  },
+  "onboarding-1-header": {
+    "message": "Лучший способ управлять всем, что вы делаете в Интернете"
+  },
+  "onboarding-1-description": {
+    "message": "Используйте контейнеры для организации задач и управления аккаунтами, и концентрируйтесь на чём хотите."
+  },
+  "onboarding-2-header": {
+    "message": "Пусть контейнеры работают на вас."
+  },
+  "onboarding-2-description": {
+    "message": "Такие функции, как цветовая маркировка и отдельные контейнеры для вкладок, помогают легко находить нужные объекты и сосредотачиваться на них, сводя к минимуму отвлекающие факторы."
+  },
+  "onboarding-3-header": {
+    "message": "Для всего есть место, и всё — на своих местах."
+  },
+  "onboarding-3-description": {
+    "message": "Начните с предложенных контейнеров или создайте собственные."
+  },
+  "onboarding-4-header": {
+    "message": "Всегда открывайте сайты в нужных вам контейнерах."
+  },
+  "onboarding-4-description": {
+    "message": "Щёлкните правой кнопкой мыши внутри вкладки контейнера, чтобы указать сайт, который всегда будет открываться в нём."
+  },
+  "onboarding-5-header": {
+    "message": "Помещайте вкладки в контейнеры, когда вам это необходимо."
+  },
+  "onboarding-5-description": {
+    "message": "Нажмите и удерживайте кнопку «Новая вкладка», чтобы открыть новую вкладку в контейнере."
+  },
+  "onboarding-6-header": {
+    "message": "Доступна синхронизация контейнеров!"
+  },
+  "onboarding-6-description": {
+    "message": "Включите синхронизацию, чтобы делиться контейнерами и распределением сайтов с любыми компьютерами, подключенными к вашему аккаунту Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Для синхронизации требуется аккаунт Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Нажмите «Войти», чтобы подтвердить, что ваш аккаунт Firefox активен."
+  },
+  "onboarding-8-description": {
+    "message": "Теперь контейнеры могут работать с Mozilla VPN или вашим собственным прокси для создания безопасного приватного соединения, защищающего вашу активность в Интернете."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 вкладок!"
+  },
+  "youHaveOpened": {
+    "message": "Вы открыли 100 вкладок в контейнерах."
+  },
+  "spreadTheWord": {
+    "message": "Если вам нравятся контейнеры, помогите нам рассказать про них другим!"
+  },
+  "rate": {
+    "message": "Оценить"
+  },
+  "share": {
+    "message": "Поделиться"
+  },
+  "tweet": {
+    "message": "Твитнуть"
+  },
+  "default": {
+    "message": "По умолчанию"
+  },
+  "manageContainers": {
+    "message": "Управление контейнерами"
+  },
+  "newContainer": {
+    "message": "Новый контейнер"
+  },
+  "hideThisContainer": {
+    "message": "Скрыть этот контейнер"
+  },
+  "showThisContainer": {
+    "message": "Показать этот контейнер"
+  },
+  "removeThisContainer": {
+    "message": "Удалить этот контейнер"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Вы уверены, что хотите удалить этот контейнер?"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "ok": {
+    "message": "Да"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайты, назначенные этому контейнеру"
+  },
+  "options": {
+    "message": "Настройки"
+  },
+  "name": {
+    "message": "Название"
+  },
+  "color": {
+    "message": "Цвет"
+  },
+  "icon": {
+    "message": "Значок"
+  },
+  "limitToDesignatedSites": {
+    "message": "Ограничить назначенными сайтами"
+  },
+  "deleteThisContainer": {
+    "message": "Удалить этот контейнер"
+  },
+  "manageSiteList": {
+    "message": "Управление списком сайтов…"
+  },
+  "manageThisContainer": {
+    "message": "Управление этим контейнером"
+  },
+  "containers": {
+    "message": "Контейнеры"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "getStarted": {
+    "message": "Приступим"
+  },
+  "signIn": {
+    "message": "Войти"
+  },
+  "notNow": {
+    "message": "Не сейчас"
+  },
+  "startSyncing": {
+    "message": "Начать синхронизацию"
+  },
+  "info": {
+    "message": "Информация",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Далее"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Открыть этот сайт в назначенном вами контейнере?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Вы по-прежнему хотите открыть в текущем контейнере?"
+  },
+  "rememberMyDecision": {
+    "message": "Запомнить моё решение для этого сайта"
+  },
+  "optionalPermissions": {
+    "message": "Дополнительные разрешения:"
+  },
+  "keyboardShortCuts": {
+    "message": "Сочетания клавиш:"
+  },
+  "onboarding": {
+    "message": "Начало работы"
+  },
+  "resetOnboardingPanels": {
+    "message": "Сбросить ознакомительные панели"
+  },
+  "onboardingToggle": {
+    "message": "Нажмите сюда, чтобы снова увидеть ознакомительные панели."
+  },
+  "tabBehavior": {
+    "message": "Поведение вкладок:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Включить меню закладок"
+  },
+  "firefoxAccountsSync": {
+    "message": "Синхронизация аккаунтов:"
+  },
+  "enableSync": {
+    "message": "Включить синхронизацию"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Эта настройка позволит вам открывать закладки и папки с ними в контейнерах."
+  },
+  "enableSyncDescription": {
+    "message": "Эта настройка позволит вам синхронизировать ваши контейнеры и распределение сайтов между устройствами."
+  },
+  "replaceTab": {
+    "message": "Заменять вкладку вместо открытия новой"
+  },
+  "replaceTabDescription": {
+    "message": "Заменять текущую вкладку, если открыта страница, назначенная другому контейнеру (вместо того, чтобы оставлять текущую вкладку открытой). Не влияет на открытие вкладок средней кнопкой мыши."
+  },
+  "editWhichContainer": {
+    "message": "Укажите, какие контейнеры будут открыты при использовании сочетаний клавиш с цифрами."
+  },
+  "keyboardShortCut": {
+    "message": "Контейнер для открытия с помощью сочетания клавиш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Подтверждение навигации Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Открыть в контейнере «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Вы попросили Firefox всегда открывать этот сайт в $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Выбрать местоположение",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Скрыть"
+  },
+  "show": {
+    "message": "Показать"
+  },
+  "protectYourContainers": {
+    "message": "Защитите свои контейнеры с помощью Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Защитите этот контейнер с помощью Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Расширенные настройки прокси"
+  },
+  "proxyInputLabel": {
+    "message": "Введите собственный прокси"
+  },
+  "useCustomLocation": {
+    "message": "Установить пользовательское местоположение для этого контейнера"
+  },
+  "clearproxylabel": {
+    "message": "Удалить прокси"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN включён"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN отключён"
+  },
+  "invalidProxyAlert": {
+    "message": "Введите корректный URL прокси"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Для использования этой функции должен быть включён Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Подробнее"
+  },
+  "proxyNowAvailable": {
+    "message": "Теперь с Mozilla VPN и расширенными настройками прокси"
+  },
+  "applyToContainer": {
+    "message": "Применить к контейнеру"
+  },
+  "tooltipWarning": {
+    "message": "Для этого контейнера установлен прокси Mozilla VPN, но Mozilla VPN отключён. Включите Mozilla VPN для использования контейнера."
+  }
+}

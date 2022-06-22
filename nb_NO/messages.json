@@ -1,0 +1,156 @@
+{
+  "openInNewTabTitle": {
+    "message": "Åpne ny fane i…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Åpne denne siden på nytt i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sorter faner etter beholder",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Åpne alltid dette nettstedet i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Åpne alltid i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Åpne alltid nettstedet i beholder"
+  },
+  "openANewTabIn": {
+    "message": "Åpne en ny fane i…"
+  },
+  "openTabs": {
+    "message": "Åpne faner",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 faner!"
+  },
+  "youHaveOpened": {
+    "message": "Du har åpnet 100 innholdsfaner."
+  },
+  "share": {
+    "message": "Del"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Håndter beholdere"
+  },
+  "newContainer": {
+    "message": "Ny beholder"
+  },
+  "hideThisContainer": {
+    "message": "Skjul denne beholderen"
+  },
+  "showThisContainer": {
+    "message": "Vis denne beholderen"
+  },
+  "removeThisContainer": {
+    "message": "Fjern denne beholderen"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Er du sikker på at du vil fjerne denne beholderen?"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Nettsteder som er tilordnet denne beholderen"
+  },
+  "options": {
+    "message": "Innstillinger"
+  },
+  "name": {
+    "message": "Navn"
+  },
+  "color": {
+    "message": "Farge"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Begrens til utpekte nettsteder"
+  },
+  "deleteThisContainer": {
+    "message": "Fjern denne beholderen"
+  },
+  "manageSiteList": {
+    "message": "Behandle nettstedsliste…"
+  },
+  "manageThisContainer": {
+    "message": "Behandle denne beholderen"
+  },
+  "containers": {
+    "message": "Beholdere"
+  },
+  "done": {
+    "message": "Ferdig"
+  },
+  "getStarted": {
+    "message": "Kom i gang"
+  },
+  "signIn": {
+    "message": "Logg inn"
+  },
+  "notNow": {
+    "message": "Ikke nå"
+  },
+  "startSyncing": {
+    "message": "Start synkronisering"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Neste"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Åpne dette nettstedet i den tildelte beholderen?"
+  },
+  "hide": {
+    "message": "Skjul"
+  },
+  "show": {
+    "message": "Vis"
+  },
+  "protectYourContainers": {
+    "message": "Beskytt beholderene dine med Mozilla VPN"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN er på"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN er av"
+  },
+  "invalidProxyAlert": {
+    "message": "Skriv inn en gyldig proxy-adresse"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN må være aktivert for å bruke denne funksjonen."
+  },
+  "learnMore": {
+    "message": "Les mer"
+  },
+  "proxyNowAvailable": {
+    "message": "Nå med Mozilla VPN og avanserte proxy-innstillinger"
+  },
+  "tooltipWarning": {
+    "message": "Denne beholderen er satt opp til å bruke en Mozilla VPN-proxy, men Mozilla VPN er ikke aktivert. Aktiver Mozilla VPN for å bruke denne beholderen."
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "extensionDescription": {
+    "message": "O Multi-Account Containers ajuda a manter todas as partes de sua vida online contidas em abas diferentes. Rótulos personalizados e abas codificadas por cores ajudam a manter separadas atividades diferentes, como compras, planejamento de viagens ou email do trabalho.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Abrir nova aba em…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Reabrir este site em…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordenar abas por contêiner",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Sempre abrir este site em…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Sempre abrir em…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sempre abrir site em contêiner"
+  },
+  "openANewTabIn": {
+    "message": "Abrir nova aba em…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Abrir nova aba neste contêiner"
+  },
+  "openTabs": {
+    "message": "Abas abertas",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mover abas para nova janela"
+  },
+  "onboarding-1-header": {
+    "message": "Um jeito melhor de gerenciar todas as coisas que você faz online"
+  },
+  "onboarding-1-description": {
+    "message": "Use contêineres para organizar tarefas, gerenciar contas e manter o foco onde você quiser."
+  },
+  "onboarding-2-header": {
+    "message": "Coloque contêineres para trabalhar para você."
+  },
+  "onboarding-2-description": {
+    "message": "Recursos como codificação por cores e abas contêiner separadas ajudam você a encontrar as coisas facilmente, focar sua atenção e minimizar distrações."
+  },
+  "onboarding-3-header": {
+    "message": "Um lugar para cada coisa e tudo em seu lugar."
+  },
+  "onboarding-3-description": {
+    "message": "Comece com os contêineres que criamos, ou crie seus próprios."
+  },
+  "onboarding-4-header": {
+    "message": "Sempre abra sites nos contêineres que quiser."
+  },
+  "onboarding-4-description": {
+    "message": "Clique com o botão direito em uma aba contêiner para atribuir o site a sempre ser aberto naquele contêiner."
+  },
+  "onboarding-5-header": {
+    "message": "Abas contêiner quando você precisar."
+  },
+  "onboarding-5-description": {
+    "message": "Mantenha pressionado o botão de nova aba para criar uma aba contêiner."
+  },
+  "onboarding-6-header": {
+    "message": "Agora está disponível sincronização de contêineres!"
+  },
+  "onboarding-6-description": {
+    "message": "Ative a sincronização para compartilhar contêineres e atribuições de sites com qualquer computador conectado à sua Conta Firefox."
+  },
+  "onboarding-7-header": {
+    "message": "Precisa ter uma Conta Firefox para sincronizar."
+  },
+  "onboarding-7-description": {
+    "message": "Clique em Entrar para confirmar que sua Conta Firefox está ativa."
+  },
+  "onboarding-8-description": {
+    "message": "Agora, contêineres podem se integrar ao Mozilla VPN ou ao seu próprio proxy para criar uma conexão segura e privativa que protege sua atividade."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 abas!"
+  },
+  "youHaveOpened": {
+    "message": "Você abriu 100 abas contêiner."
+  },
+  "spreadTheWord": {
+    "message": "Se você gosta de contêineres, ajude-nos a divulgar!"
+  },
+  "rate": {
+    "message": "Avaliar"
+  },
+  "share": {
+    "message": "Compartilhar"
+  },
+  "tweet": {
+    "message": "Enviar tweet"
+  },
+  "default": {
+    "message": "Padrão"
+  },
+  "manageContainers": {
+    "message": "Gerenciar contêineres"
+  },
+  "newContainer": {
+    "message": "Novo contêiner"
+  },
+  "hideThisContainer": {
+    "message": "Ocultar este contêiner"
+  },
+  "showThisContainer": {
+    "message": "Exibir este contêiner"
+  },
+  "removeThisContainer": {
+    "message": "Remover este contêiner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Tem certeza que quer remover este contêiner?"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites atribuídos a este contêiner"
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "color": {
+    "message": "Cor"
+  },
+  "icon": {
+    "message": "Ícone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar aos sites designados"
+  },
+  "deleteThisContainer": {
+    "message": "Excluir este contêiner"
+  },
+  "manageSiteList": {
+    "message": "Gerenciar lista de sites…"
+  },
+  "manageThisContainer": {
+    "message": "Gerenciar este contêiner"
+  },
+  "containers": {
+    "message": "Contêineres"
+  },
+  "done": {
+    "message": "Pronto"
+  },
+  "getStarted": {
+    "message": "Introdução"
+  },
+  "signIn": {
+    "message": "Entrar"
+  },
+  "notNow": {
+    "message": "Agora não"
+  },
+  "startSyncing": {
+    "message": "Começar a sincronizar"
+  },
+  "info": {
+    "message": "informações",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Avançar"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Abrir este site em seu contêiner atribuído?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Você ainda quer abrir neste contêiner atual?"
+  },
+  "rememberMyDecision": {
+    "message": "Memorizar decisão para este site"
+  },
+  "optionalPermissions": {
+    "message": "Permissões opcionais:"
+  },
+  "keyboardShortCuts": {
+    "message": "Atalhos de teclado:"
+  },
+  "onboarding": {
+    "message": "Introdução"
+  },
+  "resetOnboardingPanels": {
+    "message": "Redefinir painéis de introdução"
+  },
+  "onboardingToggle": {
+    "message": "Mude isto para ver novamente os painéis de introdução."
+  },
+  "tabBehavior": {
+    "message": "Comportamento da aba:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ativar menus de favoritos"
+  },
+  "firefoxAccountsSync": {
+    "message": "Sincronização de contas Firefox:"
+  },
+  "enableSync": {
+    "message": "Ativar sincronização"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Esta configuração permite abrir um favorito ou pasta de favoritos em um contêiner."
+  },
+  "enableSyncDescription": {
+    "message": "Esta configuração permite sincronizar seus contêineres e atribuições de sites entre dispositivos."
+  },
+  "replaceTab": {
+    "message": "Substituir aba ao invés de criar outra"
+  },
+  "replaceTabDescription": {
+    "message": "Substituir a aba atual caso uma página atribuída a outro contêiner for aberta (em vez de manter aberta a aba atual). A abertura de abas com o botão do meio do mouse não é afetada."
+  },
+  "editWhichContainer": {
+    "message": "Edite qual contêiner é aberto ao usar os atalhos numerados."
+  },
+  "keyboardShortCut": {
+    "message": "Contêiner a abrir com o atalho de teclado $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Confirmar navegação",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Abrir no contêiner $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Você pediu ao Firefox para sempre abrir este site em $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Escolher local",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "show": {
+    "message": "Exibir"
+  },
+  "protectYourContainers": {
+    "message": "Proteja seus contêineres com o Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Proteger este contêiner com o Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Configurações avançadas de proxy"
+  },
+  "proxyInputLabel": {
+    "message": "Digite proxy personalizado"
+  },
+  "useCustomLocation": {
+    "message": "Usar um local personalizado para este contêiner"
+  },
+  "clearproxylabel": {
+    "message": "Limpar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN está ativado"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN está desativado"
+  },
+  "invalidProxyAlert": {
+    "message": "Digite uma URL de proxy válida"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "O Mozilla VPN deve estar ativado para usar este recurso."
+  },
+  "learnMore": {
+    "message": "Saiba mais"
+  },
+  "proxyNowAvailable": {
+    "message": "Agora com Mozilla VPN e configurações avançadas de proxy"
+  },
+  "applyToContainer": {
+    "message": "Aplicar ao contêiner"
+  },
+  "tooltipWarning": {
+    "message": "Este contêiner está configurado para usar um proxy do Mozilla VPN, mas o Mozilla VPN não está ativado. Ative o Mozilla VPN para usar este contêiner."
+  }
+}

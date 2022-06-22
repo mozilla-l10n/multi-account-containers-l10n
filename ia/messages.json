@@ -1,0 +1,315 @@
+{
+  "extensionDescription": {
+    "message": "Le recipientes multi-conto te adjuta a mantener tote le partes de tu vita online continite in schedas differente. Etiquettas personalisate e schedas codificate per color adjuta a tener separate le differente activitates, como: compras online, planification de viages o controlo del e-mails de labor.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Aperir un nove scheda in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Reaperir iste sito in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordinar schedas per recipente",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Sempre aperir iste sito in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Sempre aperir in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sempre aperir le sito in recipente"
+  },
+  "openANewTabIn": {
+    "message": "Aperir un nove scheda in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Aperi nove scheda in iste recipente"
+  },
+  "openTabs": {
+    "message": "Schedas aperte",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mover schedas a un nove fenestra"
+  },
+  "onboarding-1-header": {
+    "message": "Un maniera melior pro gerer tote le cosas que tu face online"
+  },
+  "onboarding-1-description": {
+    "message": "Usa le recipentes pro organisar activitates, gerer contos e mantener tu concentration ubi tu lo desira."
+  },
+  "onboarding-2-header": {
+    "message": "Pone le recipentes a laborar pro te."
+  },
+  "onboarding-2-description": {
+    "message": "Functionalitates como codice de color e schedas de recipiente separate te adjuta a trovar facilemente le cosas, concentra tu attention e minimisa le distractiones."
+  },
+  "onboarding-3-header": {
+    "message": "Un loco pro cata cosa, e cata cosa in su loco."
+  },
+  "onboarding-3-description": {
+    "message": "Initia con le recipentes que nos ha create o crea tu proprie."
+  },
+  "onboarding-4-header": {
+    "message": "Sempre aperi le sitos in le recipentes que tu desira."
+  },
+  "onboarding-4-description": {
+    "message": "Clicca dextre intra un scheda recipente pro assignar le sito a sempre aperir lo in ille recipente."
+  },
+  "onboarding-5-header": {
+    "message": "Schedas recipente quando te besonia illos."
+  },
+  "onboarding-5-description": {
+    "message": "Retene pulsate longemente le button Nove Scheda pro crear un nove Scheda recipente."
+  },
+  "onboarding-6-header": {
+    "message": "Le Synchronisation de recipentes es ora disponibile!"
+  },
+  "onboarding-6-description": {
+    "message": "Activa le synchronisation pro compartir le assignationes de recipente e sito con ulle computator connectite a tu Firefox Account"
+  },
+  "onboarding-7-header": {
+    "message": "Firefox Account es necesse pro synchronisar."
+  },
+  "onboarding-7-description": {
+    "message": "Clicca Authenticar se, pro confirmar que tu Firefox Account es active."
+  },
+  "onboarding-8-description": {
+    "message": "Ora le recipentes pote integrar se con Mozilla VPN o tu proprie proxy pro crear un connexion secur, private, que protege tu activitate."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 schedas!"
+  },
+  "youHaveOpened": {
+    "message": "Tu ha aperite 100 Schedas recipente.\n"
+  },
+  "spreadTheWord": {
+    "message": "Si tu apprecia Recipentes, adjuta nos a diffunder le parola!"
+  },
+  "rate": {
+    "message": "Rata"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "tweet": {
+    "message": "Tweetta"
+  },
+  "default": {
+    "message": "Predefinite"
+  },
+  "manageContainers": {
+    "message": "Gerer recipentes"
+  },
+  "newContainer": {
+    "message": "Nove recipente"
+  },
+  "hideThisContainer": {
+    "message": "Celar iste recipente"
+  },
+  "showThisContainer": {
+    "message": "Monstrar iste recipente"
+  },
+  "removeThisContainer": {
+    "message": "Remover iste recipente"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Desira tu vermente remover iste Recipente?"
+  },
+  "cancel": {
+    "message": "Cancellar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitos assignate a iste recipente"
+  },
+  "options": {
+    "message": "Optiones"
+  },
+  "name": {
+    "message": "Nomine"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Icone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitos destinate"
+  },
+  "deleteThisContainer": {
+    "message": "Deler iste recipente"
+  },
+  "manageSiteList": {
+    "message": "Gerer lista de sitos…"
+  },
+  "manageThisContainer": {
+    "message": "Gerer iste recipente"
+  },
+  "containers": {
+    "message": "Contentores"
+  },
+  "done": {
+    "message": "Facite"
+  },
+  "getStarted": {
+    "message": "Comenciar"
+  },
+  "signIn": {
+    "message": "Aperir session"
+  },
+  "notNow": {
+    "message": "Non ora"
+  },
+  "startSyncing": {
+    "message": "Comencia a synchronisar"
+  },
+  "info": {
+    "message": "Informationes",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sequente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Aperi iste sito in tu recipente assignate?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vole tu ancora aperir iste sito in le actual recipente?"
+  },
+  "rememberMyDecision": {
+    "message": "Rememorar mi decision pro iste sito"
+  },
+  "optionalPermissions": {
+    "message": "Permissiones optional:"
+  },
+  "keyboardShortCuts": {
+    "message": "Vias breve de claviero"
+  },
+  "onboarding": {
+    "message": "Introduction"
+  },
+  "resetOnboardingPanels": {
+    "message": "Reinitialisar le quadros de introduction."
+  },
+  "onboardingToggle": {
+    "message": "Mutar isto pro revider le quadros de introduction."
+  },
+  "tabBehavior": {
+    "message": "Comportamento del scheda:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activar menus de marcapaginas"
+  },
+  "firefoxAccountsSync": {
+    "message": "Synchronisation con conto Firefox:"
+  },
+  "enableSync": {
+    "message": "Activar le synchronisation"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Iste parametro te permitte de aperir un marcapagina o un plica de marcapaginas in un recipente."
+  },
+  "enableSyncDescription": {
+    "message": "Iste parametro te permitte de synchronisar tu assignationes de recipentes e sitos inter apparatos."
+  },
+  "replaceTab": {
+    "message": "Replaciar le scheda in vice del creation de un nove"
+  },
+  "replaceTabDescription": {
+    "message": "Replaciar le scheda active si un pagina que es assignate a un altere recipente es aperite (in vice del mantener aperte le scheda active). Aperir schedas con le button medie del mus non es afficite."
+  },
+  "editWhichContainer": {
+    "message": "Modificar qual recipente es aperite quando on usa le vias breve numerate."
+  },
+  "keyboardShortCut": {
+    "message": "Recipente a aperir con le via breve de claviero $keyId$ .",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Recipientes multi-conto Confirmar Navigation .",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Aperir in le recipente $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Tu ha demandate a Firefox de sempre aperir $containerName$ pro iste sito:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Elige un position",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Celar"
+  },
+  "show": {
+    "message": "Monstrar"
+  },
+  "protectYourContainers": {
+    "message": "Protege tu recipentes con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protege iste recipente con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Parametros del servitor proxy avantiate"
+  },
+  "proxyInputLabel": {
+    "message": "Insere un proxy personalisate"
+  },
+  "useCustomLocation": {
+    "message": "Usa un position personalisate pro iste recipente ."
+  },
+  "clearproxylabel": {
+    "message": "Clarar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN es active"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN es inactive"
+  },
+  "invalidProxyAlert": {
+    "message": "Insere un valide URL proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe esser active pro usar iste functionalitate."
+  },
+  "learnMore": {
+    "message": "Pro saper plus"
+  },
+  "proxyNowAvailable": {
+    "message": "Ora con Mozilla VPN e parametros del servitor proxy avantiate"
+  },
+  "applyToContainer": {
+    "message": "Applicar al recipente"
+  },
+  "tooltipWarning": {
+    "message": "Iste Recipente es configurate pro usar un proxy Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste recipente."
+  }
+}
