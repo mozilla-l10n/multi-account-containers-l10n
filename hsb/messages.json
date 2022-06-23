@@ -223,6 +223,9 @@
   "enableSyncDescription": {
     "message": "Z tutym nastajenjom móžeće swoje kontejnery a sydłowe připokazanja přez graty synchronizować."
   },
+  "syncExclude": {
+    "message": "Wuzamknjenje kontejnerow"
+  },
   "replaceTab": {
     "message": "Rajtark wuměnić, město toho, zo by so nowy wutworił"
   },
