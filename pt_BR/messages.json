@@ -223,6 +223,12 @@
   "enableSyncDescription": {
     "message": "Esta configuração permite sincronizar seus contêineres e atribuições de sites entre dispositivos."
   },
+  "syncExclude": {
+    "message": "Exclusão de contêineres"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Insira uma expressão regular"
+  },
   "replaceTab": {
     "message": "Substituir aba ao invés de criar outra"
   },
