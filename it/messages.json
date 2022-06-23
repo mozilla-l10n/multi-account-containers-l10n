@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Questa impostazione consente di sincronizzare i contenitori e i siti associati su più dispositivi."
   },
+  "syncExclude": {
+    "message": "Esclusione contenitori"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Inserisci un’espressione regolare"
+  },
+  "syncExcludeDescription": {
+    "message": "Escludi contenitori dalla sincronizzazione in base al nome utilizzando l’espressione regolare regolare specificata (senza distinzione tra maiuscole e minuscole)."
+  },
   "replaceTab": {
     "message": "Sostituisci scheda invece di crearne una nuova"
   },
