@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Denne innstillingen lar deg synkronisere dine beholdere og nettstedstilordningene på tvers av enheter."
   },
+  "syncExclude": {
+    "message": "Beholderekskludering"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Sett inn et regulært uttrykk"
+  },
+  "syncExcludeDescription": {
+    "message": "Ekskluder beholdere fra synkronisering når navnet deres samsvarer med det angitte regulære uttrykket som ikke skiller mellom store og små bokstaver."
+  },
   "replaceTab": {
     "message": "Erstatt fanen i stedet for å opprette en ny"
   },
