@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Z toś tym nastajenim móžośo swóje kontejnery a sedłowe pśipokazanja pśez rědy synchronizěrowaś."
   },
+  "syncExclude": {
+    "message": "Wuzamknjenje kontejnerow"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Regularny wuraz zasajźiś"
+  },
+  "syncExcludeDescription": {
+    "message": "Wuwzejśo kontejnery wót synchronizacije, gaž jich mě pódanemu regularnemu wurazoju wótpowědujo, kótaryž mjazy wjeliko- a małopisanim njerozeznawa."
+  },
   "replaceTab": {
     "message": "Rejtarik wuměniś, město aby se nowy napórał"
   },
