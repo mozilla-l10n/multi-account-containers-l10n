@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Esta opción permite sincronizar tus contenedores y la asignación de sitios en todos los dispositivos."
   },
+  "syncExclude": {
+    "message": "Exclusión de contenedor"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Insertar una expresión regular"
+  },
+  "syncExcludeDescription": {
+    "message": "Excluye los contenedores de la sincronización cuando su nombre coincida con la expresión regular especificada que no distingue entre mayúsculas y minúsculas."
+  },
   "replaceTab": {
     "message": "Reemplazar pestaña en vez de crear una nueva"
   },
