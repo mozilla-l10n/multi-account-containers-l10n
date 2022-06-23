@@ -226,6 +226,12 @@
   "syncExclude": {
     "message": "Wuzamknjenje kontejnerow"
   },
+  "syncExcludePlaceholder": {
+    "message": "Regularny wuraz zasadźić"
+  },
+  "syncExcludeDescription": {
+    "message": "Wuwzmiće kontejnery wot synchronizacije, hdyž jich mjeno podatemu regularnemu wurazej wotpowěduje, kotryž mjez wulko- a małopisanjom njerozeznawa."
+  },
   "replaceTab": {
     "message": "Rajtark wuměnić, město toho, zo by so nowy wutworił"
   },
