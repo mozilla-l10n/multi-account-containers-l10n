@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Tämän asetuksen avulla voit synkronoida eristystilat ja sivustomääritykset eri laitteiden välillä."
   },
+  "syncExclude": {
+    "message": "Eristystilan poissulkeminen"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Lisää säännöllinen lauseke"
+  },
+  "syncExcludeDescription": {
+    "message": "Sulje eristystilat pois synkronoinnista, kun niiden nimi vastaa määritettyä eroteltua säännöllistä lauseketta. Kirjainkoolla ei ole merkitystä."
+  },
   "replaceTab": {
     "message": "Korvaa välilehti sen sijaan että luot uuden."
   },
