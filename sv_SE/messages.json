@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Med den här inställningen kan du synkronisera dina behållare och webbplatstilldelningar mellan enheter."
   },
+  "syncExclude": {
+    "message": "Uteslutning av behållare"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Infoga ett reguljärt uttryck"
+  },
+  "syncExcludeDescription": {
+    "message": "Uteslut behållare från synkronisering när deras namn matchar det angivna skiftlägesokänsliga reguljära uttrycket."
+  },
   "replaceTab": {
     "message": "Ersätt flik istället för att skapa en ny"
   },
