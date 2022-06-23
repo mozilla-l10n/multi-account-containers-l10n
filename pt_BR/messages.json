@@ -229,6 +229,9 @@
   "syncExcludePlaceholder": {
     "message": "Insira uma expressão regular"
   },
+  "syncExcludeDescription": {
+    "message": "Excluir da sincronização os contêineres cujos nomes correspondem à expressão regular (não diferencia maiúsculas de minúsculas)."
+  },
   "replaceTab": {
     "message": "Substituir aba ao invés de criar outra"
   },
