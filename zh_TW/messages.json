@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "此設定讓您可在不同裝置間同步容器與網站設定。"
   },
+  "syncExclude": {
+    "message": "容器排除項目"
+  },
+  "syncExcludePlaceholder": {
+    "message": "請輸入正規表達式"
+  },
+  "syncExcludeDescription": {
+    "message": "排除同步符合下列正規表達式（不區分大小寫）名稱的容器。"
+  },
   "replaceTab": {
     "message": "取代分頁，而非開新分頁"
   },
