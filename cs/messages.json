@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Toto nastavení umožňuje synchronizovat kontejnery a přiřazení webů napříč zařízeními."
   },
+  "syncExclude": {
+    "message": "Výjimka pro kontejner"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Zadejte regulární výraz"
+  },
+  "syncExcludeDescription": {
+    "message": "Vynechá kontejnery ze synchronizace, pokud jejich název odpovídá zadanému regulárnímu výrazu bez ohledu na velikost písmen."
+  },
   "replaceTab": {
     "message": "Nahradit panel místo vytvoření nového"
   },
