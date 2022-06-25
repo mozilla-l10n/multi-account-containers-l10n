@@ -223,6 +223,9 @@
   "enableSyncDescription": {
     "message": "此设置让您可在设备间同步身份和网站设置。"
   },
+  "syncExcludePlaceholder": {
+    "message": "请输入正则表达式"
+  },
   "replaceTab": {
     "message": "覆盖标签页，而非新建标签页"
   },
