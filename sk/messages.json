@@ -229,6 +229,9 @@
   "syncExcludePlaceholder": {
     "message": "Zadajte regulárny výraz"
   },
+  "syncExcludeDescription": {
+    "message": "Ak chcete vylúčiť kontajner zo synchronizácie, môžete tak urobiť pomocou regulárneho výrazu (musí sa zhodovať názov kontajnera, nerozlišujú sa veľké a malé písmená)."
+  },
   "replaceTab": {
     "message": "Nahradiť existujúcu kartu namiesto otvárania novej"
   },
