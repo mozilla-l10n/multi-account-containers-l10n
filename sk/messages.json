@@ -223,6 +223,12 @@
   "enableSyncDescription": {
     "message": "Toto nastavenie vám umožňuje synchronizovať vaše kontajnery a priradenia stránok medzi zariadeniami."
   },
+  "syncExclude": {
+    "message": "Vylúčenie kontajnera"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Zadajte regulárny výraz"
+  },
   "replaceTab": {
     "message": "Nahradiť existujúcu kartu namiesto otvárania novej"
   },
