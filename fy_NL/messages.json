@@ -223,6 +223,12 @@
   "enableSyncDescription": {
     "message": "Mei dizze ynstelling kinne jo jo konteners en websitetawizingen mei oare apparaten syngronisearje."
   },
+  "syncExclude": {
+    "message": "Utsluting fan konteners"
+  },
+  "syncExcludePlaceholder": {
+    "message": "In reguliere ekspresje ynfoegje"
+  },
   "replaceTab": {
     "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
   },
