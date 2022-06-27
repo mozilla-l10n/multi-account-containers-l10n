@@ -229,6 +229,9 @@
   "syncExcludePlaceholder": {
     "message": "In reguliere ekspresje ynfoegje"
   },
+  "syncExcludeDescription": {
+    "message": "Konteners útslute fan syngronisaasje wannear’t harren namme oerienkomt mei de opjûne haadletterûngefoelige reguliere ekspresje."
+  },
   "replaceTab": {
     "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
   },
