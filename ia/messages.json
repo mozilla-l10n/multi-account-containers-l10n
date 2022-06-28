@@ -223,6 +223,12 @@
   "enableSyncDescription": {
     "message": "Iste parametro te permitte de synchronisar tu assignationes de recipentes e sitos inter apparatos."
   },
+  "syncExclude": {
+    "message": "Exclusion de recipientes"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Insere un expression regular"
+  },
   "replaceTab": {
     "message": "Replaciar le scheda in vice del creation de un nove"
   },
