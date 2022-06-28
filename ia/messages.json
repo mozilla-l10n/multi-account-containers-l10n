@@ -229,6 +229,9 @@
   "syncExcludePlaceholder": {
     "message": "Insere un expression regular"
   },
+  "syncExcludeDescription": {
+    "message": "Excluder le synchronisation del containers quando lor nomine non concorda le expression regular specificate insensibile al majusculas."
+  },
   "replaceTab": {
     "message": "Replaciar le scheda in vice del creation de un nove"
   },
