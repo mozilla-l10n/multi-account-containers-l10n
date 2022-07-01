@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "See säte võimaldab sünkroniseerida konteinerid ja neile määratud saidid sinu seadmete vahel."
   },
+  "syncExclude": {
+    "message": "Konteinerite välistamine"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Sisesta regulaaravaldis"
+  },
+  "syncExcludeDescription": {
+    "message": "Konteinerid välistatakse sünkroniseerimisest, kui nende nimi vastab määratud tõstutundetule regulaaravaldisele."
+  },
   "replaceTab": {
     "message": "Uue kaardi loomise asemel asendatakse see olemasolevaga"
   },
