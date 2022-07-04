@@ -223,6 +223,15 @@
   "enableSyncDescription": {
     "message": "Mae'r gosodiad hwn yn caniatáu i chi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
   },
+  "syncExclude": {
+    "message": "Gwahardd cynhwysydd"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Mewnosod mynegiad rheolaidd"
+  },
+  "syncExcludeDescription": {
+    "message": "Gwahardd cynwysyddion rhag cydweddu pan fydd eu henw yn cyfateb i fynegiant rheolaidd ansensitif maint penodedig."
+  },
   "replaceTab": {
     "message": "Amnewid tab yn lle creu un newydd"
   },
