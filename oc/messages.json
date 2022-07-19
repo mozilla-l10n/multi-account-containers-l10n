@@ -32,6 +32,9 @@
   "oneHundredTabsHeader": {
     "message": "100 onglets !"
   },
+  "youHaveOpened": {
+    "message": "Avètz dubèrt 100 onglets contextuals."
+  },
   "rate": {
     "message": "Avalorar"
   },
@@ -83,6 +86,15 @@
   "icon": {
     "message": "Icòna"
   },
+  "deleteThisContainer": {
+    "message": "Suprimir aqueste contenedor"
+  },
+  "manageSiteList": {
+    "message": "Gerir la lista de sites…"
+  },
+  "containers": {
+    "message": "Contenidors"
+  },
   "done": {
     "message": "Acabat"
   },
@@ -105,6 +117,9 @@
   "next": {
     "message": "Seguent"
   },
+  "keyboardShortCuts": {
+    "message": "Acorchis de clavièr :"
+  },
   "onboarding": {
     "message": "Aculhença"
   },
@@ -113,6 +128,9 @@
   },
   "tabBehavior": {
     "message": "Compòrtament de l’onglet :"
+  },
+  "enableSync": {
+    "message": "Activar la sincronizacion"
   },
   "chooseLocation": {
     "message": "Causir l’emplaçament",
@@ -144,5 +162,31 @@
   },
   "learnMore": {
     "message": "Ne saber mai"
+  },
+  "applyToContainer": {
+    "message": "Aplicar al contenidor"
+  },
+  "getMozillaVpn": {
+    "message": "Obténer Mozilla VPN"
+  },
+  "enable": {
+    "message": "Activar",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "Tèma :",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Causir un tèma",
+    "description": "Description for the theme option"
+  },
+  "themeLight": {
+    "message": "Clar",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Escur",
+    "description": "Value for the theme option select tag"
   }
 }
