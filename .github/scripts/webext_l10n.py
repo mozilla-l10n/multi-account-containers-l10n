@@ -21,7 +21,6 @@ def parseJsonFiles(base_path, messages, locale):
 
     file_list = []
     for f in glob(os.path.join(base_path, locale) + "/*.json"):
-        parts = f.split(os.sep)
         file_list.append(f)
 
     for f in file_list:
@@ -86,7 +85,6 @@ def main():
     if not args.exceptions_file:
         exceptions = defaultdict(dict)
     else:
-        exceptions_filename = os.path.basename(args.exceptions_file)
         try:
             with open(args.exceptions_file) as f:
                 exceptions = json.load(f)
@@ -94,7 +92,7 @@ def main():
             sys.exit(e)
 
     errors = defaultdict(list)
-    placeholder_pattern = re.compile("\$([a-zA-Z0-9_@]+)\$")
+    placeholder_pattern = re.compile(r"\$([a-zA-Z0-9_@]+)\$")
 
     # Get a list of locales (subfolders in <locales_path>, exclude hidden folders)
     locales = [
@@ -116,6 +114,9 @@ def main():
         locale_messages = {}
         parseJsonFiles(base_path, locale_messages, locale)
 
+        # Normalize locale code, e.g. zh_TW => zh-TW
+        normalized_locale = locale.replace("_", "-")
+
         # Check for missing placeholders
         for message_id, placeholders in messages_with_placeholders.items():
             # Skip if message isn't available in translation
@@ -123,7 +124,7 @@ def main():
                 continue
 
             # Skip if it's a known exception
-            if message_id in exceptions["placeholders"].get(locale, {}):
+            if message_id in exceptions["placeholders"].get(normalized_locale, {}):
                 continue
 
             l10n_message = locale_messages[message_id]["text"]
@@ -132,24 +133,33 @@ def main():
             l10n_placeholders = list(set(p.lower() for p in l10n_placeholders))
 
             if sorted(placeholders) != sorted(l10n_placeholders):
-                errors[locale].append(
-                    f"Placeholder mismatch in {message_id}\n  Text: {l10n_message}"
+                errors[normalized_locale].append(
+                    f"Placeholder mismatch in {message_id}\n"
+                    f"  Translation: {l10n_message}\n"
+                    f"  Reference: {reference_messages[message_id]['text']}"
                 )
 
+        ignore_ellipsis = normalized_locale in exceptions["ellipsis"].get(
+            "excluded_locales", []
+        )
         for message_id, message_data in locale_messages.items():
             l10n_message = message_data["text"]
 
             # Check for pilcrows
             if "¶" in l10n_message:
-                errors[locale].append(f"'¶' in {message_id}\n  Text: {l10n_message}")
+                errors[normalized_locale].append(
+                    f"'¶' in {message_id}\n  Translation: {l10n_message}"
+                )
 
             # Check for ellipsis
-            if (
-                "..." in l10n_message
-                and message_id not in exceptions["ellipsis"].get(locale, {})
-                and locale not in exceptions["ellipsis"].get("excluded_locales", [])
-            ):
-                errors[locale].append(f"'...' in {message_id}\n  Text: {l10n_message}")
+            if not ignore_ellipsis and "..." in l10n_message:
+                if message_id in exceptions["ellipsis"].get("locales", {}).get(
+                    normalized_locale, []
+                ):
+                    continue
+                errors[normalized_locale].append(
+                    f"'...' in {message_id}\n  Translation: {l10n_message}"
+                )
 
     if errors:
         locales = list(errors.keys())
@@ -158,10 +168,10 @@ def main():
         output = []
         total_errors = 0
         for locale in locales:
-            output.append(f"Locale: {locale} ({len(errors[locale])})")
+            output.append(f"\nLocale: {locale} ({len(errors[locale])})")
             total_errors += len(errors[locale])
             for e in errors[locale]:
-                output.append(f"  {e}")
+                output.append(f"\n  {e}")
         output.append(f"\nTotal errors: {total_errors}")
 
         out_file = args.dest_file

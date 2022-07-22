@@ -4,7 +4,7 @@ on:
     - cron: '0 7 * * 1-5' # Run Mon-Fri at 7AM UTC
   workflow_dispatch:
 jobs:
-  update:
+  linter:
     runs-on: ubuntu-latest
     steps:
       - name: Clone l10n repository
@@ -15,4 +15,4 @@ jobs:
           python-version: '3.9'
       - name: Check strings
         run: |
-          python .github/scripts/json_l10n.py --l10n . --ref en --exceptions .github/scripts/exceptions.json
+          python .github/scripts/webext_l10n.py --l10n . --ref en --exceptions .github/scripts/exceptions.json
