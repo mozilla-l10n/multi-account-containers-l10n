@@ -252,6 +252,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Open in No Container",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "You asked Firefox to always open $containerName$ for this site:",
     "placeholders": {
