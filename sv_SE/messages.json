@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Öppna på aktuell flik",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Du bad Firefox att alltid öppna $containerName$ för den här webbplatsen:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Mörkt",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrera behållarlistan efter namn:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Sök efter behållarens namn"
   }
 }
