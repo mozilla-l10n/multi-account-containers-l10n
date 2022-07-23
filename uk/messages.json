@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Відкрити в поточній вкладці",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Ви дали запит Firefox завжди відкривати $containerName$ для цього сайту:",
     "placeholders": {
@@ -380,5 +384,9 @@
   "themeDark": {
     "message": "Темна",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Фільтрувати список контейнерів за назвою:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
   }
 }
