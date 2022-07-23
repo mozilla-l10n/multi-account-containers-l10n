@@ -253,7 +253,7 @@
     }
   },
   "openInNoContainer": {
-    "message": "Open in No Container",
+    "message": "Open in current tab",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
