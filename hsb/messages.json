@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "W aktualnym rajtarku wočinić",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Sće Firefox prosył, $containerName$ přeco za tute sydło wočinić:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Ćmowy",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Kontejnerowu lisćinu po mjenje filtrować:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Kontejnerowe mjeno pytać"
   }
 }
