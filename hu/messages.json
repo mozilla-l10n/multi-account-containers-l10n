@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Megnyitás a jelenlegi lapon",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Azt kért a Firefoxtól, hogy ezt az oldalt mindig a(z) $containerName$ konténerben nyissa meg:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Sötét",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Konténerlista szűrése név szerint:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Konténernév keresése"
   }
 }
