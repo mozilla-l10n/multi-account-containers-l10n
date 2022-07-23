@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Im aktuellen Tab öffnen",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Sie haben Firefox gebeten, für diese Website immer $containerName$ zu öffnen:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Dunkel",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Umgebungsliste nach Namen filtern:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Nach Umgebungsname suchen"
   }
 }
