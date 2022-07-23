@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Aperir in le scheda actual",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Tu ha demandate a Firefox de sempre aperir $containerName$ pro iste sito:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Obscur",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrar per nomine le lista del recipientes:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cercar le nomine del recipiente"
   }
 }
