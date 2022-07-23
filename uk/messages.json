@@ -386,7 +386,10 @@
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Фільтрувати список контейнерів за назвою:",
+    "message": "Упорядкувати список контейнерів за назвою:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Назва шуканого контейнера"
   }
 }
