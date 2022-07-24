@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "ਮੌਜੂਦਾ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName$ ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "ਗੂੜ੍ਹਾ",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "ਕੰਨਟੇਨਰ ਸੂਚੀ ਨੂੰ ਨਾਂ ਮੁਤਾਬਕ ਫਿਲਟਰ ਕਰੋ:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "ਕਨਟੇਨਰ ਨਾਂ ਖੋਜੋ"
   }
 }
