@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "用目前分頁開啟",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "您要求 Firefox 總是使用 $containerName$ 開啟此網站:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "暗色",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "用名稱過濾容器分頁清單：",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "搜尋容器名稱"
   }
 }
