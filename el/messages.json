@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Άνοιγμα στην τρέχουσα καρτέλα",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Έχετε ζητήσει από το Firefox να ανοίγει πάντα το «$containerName$» για τον ιστότοπο:",
     "placeholders": {
