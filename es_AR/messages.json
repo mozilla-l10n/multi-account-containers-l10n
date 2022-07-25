@@ -388,5 +388,8 @@
   "filterInputLabel": {
     "message": "Filtrar lista de contenedores por nombre:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Buscar nombre de contenedor"
   }
 }
