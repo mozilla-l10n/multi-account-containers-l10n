@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Åpne i gjeldende fane",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Du ba Firefox om alltid å åpne $containerName$ for dette nettstedet:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Mørkt",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrer beholderliste etter navn:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Søk etter beholdernavn"
   }
 }
