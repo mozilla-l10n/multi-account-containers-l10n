@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Abrir en la pestaña actual",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Pediste a Firefox que siempre abra $containerName$ para este sitio:",
     "placeholders": {
@@ -380,5 +384,9 @@
   "themeDark": {
     "message": "Oscuro",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrar lista de contenedores por nombre:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
   }
 }
