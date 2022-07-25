@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Agor yn y tab cyfredol",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Rydych wedi gofyn i Firefox i agor $containerName$ bob tro ar gyfer y wefan hon:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Tywyll",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Hidlo'r rhestr cynhwysydd yn ôl enw:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Chwilio enw cynhwysydd"
   }
 }
