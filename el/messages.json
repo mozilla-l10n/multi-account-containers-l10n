@@ -384,5 +384,12 @@
   "themeDark": {
     "message": "Σκουρόχρωμο",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Φιλτράρισμα λίστας κατά όνομα:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Αναζήτηση ονόματος ενότητας"
   }
 }
