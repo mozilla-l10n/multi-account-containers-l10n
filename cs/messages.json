@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Otevřít v současném panelu",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Požádali jste Firefox, aby pro tento web vždy otevřel kontejner $containerName$:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Tmavý",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Hledání kontejneru podle názvu:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Název kontejneru"
   }
 }
