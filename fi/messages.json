@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Avaa nykyisessä välilehdessä",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ tälle sivustolle:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Tumma",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Suodata eristystilalistaa nimen perusteella:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Etsi eristystilan nimeä"
   }
 }
