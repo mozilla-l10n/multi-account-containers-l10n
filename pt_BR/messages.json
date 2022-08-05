@@ -352,7 +352,7 @@
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Este recurso requer uma permissão adicional para funcionar. Permissões podem ser desativadas quando você quiser na página de configurações.",
+    "message": "Este recurso requer uma permissão adicional para funcionar. Permissões podem ser concedidas ou removidas quando você quiser na página de configurações.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
