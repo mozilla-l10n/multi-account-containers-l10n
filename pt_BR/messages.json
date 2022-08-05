@@ -52,7 +52,7 @@
     "message": "Recursos como codificação por cores e abas contêiner separadas ajudam você a encontrar as coisas facilmente, focar sua atenção e minimizar distrações."
   },
   "onboarding-3-header": {
-    "message": "Um lugar para cada coisa e tudo em seu lugar."
+    "message": "Um lugar para cada coisa, cada coisa em seu lugar."
   },
   "onboarding-3-description": {
     "message": "Comece com os contêineres que criamos, ou crie seus próprios."
@@ -61,10 +61,10 @@
     "message": "Sempre abra sites nos contêineres que quiser."
   },
   "onboarding-4-description": {
-    "message": "Clique com o botão direito em uma aba contêiner para atribuir o site a sempre ser aberto naquele contêiner."
+    "message": "Clique com o botão direito em uma aba contêiner para atribuir ao site sempre ser aberto naquele contêiner."
   },
   "onboarding-5-header": {
-    "message": "Abas contêiner quando você precisar."
+    "message": "Use abas contêiner quando precisar."
   },
   "onboarding-5-description": {
     "message": "Mantenha pressionado o botão de nova aba para criar uma aba contêiner."
@@ -79,10 +79,10 @@
     "message": "Precisa ter uma Conta Firefox para sincronizar."
   },
   "onboarding-7-description": {
-    "message": "Clique em Entrar para confirmar que sua Conta Firefox está ativa."
+    "message": "Clique em Entrar para confirmar que sua conta Firefox está ativa."
   },
   "onboarding-8-description": {
-    "message": "Agora, contêineres podem se integrar ao Mozilla VPN ou ao seu próprio proxy para criar uma conexão segura e privativa que protege sua atividade."
+    "message": "Agora contêineres podem se integrar ao Mozilla VPN ou ao seu próprio proxy para criar uma conexão segura e privativa que protege sua atividade."
   },
   "oneHundredTabsHeader": {
     "message": "100 abas!"
