@@ -206,7 +206,7 @@
     "message": "Mude isto para ver novamente os painéis de introdução."
   },
   "tabBehavior": {
-    "message": "Comportamento da aba:"
+    "message": "Comportamento de abas:"
   },
   "enableBookMarkMenus": {
     "message": "Ativar menus de favoritos"
@@ -236,7 +236,7 @@
     "message": "Substituir aba ao invés de criar outra"
   },
   "replaceTabDescription": {
-    "message": "Substituir a aba atual caso uma página atribuída a outro contêiner for aberta (em vez de manter aberta a aba atual). A abertura de abas com o botão do meio do mouse não é afetada."
+    "message": "Substituir o conteúdo da aba atual se for aberta uma página atribuída a outro contêiner, em vez de manter a aba atual e abrir em outra aba (não afeta a abertura de páginas explicitamente em outra aba)."
   },
   "editWhichContainer": {
     "message": "Edite qual contêiner é aberto ao usar os atalhos numerados."
