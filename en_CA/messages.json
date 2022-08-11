@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Open in current tab",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "You asked Firefox to always open $containerName$ for this site:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Dark",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filter container list by name:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Search container name"
   }
 }
