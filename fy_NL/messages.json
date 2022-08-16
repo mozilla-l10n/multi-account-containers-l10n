@@ -261,6 +261,10 @@
       }
     }
   },
+  "openInNoContainer": {
+    "message": "Iepenje yn aktuele ljepblêd",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
   "youAskedFirefox": {
     "message": "Jo hawwe Firefox frege om foar dizze website altyd $containerName$ te iepenjen:",
     "placeholders": {
@@ -380,5 +384,12 @@
   "themeDark": {
     "message": "Donker",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Kontenerlist filterje op namme:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Kontenernamme sykje"
   }
 }
