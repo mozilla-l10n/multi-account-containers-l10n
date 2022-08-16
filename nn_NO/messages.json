@@ -189,11 +189,20 @@
   "enableSync": {
     "message": "Aktiver sync"
   },
+  "syncExclude": {
+    "message": "Behaldarekskludering"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Set inn eit vanleg uttrykk"
+  },
   "replaceTab": {
     "message": "Erstatt fana i staden for å opprette ei ny"
   },
   "replaceTabDescription": {
     "message": "Erstatt gjeldande fane dersom ei side som er tilordna ein annan behalder vert opna (i staden for å halde gjeldande fane open). Dette påverkar ikkje opning av faner med midtre museknapp."
+  },
+  "editWhichContainer": {
+    "message": "Rediger kva for behaldar som vert opna når du brukar dei nummererte snarvegane."
   },
   "keyboardShortCut": {
     "message": "Behaldar som skal opnast med tastatursnarveg $keyId$",
@@ -203,6 +212,10 @@
       }
     }
   },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account-Container – Stadfest navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Opne i behaldaren $containerName$",
     "placeholders": {
@@ -210,6 +223,10 @@
         "content": "$1"
       }
     }
+  },
+  "openInNoContainer": {
+    "message": "Opne i gjeldande fane",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
     "message": "Du ba Firefox om alltid å opne $containerName$ for denne nettstaden:",
@@ -330,5 +347,12 @@
   "themeDark": {
     "message": "Mørkt",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrer behaldarliste etter namn:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Søk etter behaldernamn"
   }
 }
