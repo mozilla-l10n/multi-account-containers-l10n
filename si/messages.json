@@ -1,0 +1,89 @@
+{
+  "openTabs": {
+    "message": "විවෘත පටිති",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "rate": {
+    "message": "අගයන්න"
+  },
+  "share": {
+    "message": "බෙදාගන්න"
+  },
+  "tweet": {
+    "message": "ට්වීට්"
+  },
+  "default": {
+    "message": "පෙරනිමි"
+  },
+  "cancel": {
+    "message": "අවලංගු"
+  },
+  "ok": {
+    "message": "හරි"
+  },
+  "options": {
+    "message": "විකල්ප"
+  },
+  "name": {
+    "message": "නම"
+  },
+  "color": {
+    "message": "වර්ණය"
+  },
+  "icon": {
+    "message": "නිරූපකය"
+  },
+  "done": {
+    "message": "අහවරයි"
+  },
+  "getStarted": {
+    "message": "පටන් ගන්න"
+  },
+  "signIn": {
+    "message": "පිවිසෙන්න"
+  },
+  "notNow": {
+    "message": "දැන් නොවේ"
+  },
+  "info": {
+    "message": "තොරතුරු",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ඊළඟ"
+  },
+  "chooseLocation": {
+    "message": "ස්ථානය තෝරන්න",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "සඟවන්න"
+  },
+  "show": {
+    "message": "පෙන්වන්න"
+  },
+  "enable": {
+    "message": "සබල කරන්න",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "තේමාව:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "තේමාවක් තෝරන්න",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ස්වයං අනාවරණය (පෙරනිමි)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "දීප්ත",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "අඳුරු",
+    "description": "Value for the theme option select tag"
+  }
+}
