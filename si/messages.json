@@ -52,6 +52,21 @@
   "next": {
     "message": "ඊළඟ"
   },
+  "optionalPermissions": {
+    "message": "විකල්ප අවසර:"
+  },
+  "keyboardShortCuts": {
+    "message": "යතුරුපුවරු කෙටිමං:"
+  },
+  "enableBookMarkMenus": {
+    "message": "පොත්යොමු වට්ටෝරු සබල කරන්න"
+  },
+  "enableSync": {
+    "message": "සමමුහූර්තය සබල කරන්න"
+  },
+  "syncExcludePlaceholder": {
+    "message": "නිත්‍ය වාක්‍යවිධියයක් යොදන්න"
+  },
   "chooseLocation": {
     "message": "ස්ථානය තෝරන්න",
     "description": "Location refers to the geographical position used by the VPN"
