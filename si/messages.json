@@ -1,7 +1,41 @@
 {
+  "openInNewTabTitle": {
+    "message": "මෙහි පටිත්තක් අරින්න…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "මෙහි අඩවිය යළි අරින්න…",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "මෙහි සැමවිට මෙම අඩවිය අරින්න…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "මෙහි සැමවිට අරින්න…",
+    "description": "Menu title"
+  },
+  "openANewTabIn": {
+    "message": "මෙහි පටිත්තක් අරින්න…"
+  },
   "openTabs": {
     "message": "විවෘත පටිති",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "පටිති නව කවුළුවකට ගෙන යන්න"
+  },
+  "onboarding-1-header": {
+    "message": "ඔබ මාර්ගගතව සිදු කරන සියළු දෑ කළමනාකරණයට හොඳ ක්‍රමයක්"
+  },
+  "onboarding-3-header": {
+    "message": "සෑම දෙයක්ම සඳහා ස්ථානයක්, සහ සියල්ල එම ස්ථානයෙහි."
+  },
+  "onboarding-7-header": {
+    "message": "සමමුහූර්තයට Firefox ගිණුමක් අවශ්‍යයි."
+  },
+  "onboarding-7-description": {
+    "message": "ඔබගේ Firefox ගිණුම සක්‍රිය බව තහවුරු කිරීමට පිවිසෙන්න ඔබන්න."
   },
   "oneHundredTabsHeader": {
     "message": "පටිති 100!"
@@ -36,6 +70,9 @@
   "icon": {
     "message": "නිරූපකය"
   },
+  "manageSiteList": {
+    "message": "අඩවි ලේඛනය කළමනාකරණය…"
+  },
   "done": {
     "message": "අහවරයි"
   },
@@ -48,6 +85,9 @@
   "notNow": {
     "message": "දැන් නොවේ"
   },
+  "startSyncing": {
+    "message": "සමමුහූර්තය අරඹන්න"
+  },
   "info": {
     "message": "තොරතුරු",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
@@ -55,20 +95,36 @@
   "next": {
     "message": "ඊළඟ"
   },
+  "rememberMyDecision": {
+    "message": "අඩවිය සඳහා තීරණය මතක තබා ගන්න"
+  },
   "optionalPermissions": {
     "message": "විකල්ප අවසර:"
   },
   "keyboardShortCuts": {
     "message": "යතුරුපුවරු කෙටිමං:"
   },
+  "tabBehavior": {
+    "message": "පටිති හැසිරීම:"
+  },
   "enableBookMarkMenus": {
     "message": "පොත්යොමු වට්ටෝරු සබල කරන්න"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox ගිණුම් සමමුහූර්තය:"
   },
   "enableSync": {
     "message": "සමමුහූර්තය සබල කරන්න"
   },
   "syncExcludePlaceholder": {
     "message": "නිත්‍ය වාක්‍යවිධියයක් යොදන්න"
+  },
+  "replaceTab": {
+    "message": "අළුතින් නොසාදා පටිත්ත ප්‍රතිස්ථාපනය කරන්න"
+  },
+  "openInNoContainer": {
+    "message": "වත්මන් පටිත්තෙන් අරින්න",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "chooseLocation": {
     "message": "ස්ථානය තෝරන්න",
@@ -79,6 +135,15 @@
   },
   "show": {
     "message": "පෙන්වන්න"
+  },
+  "advancedProxySettings": {
+    "message": "වැඩිදුර ප්‍රතියුක්ත සැකසුම්"
+  },
+  "proxyInputLabel": {
+    "message": "අභිරුචි ප්‍රතියුක්තය යොදන්න"
+  },
+  "clearproxylabel": {
+    "message": "ප්‍රතියුක්තය මකන්න"
   },
   "invalidProxyAlert": {
     "message": "වලංගු ප්‍රතියුක්ත ඒ.ස.නි. යොදන්න"
