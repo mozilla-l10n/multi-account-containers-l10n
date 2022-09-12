@@ -3,6 +3,9 @@
     "message": "විවෘත පටිති",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "oneHundredTabsHeader": {
+    "message": "පටිති 100!"
+  },
   "rate": {
     "message": "අගයන්න"
   },
@@ -76,6 +79,12 @@
   },
   "show": {
     "message": "පෙන්වන්න"
+  },
+  "invalidProxyAlert": {
+    "message": "වලංගු ප්‍රතියුක්ත ඒ.ස.නි. යොදන්න"
+  },
+  "learnMore": {
+    "message": "තව දැනගන්න"
   },
   "enable": {
     "message": "සබල කරන්න",
