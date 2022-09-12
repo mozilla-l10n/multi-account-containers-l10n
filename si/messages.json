@@ -180,6 +180,18 @@
     "message": "දිගුව සඳහා ෆයර්ෆොක්ස් මෙන්ම වෙනත් වැඩසටහන් සමඟ පණිවිඩ හුවමාරුවට ඉඩ දෙන්න",
     "description": "Permission title"
   },
+  "nativeMessagingPermissionDescription": {
+    "message": "දිගුව සඳහා මෙම සැකසුම මගින් Mozilla VPN අනුග්‍රාහකය සමඟ පණිවිඩ හුවමාරු කර ගැනීමට ඉඩ දෙන අතර Mozilla VPN අනුකලන විශේෂාංග ක්‍රියා කිරීමට ද අවශ්‍ය වේ.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "ප්‍රතියුක්ත සැකසුම් පාලනය සඳහා දිගුවට ඉඩදෙන්න",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "මෙය ඔබට වැඩිදුර ප්‍රතියුක්ත සැකසුම් භාවිතයට සහ Mozilla VPN අනුකලන විශේෂාංග සබල කිරීමට ඉඩ සලසයි.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
   "additionalPermissionNeeded": {
     "message": "මෙම විශේෂාංගයට වැඩ කිරීමට අතිරේක අවසරයක් අවශ්‍යයි. සැකසුම් පිටුවෙන් ඕනෑම වේලාවක අවසර අබල කළ හැකිය.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
