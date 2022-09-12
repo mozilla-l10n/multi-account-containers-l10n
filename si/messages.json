@@ -104,6 +104,12 @@
   "keyboardShortCuts": {
     "message": "යතුරුපුවරු කෙටිමං:"
   },
+  "onboarding": {
+    "message": "ගොඩවීම"
+  },
+  "resetOnboardingPanels": {
+    "message": "ගොඩවන මඬල යළි සකසන්න"
+  },
   "tabBehavior": {
     "message": "පටිති හැසිරීම:"
   },
@@ -145,11 +151,41 @@
   "clearproxylabel": {
     "message": "ප්‍රතියුක්තය මකන්න"
   },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN සක්‍රියයි"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN අක්‍රියයි"
+  },
   "invalidProxyAlert": {
     "message": "වලංගු ප්‍රතියුක්ත ඒ.ස.නි. යොදන්න"
   },
+  "mozillaVpnMustBeOn": {
+    "message": "මෙම විශේෂාංගය භාවිතයට Mozilla VPN සක්‍රිය කළ යුතුය."
+  },
   "learnMore": {
     "message": "තව දැනගන්න"
+  },
+  "proxyNowAvailable": {
+    "message": "දැන් Mozilla VPN සහ වැඩිදුර ප්‍රතියුක්ත සැකසුම් සමඟ"
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN ගන්න"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN සහ ප්‍රතියුක්ත අවසර",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "දිගුව සඳහා ෆයර්ෆොක්ස් මෙන්ම වෙනත් වැඩසටහන් සමඟ පණිවිඩ හුවමාරුවට ඉඩ දෙන්න",
+    "description": "Permission title"
+  },
+  "additionalPermissionNeeded": {
+    "message": "මෙම විශේෂාංගයට වැඩ කිරීමට අතිරේක අවසරයක් අවශ්‍යයි. සැකසුම් පිටුවෙන් ඕනෑම වේලාවක අවසර අබල කළ හැකිය.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN සමඟ අනුකලනයට දායකත්වයක් සහ වැඩ කිරීමට අතිරේක අවසර අවශ්‍යයි."
   },
   "enable": {
     "message": "සබල කරන්න",
