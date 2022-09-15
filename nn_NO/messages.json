@@ -72,11 +72,17 @@
   "onboarding-6-header": {
     "message": "Synkronisering av behaldarar er no tilgjengeleg!"
   },
+  "onboarding-6-description": {
+    "message": "Slå på synkronisering for å dele behaldar- og nettstadstildelingar med kva datamaskin som helst som er kopla til Firefox-kontoen din."
+  },
   "onboarding-7-header": {
     "message": "Firefox-konto er nødvendig for å synkronisere."
   },
   "onboarding-7-description": {
     "message": "Klikk på Logg på for å stadfeste at Firefox-kontoen din er aktiv."
+  },
+  "onboarding-8-description": {
+    "message": "No kan behaldarar integrast med Mozilla VPN eller din eigen proxy for å lage ei sikker, privat tilkopling som beskyttar aktiviteten din."
   },
   "oneHundredTabsHeader": {
     "message": "100 faner!"
@@ -195,6 +201,9 @@
   },
   "resetOnboardingPanels": {
     "message": "Tilbakestill innføringspanel"
+  },
+  "onboardingToggle": {
+    "message": "Veksle på denne for å sjå introduksjonspanela igjen."
   },
   "tabBehavior": {
     "message": "Faneverkemåte:"
