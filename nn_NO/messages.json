@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers hjelper deg med å halde alle delane av livet ditt på nettet i forskjellige faner. Eigendefinerte etikettar og fargekoda faner hjelper deg med å halde ulike aktivitetar — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — kvar for seg.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Opne ny fane i…",
     "description": "Menu title"
@@ -44,8 +48,14 @@
   "onboarding-2-header": {
     "message": "Få behaldarane til å fungere for deg."
   },
+  "onboarding-2-description": {
+    "message": "Funksjonar som fargekoding og separate innhaldsfaner hjelper deg med å finne ting enkelt, fokusere merksemda og minimere distraksjonar."
+  },
   "onboarding-3-header": {
     "message": "Ein plass for alt, og alt på sin plass."
+  },
+  "onboarding-3-description": {
+    "message": "Start med behaldarane vi har laga, eller lag dine eigne."
   },
   "onboarding-4-header": {
     "message": "Opne alltid nettstadar i behaldarane du ønskjer."
