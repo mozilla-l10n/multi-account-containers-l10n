@@ -60,6 +60,9 @@
   "onboarding-4-header": {
     "message": "Opne alltid nettstadar i behaldarane du ønskjer."
   },
+  "onboarding-4-description": {
+    "message": "Høgreklikk inne i ei innhaldsfane for å tilordne nettstaden til å alltid opne i behaldaren."
+  },
   "onboarding-5-header": {
     "message": "Innhaldsfaner når du treng dei."
   },
