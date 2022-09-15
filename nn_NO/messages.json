@@ -217,6 +217,9 @@
   "enableSync": {
     "message": "Aktiver sync"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Med denne innstillinga kan du opne eit bokmerke, eller ei mappe med bokmerke, i ein behaldar."
+  },
   "syncExclude": {
     "message": "Behaldarekskludering"
   },
