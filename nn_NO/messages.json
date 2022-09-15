@@ -220,11 +220,17 @@
   "enableBookMarkMenusDescription": {
     "message": "Med denne innstillinga kan du opne eit bokmerke, eller ei mappe med bokmerke, i ein behaldar."
   },
+  "enableSyncDescription": {
+    "message": "Med denne innstillinga kan du synkronisere behaldarane dine og nettstadstildelingar mellom einingar."
+  },
   "syncExclude": {
     "message": "Behaldarekskludering"
   },
   "syncExcludePlaceholder": {
     "message": "Set inn eit vanleg uttrykk"
+  },
+  "syncExcludeDescription": {
+    "message": "Ekskluder behaldarar frå synkronisering når namnet deira samsvarer med det spesifiserte regulære uttrykket som ikkje skiljer mellom store og små bokstaver."
   },
   "replaceTab": {
     "message": "Erstatt fana i staden for å opprette ei ny"
