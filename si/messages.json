@@ -43,6 +43,12 @@
   "oneHundredTabsHeader": {
     "message": "පටිති 100!"
   },
+  "youHaveOpened": {
+    "message": "ඔබ අඩංගු පටිති 100 ක් විවෘත කර ඇත."
+  },
+  "spreadTheWord": {
+    "message": "ඔබට අඩංගු ප්‍රයෝජනවත් නම්, අන් අය අතර බෙදාගන්න!"
+  },
   "rate": {
     "message": "අගයන්න"
   },
@@ -69,6 +75,9 @@
   },
   "removeThisContainer": {
     "message": "මෙම අඩංගුව ඉවත් කරන්න"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "ඔබට මෙම අඩංගුව ඉවත් කිරීමට අවශ්‍ය බව විශ්වාසද?"
   },
   "cancel": {
     "message": "අවලංගු"
@@ -122,6 +131,12 @@
   "next": {
     "message": "ඊළඟ"
   },
+  "openThisSiteConfirmation": {
+    "message": "පවරා තිබෙන අඩංගුව තුළ මෙම අඩවිය අරින්නද?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "ඔබ තවමත් මෙම වත්මන් අඩංගුව තුළ විවෘත කිරීමට කැමතිද?"
+  },
   "rememberMyDecision": {
     "message": "අඩවිය සඳහා තීරණය මතක තබා ගන්න"
   },
@@ -148,6 +163,9 @@
   },
   "enableSync": {
     "message": "සමමුහූර්තය සබල කරන්න"
+  },
+  "syncExclude": {
+    "message": "අඩංගුව හැරදැමීම්"
   },
   "syncExcludePlaceholder": {
     "message": "නිත්‍ය වාක්‍යවිධියයක් යොදන්න"
