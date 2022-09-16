@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers භාවිතයෙන් ඔබගේ මාර්ගගත කටයුතුවල සියළුම කොටස් විවිධ පටිති තුළ තබා ගැනීමට හැකිය. මාර්ගගත සාප්පු සවාරි, චාරිකා සැලසුම්, හෝ කාර්යාල වි-තැපැල් පරීක්‍ෂා කිරීමට ආදී — විවිධ ක්‍රියාකාරකම් පහසුවෙන් හඳුනා ගැනීමට අභිරුචි නම්පත් සහ වර්ණ-කේතිත පටිති යොදා ගන්න.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "මෙහි පටිත්තක් අරින්න…",
     "description": "Menu title"
@@ -76,6 +80,9 @@
   },
   "onboarding-7-description": {
     "message": "ඔබගේ Firefox ගිණුම සක්‍රිය බව තහවුරු කිරීමට පිවිසෙන්න ඔබන්න."
+  },
+  "onboarding-8-description": {
+    "message": "දැන් අඩංගු සමඟ මොසිල්ලා වීපීඑන් හෝ ඔබගේම ප්‍රතියුක්තයක් ඒකාබද්ධ කර සියළු ක්‍රියාකාරකම් සුරක්‍ෂිත කරන ආරක්‍ෂිත, පෞද්ගලික සම්බන්ධතාවයක් සෑදීමට හැකිය."
   },
   "oneHundredTabsHeader": {
     "message": "පටිති 100!"
@@ -216,6 +223,14 @@
   "replaceTab": {
     "message": "අළුතින් නොසාදා පටිත්ත ප්‍රතිස්ථාපනය කරන්න"
   },
+  "keyboardShortCut": {
+    "message": "යතුරුපුවරු කෙටිමඟ $keyId$ මගින් විවෘත කිරීමට අඩංගුව",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "confirmNavigationTitle": {
     "message": "Multi-Account Containers යාත්‍රණය තහවුරුව",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
@@ -231,6 +246,14 @@
   "openInNoContainer": {
     "message": "වත්මන් පටිත්තෙන් අරින්න",
     "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "මෙම අඩවිය සැමවිට $containerName$ හි විවෘත කරන ලෙස ඔබ ෆයර්ෆොක්ස් වෙත දන්වා ඇත:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "ස්ථානය තෝරන්න",
