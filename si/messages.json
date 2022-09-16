@@ -55,11 +55,20 @@
   "default": {
     "message": "පෙරනිමි"
   },
+  "manageContainers": {
+    "message": "අඩංගුව කළමනාකරණය"
+  },
   "newContainer": {
     "message": "නව අඩංගුව"
   },
+  "hideThisContainer": {
+    "message": "මෙම අඩංගුව සඟවන්න"
+  },
   "showThisContainer": {
     "message": "මෙම අඩංගුව පෙන්වන්න"
+  },
+  "removeThisContainer": {
+    "message": "මෙම අඩංගුව ඉවත් කරන්න"
   },
   "cancel": {
     "message": "අවලංගු"
