@@ -88,8 +88,17 @@
   "icon": {
     "message": "නිරූපකය"
   },
+  "deleteThisContainer": {
+    "message": "මෙම අඩංගුව මකන්න"
+  },
   "manageSiteList": {
     "message": "අඩවි ලේඛනය කළමනාකරණය…"
+  },
+  "manageThisContainer": {
+    "message": "මෙම අඩංගුව කළමනාකරණය"
+  },
+  "containers": {
+    "message": "අඩංගු"
   },
   "done": {
     "message": "අහවරයි"
@@ -166,6 +175,9 @@
   "proxyInputLabel": {
     "message": "අභිරුචි ප්‍රතියුක්තය යොදන්න"
   },
+  "useCustomLocation": {
+    "message": "මෙම අඩංගුව සඳහා අභිරුචි ස්ථානයක් භාවිතා කරන්න"
+  },
   "clearproxylabel": {
     "message": "ප්‍රතියුක්තය මකන්න"
   },
@@ -187,8 +199,14 @@
   "proxyNowAvailable": {
     "message": "දැන් Mozilla VPN සහ වැඩිදුර ප්‍රතියුක්ත සැකසුම් සමඟ"
   },
+  "applyToContainer": {
+    "message": "අඩංගුවට යොදන්න"
+  },
   "getMozillaVpn": {
     "message": "Mozilla VPN ගන්න"
+  },
+  "integratewithmozillavpn": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ ඔබගේ අඩංගු ඒකාබද්ධය"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN සහ ප්‍රතියුක්ත අවසර",
@@ -221,6 +239,9 @@
     "message": "සබල කරන්න",
     "description": "Button title "
   },
+  "integrateContainers": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ ඔබගේ අඩංගු ඒකාබද්ධය"
+  },
   "theme": {
     "message": "තේමාව:",
     "description": "Theme section title in the option page"
@@ -240,5 +261,12 @@
   "themeDark": {
     "message": "අඳුරු",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "නම අනුව අඩංගු ලේඛනය පෙරන්න:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "අඩංගුවෙහි නම සොයන්න"
   }
 }
