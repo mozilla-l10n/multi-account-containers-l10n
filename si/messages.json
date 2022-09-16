@@ -155,6 +155,18 @@
   "replaceTab": {
     "message": "අළුතින් නොසාදා පටිත්ත ප්‍රතිස්ථාපනය කරන්න"
   },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers යාත්‍රණය තහවුරුව",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ අඩංගුව තුළ අරින්න",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "openInNoContainer": {
     "message": "වත්මන් පටිත්තෙන් අරින්න",
     "description": "This is the button text in confirmation page when we are not inside a container"
@@ -168,6 +180,12 @@
   },
   "show": {
     "message": "පෙන්වන්න"
+  },
+  "protectYourContainers": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ආරක්‍ෂා කරන්න"
+  },
+  "protectThisContainer": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ මෙම අඩංගුව ආරක්‍ෂා කරන්න"
   },
   "advancedProxySettings": {
     "message": "වැඩිදුර ප්‍රතියුක්ත සැකසුම්"
