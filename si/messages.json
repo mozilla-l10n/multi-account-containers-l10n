@@ -7,8 +7,12 @@
     "message": "මෙහි අඩවිය යළි අරින්න…",
     "description": "Menu title"
   },
+  "sortTabsByContainer": {
+    "message": "අඩංගුවට අනුව පෙන්වන්න",
+    "description": "Menu title"
+  },
   "alwaysOpenThisSiteIn": {
-    "message": "මෙහි සැමවිට මෙම අඩවිය අරින්න…",
+    "message": "අඩවිය සැමවිට මෙහි අරින්න…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
@@ -272,7 +276,7 @@
     "message": "Mozilla VPN ගන්න"
   },
   "integratewithmozillavpn": {
-    "message": "මොසිල්ලා වීපීඑන් සමඟ ඔබගේ අඩංගු ඒකාබද්ධය"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN සහ ප්‍රතියුක්ත අවසර",
@@ -306,7 +310,7 @@
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "මොසිල්ලා වීපීඑන් සමඟ ඔබගේ අඩංගු ඒකාබද්ධය"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
   },
   "theme": {
     "message": "තේමාව:",
