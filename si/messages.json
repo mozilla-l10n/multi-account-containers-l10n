@@ -18,6 +18,9 @@
   "openANewTabIn": {
     "message": "මෙහි පටිත්තක් අරින්න…"
   },
+  "openNewTabInThisContainer": {
+    "message": "මෙම අඩංගුවෙහි නව පටිත්ත අරින්න"
+  },
   "openTabs": {
     "message": "විවෘත පටිති",
     "description": "Section title for tabs that are currently open in that container"
@@ -51,6 +54,12 @@
   },
   "default": {
     "message": "පෙරනිමි"
+  },
+  "newContainer": {
+    "message": "නව අඩංගුව"
+  },
+  "showThisContainer": {
+    "message": "මෙම අඩංගුව පෙන්වන්න"
   },
   "cancel": {
     "message": "අවලංගු"
