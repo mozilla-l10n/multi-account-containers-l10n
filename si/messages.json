@@ -15,6 +15,9 @@
     "message": "මෙහි සැමවිට අරින්න…",
     "description": "Menu title"
   },
+  "alwaysOpenSiteInContainer": {
+    "message": "සැමවිට අඩංගුව තුළ අඩවිය අරින්න"
+  },
   "openANewTabIn": {
     "message": "මෙහි පටිත්තක් අරින්න…"
   },
@@ -42,6 +45,21 @@
   },
   "onboarding-3-description": {
     "message": "සාදා තිබෙන අඩංගු සමඟ අරඹන්න, හෝ ඔබම සාදන්න."
+  },
+  "onboarding-4-header": {
+    "message": "ඔබට වුවමනා අඩංගුවල සැමවිට අඩවි අරින්න."
+  },
+  "onboarding-4-description": {
+    "message": "අඩවියක් සැමවිට අඩංගුව තුළ විවෘත වීමට සැකසීම සඳහා පටිති අඩංගුවක් ඇතුළත දකුණින් ඔබන්න."
+  },
+  "onboarding-5-header": {
+    "message": "ඔබට වුවමනා විට පටිති අඩංගුවකට දමන්න."
+  },
+  "onboarding-5-description": {
+    "message": "නව පටිති අඩංගුවක් සෑදීමට නව පටිති බොත්තම දිගු වේලාවක් ඔබන්න."
+  },
+  "onboarding-6-header": {
+    "message": "පටිති අඩංගු සමමුහූර්ත පහසුකම දැන් තිබේ!"
   },
   "onboarding-7-header": {
     "message": "සමමුහූර්තයට Firefox ගිණුමක් අවශ්‍යයි."
@@ -93,6 +111,9 @@
   },
   "ok": {
     "message": "හරි"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "මෙම අඩංගුවට පවරා ඇති අඩවි"
   },
   "options": {
     "message": "විකල්ප"
