@@ -356,7 +356,7 @@
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Mozilla VPN සමඟ අනුකලනයට දායකත්වයක් සහ වැඩ කිරීමට අතිරේක අවසර අවශ්‍යයි."
+    "message": "Mozilla VPN සමඟ අනුකලනයට දායකත්‍වයක් සහ වැඩ කිරීමට අතිරේක අවසර අවශ්‍යයි."
   },
   "enable": {
     "message": "සබල කරන්න",
