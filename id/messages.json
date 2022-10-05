@@ -94,12 +94,24 @@
   "next": {
     "message": "Lanjut"
   },
+  "enableSync": {
+    "message": "Aktifkan sinkronisasi"
+  },
   "chooseLocation": {
     "message": "Pilih lokasi",
     "description": "Location refers to the geographical position used by the VPN"
   },
+  "hide": {
+    "message": "Sembunyikan"
+  },
   "show": {
     "message": "Tampilkan"
+  },
+  "advancedProxySettings": {
+    "message": "Setelan proksi lanjutan"
+  },
+  "clearproxylabel": {
+    "message": "Hapus proksi"
   },
   "getMozillaVpn": {
     "message": "Dapatkan Mozilla VPN"
