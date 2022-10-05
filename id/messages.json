@@ -29,9 +29,27 @@
   "openANewTabIn": {
     "message": "Buka Tab Baru di…"
   },
+  "openNewTabInThisContainer": {
+    "message": "Buka Tab Baru di Kontainer ini"
+  },
   "openTabs": {
     "message": "Buka Tab",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Pindahkan Tab ke Jendela Baru"
+  },
+  "onboarding-1-header": {
+    "message": "Cara yang lebih baik untuk mengelola semua aktivitas daring Anda"
+  },
+  "onboarding-1-description": {
+    "message": "Gunakan Kontainer untuk mengatur tugas, mengelola akun, dan menjaga fokus Anda di mana Anda menginginkannya."
+  },
+  "onboarding-2-header": {
+    "message": "Tempatkan Kontainer untuk bekerja bagi Anda."
+  },
+  "onboarding-2-description": {
+    "message": "Fitur seperti pengodean warna dan tab Container terpisah membantu Anda menemukan hal dengan mudah, memusatkan perhatian, dan meminimalkan gangguan."
   },
   "onboarding-5-description": {
     "message": "Tekan-lama tombol Tab Baru untuk membuat tab Kontainer baru."
