@@ -49,22 +49,64 @@
     "message": "Tempatkan Kontainer untuk bekerja bagi Anda."
   },
   "onboarding-2-description": {
-    "message": "Fitur seperti pengodean warna dan tab Container terpisah membantu Anda menemukan hal dengan mudah, memusatkan perhatian, dan meminimalkan gangguan."
+    "message": "Fitur seperti pengodean warna dan tab Kontainer terpisah membantu Anda menemukan hal dengan mudah, memusatkan perhatian, dan meminimalkan gangguan."
+  },
+  "onboarding-3-header": {
+    "message": "Sebuah tempat untuk segala sesuatu, dan segala sesuatu di tempatnya."
+  },
+  "onboarding-3-description": {
+    "message": "Mulai dengan Kontainer yang kami buat, atau buat sendiri."
+  },
+  "onboarding-4-header": {
+    "message": "Selalu buka situs di Kontainer yang Anda inginkan."
+  },
+  "onboarding-4-description": {
+    "message": "Klik kanan di dalam tab Kontainer untuk menentukan situs untuk selalu terbuka dalam Kontainer."
+  },
+  "onboarding-5-header": {
+    "message": "Tab Kontainer saat Anda membutuhkannya."
   },
   "onboarding-5-description": {
     "message": "Tekan-lama tombol Tab Baru untuk membuat tab Kontainer baru."
   },
+  "onboarding-6-header": {
+    "message": "Sinkronisasi Kontainer kini Tersedia!"
+  },
+  "onboarding-6-description": {
+    "message": "Aktifkan sinkronisasi untuk berbagi Kontainer dan penugasan situs dengan komputer manapun yang terhubung ke akun Firefox Anda."
+  },
   "onboarding-7-header": {
     "message": "Akun Firefox diperlukan untuk sinkronisasi."
   },
+  "onboarding-7-description": {
+    "message": "Klik Masuk untuk mengkonfirmasi bahwa akun Firefox Anda aktif."
+  },
+  "onboarding-8-description": {
+    "message": "Sekarang Kontainer dapat berintegrasi dengan Mozilla VPN atau proksi Anda sendiri untuk membuat koneksi pribadi yang aman dan melindungi aktivitas Anda."
+  },
   "oneHundredTabsHeader": {
     "message": "100 tab!"
+  },
+  "youHaveOpened": {
+    "message": "Anda telah membuka 100 tab Kontainer."
+  },
+  "spreadTheWord": {
+    "message": "Jika Anda menikmati Kontainer, bantu kami sebarkan berita!"
+  },
+  "rate": {
+    "message": "Nilai"
   },
   "share": {
     "message": "Bagikan"
   },
   "tweet": {
     "message": "Tweet"
+  },
+  "default": {
+    "message": "Baku"
+  },
+  "manageContainers": {
+    "message": "Kelola Kontainer"
   },
   "newContainer": {
     "message": "Kontainer Baru"
@@ -139,6 +181,9 @@
   },
   "applyToContainer": {
     "message": "Terapkan ke Kontainer"
+  },
+  "tooltipWarning": {
+    "message": "Kontainer ini diatur untuk menggunakan proksi Mozilla VPN, tetapi Mozilla VPN masih non-aktif. Aktifkan Mozilla VPN untuk menggunakan Kontainer ini."
   },
   "getMozillaVpn": {
     "message": "Dapatkan Mozilla VPN"
