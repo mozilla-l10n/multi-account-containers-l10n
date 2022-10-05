@@ -10,5 +10,82 @@
   "reopenThisSiteIn": {
     "message": "Buka Lagi Situs Ini di…",
     "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Urutkan Tab berdasarkan Kontainer",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Selalu Buka Situs Ini di…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Selalu buka di…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Selalu Buka Situs dalam Kontainer"
+  },
+  "openANewTabIn": {
+    "message": "Buka Tab Baru di…"
+  },
+  "openTabs": {
+    "message": "Buka Tab",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tab!"
+  },
+  "share": {
+    "message": "Bagikan"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "next": {
+    "message": "Lanjut"
+  },
+  "show": {
+    "message": "Tampilkan"
+  },
+  "getMozillaVpn": {
+    "message": "Dapatkan Mozilla VPN"
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrasi dengan Mozilla VPN perlu berlangganan dan izin tambahan agar berfungsi."
+  },
+  "enable": {
+    "message": "Aktifkan",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrasikan Kontainer Anda dengan Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Pilih tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Deteksi otomatis (baku)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Terang",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Gelap",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filter daftar kontainer berdasarkan nama:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cari nama kontainer"
   }
 }
