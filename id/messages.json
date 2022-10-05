@@ -265,6 +265,14 @@
     "message": "Buka di tab saat ini",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
+  "youAskedFirefox": {
+    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "chooseLocation": {
     "message": "Pilih lokasi",
     "description": "Location refers to the geographical position used by the VPN"
@@ -275,14 +283,41 @@
   "show": {
     "message": "Tampilkan"
   },
+  "protectYourContainers": {
+    "message": "Lindungi Kontainer Anda dengan Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Lindungi Kontainer ini dengan Mozilla VPN"
+  },
   "advancedProxySettings": {
     "message": "Setelan proksi lanjutan"
+  },
+  "proxyInputLabel": {
+    "message": "Masukkan proksi khusus"
+  },
+  "useCustomLocation": {
+    "message": "Gunakan lokasi khusus untuk Kontainer ini"
   },
   "clearproxylabel": {
     "message": "Hapus proksi"
   },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN aktif"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN nonaktif"
+  },
+  "invalidProxyAlert": {
+    "message": "Masukkan URL proksi yang benar"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN harus aktif untuk menggunakan fitur ini."
+  },
   "learnMore": {
     "message": "Pelajari selengkapnya"
+  },
+  "proxyNowAvailable": {
+    "message": "Sekarang dengan Mozilla VPN dan pengaturan proksi tingkat lanjut"
   },
   "applyToContainer": {
     "message": "Terapkan ke Kontainer"
@@ -292,6 +327,25 @@
   },
   "getMozillaVpn": {
     "message": "Dapatkan Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrasikan Kontainer Anda dengan Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN & Perizinan Proksi",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Izinkan ekstensi untuk bertukar pesan dengan program selain Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Pengaturan ini memungkinkan ekstensi untuk menukar pesan dengan klien Mozilla VPN dan diperlukan agar fitur integrasi Mozilla VPN dapat berjalan.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Izinkan ekstensi untuk mengontrol pengaturan proksi",
+    "description": "Permission title"
   },
   "proxyPermissionDescription": {
     "message": "Ini memungkinkan Anda untuk menggunakan pengaturan proksi lanjutan dan mengaktifkan fitur integrasi VPN Mozilla.",
