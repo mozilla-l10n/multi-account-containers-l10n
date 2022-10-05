@@ -33,6 +33,12 @@
     "message": "Buka Tab",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "onboarding-5-description": {
+    "message": "Tekan-lama tombol Tab Baru untuk membuat tab Kontainer baru."
+  },
+  "onboarding-7-header": {
+    "message": "Akun Firefox diperlukan untuk sinkronisasi."
+  },
   "oneHundredTabsHeader": {
     "message": "100 tab!"
   },
@@ -42,14 +48,69 @@
   "tweet": {
     "message": "Tweet"
   },
+  "newContainer": {
+    "message": "Kontainer Baru"
+  },
+  "hideThisContainer": {
+    "message": "Sembunyikan Kontainer Ini"
+  },
+  "showThisContainer": {
+    "message": "Tampilkan Kontainer Ini"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "options": {
+    "message": "Opsi"
+  },
+  "name": {
+    "message": "Nama"
+  },
+  "color": {
+    "message": "Warna"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "deleteThisContainer": {
+    "message": "Hapus Kontainer Ini"
+  },
+  "containers": {
+    "message": "Kontainer"
+  },
+  "done": {
+    "message": "Selesai"
+  },
+  "notNow": {
+    "message": "Jangan sekarang"
+  },
+  "startSyncing": {
+    "message": "Mulai Sinkronisasi"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
   "next": {
     "message": "Lanjut"
+  },
+  "chooseLocation": {
+    "message": "Pilih lokasi",
+    "description": "Location refers to the geographical position used by the VPN"
   },
   "show": {
     "message": "Tampilkan"
   },
   "getMozillaVpn": {
     "message": "Dapatkan Mozilla VPN"
+  },
+  "proxyPermissionDescription": {
+    "message": "Ini memungkinkan Anda untuk menggunakan pengaturan proksi lanjutan dan mengaktifkan fitur integrasi VPN Mozilla.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Fitur ini memerlukan izin tambahan untuk bekerja. Izin dapat dinonaktifkan kapan saja pada laman pengaturan.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "Integrasi dengan Mozilla VPN perlu berlangganan dan izin tambahan agar berfungsi."
