@@ -117,8 +117,20 @@
   "showThisContainer": {
     "message": "Tampilkan Kontainer Ini"
   },
+  "removeThisContainer": {
+    "message": "Hapus Kontainer Ini"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Yakin akan menghapus Kontainer ini?"
+  },
   "cancel": {
     "message": "Batal"
+  },
+  "ok": {
+    "message": "Oke"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Situs yang ditetapkan ke Kontainer ini"
   },
   "options": {
     "message": "Opsi"
@@ -132,14 +144,29 @@
   "icon": {
     "message": "Ikon"
   },
+  "limitToDesignatedSites": {
+    "message": "Batasi ke Situs yang Ditetapkan"
+  },
   "deleteThisContainer": {
     "message": "Hapus Kontainer Ini"
+  },
+  "manageSiteList": {
+    "message": "Kelola Daftar Situs…"
+  },
+  "manageThisContainer": {
+    "message": "Kelola Kontainer"
   },
   "containers": {
     "message": "Kontainer"
   },
   "done": {
     "message": "Selesai"
+  },
+  "getStarted": {
+    "message": "Memulai"
+  },
+  "signIn": {
+    "message": "Masuk"
   },
   "notNow": {
     "message": "Jangan sekarang"
@@ -154,11 +181,89 @@
   "next": {
     "message": "Lanjut"
   },
+  "openThisSiteConfirmation": {
+    "message": "Buka situs ini dalam Kontainer yang Anda tentukan?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Apakah Anda masih ingin membuka dalam Kontainer saat ini?"
+  },
+  "rememberMyDecision": {
+    "message": "Ingat pilihan saya untuk situs ini"
+  },
+  "optionalPermissions": {
+    "message": "Izin Opsional:"
+  },
+  "keyboardShortCuts": {
+    "message": "Pintasan Papan Ketik:"
+  },
+  "onboarding": {
+    "message": "Orientasi"
+  },
+  "resetOnboardingPanels": {
+    "message": "Setel Ulang Panel Orientasi"
+  },
+  "onboardingToggle": {
+    "message": "Aktifkan/Nonaktifkan ini untuk melihat panel orientasi lagi."
+  },
+  "tabBehavior": {
+    "message": "Perilaku tab:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktifkan Menu Markah"
+  },
+  "firefoxAccountsSync": {
+    "message": "Sinkronisasi akun Firefox:"
+  },
   "enableSync": {
     "message": "Aktifkan sinkronisasi"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Setelan ini mengizinkan Anda untuk membuka markah atau folder dari markah pada Kontainer."
+  },
+  "enableSyncDescription": {
+    "message": "Setelan ini memungkinkan Anda untuk menyinkronkan Kontainer dan penugasan situs di berbagai perangkat."
+  },
+  "syncExclude": {
+    "message": "Pengecualian kontainer"
+  },
   "syncExcludePlaceholder": {
     "message": "Sisipkan ekspresi reguler"
+  },
+  "syncExcludeDescription": {
+    "message": "Kecualikan kontainer dari sinkronisasi jika namanya cocok dengan ekspresi reguler yang tidak peka huruf tertentu."
+  },
+  "replaceTab": {
+    "message": "Ganti tab alih-alih membuat yang baru"
+  },
+  "replaceTabDescription": {
+    "message": "Ganti tab sekarang jika laman yang ditugaskan ke Kontainer lain dibuka (ketimbang membiarkan tab saat ini terbuka). Membuka tab dengan tombol tengah tetikus tidak terpengaruh."
+  },
+  "editWhichContainer": {
+    "message": "Ubah Kontainer mana yang dibuka saat menggunakan pintasan bernomor."
+  },
+  "keyboardShortCut": {
+    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Navigasi Konfirmasi Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Buka dalam $containerName$ container",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Buka di tab saat ini",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "chooseLocation": {
     "message": "Pilih lokasi",
