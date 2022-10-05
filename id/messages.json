@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers membantu Anda memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
+    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -73,7 +73,7 @@
     "message": "Sinkronisasi Kontainer kini Tersedia!"
   },
   "onboarding-6-description": {
-    "message": "Aktifkan sinkronisasi untuk berbagi Kontainer dan penugasan situs dengan komputer manapun yang terhubung ke akun Firefox Anda."
+    "message": "Aktifkan sinkronisasi untuk berbagi Kontainer dan penugasan situs dengan komputer mana pun yang terhubung ke akun Firefox Anda."
   },
   "onboarding-7-header": {
     "message": "Akun Firefox diperlukan untuk sinkronisasi."
