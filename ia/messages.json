@@ -61,16 +61,16 @@
     "message": "Sempre aperi sitos in le contentores que tu vole."
   },
   "onboarding-4-description": {
-    "message": "Clicca dextre intra un scheda recipente pro assignar le sito a sempre aperir lo in ille recipente."
+    "message": "Clicca con le button dextre intra un scheda contentor pro facer que le sito sempre se aperi in ille contentor."
   },
   "onboarding-5-header": {
-    "message": "Schedas recipente quando te besonia illos."
+    "message": "Schedas contentor quando tu ha besonio de illos."
   },
   "onboarding-5-description": {
-    "message": "Retene pulsate longemente le button Nove Scheda pro crear un nove Scheda recipente."
+    "message": "Preme longemente le button Nove Scheda pro crear un nove scheda contentor."
   },
   "onboarding-6-header": {
-    "message": "Le Synchronisation de recipentes es ora disponibile!"
+    "message": "Le synchronisation de contentores es ora disponibile!"
   },
   "onboarding-6-description": {
     "message": "Activa le synchronisation pro compartir le assignationes de recipente e sito con ulle computator connectite a tu Firefox Account"
