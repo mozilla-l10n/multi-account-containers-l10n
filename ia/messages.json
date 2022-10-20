@@ -236,13 +236,13 @@
     "message": "Replaciar le scheda in vice del creation de un nove"
   },
   "replaceTabDescription": {
-    "message": "Replaciar le scheda active si un pagina que es assignate a un altere recipente es aperite (in vice del mantener aperte le scheda active). Aperir schedas con le button medie del mus non es afficite."
+    "message": "Reimplaciar le scheda actual si se aperi un pagina que es assignate a un altere contentor (in vice de mantener aperte le scheda active). Isto non influentia le apertura de schedas con le button medie del mouse."
   },
   "editWhichContainer": {
-    "message": "Modificar qual recipente es aperite quando on usa le vias breve numerate."
+    "message": "Modificar qual contentor se aperi quando on usa le accessos directe numerate."
   },
   "keyboardShortCut": {
-    "message": "Recipente a aperir con le via breve de claviero $keyId$ .",
+    "message": "Le contentor a aperir con le clave de accesso directe $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -254,7 +254,7 @@
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Aperir in le recipente $containerName$",
+    "message": "Aperir in le contentor $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -284,10 +284,10 @@
     "message": "Monstrar"
   },
   "protectYourContainers": {
-    "message": "Protege tu recipentes con Mozilla VPN"
+    "message": "Proteger tu contentores con Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Protege iste recipente con Mozilla VPN"
+    "message": "Proteger iste contentor con Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Parametros del servitor proxy avantiate"
@@ -296,7 +296,7 @@
     "message": "Insere un proxy personalisate"
   },
   "useCustomLocation": {
-    "message": "Usa un position personalisate pro iste recipente ."
+    "message": "Usar un position personalisate pro iste contentor"
   },
   "clearproxylabel": {
     "message": "Clarar proxy"
@@ -320,16 +320,16 @@
     "message": "Ora con Mozilla VPN e parametros del servitor proxy avantiate"
   },
   "applyToContainer": {
-    "message": "Applicar al recipente"
+    "message": "Applicar al contentor"
   },
   "tooltipWarning": {
-    "message": "Iste Recipente es configurate pro usar un proxy Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste recipente."
+    "message": "Iste contentor es configurate pro usar un proxy de Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste contentor."
   },
   "getMozillaVpn": {
     "message": "Installa Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Integra tu recipentes con Mozilla VPN"
+    "message": "Integra tu contentores con Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN e permissiones del proxy",
@@ -363,7 +363,7 @@
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integra tu recipentes con Mozilla VPN"
+    "message": "Integra tu contentores con Mozilla VPN"
   },
   "theme": {
     "message": "Thema:",
