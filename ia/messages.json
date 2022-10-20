@@ -73,7 +73,7 @@
     "message": "Le synchronisation de contentores es ora disponibile!"
   },
   "onboarding-6-description": {
-    "message": "Activa le synchronisation pro compartir le assignationes de recipente e sito con ulle computator connectite a tu Firefox Account"
+    "message": "Activa le synchronisation pro compartir le contentores e lor sitos assignate con qualcunque computator connectite a tu conto Firefox."
   },
   "onboarding-7-header": {
     "message": "Firefox Account es necesse pro synchronisar."
@@ -82,16 +82,16 @@
     "message": "Clicca Authenticar se, pro confirmar que tu Firefox Account es active."
   },
   "onboarding-8-description": {
-    "message": "Ora le recipentes pote integrar se con Mozilla VPN o tu proprie proxy pro crear un connexion secur, private, que protege tu activitate."
+    "message": "Ora le contentores pote integrar se con Mozilla VPN o con tu proprie proxy pro crear un connexion secur e private que protege tu activitate."
   },
   "oneHundredTabsHeader": {
     "message": "100 schedas!"
   },
   "youHaveOpened": {
-    "message": "Tu ha aperite 100 Schedas recipente.\n"
+    "message": "Tu ha aperite 100 schedas contentor."
   },
   "spreadTheWord": {
-    "message": "Si tu apprecia Recipentes, adjuta nos a diffunder le parola!"
+    "message": "Si tu apprecia le contentores, adjuta nos a diffunder le parola!"
   },
   "rate": {
     "message": "Rata"
@@ -106,22 +106,22 @@
     "message": "Predefinite"
   },
   "manageContainers": {
-    "message": "Gerer recipentes"
+    "message": "Gerer contentores"
   },
   "newContainer": {
-    "message": "Nove recipente"
+    "message": "Nove contentor"
   },
   "hideThisContainer": {
-    "message": "Celar iste recipente"
+    "message": "Celar iste contentor"
   },
   "showThisContainer": {
-    "message": "Monstrar iste recipente"
+    "message": "Monstrar iste contentor"
   },
   "removeThisContainer": {
-    "message": "Remover iste recipente"
+    "message": "Remover iste contentor"
   },
   "removeThisContainerConfirmation": {
-    "message": "Desira tu vermente remover iste Recipente?"
+    "message": "Desira tu vermente remover iste contentor?"
   },
   "cancel": {
     "message": "Cancellar"
@@ -130,7 +130,7 @@
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sitos assignate a iste recipente"
+    "message": "Sitos assignate a iste contentor"
   },
   "options": {
     "message": "Optiones"
@@ -148,13 +148,13 @@
     "message": "Limitar a sitos destinate"
   },
   "deleteThisContainer": {
-    "message": "Deler iste recipente"
+    "message": "Deler iste contentor"
   },
   "manageSiteList": {
     "message": "Gerer lista de sitos…"
   },
   "manageThisContainer": {
-    "message": "Gerer iste recipente"
+    "message": "Gerer iste contentor"
   },
   "containers": {
     "message": "Contentores"
@@ -182,10 +182,10 @@
     "message": "Sequente"
   },
   "openThisSiteConfirmation": {
-    "message": "Aperi iste sito in tu recipente assignate?"
+    "message": "Aperir iste sito in tu contentor assignate?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Vole tu ancora aperir iste sito in le actual recipente?"
+    "message": "Vole tu ancora aperir iste sito in le contentor actual?"
   },
   "rememberMyDecision": {
     "message": "Rememorar mi decision pro iste sito"
@@ -218,10 +218,10 @@
     "message": "Activar le synchronisation"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Iste parametro te permitte de aperir un marcapagina o un plica de marcapaginas in un recipente."
+    "message": "Iste parametro te permitte aperir un marcapagina o un dossier de marcapaginas in un contentor."
   },
   "enableSyncDescription": {
-    "message": "Iste parametro te permitte de synchronisar tu assignationes de recipentes e sitos inter apparatos."
+    "message": "Iste parametro te permitte synchronisar tu contentores e lor sitos assignate inter apparatos."
   },
   "syncExclude": {
     "message": "Exclusion de recipientes"
