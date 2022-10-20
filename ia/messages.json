@@ -12,7 +12,7 @@
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Ordinar schedas per recipente",
+    "message": "Ordinar schedas per contentor",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
@@ -24,13 +24,13 @@
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Sempre aperir le sito in recipente"
+    "message": "Sempre aperir sito in contentor"
   },
   "openANewTabIn": {
     "message": "Aperir un nove scheda in…"
   },
   "openNewTabInThisContainer": {
-    "message": "Aperi nove scheda in iste recipente"
+    "message": "Aperir nove scheda in iste contentor"
   },
   "openTabs": {
     "message": "Schedas aperte",
