@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Le recipientes multi-conto te adjuta a mantener tote le partes de tu vita online continite in schedas differente. Etiquettas personalisate e schedas codificate per color adjuta a tener separate le differente activitates, como: compras online, planification de viages o controlo del e-mails de labor.",
+    "message": "Le contentores multi-conto te adjuta a mantener tote le partes de tu vita in linea continite in schedas differente. Etiquettas personalisate e schedas a codice de color adjuta a tener separate le differente activitates, como: compras in linea, planification de viages o lectura de e-mail de labor.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -49,7 +49,7 @@
     "message": "Face contentores laborar pro te."
   },
   "onboarding-2-description": {
-    "message": "Functionalitates como codice de color e schedas de recipiente separate te adjuta a trovar facilemente le cosas, concentra tu attention e minimisa le distractiones."
+    "message": "Functiones como codices de color e schedas contentor separate te adjuta a trovar facilemente le cosas, a concentrar tu attention e a minimisar le distractiones."
   },
   "onboarding-3-header": {
     "message": "Un loco pro cata cosa, e cata cosa in su loco."
@@ -224,7 +224,7 @@
     "message": "Iste parametro te permitte synchronisar tu contentores e lor sitos assignate inter apparatos."
   },
   "syncExclude": {
-    "message": "Exclusion de recipientes"
+    "message": "Exclusion de contentores"
   },
   "syncExcludePlaceholder": {
     "message": "Insere un expression regular"
@@ -250,7 +250,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Recipientes multi-conto Confirmar Navigation .",
+    "message": "Contentores multi-conto: confirmar navigation",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -386,10 +386,10 @@
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Filtrar per nomine le lista del recipientes:",
+    "message": "Filtrar le lista de contentores per nomine:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Cercar le nomine del recipiente"
+    "message": "Cercar le nomine del contentor"
   }
 }
