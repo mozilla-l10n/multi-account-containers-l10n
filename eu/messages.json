@@ -86,6 +86,9 @@
   "ok": {
     "message": "Ados"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Edukiontzi honi esleitutako guneak"
+  },
   "options": {
     "message": "Aukerak"
   },
@@ -97,6 +100,9 @@
   },
   "icon": {
     "message": "Ikonoa"
+  },
+  "limitToDesignatedSites": {
+    "message": "Mugatu aukeratutako guneetara"
   },
   "deleteThisContainer": {
     "message": "Ezabatu edukiontzi hau"
@@ -132,6 +138,15 @@
   "next": {
     "message": "Hurrengoa"
   },
+  "openThisSiteConfirmation": {
+    "message": "Ireki gune hau zuk esleitutako edukiontzian?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Uneko edukiontzi honetan ireki nahi duzu halere?"
+  },
+  "rememberMyDecision": {
+    "message": "Gogoratu nire erabakia gune honetarako"
+  },
   "optionalPermissions": {
     "message": "Aukerako baimenak:"
   },
@@ -144,6 +159,9 @@
   "resetOnboardingPanels": {
     "message": "Berrezarri aurkezpeneko panelak"
   },
+  "onboardingToggle": {
+    "message": "Txandakatu hau aurkezpeneko panelak berriro ikusteko."
+  },
   "tabBehavior": {
     "message": "Fitxaren portaera:"
   },
@@ -155,6 +173,32 @@
   },
   "enableSync": {
     "message": "Gaitu sinkronizazioa"
+  },
+  "syncExclude": {
+    "message": "Edukiontzia baztertzea"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Idatzi adierazpen erregularra"
+  },
+  "openInContainer": {
+    "message": "Ireki $containerName$ edukiontzian",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Ireki uneko fitxan",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Firefoxi eskatu diozu beti $containerName$ edukiontzia irekitzeko gune honetarako:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Aukeratu kokapena",
