@@ -217,6 +217,12 @@
   "enableSyncDescription": {
     "message": "Ky rregullim ju lejon të njëkohësoni nëpër pajisje Kontejnerët tuaj dhe caktime sajtesh."
   },
+  "syncExclude": {
+    "message": "Përjashtim kontejnerësh"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Futni një shprehje të rregullt"
+  },
   "replaceTab": {
     "message": "Zëvendësoje skedën, në vend se të hapni një të re"
   },
@@ -241,6 +247,10 @@
         "content": "$1"
       }
     }
+  },
+  "openInNoContainer": {
+    "message": "Hape në skedën e tanishme",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
     "message": "I kërkuat Firefox-it të hapë përherë $containerName$ për këtë sajt:",
@@ -361,5 +371,12 @@
   "themeDark": {
     "message": "E errët",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtroje listën e kontejnerëve sipas emrash:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Kërkoni emër kontejneri"
   }
 }
