@@ -199,6 +199,12 @@
   "onboarding": {
     "message": "Mirëseardhje"
   },
+  "resetOnboardingPanels": {
+    "message": "Rikthe te Parazgjedhjet Panelet e Mirëseardhjes"
+  },
+  "onboardingToggle": {
+    "message": "Klikoni mbi butoni këtu sipër që të rishihni panelet e mirëseardhjes."
+  },
   "tabBehavior": {
     "message": "Sjellje skede:"
   },
@@ -222,6 +228,9 @@
   },
   "syncExcludePlaceholder": {
     "message": "Futni një shprehje të rregullt"
+  },
+  "syncExcludeDescription": {
+    "message": "Përjashto nga njëkohësimi kontejnerë, kur emri i tyre ka përputhje me shprehjen e rregullt të dhënë, pa marrë parasysh shkrim me të madhe a të vogël."
   },
   "replaceTab": {
     "message": "Zëvendësoje skedën, në vend se të hapni një të re"
