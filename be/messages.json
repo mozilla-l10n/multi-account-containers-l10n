@@ -3,6 +3,14 @@
     "message": "Адкрыць новую картку ў…",
     "description": "Menu title"
   },
+  "reopenThisSiteIn": {
+    "message": "Паўторна адкрыць гэты сайт у…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Адсартаваць укладкі па кантэйнерах",
+    "description": "Menu title"
+  },
   "alwaysOpenThisSiteIn": {
     "message": "Заўсёды адкрываць гэты сайт у…",
     "description": "Menu title"
@@ -44,5 +52,116 @@
   },
   "hideThisContainer": {
     "message": "Схаваць гэты кантэйнер"
+  },
+  "showThisContainer": {
+    "message": "Паказаць гэты кантэйнер"
+  },
+  "removeThisContainer": {
+    "message": "Выдаліць гэты кантэйнер"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Вы ўпэўнены, што хочаце выдаліць гэты кантэйнер?"
+  },
+  "cancel": {
+    "message": "Скасаваць"
+  },
+  "ok": {
+    "message": "Добра"
+  },
+  "options": {
+    "message": "Налады"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "color": {
+    "message": "Колер"
+  },
+  "icon": {
+    "message": "Значок"
+  },
+  "deleteThisContainer": {
+    "message": "Выдаліць гэты кантэйнер"
+  },
+  "containers": {
+    "message": "Кантэйнеры"
+  },
+  "done": {
+    "message": "Гатова"
+  },
+  "getStarted": {
+    "message": "Пачаць"
+  },
+  "signIn": {
+    "message": "Увайсці"
+  },
+  "notNow": {
+    "message": "Не зараз"
+  },
+  "startSyncing": {
+    "message": "Пачаць сінхранізацыю"
+  },
+  "info": {
+    "message": "Інфармацыя",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Далей"
+  },
+  "openInNoContainer": {
+    "message": "Адкрыць у бягучай картцы",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "chooseLocation": {
+    "message": "Выбраць месцазнаходжанне",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Схаваць"
+  },
+  "show": {
+    "message": "Паказаць"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN уключаны"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN адключаны"
+  },
+  "learnMore": {
+    "message": "Падрабязней"
+  },
+  "getMozillaVpn": {
+    "message": "Атрымаць Mozilla VPN"
+  },
+  "enable": {
+    "message": "Уключыць",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+  },
+  "theme": {
+    "message": "Тэма:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Выбраць тэму",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Аўтавызначэнне (прадвызначана)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Светлая",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Цёмная",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputPlaceholder": {
+    "message": "Назва шуканага кантэйнера"
   }
 }
