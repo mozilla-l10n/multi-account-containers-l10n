@@ -1,0 +1,48 @@
+{
+  "openInNewTabTitle": {
+    "message": "Адкрыць новую картку ў…",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Заўсёды адкрываць гэты сайт у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Заўсёды адкрываць у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Заўсёды адкрываць сайт у кантэйнеры"
+  },
+  "openANewTabIn": {
+    "message": "Адкрыць новую картку ў…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Адкрыць новую картку ў гэтым кантэйнеры"
+  },
+  "openTabs": {
+    "message": "Адкрытыя карткі",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 картак!"
+  },
+  "share": {
+    "message": "Падзяліцца"
+  },
+  "tweet": {
+    "message": "Падзяліцца ў Twitter"
+  },
+  "default": {
+    "message": "Прадвызначана"
+  },
+  "manageContainers": {
+    "message": "Кіраваць кантэйнерамі"
+  },
+  "newContainer": {
+    "message": "Новы кантэйнер"
+  },
+  "hideThisContainer": {
+    "message": "Схаваць гэты кантэйнер"
+  }
+}
