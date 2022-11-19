@@ -108,6 +108,29 @@
   "next": {
     "message": "Далей"
   },
+  "tabBehavior": {
+    "message": "Паводзіны карткі:"
+  },
+  "firefoxAccountsSync": {
+    "message": "Сінхранізацыя ўліковых запісаў Firefox:"
+  },
+  "enableSync": {
+    "message": "Уключыць сінхранізацыю"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Устаўце рэгулярны выраз"
+  },
+  "replaceTab": {
+    "message": "Замяніць картку замест стварэння новай"
+  },
+  "openInContainer": {
+    "message": "Адкрыць у кантэйнеры «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "openInNoContainer": {
     "message": "Адкрыць у бягучай картцы",
     "description": "This is the button text in confirmation page when we are not inside a container"
@@ -122,6 +145,12 @@
   "show": {
     "message": "Паказаць"
   },
+  "advancedProxySettings": {
+    "message": "Пашыраныя налады проксі"
+  },
+  "clearproxylabel": {
+    "message": "Ачысціць проксі"
+  },
   "moz-vpn-connected": {
     "message": "Mozilla VPN уключаны"
   },
@@ -133,6 +162,17 @@
   },
   "getMozillaVpn": {
     "message": "Атрымаць Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Дазволы Mozilla VPN і проксі",
+    "description": "Section headline in settings"
+  },
+  "proxyPermissionTitle": {
+    "message": "Дазволіць пашырэнню кіраваць наладамі проксі",
+    "description": "Permission title"
   },
   "enable": {
     "message": "Уключыць",
