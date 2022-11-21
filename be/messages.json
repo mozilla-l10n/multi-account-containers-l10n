@@ -35,8 +35,17 @@
   "moveTabsToANewWindow": {
     "message": "Перанесці картку ў новае акно"
   },
+  "onboarding-6-header": {
+    "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
+  },
   "oneHundredTabsHeader": {
     "message": "100 картак!"
+  },
+  "youHaveOpened": {
+    "message": "Вы адкрылі 100 картак у кантэйнерах."
+  },
+  "rate": {
+    "message": "Ацаніць"
   },
   "share": {
     "message": "Падзяліцца"
