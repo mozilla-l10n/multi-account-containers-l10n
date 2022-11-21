@@ -38,6 +38,9 @@
   "onboarding-6-header": {
     "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
   },
+  "onboarding-7-header": {
+    "message": "Для сінхранізацыі патрабуецца ўліковы запіс Firefox."
+  },
   "oneHundredTabsHeader": {
     "message": "100 картак!"
   },
@@ -95,6 +98,9 @@
   "deleteThisContainer": {
     "message": "Выдаліць гэты кантэйнер"
   },
+  "manageSiteList": {
+    "message": "Кіраваць спісам сайтаў…"
+  },
   "containers": {
     "message": "Кантэйнеры"
   },
@@ -119,6 +125,12 @@
   },
   "next": {
     "message": "Далей"
+  },
+  "keyboardShortCuts": {
+    "message": "Спалучэнні клавіш:"
+  },
+  "onboarding": {
+    "message": "Пачатак работы"
   },
   "tabBehavior": {
     "message": "Паводзіны карткі:"
@@ -157,6 +169,9 @@
   "show": {
     "message": "Паказаць"
   },
+  "protectYourContainers": {
+    "message": "Абараніце свае кантэйнеры з дапамогай Mozilla VPN"
+  },
   "advancedProxySettings": {
     "message": "Пашыраныя налады проксі"
   },
@@ -169,8 +184,14 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN адключаны"
   },
+  "invalidProxyAlert": {
+    "message": "Увядзіце сапраўдны URL проксі"
+  },
   "learnMore": {
     "message": "Падрабязней"
+  },
+  "applyToContainer": {
+    "message": "Прымяніць да кантэйнера"
   },
   "getMozillaVpn": {
     "message": "Атрымаць Mozilla VPN"
