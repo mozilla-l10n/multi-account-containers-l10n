@@ -32,6 +32,9 @@
     "message": "Адкрытыя карткі",
     "description": "Section title for tabs that are currently open in that container"
   },
+  "moveTabsToANewWindow": {
+    "message": "Перанесці картку ў новае акно"
+  },
   "oneHundredTabsHeader": {
     "message": "100 картак!"
   },
