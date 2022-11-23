@@ -175,6 +175,9 @@
   "advancedProxySettings": {
     "message": "Пашыраныя налады проксі"
   },
+  "proxyInputLabel": {
+    "message": "Увядзіце ўласны проксі"
+  },
   "clearproxylabel": {
     "message": "Ачысціць проксі"
   },
