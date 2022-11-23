@@ -147,6 +147,10 @@
   "replaceTab": {
     "message": "Замяніць картку замест стварэння новай"
   },
+  "confirmNavigationTitle": {
+    "message": "Пацвярджэнне навігацыі для Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Адкрыць у кантэйнеры «$containerName$»",
     "placeholders": {
@@ -158,6 +162,14 @@
   "openInNoContainer": {
     "message": "Адкрыць у бягучай картцы",
     "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Вы папрасілі Firefox заўсёды адкрываць $containerName$ для гэтага сайта:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Выбраць месцазнаходжанне",
@@ -171,6 +183,9 @@
   },
   "protectYourContainers": {
     "message": "Абараніце свае кантэйнеры з дапамогай Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Абараніце гэты кантэйнеры з дапамогай Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Пашыраныя налады проксі"
