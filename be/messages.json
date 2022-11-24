@@ -35,6 +35,12 @@
   "moveTabsToANewWindow": {
     "message": "Перанесці картку ў новае акно"
   },
+  "onboarding-2-header": {
+    "message": "Няхай кантэйнеры працуюць на вас."
+  },
+  "onboarding-3-header": {
+    "message": "Для ўсяго ёсць месца, і ўсё — на сваіх месцах."
+  },
   "onboarding-6-header": {
     "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
   },
