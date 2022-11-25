@@ -35,11 +35,20 @@
   "moveTabsToANewWindow": {
     "message": "Перанесці картку ў новае акно"
   },
+  "onboarding-1-header": {
+    "message": "Лепшы спосаб кіраваць усім, што вы робіце ў Інтэрнэце"
+  },
   "onboarding-2-header": {
     "message": "Няхай кантэйнеры працуюць на вас."
   },
   "onboarding-3-header": {
     "message": "Для ўсяго ёсць месца, і ўсё — на сваіх месцах."
+  },
+  "onboarding-3-description": {
+    "message": "Пачніце з існуючых кантэйнераў або стварыце ўласныя."
+  },
+  "onboarding-4-header": {
+    "message": "Заўсёды адкрывайце сайты ў патрэбных вам кантэйнерах."
   },
   "onboarding-6-header": {
     "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
@@ -89,6 +98,9 @@
   "ok": {
     "message": "Добра"
   },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайты, прызначаныя гэтаму кантэйнеру"
+  },
   "options": {
     "message": "Налады"
   },
@@ -101,11 +113,17 @@
   "icon": {
     "message": "Значок"
   },
+  "limitToDesignatedSites": {
+    "message": "Абмежаванні для пэўных сайтаў"
+  },
   "deleteThisContainer": {
     "message": "Выдаліць гэты кантэйнер"
   },
   "manageSiteList": {
     "message": "Кіраваць спісам сайтаў…"
+  },
+  "manageThisContainer": {
+    "message": "Кіраваць гэтым кантэйнерам"
   },
   "containers": {
     "message": "Кантэйнеры"
@@ -132,6 +150,12 @@
   "next": {
     "message": "Далей"
   },
+  "rememberMyDecision": {
+    "message": "Запомніць маё рашэнне для гэтага сайта"
+  },
+  "optionalPermissions": {
+    "message": "Неабавязковыя дазволы:"
+  },
   "keyboardShortCuts": {
     "message": "Спалучэнні клавіш:"
   },
@@ -141,14 +165,29 @@
   "tabBehavior": {
     "message": "Паводзіны карткі:"
   },
+  "enableBookMarkMenus": {
+    "message": "Уключыць меню закладак"
+  },
   "firefoxAccountsSync": {
     "message": "Сінхранізацыя ўліковых запісаў Firefox:"
   },
   "enableSync": {
     "message": "Уключыць сінхранізацыю"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Гэта налада дазволіць вам адкрываць закладкі і папкі з імі ў кантэйнерах."
+  },
+  "enableSyncDescription": {
+    "message": "Гэта налада дазваляе сінхранізаваць кантэйнеры і прызначаныя сайты паміж прыладамі."
+  },
+  "syncExclude": {
+    "message": "Выключэнне кантэйнера"
+  },
   "syncExcludePlaceholder": {
     "message": "Устаўце рэгулярны выраз"
+  },
+  "syncExcludeDescription": {
+    "message": "Выключайце кантэйнеры з сінхранізацыі, калі іх назва адпавядае пэўнаму рэгулярнаму выразу без уліку рэгістра."
   },
   "replaceTab": {
     "message": "Замяніць картку замест стварэння новай"
@@ -211,8 +250,14 @@
   "invalidProxyAlert": {
     "message": "Увядзіце сапраўдны URL проксі"
   },
+  "mozillaVpnMustBeOn": {
+    "message": "Для выкарыстання гэтай функцыі неабходна ўключыць Mozilla VPN."
+  },
   "learnMore": {
     "message": "Падрабязней"
+  },
+  "proxyNowAvailable": {
+    "message": "Цяпер з Mozilla VPN і пашыранымі наладамі проксі"
   },
   "applyToContainer": {
     "message": "Прымяніць да кантэйнера"
