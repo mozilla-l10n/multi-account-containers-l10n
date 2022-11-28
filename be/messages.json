@@ -71,6 +71,9 @@
   "youHaveOpened": {
     "message": "Вы адкрылі 100 картак у кантэйнерах."
   },
+  "spreadTheWord": {
+    "message": "Калі вам падабаюцца кантэйнеры, дапамажыце нам расказаць пра іх іншым!"
+  },
   "rate": {
     "message": "Ацаніць"
   },
@@ -158,6 +161,12 @@
   },
   "next": {
     "message": "Далей"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Адкрыць гэты сайт у прызначаным кантэйнеры?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Вы ўсё яшчэ хочаце адкрыць у бягучым кантэйнеры?"
   },
   "rememberMyDecision": {
     "message": "Запомніць маё рашэнне для гэтага сайта"
@@ -311,6 +320,10 @@
   "themeDark": {
     "message": "Цёмная",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Упарадкаваць спіс кантэйнераў па назве:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
     "message": "Назва шуканага кантэйнера"
