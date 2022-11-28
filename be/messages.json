@@ -53,11 +53,17 @@
   "onboarding-4-header": {
     "message": "Заўсёды адкрывайце сайты ў патрэбных вам кантэйнерах."
   },
+  "onboarding-5-header": {
+    "message": "Змяшчайце карткі ў кантэйнеры, калі вам гэта трэба."
+  },
   "onboarding-6-header": {
     "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
   },
   "onboarding-7-header": {
     "message": "Для сінхранізацыі патрабуецца ўліковы запіс Firefox."
+  },
+  "onboarding-7-description": {
+    "message": "Націсніце «Увайсці», каб пацвердзіць, што ваш уліковы запіс Firefox актыўны."
   },
   "oneHundredTabsHeader": {
     "message": "100 картак!"
