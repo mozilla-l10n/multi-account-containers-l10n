@@ -225,6 +225,17 @@
   "replaceTab": {
     "message": "Замяніць картку замест стварэння новай"
   },
+  "editWhichContainer": {
+    "message": "Укажыце, якія кантэйнеры будуць адкрыты пры выкарыстанні спалучэнняў клавіш з лічбамі."
+  },
+  "keyboardShortCut": {
+    "message": "Кантэйнер для адкрыцця з дапамогай спалучэння клавіш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "confirmNavigationTitle": {
     "message": "Пацвярджэнне навігацыі для Multi-Account Containers",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
