@@ -186,6 +186,12 @@
   "onboarding": {
     "message": "Пачатак работы"
   },
+  "resetOnboardingPanels": {
+    "message": "Скінуць панэлі пачатку працы"
+  },
+  "onboardingToggle": {
+    "message": "Націсніце сюды, каб зноў убачыць панэлі пачатку працы."
+  },
   "tabBehavior": {
     "message": "Паводзіны карткі:"
   },
