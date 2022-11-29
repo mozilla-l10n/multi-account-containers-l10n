@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "З дапамогай «Multi-Account Containers» вы можаце захоўваць усе аспекты сваёй працы ў Інтэрнэце ў асобных незалежных картках. Уласныя меткі і колер картак дапамагаюць падзяляць пакупкі ў Інтэрнэце, планаванне падарожжаў, праверку працоўнай электроннай пошты і іншую дзейнасць.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Адкрыць новую картку ў…",
     "description": "Menu title"
@@ -308,6 +312,9 @@
   },
   "applyToContainer": {
     "message": "Прымяніць да кантэйнера"
+  },
+  "tooltipWarning": {
+    "message": "Для гэтага кантэйнера ўсталяваны проксі Mozilla VPN, але Mozilla VPN адключаны. Уключыце Mozilla VPN для выкарыстання кантэйнера."
   },
   "getMozillaVpn": {
     "message": "Атрымаць Mozilla VPN"
