@@ -305,9 +305,20 @@
     "message": "Дазволы Mozilla VPN і проксі",
     "description": "Section headline in settings"
   },
+  "nativeMessagingPermissionTitle": {
+    "message": "Дазволіць пашырэнню абменьвацца паведамленнямі з іншымі праграмамі, акрамя Firefox",
+    "description": "Permission title"
+  },
   "proxyPermissionTitle": {
     "message": "Дазволіць пашырэнню кіраваць наладамі проксі",
     "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Гэта дазволіць вам выкарыстоўваць пашыраныя налады проксі і ўключыць функцыі інтэграцыі з Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Для інтэграцыі з Mozilla VPN неабходна падпіска і дадатковыя дазволы."
   },
   "enable": {
     "message": "Уключыць",
