@@ -339,6 +339,10 @@
     "message": "Дазволіць пашырэнню абменьвацца паведамленнямі з іншымі праграмамі, акрамя Firefox",
     "description": "Permission title"
   },
+  "nativeMessagingPermissionDescription": {
+    "message": "Гэта налада дазволіць пашырэнню абменьвацца паведамленнямі з кліентам Mozilla VPN і неабходна для работы функцый інтэграцыі з Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
     "message": "Дазволіць пашырэнню кіраваць наладамі проксі",
     "description": "Permission title"
