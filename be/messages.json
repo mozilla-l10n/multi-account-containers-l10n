@@ -81,6 +81,9 @@
   "onboarding-7-description": {
     "message": "Націсніце «Увайсці», каб пацвердзіць, што ваш уліковы запіс Firefox актыўны."
   },
+  "onboarding-8-description": {
+    "message": "Цяпер кантэйнеры могуць працаваць з Mozilla VPN або вашым уласным проксі для стварэння бяспечнага прыватнага злучэння, якое абараняе вашу актыўнасць у Інтэрнэце."
+  },
   "oneHundredTabsHeader": {
     "message": "100 картак!"
   },
@@ -232,6 +235,9 @@
   "replaceTab": {
     "message": "Замяніць картку замест стварэння новай"
   },
+  "replaceTabDescription": {
+    "message": "Замяняць бягучую картка, калі адкрыта старонка, прызначаная іншаму кантэйнеру (замест таго, каб пакідаць бягучую картку адкрытай). Не ўплывае на адкрыццё картак сярэдняй кнопкай мышы."
+  },
   "editWhichContainer": {
     "message": "Укажыце, якія кантэйнеры будуць адкрыты пры выкарыстанні спалучэнняў клавіш з лічбамі."
   },
@@ -340,6 +346,10 @@
   "proxyPermissionDescription": {
     "message": "Гэта дазволіць вам выкарыстоўваць пашыраныя налады проксі і ўключыць функцыі інтэграцыі з Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Гэта функцыя патрабуе дадатковых дазволаў для працы. Дазволы можна адключыць у любы момант на старонцы налад.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
     "message": "Для інтэграцыі з Mozilla VPN неабходна падпіска і дадатковыя дазволы."
