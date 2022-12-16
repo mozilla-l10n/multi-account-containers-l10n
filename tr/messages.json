@@ -1,0 +1,395 @@
+{
+  "extensionDescription": {
+      "message": "Multi-Account Containers, çevrimiçi yaşamınızın tüm bölümlerini farklı sekmelerde tutmanıza yardımcı olur. Özel etiketler ve renk kodlu sekmeler, çevrimiçi alışveriş, seyahat planlama veya iş e-postalarını kontrol etme gibi farklı etkinlikleri ayrı tutmanıza yardımcı olur.",
+      "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Yeni Sekme Aç...",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Bu Siteyi ...'da Yeniden Açın",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sekmeleri Konteynere Göre Sırala",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Bu Siteyi Her Zaman ...'da Açın",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Her zaman açık...",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Siteyi Her Zaman Konteynerde Açın"
+  },
+  "openANewTabIn": {
+    "message": "Yeni Sekme Aç..."
+  },
+  "openNewTabInThisContainer": {
+    "message": "Bu Kapsayıcıda Yeni Sekme Aç"
+  },
+  "openTabs": {
+    "message": "Açık Sekmeler",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Sekmeleri Yeni Bir Pencereye Taşı"
+  },
+  "onboarding-1-header": {
+    "message": "Çevrimiçi yaptığınız her şeyi yönetmenin daha iyi bir yolu"
+  },
+  "onboarding-1-description": {
+    "message": "Görevleri düzenlemek, hesapları yönetmek ve odağınızı istediğiniz yerde tutmak için Konteyneri kullanın."
+  },
+  "onboarding-2-header": {
+    "message": "Konteynerler sizin için çalışsın."
+  },
+  "onboarding-2-description": {
+    "message": "Renk kodlaması ve ayrı Konteyner sekmeleri gibi özellikler işleri kolayca bulmanıza, dikkatinizi toplamanıza ve dikkat dağıtıcı unsurları en aza indirmenize yardımcı olur."
+  },
+  "onboarding-3-header": {
+    "message": "Her şey için bir yer ve her şey yerli yerinde."
+  },
+  "onboarding-3-description": {
+    "message": "Oluşturduğumuz Konteynerler ile başlayın veya kendi Konteynerinizi oluşturun."
+  },
+  "onboarding-4-header": {
+    "message": "Siteleri her zaman istediğiniz Kapsayıcılarda açın."
+  },
+  "onboarding-4-description": {
+    "message": "Siteyi her zaman Konteynerde açılacak şekilde atamak için bir Konteyner sekmesinin içine sağ tıklayın."
+  },
+  "onboarding-5-header": {
+    "message": "İhtiyacınız olduğunda kapsayıcı sekmeleri."
+  },
+  "onboarding-5-description": {
+    "message": "Yeni bir Konteyner sekmesi oluşturmak için Yeni Sekme düğmesine uzun basın."
+  },
+  "onboarding-6-header": {
+    "message": "Kapsayıcıları Eşitleme Artık Kullanılabilir!"
+  },
+  "onboarding-6-description": {
+    "message": "Konteyner ve site atamalarını Firefox hesabınıza bağlı herhangi bir bilgisayarla paylaşmak için senkronizasyonu açın."
+  },
+  "onboarding-7-header": {
+    "message": "Eşitleme için Firefox hesabı gereklidir."
+  },
+  "onboarding-7-description": {
+    "message": "Firefox hesabınızın etkin olduğunu onaylamak için Oturum Aç'a tıklayın."
+  },
+  "onboarding-8-description": {
+    "message": "Artık Konteyner, etkinliğinizi koruyan güvenli ve özel bir bağlantı oluşturmak için Mozilla VPN veya kendi proxy'niz ile entegre olabilir."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 sekme!"
+  },
+  "youHaveOpened": {
+    "message": "100 Konteyner sekmesi açtınız."
+  },
+  "spreadTheWord": {
+    "message": "Konteyner'i beğendiyseniz, yaymamıza yardımcı olun!"
+  },
+  "rate": {
+    "message": "Değerlendir"
+  },
+  "share": {
+    "message": "Paylaş"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Varsayılan"
+  },
+  "manageContainers": {
+    "message": "Konteynerleri Yönet"
+  },
+  "newContainer": {
+    "message": "Yeni Konteyner"
+  },
+  "hideThisContainer": {
+    "message": "Bu Konteyneri Saklayın"
+  },
+  "showThisContainer": {
+    "message": "Bu Konteyneri Göster"
+  },
+  "removeThisContainer": {
+    "message": "Bu Konteyneri Kaldırın"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Bu Konteyneri kaldırmak istediğinizden emin misiniz?"
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "ok": {
+    "message": "TAMAM"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Bu Konteynere atanan siteler"
+  },
+  "options": {
+    "message": "Seçenekler"
+  },
+  "name": {
+    "message": "İsim"
+  },
+  "color": {
+    "message": "Renk"
+  },
+  "icon": {
+    "message": "Simge"
+  },
+  "limitToDesignatedSites": {
+    "message": "Belirlenmiş Alanlarla Sınırlı"
+  },
+  "deleteThisContainer": {
+    "message": "Bu Konteyneri Sil"
+  },
+  "manageSiteList": {
+    "message": "Site Listesini Yönet..."
+  },
+  "manageThisContainer": {
+    "message": "Bu Konteyneri Yönet"
+  },
+  "containers": {
+    "message": "Konteynerler"
+  },
+  "done": {
+    "message": "Bitti"
+  },
+  "getStarted": {
+    "message": "Başlayın"
+  },
+  "signIn": {
+    "message": "Oturum Aç"
+  },
+  "notNow": {
+    "message": "Şimdi değil"
+  },
+  "startSyncing": {
+    "message": "Senkronizasyonu Başlat"
+  },
+  "info": {
+    "message": "Bilgi",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sonraki"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Bu siteyi atadığınız Konteynerde açmak ister misiniz?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Hala bu mevcut Konteynerde açmak ister misiniz?"
+  },
+  "rememberMyDecision": {
+    "message": "Bu site için kararımı hatırla"
+  },
+  "optionalPermissions": {
+    "message": "İsteğe Bağlı İzinler:"
+  },
+  "keyboardShortCuts": {
+    "message": "Klavye Kısayolları:"
+  },
+  "onboarding": {
+    "message": "İşe Alıştırma"
+  },
+  "resetOnboardingPanels": {
+    "message": "İşe Alım Panellerini Sıfırla"
+  },
+  "onboardingToggle": {
+    "message": "İlk katılım panellerini tekrar görmek için bunu açın."
+  },
+  "tabBehavior": {
+    "message": "Sekme davranışı:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Yer İşareti Menülerini Etkinleştir"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox hesapları senkronizasyonu:"
+  },
+  "enableSync": {
+    "message": "Senkronizasyonu etkinleştir"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Bu ayar, bir Konteynerdeki bir yer imini veya yer imleri klasörünü açmanızı sağlar."
+  },
+  "enableSyncDescription": {
+    "message": "Bu ayar, Kapsayıcılarınızı ve site atamalarınızı cihazlar arasında senkronize etmenizi sağlar."
+  },
+  "syncExclude": {
+    "message": "Konteyner dışlama"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Düzenli ifade ekle"
+  },
+  "syncExcludeDescription": {
+    "message": "Adları belirtilen büyük/küçük harfe duyarlı olmayan düzenli ifadeyle eşleştiğinde kapsayıcıları eşitlemeden hariç tutun."
+  },
+  "replaceTab": {
+    "message": "Yeni bir sekme oluşturmak yerine sekmeyi değiştir"
+  },
+  "replaceTabDescription": {
+    "message": "Başka bir Konteynere atanmış bir sayfa açılırsa (geçerli sekmeyi açık tutmak yerine) geçerli sekmeyi değiştirin. Sekmelerin orta fare tuşu ile açılması etkilenmez."
+  },
+  "editWhichContainer": {
+    "message": "Numaralandırılmış kısayolları kullanırken hangi Konteynerin açılacağını düzenleyin."
+  },
+  "keyboardShortCut": {
+    "message": "Klavye Kısayolu $keyId$ ile açılacak kapsayıcı",
+    "placeholders": {
+      "keyId": {
+          "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Çoklu Hesap Konteynerleri Navigasyonu Onaylar",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ konteynerinde aç",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Geçerli sekmede aç",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Firefox'tan bu site için her zaman $containerName$ açmasını istediniz:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Konum seç",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Gizle"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "protectYourContainers": {
+    "message": "Mozilla VPN ile Kapsayıcılarınızı Koruyun"
+  },
+  "protectThisContainer": {
+    "message": "Bu Konteyneri Mozilla VPN ile Koruyun"
+  },
+  "advancedProxySettings": {
+    "message": "Gelişmiş proxy ayarları"
+  },
+  "proxyInputLabel": {
+    "message": "Özel proxy girin"
+  },
+  "useCustomLocation": {
+    "message": "Bu Konteyner için özel bir konum kullanın"
+  },
+  "clearproxylabel": {
+    "message": "Temiz vekil"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN açık"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN kapalı"
+  },
+  "invalidProxyAlert": {
+    "message": "Lütfen geçerli bir proxy URL'si girin"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Bu özelliği kullanmak için Mozilla VPN açık olmalıdır."
+  },
+  "learnMore": {
+    "message": "Daha fazla bilgi edinin"
+  },
+  "proxyNowAvailable": {
+    "message": "Şimdi Mozilla VPN ve gelişmiş proxy ayarları ile"
+  },
+  "applyToContainer": {
+    "message": "Konteynere Başvur"
+  },
+  "tooltipWarning": {
+    "message": "Bu Konteyner bir Mozilla VPN proxy kullanmak üzere ayarlanmış, ancak Mozilla VPN açık değil. Bu Konteyneri kullanmak için Mozilla VPN'i açın."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN'i Al"
+  },
+  "integratewithmozillavpn": {
+    "message": "Kapsayıcılarınızı Mozilla VPN ile Entegre Edin"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN ve Proxy İzinleri",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Uzantının Firefox dışındaki programlarla mesaj alışverişi yapmasına izin ver",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Bu ayar, uzantının Mozilla VPN istemcisiyle mesaj alışverişi yapmasını sağlar ve Mozilla VPN entegrasyon özelliklerinin çalışması için gereklidir.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Uzantının proxy ayarlarını kontrol etmesine izin ver",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Bu, gelişmiş proxy ayarlarını kullanmanızı ve Mozilla VPN entegrasyon özelliklerini etkinleştirmenizi sağlar.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Bu özelliğin çalışması için ek bir izin gerekir. İzinler ayarlar sayfasından istenildiği zaman devre dışı bırakılabilir.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN ile entegrasyonun çalışması için bir abonelik ve ek izinler gerekir."
+  },
+  "enable": {
+    "message": "Etkinleştir",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Kapsayıcılarınızı Mozilla VPN ile Entegre Edin"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Bir tema seçin",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Otomatik algılama (varsayılan)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Işık",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Karanlık",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Konteyner listesini ada göre filtrele:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Konteyner adını ara"
+  }
+}
