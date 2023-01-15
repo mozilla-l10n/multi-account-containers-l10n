@@ -50,6 +50,9 @@
   "onboarding-7-header": {
     "message": "Firefox kontua behar da sinkronizatzeko."
   },
+  "onboarding-8-description": {
+    "message": "Edukiontziak Mozilla VPN edo zure proxy propioarekin integra daitezke orain, zure jarduera babestuko duen konexio seguru eta pribatua sortzeko."
+  },
   "oneHundredTabsHeader": {
     "message": "100 fitxa!"
   },
@@ -228,6 +231,9 @@
   "learnMore": {
     "message": "Argibide gehiago"
   },
+  "proxyNowAvailable": {
+    "message": "Orain Mozilla VPN eta proxy-ezarpen aurreratuekin"
+  },
   "applyToContainer": {
     "message": "Aplikatu edukiontziari"
   },
@@ -244,6 +250,9 @@
   "enable": {
     "message": "Gaitu",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integratu zure edukiontziak Mozilla VPNrekin"
   },
   "theme": {
     "message": "Itxura:",
