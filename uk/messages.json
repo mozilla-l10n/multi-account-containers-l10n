@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Назва шуканого контейнера"
+  },
+  "imageAltContainerInfo": {
+    "message": "Інформація про контейнер",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Типовий контейнер",
+    "description": "The title of the default container"
   }
 }
