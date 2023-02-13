@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "ਕਨਟੇਨਰ ਨਾਂ ਖੋਜੋ"
+  },
+  "imageAltContainerInfo": {
+    "message": "ਕਨਟੇਨਰ ਜਾਣਕਾਰੀ",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "ਮੂਲ ਕਨਟੇਨਰ",
+    "description": "The title of the default container"
   }
 }
