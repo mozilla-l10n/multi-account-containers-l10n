@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Nach Umgebungsname suchen"
+  },
+  "imageAltContainerInfo": {
+    "message": "Container-Info",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standard-Container",
+    "description": "The title of the default container"
   }
 }
