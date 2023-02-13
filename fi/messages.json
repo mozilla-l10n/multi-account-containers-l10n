@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Etsi eristystilan nimeä"
+  },
+  "imageAltContainerInfo": {
+    "message": "Eristystilan tiedot",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Oletusarvoinen eristystila",
+    "description": "The title of the default container"
   }
 }
