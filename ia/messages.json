@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Cercar le nomine del contentor"
+  },
+  "imageAltContainerInfo": {
+    "message": "Info de contentor",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Contentor predefinite",
+    "description": "The title of the default container"
   }
 }
