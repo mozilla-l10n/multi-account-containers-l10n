@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "搜尋容器名稱"
+  },
+  "imageAltContainerInfo": {
+    "message": "容器資訊",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "預設容器",
+    "description": "The title of the default container"
   }
 }
