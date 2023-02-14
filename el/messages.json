@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Αναζήτηση ονόματος ενότητας"
+  },
+  "imageAltContainerInfo": {
+    "message": "Πληροφορίες θεματικής ενότητας",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Προεπιλεγμένη θεματική ενότητα",
+    "description": "The title of the default container"
   }
 }
