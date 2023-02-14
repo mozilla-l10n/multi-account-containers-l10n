@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Sök efter behållarens namn"
+  },
+  "imageAltContainerInfo": {
+    "message": "Behållarinformation",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardbehållare",
+    "description": "The title of the default container"
   }
 }
