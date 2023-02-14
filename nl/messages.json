@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Containernaam zoeken"
+  },
+  "imageAltContainerInfo": {
+    "message": "Containerinfo",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standaardcontainer",
+    "description": "The title of the default container"
   }
 }
