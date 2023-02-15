@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Назва шуканага кантэйнера"
+  },
+  "imageAltContainerInfo": {
+    "message": "Інфармацыя аб кантэйнеры",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Прадвызначаны кантэйнер",
+    "description": "The title of the default container"
   }
 }
