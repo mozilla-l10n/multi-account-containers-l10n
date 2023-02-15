@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Søk etter behaldernamn"
+  },
+  "imageAltContainerInfo": {
+    "message": "Behaldar-info",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardbehaldar",
+    "description": "The title of the default container"
   }
 }
