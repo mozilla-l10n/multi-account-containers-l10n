@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Chwilio enw cynhwysydd"
+  },
+  "imageAltContainerInfo": {
+    "message": "Manylion Cynwysyddion",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Cynhwysydd Rhagosodedig",
+    "description": "The title of the default container"
   }
 }
