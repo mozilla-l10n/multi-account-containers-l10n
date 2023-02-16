@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "අඩංගුවෙහි නම සොයන්න"
+  },
+  "imageAltContainerInfo": {
+    "message": "අඩංගුවේ තොරතුරු",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "පෙරනිමි අඩංගුව",
+    "description": "The title of the default container"
   }
 }
