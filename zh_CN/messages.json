@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "搜索身份名称"
+  },
+  "imageAltContainerInfo": {
+    "message": "身份信息",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "默认身份",
+    "description": "The title of the default container"
   }
 }
