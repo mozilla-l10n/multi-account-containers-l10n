@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers を使用すると、オンラインライフのすべての部分を異なるタブに収めることができます。カスタムラベルと色分けされたタブは、さまざまなアクティビティ—オンラインショッピング、旅行計画、仕事用メールのチェックなど—を個別に管理するのに役立ちます。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "新しいタブを開くコンテナー...",
     "description": "Menu title"
