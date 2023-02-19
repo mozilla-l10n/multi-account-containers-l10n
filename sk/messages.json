@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Hľadať názov kontajnera"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informácie o kontajneri",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Predvolený kontajner",
+    "description": "The title of the default container"
   }
 }
