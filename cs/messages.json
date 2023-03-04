@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Název kontejneru"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informace o kontejneru",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Výchozí kontejner",
+    "description": "The title of the default container"
   }
 }
