@@ -226,6 +226,12 @@
   "syncExclude": {
     "message": "컨테이너 제외"
   },
+  "syncExcludePlaceholder": {
+    "message": "정규식 추가"
+  },
+  "syncExcludeDescription": {
+    "message": "이름이 대소문자를 구분하지 않는 지정된 정규식과 일치하는 경우 동기화에서 컨테이너를 제외합니다."
+  },
   "replaceTab": {
     "message": "새 탭을 만드는 대신 탭 바꾸기"
   },
@@ -254,6 +260,10 @@
         "content": "$1"
       }
     }
+  },
+  "openInNoContainer": {
+    "message": "현재 탭에서 열기",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
     "message": "이 사이트에 대해 항상 $containerName$를 열도록 Firefox에 요청했습니다:",
