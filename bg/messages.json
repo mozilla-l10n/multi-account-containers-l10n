@@ -1,4 +1,21 @@
 {
+  "openInNewTabTitle": {
+    "message": "Нов раздел в…",
+    "description": "Menu title"
+  },
+  "openTabs": {
+    "message": "Отворени раздели",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 раздела!"
+  },
+  "ok": {
+    "message": "Добре"
+  },
+  "icon": {
+    "message": "Пиктограма"
+  },
   "learnMore": {
     "message": "Научете повече"
   }
