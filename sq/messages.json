@@ -387,5 +387,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Kërkoni emër kontejneri"
+  },
+  "imageAltContainerInfo": {
+    "message": "Hollësi kontejneri",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Kontejner Parazgjedhje",
+    "description": "The title of the default container"
   }
 }
