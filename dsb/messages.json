@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Kontejnerowe mě pytaś"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informacije wó kontejnerje",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardny kontejner",
+    "description": "The title of the default container"
   }
 }
