@@ -329,7 +329,7 @@
     "message": "Získat Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Integrujte své kontejnery s Mozilla VPN"
+    "message": "Integrujte své kontejnery se sítí Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN a oprávnění proxy",
@@ -363,7 +363,7 @@
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integrujte své kontejnery s Mozilla VPN"
+    "message": "Integrujte své kontejnery se sítí Mozilla VPN"
   },
   "theme": {
     "message": "Vzhled:",
