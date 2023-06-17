@@ -332,7 +332,7 @@
     "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Δικαιώματα Mozilla VPN & διακομιστή μεσολάβησης",
+    "message": "Mozilla VPN και δικαιώματα διακομιστή μεσολάβησης",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
