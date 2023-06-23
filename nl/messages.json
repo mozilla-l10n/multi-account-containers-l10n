@@ -399,5 +399,18 @@
   "defaultContainerLabel": {
     "message": "Standaardcontainer",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Containerpaneel openen",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Containersnelkoppeling $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
