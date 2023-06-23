@@ -172,7 +172,7 @@
     "message": "Plus tard"
   },
   "startSyncing": {
-    "message": "Commencez la synchronisation"
+    "message": "Démarrer la synchronisation"
   },
   "info": {
     "message": "Informations",
@@ -399,5 +399,9 @@
   "defaultContainerLabel": {
     "message": "Conteneur par défaut",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Ouvrir le panneau des conteneurs",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   }
 }
