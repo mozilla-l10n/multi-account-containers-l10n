@@ -399,5 +399,9 @@
   "defaultContainerLabel": {
     "message": "Contêiner padrão",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Abrir painel de contêineres",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   }
 }
