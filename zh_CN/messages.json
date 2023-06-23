@@ -399,5 +399,14 @@
   "defaultContainerLabel": {
     "message": "默认身份",
     "description": "The title of the default container"
+  },
+  "containerShortcut": {
+    "message": "身份快捷键 $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
