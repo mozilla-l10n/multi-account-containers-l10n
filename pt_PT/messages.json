@@ -64,7 +64,7 @@
     "message": "Clique com o botão direito num separador contentor para definir que o site seja sempre aberto naquele contentor."
   },
   "onboarding-5-header": {
-    "message": "Separadores contentor para quando precisar."
+    "message": "Separadores Contentor para quando precisar dos mesmos."
   },
   "onboarding-5-description": {
     "message": "Mantenha pressionado o botão de novo separador para criar um novo separador contentor."
@@ -103,7 +103,7 @@
     "message": "Enviar tweet"
   },
   "default": {
-    "message": "Padrão"
+    "message": "Predefinição"
   },
   "manageContainers": {
     "message": "Gerir contentores"
@@ -112,7 +112,7 @@
     "message": "Novo contentor"
   },
   "hideThisContainer": {
-    "message": "Esconder este contentor"
+    "message": "Ocultar este contentor"
   },
   "showThisContainer": {
     "message": "Mostrar este contentor"
@@ -127,7 +127,7 @@
     "message": "Cancelar"
   },
   "ok": {
-    "message": "OK"
+    "message": "Ok"
   },
   "sitesAssignedToThisContainer": {
     "message": "Sites atribuídos a este contentor"
@@ -145,7 +145,7 @@
     "message": "Ícone"
   },
   "limitToDesignatedSites": {
-    "message": "Limitar a sites designados"
+    "message": "Limitar aos sites designados"
   },
   "deleteThisContainer": {
     "message": "Eliminar este contentor"
@@ -157,10 +157,10 @@
     "message": "Gerir este contentor"
   },
   "containers": {
-    "message": "contentores"
+    "message": "Contentores"
   },
   "done": {
-    "message": "Pronto"
+    "message": "Feito"
   },
   "getStarted": {
     "message": "Introdução"
@@ -179,7 +179,7 @@
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Avançar"
+    "message": "Seguinte"
   },
   "openThisSiteConfirmation": {
     "message": "Abrir este site no seu contentor atribuído?"
@@ -200,10 +200,10 @@
     "message": "Introdução"
   },
   "resetOnboardingPanels": {
-    "message": "Restaurar painéis de introdução"
+    "message": "Redefinir painéis de introdução"
   },
   "onboardingToggle": {
-    "message": "Mude isto para rever os painéis de introdução."
+    "message": "Alterne isto para rever os painéis de introdução."
   },
   "tabBehavior": {
     "message": "Comportamento dos separadores:"
@@ -215,7 +215,7 @@
     "message": "Sincronização de contas Firefox:"
   },
   "enableSync": {
-    "message": "Ativar sincronização"
+    "message": "Ativar a sincronização"
   },
   "enableBookMarkMenusDescription": {
     "message": "Esta opção permite abrir um marcador ou pasta de marcadores num contentor."
@@ -236,13 +236,13 @@
     "message": "Substituir separador em vez de criar um novo"
   },
   "replaceTabDescription": {
-    "message": "Substituir o separador atual se for aberta uma página atribuída a outro contentor (em vez de manter o separador atual aberto). Abrir separadores com o butão do rato do meio não é afectado por esta opção."
+    "message": "Substituir o separador atual se for aberta uma página atribuída a outro contentor (em vez de manter o separador atual aberto). Abrir separadores com o botão do meio do rato não é afetado por esta opção."
   },
   "editWhichContainer": {
     "message": "Edite qual contentor é aberto ao usar os atalhos numerados."
   },
   "keyboardShortCut": {
-    "message": "contentor a abrir com o atalho de teclado $keyId$",
+    "message": "Contentor a abrir com o atalho de teclado $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -266,7 +266,7 @@
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Pediu ao Firefox para abrir sempre $containerName$ para este site:",
+    "message": "Solicitou ao Firefox para abrir sempre $containerName$ para este site:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -278,7 +278,7 @@
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "Esconder"
+    "message": "Ocultar"
   },
   "show": {
     "message": "Mostrar"
