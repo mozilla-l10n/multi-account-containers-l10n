@@ -308,13 +308,13 @@
     "message": "A Mozilla VPN está desativada"
   },
   "invalidProxyAlert": {
-    "message": "Por favor digite um URL de proxy válido"
+    "message": "Digite um URL de proxy válido"
   },
   "mozillaVpnMustBeOn": {
     "message": "A Mozilla VPN deve estar ativada para usar esta funcionalidade."
   },
   "learnMore": {
-    "message": "Saiba mais"
+    "message": "Saber mais"
   },
   "proxyNowAvailable": {
     "message": "Agora com a Mozilla VPN e definições avançadas de proxy"
@@ -326,7 +326,7 @@
     "message": "Este contentor está configurado para usar um proxy da Mozilla VPN, mas a Mozilla VPN não está ativada. Ative a Mozilla VPN para usar este contentor."
   },
   "getMozillaVpn": {
-    "message": "Instalar a Mozilla VPN"
+    "message": "Obter a Mozilla VPN"
   },
   "integratewithmozillavpn": {
     "message": "Integre os seus contentores com a Mozilla VPN"
@@ -340,7 +340,7 @@
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Esta definição permite que a extensão troque mensagens com o cliente Mozilla VPN e é necessária para que as funcionalidades de integração da Mozilla VPN funcionem.",
+    "message": "Esta definição permite que a extensão troque mensagens com o cliente da Mozilla VPN e é necessária para que as funcionalidades de integração da Mozilla VPN funcionem.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
@@ -374,7 +374,7 @@
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Detectar automaticamente (padrão)",
+    "message": "Detetar automaticamente (predefinição)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
@@ -397,7 +397,7 @@
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "contentor padrão",
+    "message": "Contentor predefinido",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
