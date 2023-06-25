@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "O Multi-Account Containers ajuda a manter todas as partes da sua vida online contidas em separadores diferentes. Rótulos personalizados e separadores codificados por cores ajudam a manter separadas atividades diferentes, como compras, planeamento de viagens ou email do trabalho.",
+    "message": "O Multi-Account Containers ajuda a manter todas as partes da sua vida online contidas em separadores diferentes. Rótulos personalizados e separadores codificados por cores ajudam a manter separadas atividades diferentes, como compras, planeamento de viagens ou e-mail do trabalho.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -24,7 +24,7 @@
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Sempre abrir site em contentor"
+    "message": "Abrir sempre site em contentor"
   },
   "openANewTabIn": {
     "message": "Abrir um novo separador em…"
@@ -37,10 +37,10 @@
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Mover contentores para uma nova janela"
+    "message": "Mover separadores para uma nova janela"
   },
   "onboarding-1-header": {
-    "message": "Uma forma melhor de gerir todas as coisas que faz online"
+    "message": "Uma forma melhor de gerir todas as coisas que faz na Internet"
   },
   "onboarding-1-description": {
     "message": "Use contentores para organizar tarefas, gerir contas e manter o foco onde quiser."
@@ -49,13 +49,13 @@
     "message": "Ponha os contentores a trabalhar para si."
   },
   "onboarding-2-description": {
-    "message": "Funções como codificação por cores e separadores contentor distintos ajudam a encontrar as coisas facilmente, focar a atenção e minimizar as distrações."
+    "message": "Funções como codificação por cores e separadores Contentor distintos ajudam a encontrar as coisas mais facilmente, focar a atenção e a minimizar as distrações."
   },
   "onboarding-3-header": {
-    "message": "Um lugar para cada coisa e cada coisa em seu lugar."
+    "message": "Um lugar para cada coisa e cada coisa no seu lugar."
   },
   "onboarding-3-description": {
-    "message": "Comece com os contentores que criamos, ou crie os seus próprios."
+    "message": "Comece com os Contentores que criámos, ou crie os seus próprios Contentores."
   },
   "onboarding-4-header": {
     "message": "Abra sempre os sites nos contentores que quiser."
