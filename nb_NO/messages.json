@@ -40,7 +40,7 @@
     "message": "Flytt faner til et nytt vindu"
   },
   "onboarding-1-header": {
-    "message": "En bedre måte å behandle alle tingene du gjør på nettet"
+    "message": "En bedre måte å håndtere alle tingene du gjør på nettet"
   },
   "onboarding-1-description": {
     "message": "Bruk beholdere til å organisere oppgaver, behandle kontoer og holde fokus der du vil ha det."
@@ -399,5 +399,18 @@
   "defaultContainerLabel": {
     "message": "Standardbeholder",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Åpne innholdspanel",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Beholdersnarvei $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
