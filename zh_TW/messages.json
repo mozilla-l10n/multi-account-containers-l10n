@@ -399,5 +399,18 @@
   "defaultContainerLabel": {
     "message": "預設容器",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "開啟容器面板",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "容器快速鍵 $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
