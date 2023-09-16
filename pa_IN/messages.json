@@ -399,5 +399,18 @@
   "defaultContainerLabel": {
     "message": "ਮੂਲ ਕਨਟੇਨਰ",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "ਕਨਟੇਨਰ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "ਕਨਟੇਨਰ ਸ਼ਾਰਟਕੱਟ $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
