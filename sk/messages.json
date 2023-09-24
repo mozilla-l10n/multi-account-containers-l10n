@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Teraz je k dispozícii synchronizácia kontajnerov."
   },
-  "onboarding-6-description": {
-    "message": "Zapnite synchronizáciu a zdieľajte kontajnery a priradené stránky s akýmkoľvek počítačom pripojeným k vášmu účtu Firefox."
+  "onboarding-6-description-2": {
+    "message": "Zapnite synchronizáciu a zdieľajte kontajnery a priradené stránky s akýmkoľvek počítačom pripojeným k vášmu účtu."
   },
-  "onboarding-7-header": {
-    "message": "Na synchronizáciu je potrebný účet Firefox."
+  "onboarding-7-header-2": {
+    "message": "Na synchronizáciu je potrebný účet."
   },
-  "onboarding-7-description": {
-    "message": "Kliknutím na tlačidlo Prihlásiť sa potvrďte, že váš účet Firefox je aktívny."
+  "onboarding-7-description-2": {
+    "message": "Kliknutím na tlačidlo Prihlásiť sa potvrďte, že je váš účet aktívny."
   },
   "onboarding-8-description": {
     "message": "Teraz je možné kontajnery integrovať s Mozilla VPN alebo vašim vlastným proxy a vytvoriť tak bezpečné súkromné pripojenie, ktoré chráni vašu aktivitu."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Povoliť ponuku v záložkách"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronizácia pomocou účtu Firefox:"
+  "sync": {
+    "message": "Synchronizácia:"
   },
   "enableSync": {
     "message": "Povoliť synchronizáciu"
