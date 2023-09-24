@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Synchronising Containers is now Available!"
   },
-  "onboarding-6-description": {
-    "message": "Turn on synchronisation to share Container and site assignments with any computer connected to your Firefox account."
+  "onboarding-6-description-2": {
+    "message": "Turn on sync to share Container and site assignments with any computer connected to your account."
   },
-  "onboarding-7-header": {
-    "message": "Firefox account is required to synchronise."
+  "onboarding-7-header-2": {
+    "message": "An account is required to synchronise."
   },
-  "onboarding-7-description": {
-    "message": "Click Sign In to confirm that your Firefox account is active."
+  "onboarding-7-description-2": {
+    "message": "Click Sign In to confirm that your account is active."
   },
   "onboarding-8-description": {
     "message": "Now Containers can integrate with Mozilla VPN or your own proxy to create a secure, private connection that protects your activity."
@@ -210,9 +210,6 @@
   },
   "enableBookMarkMenus": {
     "message": "Enable Bookmark Menus"
-  },
-  "firefoxAccountsSync": {
-    "message": "Firefox accounts synchronisation:"
   },
   "enableSync": {
     "message": "Enable synchronisation"
