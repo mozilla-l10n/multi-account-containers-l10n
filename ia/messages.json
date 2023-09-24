@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Le synchronisation de contentores es ora disponibile!"
   },
-  "onboarding-6-description": {
-    "message": "Activa le synchronisation pro compartir le contentores e lor sitos assignate con qualcunque computator connectite a tu conto Firefox."
+  "onboarding-6-description-2": {
+    "message": "Activa le synchronisation pro compartir le contentores e lor sitos assignate con qualcunque computator connexe a tu conto."
   },
-  "onboarding-7-header": {
-    "message": "Firefox Account es necesse pro synchronisar."
+  "onboarding-7-header-2": {
+    "message": "Un conto es necesse pro synchronisar."
   },
-  "onboarding-7-description": {
-    "message": "Clicca Authenticar se, pro confirmar que tu Firefox Account es active."
+  "onboarding-7-description-2": {
+    "message": "Clicca Authenticar se, pro confirmar que tu conto es active."
   },
   "onboarding-8-description": {
     "message": "Ora le contentores pote integrar se con Mozilla VPN o con tu proprie proxy pro crear un connexion secur e private que protege tu activitate."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Activar menus de marcapaginas"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronisation con conto Firefox:"
+  "sync": {
+    "message": "Synchronisation:"
   },
   "enableSync": {
     "message": "Activar le synchronisation"
