@@ -61,7 +61,7 @@
     "message": "Stránky vždy otevírejte v požadovaných kontejnerech."
   },
   "onboarding-4-description": {
-    "message": "Kliknutím pravým tlačítkem myši uvnitř kontejnerového panelu určete, aby se stránka vždy otevírala v daném kontejneru."
+    "message": "Klepnutím pravým tlačítkem myši uvnitř kontejnerového panelu určete, aby se stránka vždy otevírala v daném kontejneru."
   },
   "onboarding-5-header": {
     "message": "Kontejnerové panely, když je potřebujete."
@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Synchronizace kontejnerů je už možná!"
   },
-  "onboarding-6-description": {
-    "message": "Zapněte synchronizaci a sdílejte kontejnery a přiřazení webů s jakýmkoli počítačem připojeným k vašemu účtu Firefoxu."
+  "onboarding-6-description-2": {
+    "message": "Zapněte synchronizaci a sdílejte kontejnery a přiřazení webů s jakýmkoli počítačem připojeným k vašemu účtu."
   },
-  "onboarding-7-header": {
-    "message": "K synchronizaci je potřeba účet Firefoxu."
+  "onboarding-7-header-2": {
+    "message": "Pro synchronizaci je vyžadován účet."
   },
-  "onboarding-7-description": {
-    "message": "Kliknutím na Přihlásit se potvrďte, že je váš účet Firefoxu aktivní."
+  "onboarding-7-description-2": {
+    "message": "Klepnutím na Přihlásit se potvrďte, že je váš účet aktivní."
   },
   "onboarding-8-description": {
     "message": "Nyní lze kontejnery integrovat se službou Mozilla VPN nebo s vaším vlastním proxy serverem a vytvořit tak bezpečné soukromé připojení, které chrání vaši aktivitu."
@@ -203,7 +203,7 @@
     "message": "Obnovit úvodního průvodce"
   },
   "onboardingToggle": {
-    "message": "Kliknutím na tlačítko znovu zobrazíte úvodního průvodce."
+    "message": "Klepnutím na tlačítko znovu zobrazíte úvodního průvodce."
   },
   "tabBehavior": {
     "message": "Chování panelů:"
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Povolit nabídku v záložkách"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronizace pomocí účtu Firefoxu:"
+  "sync": {
+    "message": "Synchronizace:"
   },
   "enableSync": {
     "message": "Povolit synchronizaci"
