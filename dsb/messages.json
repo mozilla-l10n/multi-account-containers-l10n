@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Synchronizěrowanje kontejnerow jo něnto k dispoziciji!"
   },
-  "onboarding-6-description": {
-    "message": "Zmóžniśo synchronizaciju, aby kontejner a sedłowe pśipokazanja z kuždym licadłom źělił, kótarež je z wašym kontom Firefox zwězane."
+  "onboarding-6-description-2": {
+    "message": "Zmóžniśo synchronizaciju, aby kontejner a sedłowe pśipokazanja z kuždym licadłom źělił, kótarež je z wašym kontom zwězane."
   },
-  "onboarding-7-header": {
-    "message": "Trjebaśo konto Firefox, aby synchronizěrował."
+  "onboarding-7-header-2": {
+    "message": "Trjebaśo konto, aby synchronizěrował."
   },
-  "onboarding-7-description": {
-    "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto Firefox jo aktiwne."
+  "onboarding-7-description-2": {
+    "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto jo aktiwne."
   },
   "onboarding-8-description": {
     "message": "Něnto kontejnery daju se do Mozilla VPN abo swójogo proksy integrěrowaś, aby wěsty, priwatny zwisk napórał, kótaryž wašu aktiwitu šćita."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Menije cytańskich znamjenjow zmóžniś"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronizacija z kontami Firefox:"
+  "sync": {
+    "message": "Synchronizacija:"
   },
   "enableSync": {
     "message": "Synchronizěrowanje zmóžniś"
