@@ -72,8 +72,14 @@
   "onboarding-6-header": {
     "message": "Synchronizowanje kontejnerow je nětko k dispoziciji!"
   },
+  "onboarding-6-description-2": {
+    "message": "Zmóžńće synchronizaciju, zo byšće kontejner a sydłowe připokazanja z kóždym ličakom dźělił, kotryž je z wašim kontom zwjazany."
+  },
   "onboarding-7-header-2": {
     "message": "Trjebaće konto za synchronizaciju."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klikńće na Přizjewić, zo byšće wobkrućił, zo waše konto je aktiwne."
   },
   "onboarding-8-description": {
     "message": "Nětko kontejnery dadźa so do Mozilla VPN abo swojeho proksy integrować, zo bychu wěsty, priwatny zwisk wutworił, kotryž wašu aktiwitu škita."
@@ -204,6 +210,9 @@
   },
   "enableBookMarkMenus": {
     "message": "Menije zapołožkow zmóžnić"
+  },
+  "sync": {
+    "message": "Synchronizacija:"
   },
   "enableSync": {
     "message": "Synchronizowanje zmóžnić"
