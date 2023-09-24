@@ -211,6 +211,9 @@
   "enableBookMarkMenus": {
     "message": "Enable Bookmark Menus"
   },
+  "sync": {
+    "message": "Synchronisation:"
+  },
   "enableSync": {
     "message": "Enable synchronisation"
   },
