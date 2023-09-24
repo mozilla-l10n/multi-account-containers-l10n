@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Das Synchronisieren von Umgebungen ist jetzt verfügbar!"
   },
-  "onboarding-6-description": {
-    "message": "Aktivieren Sie die Synchronisierung, um Tab-Umgebungen und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Firefox-Konto verbunden ist."
+  "onboarding-6-description-2": {
+    "message": "Aktivieren Sie die Synchronisierung, um Tab-Umgebungen und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Konto verbunden ist."
   },
-  "onboarding-7-header": {
-    "message": "Zum Synchronisieren ist ein Firefox-Konto erforderlich."
+  "onboarding-7-header-2": {
+    "message": "Zum Synchronisieren ist ein Konto erforderlich."
   },
-  "onboarding-7-description": {
-    "message": "Klicken Sie auf Anmelden, um zu bestätigen, dass Ihr Firefox-Konto aktiv ist."
+  "onboarding-7-description-2": {
+    "message": "Klicken Sie auf Anmelden, um zu bestätigen, dass Ihr Konto aktiv ist."
   },
   "onboarding-8-description": {
     "message": "Container können jetzt in Mozilla VPN oder Ihren eigenen Proxy integriert werden, um eine sichere, private Verbindung herzustellen, die Ihre Aktivitäten schützt."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Lesezeichenmenüs aktivieren"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronisation mit Firefox-Konten:"
+  "sync": {
+    "message": "Synchronisation:"
   },
   "enableSync": {
     "message": "Synchronisierung aktivieren"
