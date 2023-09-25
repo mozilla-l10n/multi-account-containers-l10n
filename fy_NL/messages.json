@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "It syngronisearjen fan konteners is no beskikber!"
   },
-  "onboarding-6-description": {
-    "message": "Skeakelje syngronisaasje yn om kontener- en websitetawizingen te dielen mei elke kompjûter dy’t ferbûn is mei jo Firefox-account."
+  "onboarding-6-description-2": {
+    "message": "Skeakelje syngronisaasje yn om kontener- en websitetawizingen te dielen mei elke kompjûter dy’t ferbûn is mei jo account."
   },
-  "onboarding-7-header": {
-    "message": "Firefox-account is fereaske om te syngronisearjen."
+  "onboarding-7-header-2": {
+    "message": "In account is fereaske om te syngronisearjen."
   },
-  "onboarding-7-description": {
-    "message": "Klik op Oanmelde om te befêstigjen dat jo Firefox-account aktyf is."
+  "onboarding-7-description-2": {
+    "message": "Klik op Oanmelde om te befêstigjen dat jo account aktyf is."
   },
   "onboarding-8-description": {
     "message": "Konteners kinne no yntegrearje mei Mozilla VPN of jo eigen proxy om in feilige priveeferbining te kreëarjen dy’t jo aktiviteit beskermet."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Blêdwizermenu’s ynskeakelje"
   },
-  "firefoxAccountsSync": {
-    "message": "Syngronisaasje mei Firefox-accounts:"
+  "sync": {
+    "message": "Syngronisaasje:"
   },
   "enableSync": {
     "message": "Syngronisaasje ynskeakelje"
