@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Eristystilojen synkronointi on nyt saatavilla!"
   },
-  "onboarding-6-description": {
-    "message": "Ota synkronointi käyttöön, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustomääritykset minkä tahansa Firefox-tiliisi yhdistetyn tietokoneen kanssa."
+  "onboarding-6-description-2": {
+    "message": "Ota synkronointi käyttöön, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustomääritykset minkä tahansa tiliisi yhdistetyn tietokoneen kanssa."
   },
-  "onboarding-7-header": {
-    "message": "Synkronointiin tarvitaan Firefox-tili."
+  "onboarding-7-header-2": {
+    "message": "Synkronointiin tarvitaan tili."
   },
-  "onboarding-7-description": {
-    "message": "Napsauta Kirjaudu sisään -painiketta vahvistaaksesi, että Firefox-tilisi on aktiivinen."
+  "onboarding-7-description-2": {
+    "message": "Napsauta Kirjaudu sisään vahvistaaksesi, että tilisi on aktiivinen."
   },
   "onboarding-8-description": {
     "message": "Eristystilat on nyt mahdollista integroida Mozilla VPN -palveluun tai omaan välityspalvelimeen, jotta voit luoda turvallisen ja yksityisen yhteyden toimintasi suojaamiseksi."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Ota kirjanmerkkivalikot käyttöön"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox-tilien synkronointi:"
+  "sync": {
+    "message": "Synkronointi:"
   },
   "enableSync": {
     "message": "Ota synkronointi käyttöön"
