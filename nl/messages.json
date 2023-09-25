@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Het synchroniseren van containers is nu beschikbaar!"
   },
-  "onboarding-6-description": {
-    "message": "Schakel synchronisatie in om container- en websitetoewijzingen te delen met elke computer die is verbonden met uw Firefox-account."
+  "onboarding-6-description-2": {
+    "message": "Schakel synchronisatie in om container- en websitetoewijzingen te delen met elke computer die is verbonden met uw account."
   },
-  "onboarding-7-header": {
-    "message": "Firefox-account is vereist om te synchroniseren."
+  "onboarding-7-header-2": {
+    "message": "Een account is vereist om te synchroniseren."
   },
-  "onboarding-7-description": {
-    "message": "Klik op Aanmelden om te bevestigen dat uw Firefox-account actief is."
+  "onboarding-7-description-2": {
+    "message": "Klik op Aanmelden om te bevestigen dat uw account actief is."
   },
   "onboarding-8-description": {
     "message": "Containers kunnen nu integreren met Mozilla VPN of uw eigen proxy om een veilige privéverbinding te creëren die uw activiteit beschermt."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Bladwijzermenu’s inschakelen"
   },
-  "firefoxAccountsSync": {
-    "message": "Synchronisatie met Firefox-accounts:"
+  "sync": {
+    "message": "Synchronisatie:"
   },
   "enableSync": {
     "message": "Synchronisatie inschakelen"
