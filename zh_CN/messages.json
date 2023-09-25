@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "身份同步功能正式推出！"
   },
-  "onboarding-6-description": {
-    "message": "开启同步后，即可将身份及网站设置同步到所有登录 Firefox 账户的计算机。"
+  "onboarding-6-description-2": {
+    "message": "开启同步后，即可将身份及网站设置同步到所有已登录账户的计算机。"
   },
-  "onboarding-7-header": {
-    "message": "需要 Firefox 账户才能同步。"
+  "onboarding-7-header-2": {
+    "message": "需要登录账户才能同步。"
   },
-  "onboarding-7-description": {
-    "message": "点击登录，即可确认您的 Firefox 账户启用状态。"
+  "onboarding-7-description-2": {
+    "message": "点击登录，即可确认您的账户启用状态。"
   },
   "onboarding-8-description": {
     "message": "现在起支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "启用书签菜单"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox 账户同步："
+  "sync": {
+    "message": "同步："
   },
   "enableSync": {
     "message": "启用同步"
