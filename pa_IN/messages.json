@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "ਹੁਣ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸਿੰਕ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ!"
   },
-  "onboarding-6-description": {
-    "message": "ਕਨਟੇਨਰ ਤੇ ਉਸ ਲਈ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ Firefox ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਕਿਸੇ ਵੀ ਕੰਪਿਊਟਰ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।"
+  "onboarding-6-description-2": {
+    "message": "ਕਨਟੇਨਰ ਤੇ ਉਸ ਲਈ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਕਿਸੇ ਵੀ ਕੰਪਿਊਟਰ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।"
   },
-  "onboarding-7-header": {
-    "message": "ਸਿੰਕ ਕਰਨ ਲਈ Firefox ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ"
+  "onboarding-7-header-2": {
+    "message": "ਸਿੰਕ ਕਰਨ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ।"
   },
-  "onboarding-7-description": {
-    "message": "ਤੁਹਾਡੇ Firefox ਖਾਤੇ ਦੇ ਸਰਗਰਮ ਹੋਣ ਦੀ ਤਸਦੀਕ ਕਰਨ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।"
+  "onboarding-7-description-2": {
+    "message": "ਤੁਹਾਡੇ ਖਾਤੇ ਦੇ ਸਰਗਰਮ ਹੋਣ ਦੀ ਤਸਦੀਕ ਕਰਨ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।"
   },
   "onboarding-8-description": {
     "message": "ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀਆਂ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਸਤੇ ਸੁਰੱਖਿਅਤ, ਪ੍ਰਾਈਵੇਟ ਕਨੈਕਸ਼ਨ ਬਣਾਉਣ ਲਈ ਨਵੇਂ ਕਨਟੇਨਰ Mozilla VPN ਜਾਂ ਤੁਹਾਡੇ ਆਪਣੇ ਪਰਾਕਸੀ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋ ਸਕਦੇ ਹਨ।"
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox ਖਾਤੇ ਸਿੰਕ:"
+  "sync": {
+    "message": "ਸਿੰਕ ਕਰਨਾ:"
   },
   "enableSync": {
     "message": "ਸਿੰਕ ਸਮਰੱਥ ਕਰੋ"
