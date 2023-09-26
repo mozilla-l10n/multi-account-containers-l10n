@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Synkronisering av behållare är nu tillgängligt!"
   },
-  "onboarding-6-description": {
-    "message": "Aktivera synkronisering för att dela behållare- och webbplatstilldelningar med vilken dator som helst som är ansluten till ditt Firefox-konto."
+  "onboarding-6-description-2": {
+    "message": "Aktivera synkronisering för att dela container- och webbplatstilldelningar med vilken dator som helst som är ansluten till ditt konto."
   },
-  "onboarding-7-header": {
-    "message": "Firefox-konto krävs för att synkronisera."
+  "onboarding-7-header-2": {
+    "message": "Ett konto krävs för att synkronisera."
   },
-  "onboarding-7-description": {
-    "message": "Klicka på Logga in för att bekräfta att ditt Firefox-konto är aktivt."
+  "onboarding-7-description-2": {
+    "message": "Klicka på Logga in för att bekräfta att ditt konto är aktivt."
   },
   "onboarding-8-description": {
     "message": "Nu kan behållare integreras med Mozilla VPN eller din egen proxy för att skapa en säker, privat anslutning som skyddar din aktivitet."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Aktivera bokmärkesmenyer"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox-kontosynkronisering:"
+  "sync": {
+    "message": "Synkronisering:"
   },
   "enableSync": {
     "message": "Aktivera synkronisering"
