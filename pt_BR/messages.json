@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Agora está disponível sincronização de contêineres!"
   },
-  "onboarding-6-description": {
-    "message": "Ative a sincronização para compartilhar contêineres e atribuições de sites com qualquer computador conectado à sua conta Firefox."
+  "onboarding-6-description-2": {
+    "message": "Ative a sincronização para compartilhar contêineres e atribuições de sites com qualquer computador conectado à sua conta."
   },
-  "onboarding-7-header": {
-    "message": "Precisa ter uma conta Firefox para sincronizar."
+  "onboarding-7-header-2": {
+    "message": "Precisa ter uma conta para sincronizar."
   },
-  "onboarding-7-description": {
-    "message": "Clique em Entrar para confirmar que sua conta Firefox está ativa."
+  "onboarding-7-description-2": {
+    "message": "Clique em Entrar para confirmar que sua conta está ativa."
   },
   "onboarding-8-description": {
     "message": "Agora contêineres podem se integrar ao Mozilla VPN ou ao seu próprio proxy para criar uma conexão segura e privativa que protege sua atividade."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Ativar menus de favoritos"
   },
-  "firefoxAccountsSync": {
-    "message": "Sincronização de contas Firefox:"
+  "sync": {
+    "message": "Sincronização:"
   },
   "enableSync": {
     "message": "Ativar sincronização"
