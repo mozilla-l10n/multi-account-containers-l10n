@@ -72,6 +72,9 @@
   "onboarding-6-header": {
     "message": "¡Ahora está disponible la sincronización de contenedores!"
   },
+  "onboarding-6-description-2": {
+    "message": "Habilitá la sincronización para compartir contenedores y asignación de sitios con cualquier computadora conectada con tu cuenta."
+  },
   "onboarding-7-header-2": {
     "message": "Se necesita una cuenta para sincronizar."
   },
