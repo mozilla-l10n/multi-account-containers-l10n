@@ -72,13 +72,13 @@
   "onboarding-6-header": {
     "message": "Mae cydweddu Cynwysyddion nawr ar gael!"
   },
-  "onboarding-6-description": {
-    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd a gwefannau neilltuol gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
+  "onboarding-6-description-2": {
+    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd ac aseiniad gwefannau gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
   },
-  "onboarding-7-header": {
+  "onboarding-7-header-2": {
     "message": "Mae'n angen cyfrif Firefox i gydweddu."
   },
-  "onboarding-7-description": {
+  "onboarding-7-description-2": {
     "message": "Cliciwch Mewngofnodi i gadarnhau bod eich cyfrif Firefox yn weithredol."
   },
   "onboarding-8-description": {
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Galluogi Dewislenni Nodau Tudalen"
   },
-  "firefoxAccountsSync": {
-    "message": "Cydweddu cyfrifon Firefox:"
+  "sync": {
+    "message": "Cydweddu:"
   },
   "enableSync": {
     "message": "Galluogi cydweddu"
