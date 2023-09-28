@@ -72,14 +72,8 @@
   "onboarding-6-header": {
     "message": "A konténerek szinkronizálása már elérhető!"
   },
-  "onboarding-6-description": {
-    "message": "Kapcsolja be a szinkronizálást, hogy megossza a konténereit és a webhely-hozzárendeléseket bármely, a Firefox-fiókjához csatlakoztatott számítógéppel."
-  },
-  "onboarding-7-header": {
-    "message": "A szinkronizáláshoz Firefox-fiók szükséges."
-  },
-  "onboarding-7-description": {
-    "message": "Kattintson a Bejelentkezésre annak a megerősítéséhez, hogy a Firefox-fiókja aktív."
+  "onboarding-7-header-2": {
+    "message": "A szinkronizáláshoz fiók szükséges."
   },
   "onboarding-8-description": {
     "message": "A konténerek mostantól integrációra képesek a Mozilla VPN-nel vagy a saját proxyjával, hogy biztonságos, privát kapcsolatot hozzanak létre, melyek megvédik a tevékenységét."
@@ -210,9 +204,6 @@
   },
   "enableBookMarkMenus": {
     "message": "Könyvjelző menük engedélyezése"
-  },
-  "firefoxAccountsSync": {
-    "message": "Firefox-fiókok szinkronizálása:"
   },
   "enableSync": {
     "message": "Szinkronizálás engedélyezése"
