@@ -72,15 +72,6 @@
   "onboarding-6-header": {
     "message": "Njëkohësimi i Kontejnerëve tani është Gati!"
   },
-  "onboarding-6-description": {
-    "message": "Që të ndani Kontejner dhe caktime sajtesh me çfarëdo kompjuteri të lidhur me llogarinë tuaj Firefox, aktivizoni njëkohësimin."
-  },
-  "onboarding-7-header": {
-    "message": "Që të bëhet njëkohësim, lypset llogari Firefox."
-  },
-  "onboarding-7-description": {
-    "message": "Klikoni mbi Hyni, që të ripohoni se llogaria juaj Firefox është aktive."
-  },
   "onboarding-8-description": {
     "message": "Tanimë Kontejnerët mund të integrohen me Mozilla VPN, ose ndërmjetësin tuaj, për të krijuar një lidhje të sigurt, private, që mbron veprimtarinë tuaj."
   },
@@ -211,8 +202,8 @@
   "enableBookMarkMenus": {
     "message": "Aktivizo Menu Faqerojtësish"
   },
-  "firefoxAccountsSync": {
-    "message": "Njëkohësim llogarish Firefox:"
+  "sync": {
+    "message": "Njëkohësim:"
   },
   "enableSync": {
     "message": "Aktivizo njëkohësim"
