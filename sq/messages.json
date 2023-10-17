@@ -72,6 +72,15 @@
   "onboarding-6-header": {
     "message": "Njëkohësimi i Kontejnerëve tani është Gati!"
   },
+  "onboarding-6-description-2": {
+    "message": "Që të ndani Kontejner dhe caktime sajtesh me çfarëdo kompjuteri të lidhur me llogarinë tuaj, aktivizoni njëkohësimin."
+  },
+  "onboarding-7-header-2": {
+    "message": "Që të bëhet njëkohësim, lypset llogari."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klikoni mbi Hyni, që të ripohoni se llogaria juaj është aktive."
+  },
   "onboarding-8-description": {
     "message": "Tanimë Kontejnerët mund të integrohen me Mozilla VPN, ose ndërmjetësin tuaj, për të krijuar një lidhje të sigurt, private, që mbron veprimtarinë tuaj."
   },
