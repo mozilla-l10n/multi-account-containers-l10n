@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "Synkronisering av beholdere er nå tilgjengelig!"
   },
-  "onboarding-6-description": {
-    "message": "Slå på synkronisering for å dele beholder- og nettstedstildelinger med hvilken som helst datamaskin som er koblet til Firefox-kontoen din."
+  "onboarding-6-description-2": {
+    "message": "Slå på synkronisering for å dele beholder- og nettstedstildelinger med hvilken som helst datamaskin som er koblet til kontoen din."
   },
-  "onboarding-7-header": {
-    "message": "Firefox-konto er nødvendig for å synkronisere."
+  "onboarding-7-header-2": {
+    "message": "En konto er nødvendig for å synkronisere."
   },
-  "onboarding-7-description": {
-    "message": "Klikk på Logg på for å bekrefte at Firefox-kontoen din er aktiv."
+  "onboarding-7-description-2": {
+    "message": "Klikk på Logg på for å bekrefte at kontoen din er aktiv."
   },
   "onboarding-8-description": {
     "message": "Nå kan beholdere integreres med Mozilla VPN eller din egen proxy for å lage en sikker, privat tilkobling som beskytter aktiviteten din."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Aktiver bokmerkemenyer"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox-kontosynkronisering:"
+  "sync": {
+    "message": "Synkronisering:"
   },
   "enableSync": {
     "message": "Slå på synkronisering"
