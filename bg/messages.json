@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers ви помага да запазите всички части от вашия онлайн живот в различни раздели. Персонализираните етикети и цветно кодираните раздели помагат за отделяне на различни дейности – като онлайн пазаруване, планиране на пътуване или проверка на служебен имейл.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Нов раздел в…",
     "description": "Menu title"
