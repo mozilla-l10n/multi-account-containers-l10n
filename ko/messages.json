@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "이제 Container를 동기화 할 수 있습니다!"
   },
-  "onboarding-6-description": {
-    "message": "Firefox 계정에 연결된 모든 컴퓨터와 Container 및 사이트 할당을 공유하려면 동기화를 켜십시오."
+  "onboarding-6-description-2": {
+    "message": "계정에 연결된 모든 컴퓨터와 Container 및 사이트 할당을 공유하려면 동기화를 켜십시오."
   },
-  "onboarding-7-header": {
-    "message": "동기화하려면 Firefox 계정이 필요합니다."
+  "onboarding-7-header-2": {
+    "message": "동기화하려면 계정이 필요합니다."
   },
-  "onboarding-7-description": {
-    "message": "로그인을 클릭하여 Firefox 계정이 활성 상태인지 확인합니다."
+  "onboarding-7-description-2": {
+    "message": "로그인을 클릭하여 계정이 활성 상태인지 확인합니다."
   },
   "onboarding-8-description": {
     "message": "이제 Container는 Mozilla VPN 또는 자체 프록시와 통합하여 활동을 보호하는 안전한 비공개 연결을 생성할 수 있습니다."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "북마크 메뉴 활성화"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox 계정 동기화:"
+  "sync": {
+    "message": "동기화:"
   },
   "enableSync": {
     "message": "동기화 활성화"
@@ -399,5 +399,18 @@
   "defaultContainerLabel": {
     "message": "기본 컨테이너",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "컨테이너 패널 열기",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "컨테이너 단축키 $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
