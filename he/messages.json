@@ -1,0 +1,50 @@
+{
+  "openInNewTabTitle": {
+    "message": "פתיחת לשונית חדשה ב…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "פתיחת האתר הזה מחדש ב…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "מיון לשוניות לפי מגירה",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "תמיד לפתוח את האתר הזה ב…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "תמיד לפתוח ב…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "תמיד לפתוח אתר במגירה"
+  },
+  "openANewTabIn": {
+    "message": "פתיחת לשונית חדשה ב…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "פתיחת לשונית חדשה במגירה הזאת"
+  },
+  "openTabs": {
+    "message": "לשוניות פתוחות",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "העברת לשוניות לחלון חדש"
+  },
+  "onboarding-2-header": {
+    "message": "לתת למגירות לעבוד בשבילך."
+  },
+  "onboarding-2-description": {
+    "message": "יכולות כמו סימון בצבע ולשוניות במגירות נפרדות מסייעות לך למצוא דברים בקלות, להתמקד במשימות שלך ולצמצם את הסחות הדעת."
+  },
+  "onboarding-3-header": {
+    "message": "מקום לכל דבר וכל דבר במקומו."
+  },
+  "onboarding-3-description": {
+    "message": "אפשר להתחיל במגירות שיצרנו, או להשתמש בכאלו משלך."
+  }
+}
