@@ -313,5 +313,9 @@
   },
   "integratewithmozillavpn": {
     "message": "שילוב המגירות שלך עם Mozilla VPN"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "לאפשר להרחבה להחליף הודעות עם יישומים אחרים מלבד Firefox",
+    "description": "Permission title"
   }
 }
