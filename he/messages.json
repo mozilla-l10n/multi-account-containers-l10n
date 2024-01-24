@@ -46,5 +46,168 @@
   },
   "onboarding-3-description": {
     "message": "אפשר להתחיל במגירות שיצרנו, או להשתמש בכאלו משלך."
+  },
+  "onboarding-4-header": {
+    "message": "תמיד לפתוח אתרים במגירות שרצויות לך."
+  },
+  "onboarding-4-description": {
+    "message": "לחיצה ימנית בתוך לשונית במגירה תאפשר לשייך את האתר כך שתמיד ייפתח במגירה."
+  },
+  "onboarding-5-header": {
+    "message": "לשוניות במגירות מתי שצריך אותן."
+  },
+  "onboarding-5-description": {
+    "message": "לחיצה ארוכה על כפתור הלשונית החדשה תאפשר ליצור לשונית חדשה במגירה."
+  },
+  "onboarding-6-header": {
+    "message": "מעתה אפשר לסנכרן מגירות!"
+  },
+  "onboarding-6-description-2": {
+    "message": "ניתן להפעיל סנכרון כדי לשתף מגירות ושיוכי אתרים עם כל מחשב שמחובר לחשבון שלך."
+  },
+  "onboarding-7-header-2": {
+    "message": "צריך חשבון כדי לסנכרן."
+  },
+  "onboarding-7-description-2": {
+    "message": "יש ללחוץ על כניסה כדי לאמת שהחשבון שלך פעיל."
+  },
+  "onboarding-8-description": {
+    "message": "מהיום מגירות יכולות להשתלב מול Mozilla VPN או מול מתווך שלך כדי ליצור חיבור מאובטח ופרטי שמגן על הפעילות שלך."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 לשוניות!"
+  },
+  "youHaveOpened": {
+    "message": "פתחת 100 לשוניות במגירות."
+  },
+  "spreadTheWord": {
+    "message": "אם נהנית להשתמש במגירות, נשמח להמלצה הלאה!"
+  },
+  "rate": {
+    "message": "דירוג"
+  },
+  "share": {
+    "message": "שיתוף"
+  },
+  "tweet": {
+    "message": "ציוץ"
+  },
+  "default": {
+    "message": "ברירת מחדל"
+  },
+  "manageContainers": {
+    "message": "ניהול מגירות"
+  },
+  "newContainer": {
+    "message": "מגירה חדשה"
+  },
+  "hideThisContainer": {
+    "message": "הסתרת מגירה זו"
+  },
+  "showThisContainer": {
+    "message": "הצגת מגירה זו"
+  },
+  "removeThisContainer": {
+    "message": "הסרת מגירה זו"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "להסיר את המגירה הזאת?"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "ok": {
+    "message": "אישור"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "אתרים שמשויכים למגירה זו"
+  },
+  "options": {
+    "message": "אפשרויות"
+  },
+  "name": {
+    "message": "שם"
+  },
+  "color": {
+    "message": "צבע"
+  },
+  "icon": {
+    "message": "סמל"
+  },
+  "limitToDesignatedSites": {
+    "message": "הגבלה לאתרים מוקצים"
+  },
+  "deleteThisContainer": {
+    "message": "מחיקת מגירה זו"
+  },
+  "manageSiteList": {
+    "message": "ניהול רשימת אתרים…"
+  },
+  "manageThisContainer": {
+    "message": "ניהול מגירה זו"
+  },
+  "containers": {
+    "message": "מגירות"
+  },
+  "done": {
+    "message": "סיום"
+  },
+  "getStarted": {
+    "message": "תחילת עבודה"
+  },
+  "signIn": {
+    "message": "כניסה"
+  },
+  "notNow": {
+    "message": "לא כעת"
+  },
+  "startSyncing": {
+    "message": "התחלה בסנכרון"
+  },
+  "info": {
+    "message": "פרטים",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "הבא"
+  },
+  "openThisSiteConfirmation": {
+    "message": "לפתוח את האתר הזה במגירה ששויכה לו?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "לפתוח את זה במגירה הנוכחית בכל זאת?"
+  },
+  "rememberMyDecision": {
+    "message": "שמירת הבחירה שלי עבור אתר זה"
+  },
+  "optionalPermissions": {
+    "message": "הרשאות אופציונליות:"
+  },
+  "keyboardShortCuts": {
+    "message": "קיצורי מקלדת:"
+  },
+  "onboarding": {
+    "message": "קבלת פנים"
+  },
+  "resetOnboardingPanels": {
+    "message": "איפוס לוחות קבלת פנים"
+  },
+  "onboardingToggle": {
+    "message": "יש להחליף את הבחירה כדי לצפות בלוחות קבלת הפנים שוב."
+  },
+  "tabBehavior": {
+    "message": "התנהגות לשוניות:"
+  },
+  "enableBookMarkMenus": {
+    "message": "הפעלת תפריטי סימניות"
+  },
+  "sync": {
+    "message": "סנכרון:"
+  },
+  "enableSync": {
+    "message": "הפעלת סנכרון"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "הגדרה זו מאפשר לך לפתוח סימנייה או תיקייה של סימניות במגירה."
   }
 }
