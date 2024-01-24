@@ -208,6 +208,110 @@
     "message": "הפעלת סנכרון"
   },
   "enableBookMarkMenusDescription": {
-    "message": "הגדרה זו מאפשר לך לפתוח סימנייה או תיקייה של סימניות במגירה."
+    "message": "הגדרה זו מאפשרת לך לפתוח סימנייה או תיקייה של סימניות במגירה."
+  },
+  "enableSyncDescription": {
+    "message": "הגדרה זו מאפשרת לך לסנכרן את המגירות ואת שיוכי האתרים שלך בין מכשירים."
+  },
+  "syncExclude": {
+    "message": "החרגת מגירות"
+  },
+  "syncExcludePlaceholder": {
+    "message": "הוספת ביטוי רגולרי"
+  },
+  "syncExcludeDescription": {
+    "message": "החרגת מגירות מסנכרון כשהשמות שלהן תואמים לביטוי רגולרי מסוים ללא תלות ברישיות."
+  },
+  "replaceTab": {
+    "message": "להחליף את הלשונית במקום לייצר חדשה"
+  },
+  "replaceTabDescription": {
+    "message": "להחליף את הלשונית הנוכחית אם נפתח עמוד שמשויך למגירה אחרת (במקום להשאיר את הלשונית הנוכחית פתוחה). פתיחת לשוניות עם כפתור העכבר האמצעי לא תושפע."
+  },
+  "editWhichContainer": {
+    "message": "עריכה איזו מגירה תיפתח בעת שימוש בקיצורי מקלדת ממוספרים."
+  },
+  "keyboardShortCut": {
+    "message": "מגירה לפתיחה עם קיצור המקלדת $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "פתיחה במגירה „$containerName$”",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "פתיחה בלשונית הנוכחית",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "ביקשת מ־Firefox תמיד לפתוח את האתר הזה תחת „$containerName$”:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "בחירת מקום",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "הסתרה"
+  },
+  "show": {
+    "message": "הצגה"
+  },
+  "protectYourContainers": {
+    "message": "הגנה על המגירות שלך עם Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "הגנה על מגירה זו עם Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "הגדרות שרת מתווך מתקדמות"
+  },
+  "proxyInputLabel": {
+    "message": "נא למלא שרת מתווך מותאם אישית"
+  },
+  "useCustomLocation": {
+    "message": "שימוש במקום מותאם אישית למגירה זו"
+  },
+  "clearproxylabel": {
+    "message": "ניקוי שרת מתווך"
+  },
+  "moz-vpn-connected": {
+    "message": "‏Mozilla VPN פעיל"
+  },
+  "moz-vpn-disconnected": {
+    "message": "‏Mozilla VPN כבוי"
+  },
+  "invalidProxyAlert": {
+    "message": "נא למלא כתובת שרת מתווך תקינה"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "יש להפעיל את Mozilla VPN כדי להשתמש ביכולת הזאת."
+  },
+  "learnMore": {
+    "message": "מידע נוסף"
+  },
+  "proxyNowAvailable": {
+    "message": "עכשיו עם Mozilla VPN והגדרות שרת מתווך מתקדמות"
+  },
+  "applyToContainer": {
+    "message": "החלה על מגירה"
+  },
+  "tooltipWarning": {
+    "message": "מגירה זו מוגדרת להשתמש בשרת מתווך של Mozilla VPN, אך Mozilla VPN אינו פעיל. יש להפעיל את Mozilla VPN כדי להשתמש במגירה זו."
+  },
+  "integratewithmozillavpn": {
+    "message": "שילוב המגירות שלך עם Mozilla VPN"
   }
 }
