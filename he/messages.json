@@ -317,5 +317,79 @@
   "nativeMessagingPermissionTitle": {
     "message": "לאפשר להרחבה להחליף הודעות עם יישומים אחרים מלבד Firefox",
     "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "הגדרה זו מאפשרת להרחבה להחליף הודעות עם לקוח Mozilla VPN וזה נחוץ כדי שיכולות השילוב מול Mozilla VPN יעבדו.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "לאפשר להרחבה לשלוט בהגדרות השרת המתווך",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "הגדרה זו מאפשרת לך להשתמש בהגדרות שרת מתווך מתקדמות ולהפעיל את יכולות השילוב של Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "אפשרות זו דורשת הרשאות נוספות כדי לעבוד. ניתן להשבית את ההרשאות בכל עת דרך עמוד ההגדרות.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "השילוב מול Mozilla VPN דורש מינוי והרשאות נוספות כדי לעבוד."
+  },
+  "enable": {
+    "message": "הפעלה",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "שילוב המגירות שלך מול Mozilla VPN"
+  },
+  "theme": {
+    "message": "ערכת נושא:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "בחירת ערכת נושא",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "זיהוי אוטומטי (ברירת מחדל)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "בהירה",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "כהה",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "סינון רשימת המגירות לפי שם:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "חיפוש שם מגירה"
+  },
+  "imageAltContainerInfo": {
+    "message": "פרטי מגירה",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "מגירה ברירת מחדל",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "פתיחת לוח מגירות",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "קיצור דרך למגירה $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
