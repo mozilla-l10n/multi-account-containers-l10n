@@ -173,5 +173,23 @@
   },
   "invalidProxyAlert": {
     "message": "Inserìs un URL di proxy valit"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN e scugne jessi ative par doprâ cheste funzion."
+  },
+  "learnMore": {
+    "message": "Plui informazions"
+  },
+  "proxyNowAvailable": {
+    "message": "Cumò cun Mozilla VPN e impostazions proxy avanzadis"
+  },
+  "applyToContainer": {
+    "message": "Apliche al contignidôr"
+  },
+  "tooltipWarning": {
+    "message": "Chest contignidôr al è configurât par doprâ un proxy Mozilla VPN, ma Mozilla VPN no je ative. Ative Mozilla VPN par doprâ chest contignidôr."
+  },
+  "getMozillaVpn": {
+    "message": "Oten Mozilla VPN"
   }
 }
