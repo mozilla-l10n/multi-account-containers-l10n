@@ -59,5 +59,116 @@
   },
   "onboarding-4-header": {
     "message": "Vierç simpri i sîts tai contignidôrs che tu vûs."
+  },
+  "onboarding-4-description": {
+    "message": "Fâs clic cul boton diestri dal mouse dentri di une schede contignidôr par fâ in mût che il sît al vegni simpri viert tal contignidôr."
+  },
+  "onboarding-5-header": {
+    "message": "Schedis contignidôr cuant che ti coventin."
+  },
+  "onboarding-5-description": {
+    "message": "Frache a dilunc il boton Gnove schede par vierzi une gnove schede contignidôr."
+  },
+  "onboarding-6-header": {
+    "message": "Cumò tu puedis sincronizâ i contignidôrs!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Ative la sincronizazion par condividi i contignidôrs e i sîts associâts cun ducj i computers conetûts al to account."
+  },
+  "onboarding-7-header-2": {
+    "message": "Al covente un account par sincronizâ."
+  },
+  "onboarding-7-description-2": {
+    "message": "Fâs clic su Jentre par confermâ che il to account al è atîf."
+  },
+  "onboarding-8-description": {
+    "message": "Cumò al è pussibil integrâ i contignidôrs cun Mozilla VPN o un proxy a tô sielte, creant une conession sigure e riservade par protezi lis tôs ativitâts in rêt."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 schedis!"
+  },
+  "youHaveOpened": {
+    "message": "Tu âs viert 100 schedis contignidôr."
+  },
+  "spreadTheWord": {
+    "message": "Se ti plasin i contignidôrs, judinus a sparniçâ la vôs!"
+  },
+  "rate": {
+    "message": "Valute"
+  },
+  "share": {
+    "message": "Condivît"
+  },
+  "tweet": {
+    "message": "Mande un tweet"
+  },
+  "default": {
+    "message": "Predefinît"
+  },
+  "manageContainers": {
+    "message": "Gjestìs contignidôrs"
+  },
+  "newContainer": {
+    "message": "Gnûf contignidôr"
+  },
+  "hideThisContainer": {
+    "message": "Plate chest contignidôr"
+  },
+  "showThisContainer": {
+    "message": "Mostre chest contignidôr"
+  },
+  "removeThisContainer": {
+    "message": "Gjave chest contignidôr"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Gjavâ pardabon chest contignidôr?"
+  },
+  "cancel": {
+    "message": "Anule"
+  },
+  "ok": {
+    "message": "Va ben"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sîts assegnâts a chest contignidôr"
+  },
+  "options": {
+    "message": "Opzions"
+  },
+  "name": {
+    "message": "Non"
+  },
+  "color": {
+    "message": "Colôr"
+  },
+  "icon": {
+    "message": "Icone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limite ai sîts designâts"
+  },
+  "deleteThisContainer": {
+    "message": "Elimine chest contignidôr"
+  },
+  "manageSiteList": {
+    "message": "Gjestìs liste sîts…"
+  },
+  "manageThisContainer": {
+    "message": "Gjestìs chest contignidôr"
+  },
+  "proxyInputLabel": {
+    "message": "Inserìs un proxy personalizât"
+  },
+  "useCustomLocation": {
+    "message": "Dopre une posizion personalizade par chest contignidôr"
+  },
+  "clearproxylabel": {
+    "message": "Cancele proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN e je ative"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN no je ative"
   }
 }
