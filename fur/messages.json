@@ -2,5 +2,62 @@
   "extensionDescription": {
     "message": "Multi-Account Containers ti permet di isolâ lis variis parts de tô vite in rêt in schedis diversis. Lis etichetis personalizadis e lis schedis cun codifiche colorade a judin a separâ lis ativitâts, come lis compris in rêt, la planificazion dai viaçs o il control de pueste eletroniche par lavôr.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Vierç gnove schede in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Torne vierç chest sît in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordene schedis par contignidôr",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Vierç simpri chest sît in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Vierç simpri in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Vierç simpri il sît in chest contignidôr"
+  },
+  "openANewTabIn": {
+    "message": "Vierç une gnove schede in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Vierç gnove schede in chest contignidôr"
+  },
+  "openTabs": {
+    "message": "Schedis viertis",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Sposte schede intun gnûf barcon"
+  },
+  "onboarding-1-header": {
+    "message": "Un mût miôr par gjestî dutis lis tôs ativitâts in rêt"
+  },
+  "onboarding-1-description": {
+    "message": "Dopre i contignidôrs par organizâ lis ativitâts, gjestî i accounts e tignîti concentrât su ce che ti interesse."
+  },
+  "onboarding-2-header": {
+    "message": "Fâs lavorâ i contignidôrs al to puest."
+  },
+  "onboarding-2-description": {
+    "message": "Funzions come la codifiche a colôrs e lis schedis contignidôr separadis ti judin a cjatâ cun facilitât ce che ti covente, concentrâ la tô atenzion e ridusi al minim lis distrazions."
+  },
+  "onboarding-3-header": {
+    "message": "Un puest par ogni robe e ogni robe al so puest."
+  },
+  "onboarding-3-description": {
+    "message": "Scomence cui contignidôrs che o vin creât nô opûr cree un par to cont."
+  },
+  "onboarding-4-header": {
+    "message": "Vierç simpri i sîts tai contignidôrs che tu vûs."
   }
 }
