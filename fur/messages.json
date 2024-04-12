@@ -170,5 +170,8 @@
   },
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN no je ative"
+  },
+  "invalidProxyAlert": {
+    "message": "Inserìs un URL di proxy valit"
   }
 }
