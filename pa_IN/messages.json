@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": " ਬੁੱਕਮਾਰਕ ਨੂੰ ਕਨਟੇਨਰ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
   }
 }
