@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Zapołožku w nowym kontejnerowym rajtarku wočinić"
   }
 }
