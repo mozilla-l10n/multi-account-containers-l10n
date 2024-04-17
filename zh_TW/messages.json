@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "用容器分頁開啟書籤"
   }
 }
