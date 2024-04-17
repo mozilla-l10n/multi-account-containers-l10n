@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Ouvrir le marque-page dans un onglet conteneur"
   }
 }
