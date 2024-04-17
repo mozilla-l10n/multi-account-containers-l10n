@@ -391,5 +391,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "פתיחת סימנייה במגירת לשוניות"
   }
 }
