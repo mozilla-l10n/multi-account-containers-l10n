@@ -217,6 +217,81 @@
   "enableSync": {
     "message": "Ative sincronizazion"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Cheste impostazion ti permet di vierzi un segnelibri o une cartele di segnelibris intun contignidôr."
+  },
+  "enableSyncDescription": {
+    "message": "Cheste impostazion ti permet di sincronizâ su plui dispositîfs i tiei contignidôrs e i sîts associâts."
+  },
+  "syncExclude": {
+    "message": "Esclusion contignidôrs"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Inserìs une espression regolâr"
+  },
+  "syncExcludeDescription": {
+    "message": "Esclût de sincronizazion i contignidôrs in base al lôr non doprant la espression regolâr specificade (cence distinzion tra maiusculis e minusculis)."
+  },
+  "replaceTab": {
+    "message": "Sostituìs schede invezit che creâ une gnove"
+  },
+  "replaceTabDescription": {
+    "message": "Se e ven vierte une pagjine assegnade a un altri contignidôr, sostituìs la schede corinte invezit di tignîle vierte. La viertidure des schedis cul boton centrâl dal mouse no ven tocjade di cheste opzion."
+  },
+  "editWhichContainer": {
+    "message": "Modifiche cuâl contignidôr che al à di sei viert cuant che a vegnin dopradis lis scurtis numeradis."
+  },
+  "keyboardShortCut": {
+    "message": "Contignidôr di vierzi cu la scurte di tastiere $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers — Conferme navigazion",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Vierç tal contignidôr $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Vierç in cheste schede",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Tu âs domandât a Firefox di vierzi simpri il contignidôr $containerName$ par chest sît:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Sielç posizion",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Plate"
+  },
+  "show": {
+    "message": "Mostre"
+  },
+  "protectYourContainers": {
+    "message": "Protêç i tiei contignidôrs cun Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protêç chest contignidôr cun Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Impostazions proxy avanzadis"
+  },
   "proxyInputLabel": {
     "message": "Inserìs un proxy personalizât"
   },
@@ -337,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Vierç segnelibri in schede contignidôr"
   }
 }
