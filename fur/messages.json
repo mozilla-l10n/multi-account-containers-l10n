@@ -214,5 +214,67 @@
   "proxyPermissionDescription": {
     "message": "Chest al permet di doprâ lis impostazions proxy avanzadis e ativâ la integrazion cun Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Cheste funzion e à bisugne di un permès in plui par funzionâ. Cuant che tu volarâs, al sarà pussibil disativâ i permès te pagjine des impostazions.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "La integrazion cun Mozilla VPN e domande un abonament e permès in plui par funzionâ."
+  },
+  "enable": {
+    "message": "Ative",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+  },
+  "theme": {
+    "message": "Teme:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Sielç un teme",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Rileve in automatic (predefinît)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Clâr",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Scûr",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtre la liste dai contignidôrs par non:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cîr il non dal contignidôr"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informazions sul contignidôr",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Contignidôr predefinît",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Vierç panel contignidôrs",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Scurte pai contignidôrs $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   }
 }
