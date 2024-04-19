@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Åpne bokmerke i innholdsfane"
   }
 }
