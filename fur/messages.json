@@ -156,6 +156,67 @@
   "manageThisContainer": {
     "message": "Gjestìs chest contignidôr"
   },
+  "containers": {
+    "message": "Contignidôrs"
+  },
+  "done": {
+    "message": "Fat"
+  },
+  "getStarted": {
+    "message": "Scomence"
+  },
+  "signIn": {
+    "message": "Jentre"
+  },
+  "notNow": {
+    "message": "No cumò"
+  },
+  "startSyncing": {
+    "message": "Invie la sincronizazion"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sucessîf"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Vierzi chest sît tal contignidôr assegnât?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Desideristu distès vierzi chest sît tal contignidôr corint?"
+  },
+  "rememberMyDecision": {
+    "message": "Visiti de mê decision par chest sît"
+  },
+  "optionalPermissions": {
+    "message": "Permès facoltatîfs:"
+  },
+  "keyboardShortCuts": {
+    "message": "Scurtis di tastiere:"
+  },
+  "onboarding": {
+    "message": "Introduzion"
+  },
+  "resetOnboardingPanels": {
+    "message": "Ripristine panei introduzion"
+  },
+  "onboardingToggle": {
+    "message": "Dopre cheste opzion par tornâ a viodi i panei de introduzion."
+  },
+  "tabBehavior": {
+    "message": "Compuartament de schede:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ative menûs segnelibris"
+  },
+  "sync": {
+    "message": "Sincronizazion:"
+  },
+  "enableSync": {
+    "message": "Ative sincronizazion"
+  },
   "proxyInputLabel": {
     "message": "Inserìs un proxy personalizât"
   },
