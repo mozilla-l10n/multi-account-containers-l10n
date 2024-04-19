@@ -191,5 +191,28 @@
   },
   "getMozillaVpn": {
     "message": "Oten Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN e permès pai proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Permet ae estension di scambiâ i messaçs cun programs diviers di Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Cheste impostazion e permet ae estension di scambiâ messaçs cul client Mozilla VPN e e covente pal funzionament de integrazion cun Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Permet ae estension di controlâ lis impostazions dal proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Chest al permet di doprâ lis impostazions proxy avanzadis e ativâ la integrazion cun Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   }
 }
