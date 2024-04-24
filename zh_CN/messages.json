@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "在身份标签页中打开书签"
   }
 }
