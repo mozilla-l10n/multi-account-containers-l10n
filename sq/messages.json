@@ -408,5 +408,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Hape Faqerojtësin në Skedë Kontejneri"
   }
 }
