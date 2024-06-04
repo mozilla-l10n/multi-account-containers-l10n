@@ -412,5 +412,8 @@
         "content": "$1"
       }
     }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Адкрыць закладку ў картцы ў кантэйнеры"
   }
 }
