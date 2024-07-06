@@ -72,14 +72,14 @@
   "onboarding-6-header": {
     "message": "¡Ahora está disponible la sincronización de contenedores!"
   },
-  "onboarding-6-description": {
-    "message": "Activa la sincronización para compartir los contenedores y las asignaciones de sitios con cualquier computadora conectada a tu cuenta de Firefox."
+  "onboarding-6-description-2": {
+    "message": "Activa la sincronización para compartir los contenedores y las asignaciones de sitios con cualquier computador conectado a tu cuenta."
   },
-  "onboarding-7-header": {
-    "message": "Se requiere una cuenta de Firefox para sincronizar."
+  "onboarding-7-header-2": {
+    "message": "Se requiere una cuenta para sincronizar."
   },
-  "onboarding-7-description": {
-    "message": "Haz clic en Iniciar sesión para confirmar que tu cuenta de Firefox está activa."
+  "onboarding-7-description-2": {
+    "message": "Haga clic en Iniciar sesión para confirmar que su cuenta está activa."
   },
   "onboarding-8-description": {
     "message": "Ahora los contenedores se pueden integrar con Mozilla VPN o tu propio proxy para crear una conexión segura y privada que protege tu actividad."
@@ -211,8 +211,8 @@
   "enableBookMarkMenus": {
     "message": "Habilitar menús de marcadores"
   },
-  "firefoxAccountsSync": {
-    "message": "Sincronización de cuentas de Firefox:"
+  "sync": {
+    "message": "Sincronización:"
   },
   "enableSync": {
     "message": "Habilitar sincronización"
@@ -399,5 +399,21 @@
   "defaultContainerLabel": {
     "message": "Contenedor predeterminado",
     "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Panel de contenedor abierto",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Acceso directo al contenedor $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Abrir marcador en pestaña contenedora"
   }
 }
