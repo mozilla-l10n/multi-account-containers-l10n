@@ -415,5 +415,13 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Open Bookmark in Container Tab"
+  },
+  "resetSiteCookiesTooltipInfo": {
+    "message": "Reset cookies for this site",
+    "description": "Label for hovering of the reset button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Remove this site",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
