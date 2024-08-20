@@ -415,5 +415,13 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Zapołožku w nowym kontejnerowym rajtarku wočinić"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Placki za tute sydło zhašeć",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Tute sydło wotstronić",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
