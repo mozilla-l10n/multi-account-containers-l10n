@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Открыть закладку в контейнерной вкладке"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Удалить куки с этого сайта",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Удалить этот сайт",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Очистить хранилище и куки",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Куки с $siteName$ успешно удалены",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Не удалось удалить куки для $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Хранилище и куки $containerName$ были очищены.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
