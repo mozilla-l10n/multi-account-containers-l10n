@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers hjelper deg med å holde alle delene av livet ditt på nettet i forskjellige faner. Egendefinerte etiketter og fargekodede faner hjelper deg med å holde ulike aktiviteter — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — atskilt.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Åpne ny fane i…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Åpne denne siden på nytt i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sorter faner etter beholder",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Åpne alltid dette nettstedet i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Åpne alltid i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Åpne alltid nettstedet i beholder"
+  },
+  "openANewTabIn": {
+    "message": "Åpne en ny fane i…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Åpne ny fane i denne beholderen"
+  },
+  "openTabs": {
+    "message": "Åpne faner",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Flytt faner til et nytt vindu"
+  },
+  "onboarding-1-header": {
+    "message": "En bedre måte å håndtere alle tingene du gjør på nettet"
+  },
+  "onboarding-1-description": {
+    "message": "Bruk beholdere til å organisere oppgaver, behandle kontoer og holde fokus der du vil ha det."
+  },
+  "onboarding-2-header": {
+    "message": "Få beholderne til å fungere for deg."
+  },
+  "onboarding-2-description": {
+    "message": "Funksjoner som fargekoding og separate innholdsfaner hjelper deg med å finne ting enkelt, fokusere oppmerksomheten og minimere distraksjoner."
+  },
+  "onboarding-3-header": {
+    "message": "Et sted for alt, og alt på sin plass."
+  },
+  "onboarding-3-description": {
+    "message": "Start med beholderne vi har laget, eller lag dine egne."
+  },
+  "onboarding-4-header": {
+    "message": "Åpne alltid nettsteder i beholderne du ønsker."
+  },
+  "onboarding-4-description": {
+    "message": "Høyreklikk inne i en innholdsfane for å tilordne nettstedet til alltid å åpne i beholderen."
+  },
+  "onboarding-5-header": {
+    "message": "Innholdsfaner når du trenger dem."
+  },
+  "onboarding-5-description": {
+    "message": "Trykk lenge på Ny fane-knappen for å opprette en ny innholdsfane."
+  },
+  "onboarding-6-header": {
+    "message": "Synkronisering av beholdere er nå tilgjengelig!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Slå på synkronisering for å dele beholder- og nettstedstildelinger med hvilken som helst datamaskin som er koblet til kontoen din."
+  },
+  "onboarding-7-header-2": {
+    "message": "En konto er nødvendig for å synkronisere."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klikk på Logg på for å bekrefte at kontoen din er aktiv."
+  },
+  "onboarding-8-description": {
+    "message": "Nå kan beholdere integreres med Mozilla VPN eller din egen proxy for å lage en sikker, privat tilkobling som beskytter aktiviteten din."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 faner!"
+  },
+  "youHaveOpened": {
+    "message": "Du har åpnet 100 innholdsfaner."
+  },
+  "spreadTheWord": {
+    "message": "Hvis du liker beholdere, hjelp oss å spre ordet!"
+  },
+  "rate": {
+    "message": "Vurdering"
+  },
+  "share": {
+    "message": "Del"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Håndter beholdere"
+  },
+  "newContainer": {
+    "message": "Ny beholder"
+  },
+  "hideThisContainer": {
+    "message": "Skjul denne beholderen"
+  },
+  "showThisContainer": {
+    "message": "Vis denne beholderen"
+  },
+  "removeThisContainer": {
+    "message": "Fjern denne beholderen"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Er du sikker på at du vil fjerne denne beholderen?"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Nettsteder som er tilordnet denne beholderen"
+  },
+  "options": {
+    "message": "Innstillinger"
+  },
+  "name": {
+    "message": "Navn"
+  },
+  "color": {
+    "message": "Farge"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Begrens til utpekte nettsteder"
+  },
+  "deleteThisContainer": {
+    "message": "Fjern denne beholderen"
+  },
+  "manageSiteList": {
+    "message": "Behandle nettstedsliste…"
+  },
+  "manageThisContainer": {
+    "message": "Behandle denne beholderen"
+  },
+  "containers": {
+    "message": "Beholdere"
+  },
+  "done": {
+    "message": "Ferdig"
+  },
+  "getStarted": {
+    "message": "Kom i gang"
+  },
+  "signIn": {
+    "message": "Logg inn"
+  },
+  "notNow": {
+    "message": "Ikke nå"
+  },
+  "startSyncing": {
+    "message": "Start synkronisering"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Neste"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Åpne dette nettstedet i den tildelte beholderen?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vil du fortsatt åpne i denne nåværende beholderen?"
+  },
+  "rememberMyDecision": {
+    "message": "Husk avgjørelsen min for dette nettstedet"
+  },
+  "optionalPermissions": {
+    "message": "Valgfrie tillatelser:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastatursnarveier:"
+  },
+  "onboarding": {
+    "message": "Innføring"
+  },
+  "resetOnboardingPanels": {
+    "message": "Tilbakestill innføringspaneler"
+  },
+  "onboardingToggle": {
+    "message": "Veksle på denne for å se introduksjonspanelene igjen."
+  },
+  "tabBehavior": {
+    "message": "Faneatferd:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktiver bokmerkemenyer"
+  },
+  "sync": {
+    "message": "Synkronisering:"
+  },
+  "enableSync": {
+    "message": "Slå på synkronisering"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Denne innstillingen lar deg åpne et bokmerke eller mappe med bokmerker i en beholder."
+  },
+  "enableSyncDescription": {
+    "message": "Denne innstillingen lar deg synkronisere dine beholdere og nettstedstilordningene på tvers av enheter."
+  },
+  "syncExclude": {
+    "message": "Beholderekskludering"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Sett inn et regulært uttrykk"
+  },
+  "syncExcludeDescription": {
+    "message": "Ekskluder beholdere fra synkronisering når navnet deres samsvarer med det angitte regulære uttrykket som ikke skiller mellom store og små bokstaver."
+  },
+  "replaceTab": {
+    "message": "Erstatt fanen i stedet for å opprette en ny"
+  },
+  "replaceTabDescription": {
+    "message": "Erstatt gjeldende fane hvis en side som er tilordnet en annen beholder åpnes (i stedet for å holde gjeldende fane åpen). Åpning av faner med midtre museknapp påvirkes ikke."
+  },
+  "editWhichContainer": {
+    "message": "Rediger hvilken beholder som åpnes når du bruker de nummererte snarveiene."
+  },
+  "keyboardShortCut": {
+    "message": "Beholder som skal åpnes med tastatursnarvei $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account-Container – Bekreft navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Åpne i ny $containerName$-beholder",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Åpne i gjeldende fane",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Du ba Firefox om alltid å åpne $containerName$ for dette nettstedet:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Velg plassering",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Skjul"
+  },
+  "show": {
+    "message": "Vis"
+  },
+  "protectYourContainers": {
+    "message": "Beskytt beholderne dine med Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Beskytt denne beholderen med Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avanserte proxy-innstillinger"
+  },
+  "proxyInputLabel": {
+    "message": "Angi egendefinert proxy"
+  },
+  "useCustomLocation": {
+    "message": "Bruk en egendefinert plassering for denne beholderen"
+  },
+  "clearproxylabel": {
+    "message": "Tøm proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN er på"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN er av"
+  },
+  "invalidProxyAlert": {
+    "message": "Skriv inn en gyldig proxy-adresse"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN må være aktivert for å bruke denne funksjonen."
+  },
+  "learnMore": {
+    "message": "Les mer"
+  },
+  "proxyNowAvailable": {
+    "message": "Nå med Mozilla VPN og avanserte proxy-innstillinger"
+  },
+  "applyToContainer": {
+    "message": "Bruk på beholder"
+  },
+  "tooltipWarning": {
+    "message": "Denne beholderen er satt opp til å bruke en Mozilla VPN-proxy, men Mozilla VPN er ikke aktivert. Aktiver Mozilla VPN for å bruke denne beholderen."
+  },
+  "getMozillaVpn": {
+    "message": "Få Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrer beholderne dine med Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN og proxy-tillatelser",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Tillat utvidelse å utveksle meldinger med andre programmer enn Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Denne innstillingen lar utvidelsen utveksle meldinger med Mozilla VPN-klienten og er nødvendig for at Mozilla VPN-integrasjonsfunksjoner skal fungere.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Tillat utvidelse å kontrollere proxy-innstillinger",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Dette lar deg bruke avanserte proxy-innstillinger og aktivere Mozilla VPN-integrasjonsfunksjoner.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Denne funksjonen krever en ekstra tillatelse for å fungere. Tillatelser kan deaktiveres når som helst på innstillingssiden.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrasjon med Mozilla VPN krever et abonnement og ekstra tillatelser for å fungere."
+  },
+  "enable": {
+    "message": "Slå på",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrer beholderne dine med Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Velg et tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatisk gjenkjenning (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Lyst",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Mørkt",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrer beholderliste etter navn:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Søk etter beholdernavn"
+  },
+  "imageAltContainerInfo": {
+    "message": "Beholderinformasjon",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardbeholder",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Åpne innholdspanel",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Beholdersnarvei $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Åpne bokmerke i innholdsfane"
+  }
+}

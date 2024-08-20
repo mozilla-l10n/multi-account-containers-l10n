@@ -1,0 +1,66 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers ви помага да запазите всички части от вашия онлайн живот в различни раздели. Персонализираните етикети и цветно кодираните раздели помагат за отделяне на различни дейности – като онлайн пазаруване, планиране на пътуване или проверка на служебен имейл.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Нов раздел в…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Отворете отново този сайт след…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Сортиране на раздели по контейнер",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Винаги отваряйте този сайт в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Винаги отваряне в…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Винаги отваряйте този сайт в контейнер"
+  },
+  "openANewTabIn": {
+    "message": "Нов раздел в…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Нов раздел в този контейнер"
+  },
+  "openTabs": {
+    "message": "Отворени раздели",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Преместване на раздели в нов прозорец"
+  },
+  "onboarding-1-header": {
+    "message": "По-добър начин да управлявате всички неща, които правите онлайн"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 раздела!"
+  },
+  "rate": {
+    "message": "Оценяване"
+  },
+  "share": {
+    "message": "Споделяне"
+  },
+  "default": {
+    "message": "Стандартно"
+  },
+  "ok": {
+    "message": "Добре"
+  },
+  "icon": {
+    "message": "Пиктограма"
+  },
+  "learnMore": {
+    "message": "Научете повече"
+  }
+}

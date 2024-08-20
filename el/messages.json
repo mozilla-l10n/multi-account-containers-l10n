@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Το Multi-Account Containers σάς βοηθά να έχετε όλες τις πτυχές της διαδικτυακής σας ζωής σε διαφορετικές καρτέλες. Οι προσαρμοσμένες ετικέτες και τα χρώματα σάς επιτρέπουν να ξεχωρίσετε τις διάφορες δραστηριότητες — αγορές, σχεδιασμός ταξιδιών ή έλεγχος εργασιακού email.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Άνοιγμα νέας καρτέλας σε…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Νέο άνοιγμα ιστοτόπου σε…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ταξινόμηση καρτελών κατά θεματική ενότητα",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Πάντα άνοιγμα του ιστοτόπου σε…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Πάντα άνοιγμα σε…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Πάντα άνοιγμα του ιστοτόπου σε θεματική ενότητα"
+  },
+  "openANewTabIn": {
+    "message": "Άνοιγμα νέας καρτέλας σε…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Άνοιγμα νέας καρτέλας σε αυτήν τη θεματική ενότητα"
+  },
+  "openTabs": {
+    "message": "Ανοικτές καρτέλες",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Μετακίνηση καρτελών σε νέο παράθυρο"
+  },
+  "onboarding-1-header": {
+    "message": "Ένας καλύτερος τρόπος για να διαχειριστείτε όλα αυτά που κάνετε στο διαδίκτυο"
+  },
+  "onboarding-1-description": {
+    "message": "Με τις θεματικές καρτέλες, μπορείτε να οργανώσετε εργασίες, να διαχειριστείτε λογαριασμούς και να εστιάσετε εκεί που θέλετε."
+  },
+  "onboarding-2-header": {
+    "message": "Οι θεματικές καρτέλες εργάζονται για εσάς."
+  },
+  "onboarding-2-description": {
+    "message": "Λειτουργίες, όπως ο χρωματισμός και οι ξεχωριστές θεματικές καρτέλες, σας βοηθούν να εντοπίζετε στοιχεία ευκολότερα, να εστιάσετε την προσοχή σας και να ελαχιστοποιήσετε τους περισπασμούς."
+  },
+  "onboarding-3-header": {
+    "message": "Ένα μέρος για όλα και όλα στη θέση τους."
+  },
+  "onboarding-3-description": {
+    "message": "Ξεκινήστε με τις θεματικές ενότητες που δημιουργήσαμε ή φτιάξτε τις δικές σας."
+  },
+  "onboarding-4-header": {
+    "message": "Ανοίξτε ιστοτόπους στις ενότητες που θέλετε."
+  },
+  "onboarding-4-description": {
+    "message": "Κάντε δεξί κλικ εντός μιας θεματικής καρτέλας για να ανοίγει πάντα ο ιστότοπος σε αυτήν τη θεματική ενότητα."
+  },
+  "onboarding-5-header": {
+    "message": "Θεματικές καρτέλες όταν τις χρειάζεστε."
+  },
+  "onboarding-5-description": {
+    "message": "Πατήστε παρατεταμένα το κουμπί νέας καρτέλας για να δημιουργήσετε μια νέα θεματική καρτέλα."
+  },
+  "onboarding-6-header": {
+    "message": "Ο συγχρονισμός θεματικών ενοτήτων είναι πλέον διαθέσιμος!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Ενεργοποιήστε τον συγχρονισμό για να έχετε τις θεματικές ενότητες και τις αναθέσεις ιστοτόπων σε κάθε υπολογιστή με τον λογαριασμό σας."
+  },
+  "onboarding-7-header-2": {
+    "message": "Απαιτείται λογαριασμός για τον συγχρονισμό."
+  },
+  "onboarding-7-description-2": {
+    "message": "Κάντε κλικ στο «Σύνδεση» για να επιβεβαιώσετε ότι ο λογαριασμός σας είναι ενεργός."
+  },
+  "onboarding-8-description": {
+    "message": "Τώρα οι θεματικές ενότητες συνεργάζονται με το Mozilla VPN ή τον δικό σας διακομιστή μεσολάβησης για να δημιουργήσουν μια ασφαλή, ιδιωτική σύνδεση που προστατεύει τη δραστηριότητά σας."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 καρτέλες!"
+  },
+  "youHaveOpened": {
+    "message": "Έχετε ανοίξει 100 θεματικές καρτέλες."
+  },
+  "spreadTheWord": {
+    "message": "Αν σας αρέσουν οι θεματικές ενότητες, βοηθήστε μας να τις διαδώσουμε!"
+  },
+  "rate": {
+    "message": "Αξιολόγηση"
+  },
+  "share": {
+    "message": "Κοινοποίηση"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Προεπιλογή"
+  },
+  "manageContainers": {
+    "message": "Διαχείριση θεματικών ενοτήτων"
+  },
+  "newContainer": {
+    "message": "Νέα θεματική ενότητα"
+  },
+  "hideThisContainer": {
+    "message": "Απόκρυψη θεματικής ενότητας"
+  },
+  "showThisContainer": {
+    "message": "Εμφάνιση θεματικής ενότητας"
+  },
+  "removeThisContainer": {
+    "message": "Αφαίρεση θεματικής ενότητας"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Θέλετε σίγουρα να αφαιρέσετε τη θεματική ενότητα;"
+  },
+  "cancel": {
+    "message": "Ακύρωση"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Καταχωρημένοι ιστότοποι θεματικής ενότητας"
+  },
+  "options": {
+    "message": "Επιλογές"
+  },
+  "name": {
+    "message": "Όνομα"
+  },
+  "color": {
+    "message": "Χρώμα"
+  },
+  "icon": {
+    "message": "Εικονίδιο"
+  },
+  "limitToDesignatedSites": {
+    "message": "Περιορισμός σε καθορισμένους ιστοτόπους"
+  },
+  "deleteThisContainer": {
+    "message": "Διαγραφή θεματικής ενότητας"
+  },
+  "manageSiteList": {
+    "message": "Διαχείριση λίστας ιστοτόπων…"
+  },
+  "manageThisContainer": {
+    "message": "Διαχείριση θεματικής ενότητας"
+  },
+  "containers": {
+    "message": "Θεματικές ενότητες"
+  },
+  "done": {
+    "message": "Τέλος"
+  },
+  "getStarted": {
+    "message": "Έναρξη"
+  },
+  "signIn": {
+    "message": "Σύνδεση"
+  },
+  "notNow": {
+    "message": "Όχι τώρα"
+  },
+  "startSyncing": {
+    "message": "Έναρξη συγχρονισμού"
+  },
+  "info": {
+    "message": "πληροφορίες",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Επόμενο"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Άνοιγμα ιστοτόπου στην καθορισμένη θεματική ενότητα;"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Θα θέλατε ακόμα να το ανοίξετε σε αυτήν τη θεματική ενότητα;"
+  },
+  "rememberMyDecision": {
+    "message": "Αποθήκευση επιλογής για τον ιστότοπο"
+  },
+  "optionalPermissions": {
+    "message": "Προαιρετικά δικαιώματα:"
+  },
+  "keyboardShortCuts": {
+    "message": "Συντομεύσεις πληκτρολογίου:"
+  },
+  "onboarding": {
+    "message": "Καλωσόρισμα"
+  },
+  "resetOnboardingPanels": {
+    "message": "Επαναφορά οθονών καλωσορίσματος"
+  },
+  "onboardingToggle": {
+    "message": "Ενεργοποιήστε αυτό για να δείτε ξανά τις οθόνες καλωσορίσματος."
+  },
+  "tabBehavior": {
+    "message": "Συμπεριφορά καρτέλας:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ενεργοποίηση μενού σελιδοδεικτών"
+  },
+  "sync": {
+    "message": "Συγχρονισμός:"
+  },
+  "enableSync": {
+    "message": "Ενεργοποίηση συγχρονισμού"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Αυτή η ρύθμιση σάς επιτρέπει να ανοίξετε έναν σελιδοδείκτη ή φάκελο σελιδοδεικτών σε θεματική ενότητα."
+  },
+  "enableSyncDescription": {
+    "message": "Αυτή η ρύθμιση σάς επιτρέπει να συγχρονίζετε τις θεματικές σας καρτέλες και τις αναθέσεις ιστοτόπων σας σε όλες τις συσκευές σας."
+  },
+  "syncExclude": {
+    "message": "Εξαίρεση θεματικής ενότητας"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Εισαγωγή τυπικής έκφρασης"
+  },
+  "syncExcludeDescription": {
+    "message": "Εξαίρεση θεματικών ενοτήτων από τον συγχρονισμό όταν το όνομά τους αντιστοιχεί στην καθορισμένη τυπική έκφραση (χωρίς διάκριση πεζών - κεφαλαίων)."
+  },
+  "replaceTab": {
+    "message": "Αντικατάσταση καρτέλας αντί για δημιουργία νέας"
+  },
+  "replaceTabDescription": {
+    "message": "Αντικατάσταση της τρέχουσας καρτέλας εάν ανοίξει μια σελίδα που έχει ανατεθεί σε άλλη θεματική ενότητα (αντί να παραμείνει ανοικτή η τρέχουσα καρτέλα). Δεν επηρεάζεται το άνοιγμα καρτελών με το μεσαίο κουμπί του ποντικιού."
+  },
+  "editWhichContainer": {
+    "message": "Επεξεργαστείτε ποια θεματική καρτέλα θα ανοίγει με τις αριθμημένες συντομεύσεις."
+  },
+  "keyboardShortCut": {
+    "message": "Θεματική ενότητα που ανοίγει με τη συντόμευση πληκτρολογίου $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Επιβεβαίωση πλοήγησης",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Άνοιγμα σε καρτέλα «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Άνοιγμα στην τρέχουσα καρτέλα",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Έχετε ζητήσει από το Firefox να ανοίγει πάντα το «$containerName$» για τον ιστότοπο:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Επιλογή τοποθεσίας",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Απόκρυψη"
+  },
+  "show": {
+    "message": "Εμφάνιση"
+  },
+  "protectYourContainers": {
+    "message": "Προστατεύστε τις θεματικές σας ενότητες με το Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Προστασία θεματικής ενότητας με το Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Σύνθετες ρυθμίσεις διακομιστή μεσολάβησης"
+  },
+  "proxyInputLabel": {
+    "message": "Εισαγωγή προσαρμοσμένου διακομιστή μεσολάβησης"
+  },
+  "useCustomLocation": {
+    "message": "Χρήση προσαρμοσμένης τοποθεσίας στη θεματική ενότητα"
+  },
+  "clearproxylabel": {
+    "message": "Απαλοιφή διακομιστή μεσολάβησης"
+  },
+  "moz-vpn-connected": {
+    "message": "Το Mozilla VPN είναι ενεργό"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Το Mozilla VPN είναι ανενεργό"
+  },
+  "invalidProxyAlert": {
+    "message": "Παρακαλώ εισαγάγετε ένα έγκυρο URL μεσολάβησης"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Το Mozilla VPN πρέπει να είναι ενεργό για αυτήν τη λειτουργία."
+  },
+  "learnMore": {
+    "message": "Μάθετε περισσότερα"
+  },
+  "proxyNowAvailable": {
+    "message": "Τώρα με το Mozilla VPN και τις σύνθετες ρυθμίσεις μεσολάβησης"
+  },
+  "applyToContainer": {
+    "message": "Εφαρμογή στη θεματική ενότητα"
+  },
+  "tooltipWarning": {
+    "message": "Αυτή η θεματική ενότητα έχει ρυθμιστεί ώστε να χρησιμοποιεί διακομιστή μεσολάβησης του Mozilla VPN, αλλά το Mozilla VPN δεν είναι ενεργό. Ενεργοποιήστε το Mozilla VPN για να χρησιμοποιήσετε αυτήν τη θεματική ενότητα."
+  },
+  "getMozillaVpn": {
+    "message": "Λήψη του Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN και δικαιώματα διακομιστή μεσολάβησης",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Να επιτρέπεται στην επέκταση η ανταλλαγή μηνυμάτων με προγράμματα εκτός του Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Αυτή η ρύθμιση επιτρέπει στην επέκταση να ανταλλάσσει μηνύματα με το πρόγραμμα-πελάτη Mozilla VPN και απαιτείται για τις δυνατότητες ενοποίησης του Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Να επιτρέπεται στην επέκταση ο έλεγχος των ρυθμίσεων διακομιστή μεσολάβησης",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Αυτό σας επιτρέπει να χρησιμοποιείτε προηγμένες ρυθμίσεις διακομιστή μεσολάβησης και να ενεργοποιήσετε τις δυνατότητες ενσωμάτωσης του Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Αυτή η δυνατότητα απαιτεί πρόσθετη άδεια για να λειτουργήσει. Τα δικαιώματα μπορούν να απενεργοποιηθούν ανά πάσα στιγμή από τη σελίδα ρυθμίσεων.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Η ενσωμάτωση με το Mozilla VPN απαιτεί συνδρομή και πρόσθετα δικαιώματα για να λειτουργήσει."
+  },
+  "enable": {
+    "message": "Ενεργοποίηση",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Ενσωμάτωση θεματικών ενοτήτων με το Mozilla VPN"
+  },
+  "theme": {
+    "message": "Θέμα:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Επιλέξτε ένα θέμα",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Αυτόματη ανίχνευση (προεπιλογή)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Ανοιχτόχρωμο",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Σκουρόχρωμο",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Φιλτράρισμα λίστας κατά όνομα:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Αναζήτηση ονόματος ενότητας"
+  },
+  "imageAltContainerInfo": {
+    "message": "Πληροφορίες θεματικής ενότητας",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Προεπιλεγμένη θεματική ενότητα",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Άνοιγμα πίνακα θεματικής ενότητας",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Συντόμευση θεματικής ενότητας $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Άνοιγμα σελιδοδείκτη σε θεματική καρτέλα"
+  }
+}

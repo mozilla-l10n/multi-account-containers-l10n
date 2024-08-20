@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Mae Cynhwysyddion Aml-Gyfrifon yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Agor y Tab Newydd yn…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ailagor y Wefan hon yn…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Trefnu Tabiau yn ôl Cynhwysydd",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Agor y Wefan hon bob tro yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ar agor bob tro yn…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Agor y Wefan mewn Cynhwysydd bob tro"
+  },
+  "openANewTabIn": {
+    "message": "Agor Tab Newydd yn…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Agor Tab Newydd yn y Cynhwysydd hwn"
+  },
+  "openTabs": {
+    "message": "Agor Tabiau",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Symud Tabiau i Ffenestr Newydd"
+  },
+  "onboarding-1-header": {
+    "message": "Ffordd well o reoli'r holl bethau rydych chi'n eu gwneud ar-lein"
+  },
+  "onboarding-1-description": {
+    "message": "Defnyddiwch Gynhwysyddion i drefnu tasgau, rheoli cyfrifon, a chadw'ch llygaid ar eich tasg."
+  },
+  "onboarding-2-header": {
+    "message": "Rhowch Gynhwysyddion ar waith i chi."
+  },
+  "onboarding-2-description": {
+    "message": "Mae nodweddion fel lliwiau a thabiau Cynhwysyddion gwahanol yn eich helpu i ddod o hyd i bethau'n hawdd, canolbwyntio'ch sylw, a lleihau pethau eraill sy'n tynnu'ch sylw."
+  },
+  "onboarding-3-header": {
+    "message": "Lle i bopeth, a phopeth yn ei le."
+  },
+  "onboarding-3-description": {
+    "message": "Cychwynnwch gyda'r Cynhwysyddion rydyn ni wedi'u creu, neu crëwch eich rai eich hun."
+  },
+  "onboarding-4-header": {
+    "message": "Agorwch wefannau bob tro yn y Cynhwysyddion rydych chi eu heisiau."
+  },
+  "onboarding-4-description": {
+    "message": "De-gliciwch y tu mewn i dab Cynhwysydd i neilltuo fod y wefan i agor yn y Cynhwysydd bob amser."
+  },
+  "onboarding-5-header": {
+    "message": "Tabiau cynhwysydd pan fyddwch chi eu hangen."
+  },
+  "onboarding-5-description": {
+    "message": "Pwyswch y botwm Tab Newydd yn hir i greu tab Cynhwysydd newydd."
+  },
+  "onboarding-6-header": {
+    "message": "Mae cydweddu Cynwysyddion nawr ar gael!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd ac aseiniad gwefannau gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
+  },
+  "onboarding-7-header-2": {
+    "message": "Mae'n angen cyfrif Firefox i gydweddu."
+  },
+  "onboarding-7-description-2": {
+    "message": "Cliciwch Mewngofnodi i gadarnhau bod eich cyfrif Firefox yn weithredol."
+  },
+  "onboarding-8-description": {
+    "message": "Mae Cynhwysyddion nawr yn gallu integreiddio â Mozilla VPN neu'ch dirprwy eich hun i greu cysylltiad preifat, diogel sy'n diogelu eich gweithgaredd."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tab!"
+  },
+  "youHaveOpened": {
+    "message": "Rydych wedi agor 100 o dabiau Cynhwysyddion."
+  },
+  "spreadTheWord": {
+    "message": "Os ydych chi'n mwynhau Cynhwysyddion, cofiwch ddweud wrth bawb!"
+  },
+  "rate": {
+    "message": "Graddio"
+  },
+  "share": {
+    "message": "Rhannu"
+  },
+  "tweet": {
+    "message": "Trydar"
+  },
+  "default": {
+    "message": "Rhagosodedig"
+  },
+  "manageContainers": {
+    "message": "Rheoli Cynhwysyddion"
+  },
+  "newContainer": {
+    "message": "Cynhwysydd Newydd"
+  },
+  "hideThisContainer": {
+    "message": "Cuddio'r Cynhwysydd hwn"
+  },
+  "showThisContainer": {
+    "message": "Dangos y Cynhwysydd hwn"
+  },
+  "removeThisContainer": {
+    "message": "Tynnu'r Cynhwysydd Hwn"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Ydych chi'n siŵr eich bod eisiau tynnu'r Cynhwysydd hwn?"
+  },
+  "cancel": {
+    "message": "Diddymu"
+  },
+  "ok": {
+    "message": "Iawn"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Gwefannau a neilltuwyd i'r Cynhwysydd hwn"
+  },
+  "options": {
+    "message": "Dewisiadau"
+  },
+  "name": {
+    "message": "Enw"
+  },
+  "color": {
+    "message": "Lliw"
+  },
+  "icon": {
+    "message": "Eicon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Terfyn i Wefannau Dynodedig"
+  },
+  "deleteThisContainer": {
+    "message": "Dileu'r Cynhwysydd Hwn"
+  },
+  "manageSiteList": {
+    "message": "Rheoli'r Rhestr Gwefannau…"
+  },
+  "manageThisContainer": {
+    "message": "Rheoli'r Cynhwysydd hwn"
+  },
+  "containers": {
+    "message": "Cynwysyddion"
+  },
+  "done": {
+    "message": "Gorffen"
+  },
+  "getStarted": {
+    "message": "Cychwyn Arni"
+  },
+  "signIn": {
+    "message": "Mewngofnodi"
+  },
+  "notNow": {
+    "message": "Nid Nawr"
+  },
+  "startSyncing": {
+    "message": "Cychwyn Cydweddu"
+  },
+  "info": {
+    "message": "gwyb",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Nesaf"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Agor y wefan hon yn eich Cynhwysydd neilltuedig?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Hoffech chi ei agor yn y Cynhwysydd cyfredol hwn?"
+  },
+  "rememberMyDecision": {
+    "message": "Cofio fy mhenderfyniad ar gyfer y wefan hon"
+  },
+  "optionalPermissions": {
+    "message": "Caniatâd Dewisol:"
+  },
+  "keyboardShortCuts": {
+    "message": "Llwybrau Byr Bysellfwrdd:"
+  },
+  "onboarding": {
+    "message": "Cyflwyniad"
+  },
+  "resetOnboardingPanels": {
+    "message": "Ailosod y Paneli Cyflwyno"
+  },
+  "onboardingToggle": {
+    "message": "Toglo hwn i weld y paneli cyflwyno eto."
+  },
+  "tabBehavior": {
+    "message": "Ymddygiad tabiau:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Galluogi Dewislenni Nodau Tudalen"
+  },
+  "sync": {
+    "message": "Cydweddu:"
+  },
+  "enableSync": {
+    "message": "Galluogi cydweddu"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu i chi agor nod tudalen neu ffolder o nodau tudalen mewn Cynhwysydd."
+  },
+  "enableSyncDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu i chi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
+  },
+  "syncExclude": {
+    "message": "Gwahardd cynhwysydd"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Mewnosod mynegiad rheolaidd"
+  },
+  "syncExcludeDescription": {
+    "message": "Gwahardd cynwysyddion rhag cydweddu pan fydd eu henw yn cyfateb i fynegiant rheolaidd ansensitif maint penodedig."
+  },
+  "replaceTab": {
+    "message": "Amnewid tab yn lle creu un newydd"
+  },
+  "replaceTabDescription": {
+    "message": "Amnewid y tab cyfredol os fydd tudalen sydd wedi'i neilltuo i Gynhwysydd arall yn cael ei hagor (yn lle cadw'r tab cyfredol ar agor). Nid yw agor tabiau gyda botwm canol y llygoden yn cael ei effeithio."
+  },
+  "editWhichContainer": {
+    "message": "Golygu pa Gynhwysydd sy'n cael ei agor wrth ddefnyddio'r llwybrau byr wedi'u rhifo."
+  },
+  "keyboardShortCut": {
+    "message": "Y cynhwysydd i agor gyda Llwybr Byr Bysellfwrdd $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Tudalen Cadarnhau Llywio Cynwysyddion Aml-Gyfrifon",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Agor yng Nghynhwysydd $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Agor yn y tab cyfredol",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Rydych wedi gofyn i Firefox i agor $containerName$ bob tro ar gyfer y wefan hon:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Dewis lleoliad",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Cuddio"
+  },
+  "show": {
+    "message": "Dangos"
+  },
+  "protectYourContainers": {
+    "message": "Diogelwch eich Cynhwysyddion gyda Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Diogelu'r Cynhwysydd hwn gyda Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Gosodiadau dirprwy uwch"
+  },
+  "proxyInputLabel": {
+    "message": "Rhowch ddirprwy cyfaddas"
+  },
+  "useCustomLocation": {
+    "message": "Defnyddiwch leoliad cyfaddas i'r Cynhwysydd hwn"
+  },
+  "clearproxylabel": {
+    "message": "Tynnu'r dirprwy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mae Mozilla VPN ymlaen"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mae Mozilla VPN i ffwrdd"
+  },
+  "invalidProxyAlert": {
+    "message": "Rhowch URL dirprwy dilys"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Rhaid i Mozilla VPN fod ymlaen i ddefnyddio'r nodwedd hon."
+  },
+  "learnMore": {
+    "message": "Dysgu rhagor"
+  },
+  "proxyNowAvailable": {
+    "message": "Nawr gyda Mozilla VPN a gosodiadau dirprwy uwch"
+  },
+  "applyToContainer": {
+    "message": "Gosod i'r Cynhwysydd"
+  },
+  "tooltipWarning": {
+    "message": "Mae'r Cynhwysydd hwn wedi'i osod i ddefnyddio dirprwy Mozilla VPN, ond nid yw Mozilla VPN ymlaen. Trowch Mozilla VPN ymlaen i ddefnyddio'r Cynhwysydd hwn."
+  },
+  "getMozillaVpn": {
+    "message": "Cael Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integreiddiwch eich Cynhwysyddion gyda Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a Chaniatâd Dirprwyol",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Caniatáu i estyniad gyfnewid negeseuon â rhaglenni heblaw Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Mae'r gosodiad hwn yn caniatáu i'r estyniad gyfnewid negeseuon gyda'r cleient Mozilla VPN ac mae'n ofynnol i nodweddion integreiddio Mozilla VPN weithio.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Caniatáu i estyniad reoli gosodiadau dirprwyol",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Mae hyn yn caniatáu i chi ddefnyddio gosodiadau dirprwyol datblygedig a galluogi nodweddion integreiddio Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Mae angen caniatâd ychwanegol i'r nodwedd hon weithio. Mae modd analluogi caniatâd ar unrhyw bryd ar y dudalen gosodiadau.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mae integreiddio â Mozilla VPN yn gofyn am danysgrifiad a chaniatâd ychwanegol iddo weithio."
+  },
+  "enable": {
+    "message": "Galluogi",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integreiddio eich Cynhwysyddion gyda Mozilla VPN"
+  },
+  "theme": {
+    "message": "Thema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Dewiswch thema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Awto-ganfod (rhagosodedig)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Golau",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tywyll",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Hidlo'r rhestr cynhwysydd yn ôl enw:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Chwilio enw cynhwysydd"
+  },
+  "imageAltContainerInfo": {
+    "message": "Manylion Cynwysyddion",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Cynhwysydd Rhagosodedig",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Agor y panel cynhwysydd",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Llwybr byr cynhwysydd $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Agor Nod Tudalen mewn Tab Cynhwysydd"
+  }
+}

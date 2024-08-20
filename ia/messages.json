@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Le contentores multi-conto te adjuta a mantener tote le partes de tu vita in linea continite in schedas differente. Etiquettas personalisate e schedas a codice de color adjuta a tener separate le differente activitates, como: compras in linea, planification de viages o lectura de e-mail de labor.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Aperir un nove scheda in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Reaperir iste sito in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordinar schedas per contentor",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Sempre aperir iste sito in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Sempre aperir in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sempre aperir sito in contentor"
+  },
+  "openANewTabIn": {
+    "message": "Aperir un nove scheda in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Aperir nove scheda in iste contentor"
+  },
+  "openTabs": {
+    "message": "Schedas aperte",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mover schedas a un nove fenestra"
+  },
+  "onboarding-1-header": {
+    "message": "Un maniera melior pro gerer tote le cosas que tu face online"
+  },
+  "onboarding-1-description": {
+    "message": "Usa contentores pro organisar activitates, gerer contos e concentrar te sur lo que tu vole."
+  },
+  "onboarding-2-header": {
+    "message": "Face contentores laborar pro te."
+  },
+  "onboarding-2-description": {
+    "message": "Functiones como codices de color e schedas contentor separate te adjuta a trovar facilemente le cosas, a concentrar tu attention e a minimisar le distractiones."
+  },
+  "onboarding-3-header": {
+    "message": "Un loco pro cata cosa, e cata cosa in su loco."
+  },
+  "onboarding-3-description": {
+    "message": "Comencia con le contentores que nos ha create, o crea le tues."
+  },
+  "onboarding-4-header": {
+    "message": "Sempre aperi sitos in le contentores que tu vole."
+  },
+  "onboarding-4-description": {
+    "message": "Clicca con le button dextre intra un scheda contentor pro facer que le sito sempre se aperi in ille contentor."
+  },
+  "onboarding-5-header": {
+    "message": "Schedas contentor quando tu ha besonio de illos."
+  },
+  "onboarding-5-description": {
+    "message": "Preme longemente le button Nove Scheda pro crear un nove scheda contentor."
+  },
+  "onboarding-6-header": {
+    "message": "Le synchronisation de contentores es ora disponibile!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Activa le synchronisation pro compartir le contentores e lor sitos assignate con qualcunque computator connexe a tu conto."
+  },
+  "onboarding-7-header-2": {
+    "message": "Un conto es necesse pro synchronisar."
+  },
+  "onboarding-7-description-2": {
+    "message": "Clicca Authenticar se, pro confirmar que tu conto es active."
+  },
+  "onboarding-8-description": {
+    "message": "Ora le contentores pote integrar se con Mozilla VPN o con tu proprie proxy pro crear un connexion secur e private que protege tu activitate."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 schedas!"
+  },
+  "youHaveOpened": {
+    "message": "Tu ha aperite 100 schedas contentor."
+  },
+  "spreadTheWord": {
+    "message": "Si tu apprecia le contentores, adjuta nos a diffunder le parola!"
+  },
+  "rate": {
+    "message": "Rata"
+  },
+  "share": {
+    "message": "Compartir"
+  },
+  "tweet": {
+    "message": "Tweetta"
+  },
+  "default": {
+    "message": "Predefinite"
+  },
+  "manageContainers": {
+    "message": "Gerer contentores"
+  },
+  "newContainer": {
+    "message": "Nove contentor"
+  },
+  "hideThisContainer": {
+    "message": "Celar iste contentor"
+  },
+  "showThisContainer": {
+    "message": "Monstrar iste contentor"
+  },
+  "removeThisContainer": {
+    "message": "Remover iste contentor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Desira tu vermente remover iste contentor?"
+  },
+  "cancel": {
+    "message": "Cancellar"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sitos assignate a iste contentor"
+  },
+  "options": {
+    "message": "Optiones"
+  },
+  "name": {
+    "message": "Nomine"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Icone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitar a sitos destinate"
+  },
+  "deleteThisContainer": {
+    "message": "Deler iste contentor"
+  },
+  "manageSiteList": {
+    "message": "Gerer lista de sitos…"
+  },
+  "manageThisContainer": {
+    "message": "Gerer iste contentor"
+  },
+  "containers": {
+    "message": "Contentores"
+  },
+  "done": {
+    "message": "Facite"
+  },
+  "getStarted": {
+    "message": "Comenciar"
+  },
+  "signIn": {
+    "message": "Aperir session"
+  },
+  "notNow": {
+    "message": "Non ora"
+  },
+  "startSyncing": {
+    "message": "Comencia a synchronisar"
+  },
+  "info": {
+    "message": "Informationes",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sequente"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Aperir iste sito in tu contentor assignate?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vole tu ancora aperir iste sito in le contentor actual?"
+  },
+  "rememberMyDecision": {
+    "message": "Rememorar mi decision pro iste sito"
+  },
+  "optionalPermissions": {
+    "message": "Permissiones optional:"
+  },
+  "keyboardShortCuts": {
+    "message": "Vias breve de claviero"
+  },
+  "onboarding": {
+    "message": "Introduction"
+  },
+  "resetOnboardingPanels": {
+    "message": "Reinitialisar le quadros de introduction."
+  },
+  "onboardingToggle": {
+    "message": "Mutar isto pro revider le quadros de introduction."
+  },
+  "tabBehavior": {
+    "message": "Comportamento del scheda:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activar menus de marcapaginas"
+  },
+  "sync": {
+    "message": "Synchronisation:"
+  },
+  "enableSync": {
+    "message": "Activar le synchronisation"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Iste parametro te permitte aperir un marcapagina o un dossier de marcapaginas in un contentor."
+  },
+  "enableSyncDescription": {
+    "message": "Iste parametro te permitte synchronisar tu contentores e lor sitos assignate inter apparatos."
+  },
+  "syncExclude": {
+    "message": "Exclusion de contentores"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Insere un expression regular"
+  },
+  "syncExcludeDescription": {
+    "message": "Excluder le synchronisation del containers quando lor nomine non concorda le expression regular specificate insensibile al majusculas."
+  },
+  "replaceTab": {
+    "message": "Replaciar le scheda in vice del creation de un nove"
+  },
+  "replaceTabDescription": {
+    "message": "Reimplaciar le scheda actual si se aperi un pagina que es assignate a un altere contentor (in vice de mantener aperte le scheda active). Isto non influentia le apertura de schedas con le button medie del mouse."
+  },
+  "editWhichContainer": {
+    "message": "Modificar qual contentor se aperi quando on usa le accessos directe numerate."
+  },
+  "keyboardShortCut": {
+    "message": "Le contentor a aperir con le clave de accesso directe $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Contentores multi-conto: confirmar navigation",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Aperir in le contentor $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Aperir in le scheda actual",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Tu ha demandate a Firefox de sempre aperir $containerName$ pro iste sito:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Elige un position",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Celar"
+  },
+  "show": {
+    "message": "Monstrar"
+  },
+  "protectYourContainers": {
+    "message": "Proteger tu contentores con Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Proteger iste contentor con Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Parametros del servitor proxy avantiate"
+  },
+  "proxyInputLabel": {
+    "message": "Insere un proxy personalisate"
+  },
+  "useCustomLocation": {
+    "message": "Usar un position personalisate pro iste contentor"
+  },
+  "clearproxylabel": {
+    "message": "Clarar proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN es active"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN es inactive"
+  },
+  "invalidProxyAlert": {
+    "message": "Insere un valide URL proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN debe esser active pro usar iste functionalitate."
+  },
+  "learnMore": {
+    "message": "Pro saper plus"
+  },
+  "proxyNowAvailable": {
+    "message": "Ora con Mozilla VPN e parametros del servitor proxy avantiate"
+  },
+  "applyToContainer": {
+    "message": "Applicar al contentor"
+  },
+  "tooltipWarning": {
+    "message": "Iste contentor es configurate pro usar un proxy de Mozilla VPN, ma Mozilla VPN non es active. Activa Mozilla VPN pro usar iste contentor."
+  },
+  "getMozillaVpn": {
+    "message": "Installa Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integra tu contentores con Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN e permissiones del proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Premitte al extension de excambiar messages con programmas differente de Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Iste parametros permitte al extension de excambiar messages con le cliente de Mozilla VPN e es necessari pro facer functionar le integration de Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Premitte al extension de controlar le parametros del proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Isto te permitte de usar le parametros de proxy avantiate e de activar le functionalitates de integration de Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Iste functionalitate require un altere permission pro functionar. Le permissiones pote esser disactivate sempre ab le pagina del parametros.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Le integration con Mozilla VPN pro functionar require un abonamento e permissiones additional."
+  },
+  "enable": {
+    "message": "Activar",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integra tu contentores con Mozilla VPN"
+  },
+  "theme": {
+    "message": "Thema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Elige un thema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Revelar automaticamente (predefinite)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Clar",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Obscur",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrar le lista de contentores per nomine:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cercar le nomine del contentor"
+  },
+  "imageAltContainerInfo": {
+    "message": "Info de contentor",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Contentor predefinite",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Aperir le quadro del contentores",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Via-breve de contentor $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Aperir marcapagina in un scheda contentor"
+  }
+}

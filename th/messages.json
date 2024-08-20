@@ -1,0 +1,251 @@
+{
+  "openInNewTabTitle": {
+    "message": "เปิดแท็บใหม่ใน…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "เปิดไซต์นี้ใหม่ใน…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "เรียงแท็บตามการแยกข้อมูล",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "เปิดเว็บไซต์นี้ในการแยกข้อมูลต่อไปนี้เสมอ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "เปิดในการแยกข้อมูลต่อไปนี้เสมอ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "เปิดไซต์ในการแยกข้อมูลเสมอ"
+  },
+  "openANewTabIn": {
+    "message": "เปิดแท็บใหม่ใน…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "เปิดแท็บใหม่ในการแยกข้อมูลนี้"
+  },
+  "openTabs": {
+    "message": "แท็บที่เปิด",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "ย้ายแท็บไปยังหน้าต่างใหม่"
+  },
+  "rate": {
+    "message": "ให้คะแนน"
+  },
+  "share": {
+    "message": "แบ่งปัน"
+  },
+  "tweet": {
+    "message": "ทวีต"
+  },
+  "default": {
+    "message": "ค่าเริ่มต้น"
+  },
+  "manageContainers": {
+    "message": "จัดการการแยกข้อมูล"
+  },
+  "newContainer": {
+    "message": "การแยกข้อมูลใหม่"
+  },
+  "hideThisContainer": {
+    "message": "ซ่อนการแยกข้อมูลนี้"
+  },
+  "showThisContainer": {
+    "message": "แสดงการแยกข้อมูลนี้"
+  },
+  "removeThisContainer": {
+    "message": "เอาการแยกข้อมูลนี้ออก"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?"
+  },
+  "cancel": {
+    "message": "ยกเลิก"
+  },
+  "ok": {
+    "message": "ตกลง"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "ไซต์ที่กำหนดให้กับการแยกข้อมูลนี้"
+  },
+  "options": {
+    "message": "ตัวเลือก"
+  },
+  "name": {
+    "message": "ชื่อ"
+  },
+  "color": {
+    "message": "สี"
+  },
+  "icon": {
+    "message": "ไอคอน"
+  },
+  "limitToDesignatedSites": {
+    "message": "จำกัดเฉพาะไซต์ที่กำหนด"
+  },
+  "deleteThisContainer": {
+    "message": "ลบการแยกข้อมูลนี้"
+  },
+  "manageSiteList": {
+    "message": "จัดการรายการไซต์…"
+  },
+  "manageThisContainer": {
+    "message": "จัดการการแยกข้อมูลนี้"
+  },
+  "containers": {
+    "message": "การแยกข้อมูล"
+  },
+  "done": {
+    "message": "เสร็จสิ้น"
+  },
+  "getStarted": {
+    "message": "เริ่มต้นใช้งาน"
+  },
+  "signIn": {
+    "message": "ลงชื่อเข้า"
+  },
+  "notNow": {
+    "message": "ไม่ใช่ตอนนี้"
+  },
+  "startSyncing": {
+    "message": "เริ่มซิงค์"
+  },
+  "info": {
+    "message": "ข้อมูล",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ถัดไป"
+  },
+  "openThisSiteConfirmation": {
+    "message": "ต้องการเปิดไซต์นี้ในการแยกข้อมูลที่กำหนดของคุณหรือไม่?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "คุณยังต้องการเปิดในการแยกข้อมูลปัจจุบันนี้หรือไม่?"
+  },
+  "rememberMyDecision": {
+    "message": "จดจำการตัดสินใจของฉันสำหรับไซต์นี้"
+  },
+  "optionalPermissions": {
+    "message": "สิทธิอนุญาตที่เลือกได้:"
+  },
+  "keyboardShortCuts": {
+    "message": "แป้นพิมพ์ลัด:"
+  },
+  "onboarding": {
+    "message": "การออนบอร์ด"
+  },
+  "resetOnboardingPanels": {
+    "message": "ตั้งค่าแผงออนบอร์ดใหม่"
+  },
+  "onboardingToggle": {
+    "message": "สลับตัวเลือกนี้เพื่อดูแผงออนบอร์ดใหม่อีกครั้ง"
+  },
+  "tabBehavior": {
+    "message": "ลักษณะการทำงานของแท็บ:"
+  },
+  "enableBookMarkMenus": {
+    "message": "เปิดใช้งานเมนที่คั่นหน้า"
+  },
+  "firefoxAccountsSync": {
+    "message": "การซิงค์กับบัญชี Firefox:"
+  },
+  "enableSync": {
+    "message": "เปิดใช้งานการซิงค์"
+  },
+  "openInContainer": {
+    "message": "เปิดในการแยกข้อมูล $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "คุณได้ขอให้ Firefox เปิด $containerName$ สำหรับไซต์นี้เสมอ:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "เลือกตำแหน่งที่ตั้ง",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "ซ่อน"
+  },
+  "show": {
+    "message": "แสดง"
+  },
+  "protectYourContainers": {
+    "message": "ปกป้องการแยกข้อมูลของคุณด้วย Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "ปกป้องการแยกข้อมูลนี้ด้วย Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "การตั้งค่าพร็อกซีขั้นสูง"
+  },
+  "proxyInputLabel": {
+    "message": "ใส่พร็อกซีที่กำหนดเอง"
+  },
+  "useCustomLocation": {
+    "message": "ใช้ตำแหน่งที่กำหนดเองสำหรับการแยกข้อมูลนี้"
+  },
+  "clearproxylabel": {
+    "message": "ล้างพร็อกซี"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN เปิดอยู่"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN ปิดอยู่"
+  },
+  "invalidProxyAlert": {
+    "message": "โปรดใส่ URL พร็อกซีที่ถูกต้อง"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "ต้องเปิด Mozilla VPN เพื่อใช้คุณลักษณะนี้"
+  },
+  "learnMore": {
+    "message": "เรียนรู้เพิ่มเติม"
+  },
+  "applyToContainer": {
+    "message": "นำไปใช้กับการแยกข้อมูล"
+  },
+  "getMozillaVpn": {
+    "message": "รับ Mozilla VPN"
+  },
+  "enable": {
+    "message": "เปิดใช้งาน",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "ชุดตกแต่ง:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "เลือกชุดตกแต่ง",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ตรวจหาอัตโนมัติ (ค่าเริ่มต้น)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "สว่าง",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "มืด",
+    "description": "Value for the theme option select tag"
+  }
+}

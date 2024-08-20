@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers භාවිතයෙන් ඔබගේ මාර්ගගත කටයුතුවල සියළුම කොටස් විවිධ පටිති තුළ තබා ගැනීමට හැකිය. මාර්ගගත සාප්පු සවාරි, චාරිකා සැලසුම්, හෝ කාර්යාල වි-තැපැල් පරීක්‍ෂා කිරීමට ආදී — විවිධ ක්‍රියාකාරකම් පහසුවෙන් හඳුනා ගැනීමට අභිරුචි නම්පත් සහ වර්ණ-කේතිත පටිති යොදා ගන්න.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "මෙහි පටිත්තක් අරින්න…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "මෙහි අඩවිය යළි අරින්න…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "අඩංගුවට අනුව පෙන්වන්න",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "අඩවිය සැමවිට මෙහි අරින්න…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "මෙහි සැමවිට අරින්න…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "සැමවිට අඩංගුව තුළ අඩවිය අරින්න"
+  },
+  "openANewTabIn": {
+    "message": "මෙහි පටිත්තක් අරින්න…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "මෙම අඩංගුවෙහි නව පටිත්ත අරින්න"
+  },
+  "openTabs": {
+    "message": "විවෘත පටිති",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "පටිති නව කවුළුවකට ගෙන යන්න"
+  },
+  "onboarding-1-header": {
+    "message": "ඔබ මාර්ගගතව සිදු කරන සියළු දෑ කළමනාකරණයට හොඳ ක්‍රමයක්"
+  },
+  "onboarding-1-description": {
+    "message": "කාර්ය සංවිධානයට, ගිණුම් කළමනාකරණයට සහ ඔබට අවශ්‍ය තැනකට අවධානය යොමු කිරීමට අඩංගු භාවිතා කරන්න."
+  },
+  "onboarding-2-header": {
+    "message": "ඔබගේ ප්‍රයෝජනයට අඩංගු යොදාගන්න."
+  },
+  "onboarding-2-description": {
+    "message": "වර්ණ-කේතනය සහ භින්න පටිති අඩංගු වැනි විශේෂාංග ඔබට බෝහෝ දෑ පහසුවෙන් සොයා ගැනීමට, කාර්යයට සිත යොමු කිරීමට හා අවධානයට බාධා වීම අවම කිරීමට උපකාරී වේ."
+  },
+  "onboarding-3-header": {
+    "message": "සෑම දෙයක්ම සඳහා ස්ථානයක්, සහ සියල්ල එම ස්ථානයෙහි."
+  },
+  "onboarding-3-description": {
+    "message": "සාදා තිබෙන අඩංගු සමඟ අරඹන්න, හෝ ඔබම සාදන්න."
+  },
+  "onboarding-4-header": {
+    "message": "ඔබට වුවමනා අඩංගුවල සැමවිට අඩවි අරින්න."
+  },
+  "onboarding-4-description": {
+    "message": "අඩවියක් සැමවිට අඩංගුව තුළ විවෘත වීමට සැකසීම සඳහා පටිති අඩංගුවක් ඇතුළත දකුණින් ඔබන්න."
+  },
+  "onboarding-5-header": {
+    "message": "ඔබට වුවමනා විට පටිති අඩංගුවකට දමන්න."
+  },
+  "onboarding-5-description": {
+    "message": "නව පටිති අඩංගුවක් සෑදීමට නව පටිති බොත්තම මොහොතක් ඔබන්න."
+  },
+  "onboarding-6-header": {
+    "message": "පටිති අඩංගු සමමුහූර්ත පහසුකම දැන් තිබේ!"
+  },
+  "onboarding-6-description-2": {
+    "message": "ඔබගේ ගිණුමට සම්බන්ධිත ඕනෑම පරිගණකයක් සමඟ අඩංගු සහ අඩවි පැවරීම් බෙදා ගැනීමට සමමුහූර්තය සක්‍රිය කරන්න."
+  },
+  "onboarding-7-header-2": {
+    "message": "සමමුහූර්තයට ගිණුමක් වුවමනාය."
+  },
+  "onboarding-7-description-2": {
+    "message": "ඔබගේ ගිණුම සක්‍රිය බව තහවුරු කිරීමට පිවිසෙන්න ඔබන්න."
+  },
+  "onboarding-8-description": {
+    "message": "දැන් අඩංගු සමඟ මොසිල්ලා වීපීඑන් හෝ ඔබගේම ප්‍රතියුක්තයක් ඒකාබද්ධ කර සියළු ක්‍රියාකාරකම් සුරක්‍ෂිත කරන ආරක්‍ෂිත, පෞද්ගලික සම්බන්ධතාවයක් සෑදීමට හැකිය."
+  },
+  "oneHundredTabsHeader": {
+    "message": "පටිති 100!"
+  },
+  "youHaveOpened": {
+    "message": "ඔබ අඩංගු පටිති 100 ක් විවෘත කර ඇත."
+  },
+  "spreadTheWord": {
+    "message": "ඔබට අඩංගු ප්‍රයෝජනවත් නම්, අන් අය අතර බෙදාගන්න!"
+  },
+  "rate": {
+    "message": "අගයන්න"
+  },
+  "share": {
+    "message": "බෙදාගන්න"
+  },
+  "tweet": {
+    "message": "ට්වීට්"
+  },
+  "default": {
+    "message": "පෙරනිමි"
+  },
+  "manageContainers": {
+    "message": "අඩංගුව කළමනාකරණය"
+  },
+  "newContainer": {
+    "message": "නව අඩංගුව"
+  },
+  "hideThisContainer": {
+    "message": "මෙම අඩංගුව සඟවන්න"
+  },
+  "showThisContainer": {
+    "message": "මෙම අඩංගුව පෙන්වන්න"
+  },
+  "removeThisContainer": {
+    "message": "මෙම අඩංගුව ඉවත් කරන්න"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "ඔබට මෙම අඩංගුව ඉවත් කිරීමට අවශ්‍ය බව විශ්වාසද?"
+  },
+  "cancel": {
+    "message": "අවලංගු"
+  },
+  "ok": {
+    "message": "හරි"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "මෙම අඩංගුවට පවරා ඇති අඩවි"
+  },
+  "options": {
+    "message": "විකල්ප"
+  },
+  "name": {
+    "message": "නම"
+  },
+  "color": {
+    "message": "වර්ණය"
+  },
+  "icon": {
+    "message": "නිරූපකය"
+  },
+  "limitToDesignatedSites": {
+    "message": "නම් කළ අඩවි සඳහා සීමා කරන්න"
+  },
+  "deleteThisContainer": {
+    "message": "මෙම අඩංගුව මකන්න"
+  },
+  "manageSiteList": {
+    "message": "අඩවි ලේඛනය කළමනාකරණය…"
+  },
+  "manageThisContainer": {
+    "message": "මෙම අඩංගුව කළමනාකරණය"
+  },
+  "containers": {
+    "message": "අඩංගු"
+  },
+  "done": {
+    "message": "අහවරයි"
+  },
+  "getStarted": {
+    "message": "පටන් ගන්න"
+  },
+  "signIn": {
+    "message": "පිවිසෙන්න"
+  },
+  "notNow": {
+    "message": "දැන් නොවේ"
+  },
+  "startSyncing": {
+    "message": "සමමුහූර්තය අරඹන්න"
+  },
+  "info": {
+    "message": "තොරතුරු",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ඊළඟ"
+  },
+  "openThisSiteConfirmation": {
+    "message": "පවරා තිබෙන අඩංගුව තුළ මෙම අඩවිය අරින්නද?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "ඔබ තවමත් මෙම වත්මන් අඩංගුව තුළ විවෘත කිරීමට කැමතිද?"
+  },
+  "rememberMyDecision": {
+    "message": "අඩවිය සඳහා තීරණය මතක තබා ගන්න"
+  },
+  "optionalPermissions": {
+    "message": "විකල්ප අවසර:"
+  },
+  "keyboardShortCuts": {
+    "message": "යතුරුපුවරු කෙටිමං:"
+  },
+  "onboarding": {
+    "message": "ගොඩවීම"
+  },
+  "resetOnboardingPanels": {
+    "message": "ගොඩවන මඬල යළි සකසන්න"
+  },
+  "onboardingToggle": {
+    "message": "පටන් ගැනීමේ මඬල දැකීමට මෙය ඔබන්න."
+  },
+  "tabBehavior": {
+    "message": "පටිති හැසිරීම:"
+  },
+  "enableBookMarkMenus": {
+    "message": "පොත්යොමු වට්ටෝරු සබල කරන්න"
+  },
+  "sync": {
+    "message": "සමමුහූර්තය:"
+  },
+  "enableSync": {
+    "message": "සමමුහූර්තය සබල කරන්න"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "මෙම සැකසුම මගින් අඩංගුවක් තුළ පොත් යොමුවක් හෝ පොත්යොමු බහාලුමක් විවෘත කිරීමට ඉඩ සලසයි."
+  },
+  "enableSyncDescription": {
+    "message": "මෙම සැකසුම මගින් උපාංග හරහා ඔබගේ අඩංගු සහ අඩවි පැවරීම් සමමුහූර්ත කිරීමට ඉඩ දෙයි."
+  },
+  "syncExclude": {
+    "message": "අඩංගුව හැරදැමීම්"
+  },
+  "syncExcludePlaceholder": {
+    "message": "නිත්‍ය වාක්‍යවිධියයක් යොදන්න"
+  },
+  "syncExcludeDescription": {
+    "message": "අඩංගුවල නම් නිශ්චිත නිත්‍ය වාක්‍ය විධියකට අචේතන විට සමමුහූර්ත නොකරන්න."
+  },
+  "replaceTab": {
+    "message": "අළුතින් නොසාදා පටිත්ත ප්‍රතිස්ථාපනය කරන්න"
+  },
+  "replaceTabDescription": {
+    "message": "වෙනත් අඩංගුවකට පවරා තිබෙන පිටුවක් විවෘත වුවහොත් වත්මන් පටිත්ත ප්‍රතිස්ථාපනය කරන්න (වත්මන් පටිත්ත විවෘතව තබා ගැනීම වෙනුවට). මැද බොත්තම එබීමෙන් විවෘත කරන පටිති සඳහා බලපාන්නේ නැත."
+  },
+  "editWhichContainer": {
+    "message": "අංකිත කෙටිමං භාවිතා කරන විට විවෘත වන අඩංගුව සංස්කරණය කරන්න."
+  },
+  "keyboardShortCut": {
+    "message": "යතුරුපුවරු කෙටිමඟ $keyId$ මගින් විවෘත කිරීමට අඩංගුව",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers යාත්‍රණය තහවුරුව",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ අඩංගුව තුළ අරින්න",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "වත්මන් පටිත්තෙන් අරින්න",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "මෙම අඩවිය සැමවිට $containerName$ හි විවෘත කරන ලෙස ඔබ ෆයර්ෆොක්ස් වෙත දන්වා ඇත:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "ස්ථානය තෝරන්න",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "සඟවන්න"
+  },
+  "show": {
+    "message": "පෙන්වන්න"
+  },
+  "protectYourContainers": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ආරක්‍ෂා කරන්න"
+  },
+  "protectThisContainer": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ මෙම අඩංගුව ආරක්‍ෂා කරන්න"
+  },
+  "advancedProxySettings": {
+    "message": "වැඩිදුර ප්‍රතියුක්ත සැකසුම්"
+  },
+  "proxyInputLabel": {
+    "message": "අභිරුචි ප්‍රතියුක්තය යොදන්න"
+  },
+  "useCustomLocation": {
+    "message": "මෙම අඩංගුව සඳහා අභිරුචි ස්ථානයක් භාවිතා කරන්න"
+  },
+  "clearproxylabel": {
+    "message": "ප්‍රතියුක්තය මකන්න"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN සක්‍රියයි"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN අක්‍රියයි"
+  },
+  "invalidProxyAlert": {
+    "message": "වලංගු ප්‍රතියුක්ත ඒ.ස.නි. යොදන්න"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "මෙම විශේෂාංගය භාවිතයට Mozilla VPN සක්‍රිය කළ යුතුය."
+  },
+  "learnMore": {
+    "message": "තව දැනගන්න"
+  },
+  "proxyNowAvailable": {
+    "message": "දැන් Mozilla VPN සහ වැඩිදුර ප්‍රතියුක්ත සැකසුම් සමඟ"
+  },
+  "applyToContainer": {
+    "message": "අඩංගුවට යොදන්න"
+  },
+  "tooltipWarning": {
+    "message": "මෙම අඩංගුව මොසිල්ලා වීපීඑන් ප්‍රතියුක්තය භාවිතා කිරීමට සකසා ඇත, නමුත් මොසිල්ලා වීපීඑන් සක්‍රිය කර නැත. මෙම අඩංගුව භාවිතා කිරීමට මොසිල්ලා වීපීඑන් සක්‍රිය කරන්න."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN ගන්න"
+  },
+  "integratewithmozillavpn": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN සහ ප්‍රතියුක්ත අවසර",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "දිගුව සඳහා ෆයර්ෆොක්ස් මෙන්ම වෙනත් වැඩසටහන් සමඟ පණිවිඩ හුවමාරුවට ඉඩ දෙන්න",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "දිගුව සඳහා මෙම සැකසුම මගින් Mozilla VPN අනුග්‍රාහකය සමඟ පණිවිඩ හුවමාරු කර ගැනීමට ඉඩ දෙන අතර Mozilla VPN අනුකලන විශේෂාංග ක්‍රියා කිරීමට ද අවශ්‍ය වේ.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "ප්‍රතියුක්ත සැකසුම් පාලනය සඳහා දිගුවට ඉඩදෙන්න",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "මෙය ඔබට වැඩිදුර ප්‍රතියුක්ත සැකසුම් භාවිතයට සහ Mozilla VPN අනුකලන විශේෂාංග සබල කිරීමට ඉඩ සලසයි.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "මෙම විශේෂාංගයට වැඩ කිරීමට අතිරේක අවසරයක් අවශ්‍යයි. සැකසුම් පිටුවෙන් ඕනෑම වේලාවක අවසර අබල කළ හැකිය.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN සමඟ අනුකලනයට දායකත්‍වයක් සහ වැඩ කිරීමට අතිරේක අවසර අවශ්‍යයි."
+  },
+  "enable": {
+    "message": "සබල කරන්න",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
+  },
+  "theme": {
+    "message": "තේමාව:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "තේමාවක් තෝරන්න",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ස්වයං අනාවරණය (පෙරනිමි)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "දීප්ත",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "අඳුරු",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "නම අනුව අඩංගු ලේඛනය පෙරන්න:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "අඩංගුවෙහි නම සොයන්න"
+  },
+  "imageAltContainerInfo": {
+    "message": "අඩංගුවේ තොරතුරු",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "පෙරනිමි අඩංගුව",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "අඩංගු මඬල අරින්න",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "අඩංගුවේ කෙටිමග $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "පොත්යොමු අඩංගුවක අරින්න"
+  }
+}

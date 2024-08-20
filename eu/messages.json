@@ -1,0 +1,277 @@
+{
+  "openInNewTabTitle": {
+    "message": "Ireki fitxa berria hemen…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ireki berriro gune hau hemen…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordenatu fitxak edukiontziaren arabera",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ireki beti gune hau hemen…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ireki beti hemen…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Ireki beti gunea edukiontzi batean"
+  },
+  "openANewTabIn": {
+    "message": "Ireki fitxa berria hemen…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Ireki fitxa berria edukiontzi honetan"
+  },
+  "openTabs": {
+    "message": "Irekitako fitxak",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Eraman fitxak leiho berri batera"
+  },
+  "onboarding-1-header": {
+    "message": "Sarean egiten dituzun gauza guztiak kudeatzeko modu hobea"
+  },
+  "onboarding-2-header": {
+    "message": "Jarri edukiontziak zuretzat lanean."
+  },
+  "onboarding-4-header": {
+    "message": "Ireki beti guneak nahi dituzun edukiontzietan."
+  },
+  "onboarding-6-header": {
+    "message": "Edukiontzien sinkronizazioa eskuragarri dago!"
+  },
+  "onboarding-7-header": {
+    "message": "Firefox kontua behar da sinkronizatzeko."
+  },
+  "onboarding-8-description": {
+    "message": "Edukiontziak Mozilla VPN edo zure proxy propioarekin integra daitezke orain, zure jarduera babestuko duen konexio seguru eta pribatua sortzeko."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 fitxa!"
+  },
+  "rate": {
+    "message": "Baloratu"
+  },
+  "share": {
+    "message": "Partekatu"
+  },
+  "tweet": {
+    "message": "Txiokatu"
+  },
+  "default": {
+    "message": "Lehenetsia"
+  },
+  "manageContainers": {
+    "message": "Kudeatu edukiontziak"
+  },
+  "newContainer": {
+    "message": "Edukiontzi berria"
+  },
+  "hideThisContainer": {
+    "message": "Ezkutatu edukiontzi hau"
+  },
+  "showThisContainer": {
+    "message": "Erakutsi edukiontzi hau"
+  },
+  "removeThisContainer": {
+    "message": "Kendu edukiontzi hau"
+  },
+  "cancel": {
+    "message": "Utzi"
+  },
+  "ok": {
+    "message": "Ados"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Edukiontzi honi esleitutako guneak"
+  },
+  "options": {
+    "message": "Aukerak"
+  },
+  "name": {
+    "message": "Izena"
+  },
+  "color": {
+    "message": "Kolorea"
+  },
+  "icon": {
+    "message": "Ikonoa"
+  },
+  "limitToDesignatedSites": {
+    "message": "Mugatu aukeratutako guneetara"
+  },
+  "deleteThisContainer": {
+    "message": "Ezabatu edukiontzi hau"
+  },
+  "manageSiteList": {
+    "message": "Kudeatu guneen zerrenda…"
+  },
+  "manageThisContainer": {
+    "message": "Kudeatu edukiontzi hau"
+  },
+  "containers": {
+    "message": "Edukiontziak"
+  },
+  "done": {
+    "message": "Eginda"
+  },
+  "getStarted": {
+    "message": "Hasi erabiltzen"
+  },
+  "signIn": {
+    "message": "Hasi saioa"
+  },
+  "notNow": {
+    "message": "Une honetan ez"
+  },
+  "startSyncing": {
+    "message": "Hasi sinkronizatzen"
+  },
+  "info": {
+    "message": "informazioa",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Hurrengoa"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Ireki gune hau zuk esleitutako edukiontzian?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Uneko edukiontzi honetan ireki nahi duzu halere?"
+  },
+  "rememberMyDecision": {
+    "message": "Gogoratu nire erabakia gune honetarako"
+  },
+  "optionalPermissions": {
+    "message": "Aukerako baimenak:"
+  },
+  "keyboardShortCuts": {
+    "message": "Teklatuaren lasterbideak:"
+  },
+  "onboarding": {
+    "message": "Sarrera"
+  },
+  "resetOnboardingPanels": {
+    "message": "Berrezarri aurkezpeneko panelak"
+  },
+  "onboardingToggle": {
+    "message": "Txandakatu hau aurkezpeneko panelak berriro ikusteko."
+  },
+  "tabBehavior": {
+    "message": "Fitxaren portaera:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Gaitu laster-marken menuak"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefox kontuen sinkronizazioa:"
+  },
+  "enableSync": {
+    "message": "Gaitu sinkronizazioa"
+  },
+  "syncExclude": {
+    "message": "Edukiontzia baztertzea"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Idatzi adierazpen erregularra"
+  },
+  "openInContainer": {
+    "message": "Ireki $containerName$ edukiontzian",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Ireki uneko fitxan",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Firefoxi eskatu diozu beti $containerName$ edukiontzia irekitzeko gune honetarako:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Aukeratu kokapena",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ezkutatu"
+  },
+  "show": {
+    "message": "Erakutsi"
+  },
+  "advancedProxySettings": {
+    "message": "Proxy-ezarpen aurreratuak"
+  },
+  "proxyInputLabel": {
+    "message": "Sartu proxy pertsonalizatua"
+  },
+  "clearproxylabel": {
+    "message": "Garbitu proxy-a"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN aktibatuta dago"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN desaktibatuta dago"
+  },
+  "learnMore": {
+    "message": "Argibide gehiago"
+  },
+  "proxyNowAvailable": {
+    "message": "Orain Mozilla VPN eta proxy-ezarpen aurreratuekin"
+  },
+  "applyToContainer": {
+    "message": "Aplikatu edukiontziari"
+  },
+  "getMozillaVpn": {
+    "message": "Lortu Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integratu zure edukiontziak Mozilla VPNrekin"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN eta proxy-baimenak",
+    "description": "Section headline in settings"
+  },
+  "enable": {
+    "message": "Gaitu",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integratu zure edukiontziak Mozilla VPNrekin"
+  },
+  "theme": {
+    "message": "Itxura:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Aukeratu itxura",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatikoki detektatu (lehenetsia)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Argia",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Iluna",
+    "description": "Value for the theme option select tag"
+  }
+}

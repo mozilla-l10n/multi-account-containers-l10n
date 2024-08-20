@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Container를 사용하면 온라인 생활의 모든 부분을 다양한 탭에 보관할 수 있습니다. 사용자 지정 레이블과 색상으로 구분된 탭은 온라인 쇼핑, 여행 계획 또는 업무 이메일 확인과 같은 다양한 활동을 별도로 유지하는 데 도움이 됩니다.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "다음에서 새 탭 열기…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "다음에서 이 사이트 다시 열기…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "컨테이너 순서대로 탭 정렬",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "이 사이트를 항상 다음 위치에서 열기…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "항상 다음에서 열기…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "항상 컨테이너에 사이트 열기"
+  },
+  "openANewTabIn": {
+    "message": "다음에서 새 탭 열기…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "이 컨테이너에서 새 탭 열기"
+  },
+  "openTabs": {
+    "message": "탭 열기",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "새 창으로 탭 이동"
+  },
+  "onboarding-1-header": {
+    "message": "온라인에서 하는 모든 작업을 관리하는 더 나은 방법"
+  },
+  "onboarding-1-description": {
+    "message": "Container를 사용하여 작업을 구성하고 계정을 관리하며 원하는 곳에 집중할 수 있습니다."
+  },
+  "onboarding-2-header": {
+    "message": "Container를 사용하여 작업하세요."
+  },
+  "onboarding-2-description": {
+    "message": "색상 코딩 및 별도의 Container 탭과 같은 기능을 사용하면 쉽게 물건을 찾고 주의를 집중하며 산만함을 최소화할 수 있습니다."
+  },
+  "onboarding-3-header": {
+    "message": "모든 것을 위한 장소, 그 자리에 있는 모든 것"
+  },
+  "onboarding-3-description": {
+    "message": "우리가 만든 Container로 시작하거나 직접 만들어 보세요."
+  },
+  "onboarding-4-header": {
+    "message": "항상 원하는 Container에서 사이트를 엽니다."
+  },
+  "onboarding-4-description": {
+    "message": "컨테이너 탭 내부를 마우스 오른쪽 버튼으로 클릭하여 Container에서 항상 열리도록 사이트를 지정합니다."
+  },
+  "onboarding-5-header": {
+    "message": "필요할 때 있는 Container 탭"
+  },
+  "onboarding-5-description": {
+    "message": "새 탭 버튼을 길게 눌러 새 Container 탭을 만듭니다."
+  },
+  "onboarding-6-header": {
+    "message": "이제 Container를 동기화 할 수 있습니다!"
+  },
+  "onboarding-6-description-2": {
+    "message": "계정에 연결된 모든 컴퓨터와 Container 및 사이트 할당을 공유하려면 동기화를 켜십시오."
+  },
+  "onboarding-7-header-2": {
+    "message": "동기화하려면 계정이 필요합니다."
+  },
+  "onboarding-7-description-2": {
+    "message": "로그인을 클릭하여 계정이 활성 상태인지 확인합니다."
+  },
+  "onboarding-8-description": {
+    "message": "이제 Container는 Mozilla VPN 또는 자체 프록시와 통합하여 활동을 보호하는 안전한 비공개 연결을 생성할 수 있습니다."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100탭!"
+  },
+  "youHaveOpened": {
+    "message": "100개의 Container 탭을 열었습니다."
+  },
+  "spreadTheWord": {
+    "message": "Container가 마음에 드시면 널리 알려주세요!"
+  },
+  "rate": {
+    "message": "평가"
+  },
+  "share": {
+    "message": "공유"
+  },
+  "tweet": {
+    "message": "트윗"
+  },
+  "default": {
+    "message": "기본값"
+  },
+  "manageContainers": {
+    "message": "Container 관리"
+  },
+  "newContainer": {
+    "message": "새 Container"
+  },
+  "hideThisContainer": {
+    "message": "이 Container 숨기기"
+  },
+  "showThisContainer": {
+    "message": "이 Container 표시"
+  },
+  "removeThisContainer": {
+    "message": "이 Container 제거"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "이 Container를 제거하시겠습니까?"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "ok": {
+    "message": "확인"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "이 Container에 할당된 사이트"
+  },
+  "options": {
+    "message": "설정"
+  },
+  "name": {
+    "message": "이름"
+  },
+  "color": {
+    "message": "색상"
+  },
+  "icon": {
+    "message": "아이콘"
+  },
+  "limitToDesignatedSites": {
+    "message": "지정 사이트로 제한"
+  },
+  "deleteThisContainer": {
+    "message": "이 Container 제거"
+  },
+  "manageSiteList": {
+    "message": "사이트 목록 관리…"
+  },
+  "manageThisContainer": {
+    "message": "이 Container 관리"
+  },
+  "containers": {
+    "message": "Container"
+  },
+  "done": {
+    "message": "완료"
+  },
+  "getStarted": {
+    "message": "시작하기"
+  },
+  "signIn": {
+    "message": "로그인"
+  },
+  "notNow": {
+    "message": "나중에"
+  },
+  "startSyncing": {
+    "message": "동기화 시작"
+  },
+  "info": {
+    "message": "정보",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "다음"
+  },
+  "openThisSiteConfirmation": {
+    "message": "할당된 Container에서 이 사이트를 여시겠습니까?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "현재 Container에서 계속 여시겠습니까?"
+  },
+  "rememberMyDecision": {
+    "message": "이 사이트에 대한 내 결정 기억"
+  },
+  "optionalPermissions": {
+    "message": "선택적 권한:"
+  },
+  "keyboardShortCuts": {
+    "message": "키보드 단축키:"
+  },
+  "onboarding": {
+    "message": "온보딩"
+  },
+  "resetOnboardingPanels": {
+    "message": "온보딩 패널 재설정"
+  },
+  "onboardingToggle": {
+    "message": "온보딩 패널을 다시 보려면 이것을 토글하세요."
+  },
+  "tabBehavior": {
+    "message": "탭 동작:"
+  },
+  "enableBookMarkMenus": {
+    "message": "북마크 메뉴 활성화"
+  },
+  "sync": {
+    "message": "동기화:"
+  },
+  "enableSync": {
+    "message": "동기화 활성화"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "이 설정을 사용하면 컨테이너에서 책갈피 또는 책갈피 폴더를 열 수 있습니다."
+  },
+  "enableSyncDescription": {
+    "message": "이 설정을 사용하면 여러 장치에서 컨테이너 및 사이트 할당을 동기화할 수 있습니다."
+  },
+  "syncExclude": {
+    "message": "컨테이너 제외"
+  },
+  "syncExcludePlaceholder": {
+    "message": "정규식 추가"
+  },
+  "syncExcludeDescription": {
+    "message": "이름이 대소문자를 구분하지 않는 지정된 정규식과 일치하는 경우 동기화에서 컨테이너를 제외합니다."
+  },
+  "replaceTab": {
+    "message": "새 탭을 만드는 대신 탭 바꾸기"
+  },
+  "replaceTabDescription": {
+    "message": "다른 컨테이너에 할당된 페이지가 열려 있는 경우 현재 탭을 교체합니다(현재 탭을 열어 두는 대신). 마우스 가운데 버튼으로 탭을 여는 것은 영향을 받지 않습니다."
+  },
+  "editWhichContainer": {
+    "message": "번호 단축키를 사용할 때 열리는 컨테이너를 수정합니다."
+  },
+  "keyboardShortCut": {
+    "message": "키보드 단축키 $keyId$로 열 Container",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Container 탐색 확인",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ Container에서 열기",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "현재 탭에서 열기",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "이 사이트에 대해 항상 $containerName$를 열도록 Firefox에 요청했습니다:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "위치 선택",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "숨기기"
+  },
+  "show": {
+    "message": "보이기"
+  },
+  "protectYourContainers": {
+    "message": "Mozilla VPN으로 Container 보호"
+  },
+  "protectThisContainer": {
+    "message": "Mozilla VPN으로 이 Container 보호"
+  },
+  "advancedProxySettings": {
+    "message": "고급 프록시 설정"
+  },
+  "proxyInputLabel": {
+    "message": "사용자 지정 프록시 입력"
+  },
+  "useCustomLocation": {
+    "message": "이 Container에 대한 사용자 지정 위치 사용"
+  },
+  "clearproxylabel": {
+    "message": "프록시 지우기"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN 켜짐"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN 꺼짐"
+  },
+  "invalidProxyAlert": {
+    "message": "올바른 프록시 URL을 입력하세요."
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "이 기능을 사용하려면 Mozilla VPN이 켜져 있어야 합니다."
+  },
+  "learnMore": {
+    "message": "더 알아보기"
+  },
+  "proxyNowAvailable": {
+    "message": "이제 Mozilla VPN 및 고급 프록시 설정 사용"
+  },
+  "applyToContainer": {
+    "message": "Container에 적용"
+  },
+  "tooltipWarning": {
+    "message": "이 Container는 Mozilla VPN 프록시를 사용하도록 설정되었지만 Mozilla VPN이 켜져 있지 않습니다. 이 Container를 사용하려면 Mozilla VPN을 켜십시오."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN 받기"
+  },
+  "integratewithmozillavpn": {
+    "message": "Mozilla VPN과 Container 통합"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN 및 프록시 권한",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "확장 프로그램이 Firefox 이외의 프로그램과 메시지를 교환하도록 허용",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "이 설정을 사용하면 확장 프로그램이 Mozilla VPN 클라이언트와 메시지를 교환할 수 있으며 Mozilla VPN 통합 기능이 작동하는 데 필요합니다.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "확장 프로그램이 프록시 설정을 제어하도록 허용",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "이를 통해 고급 프록시 설정을 사용하고 Mozilla VPN 통합 기능을 활성화할 수 있습니다.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "이 기능을 사용하려면 추가 권한이 필요합니다. 권한은 설정 페이지에서 언제든지 비활성화할 수 있습니다.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN과 통합하려면 구독 및 추가 권한이 필요합니다."
+  },
+  "enable": {
+    "message": "활성화",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Mozilla VPN과 Container 통합"
+  },
+  "theme": {
+    "message": "테마:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "테마 선택",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "자동 감지(기본값)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "밝게",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "어둡게",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "이름으로 컨테이너 목록 필터링:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "컨테이너 이름 검색"
+  },
+  "imageAltContainerInfo": {
+    "message": "컨테이너 정보",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "기본 컨테이너",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "컨테이너 패널 열기",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "컨테이너 단축키 $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "컨테이너 탭에서 북마크 열기"
+  }
+}

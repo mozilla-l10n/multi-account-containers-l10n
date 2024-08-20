@@ -1,0 +1,398 @@
+{
+  "openInNewTabTitle": {
+    "message": "פתיחת לשונית חדשה ב…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "פתיחת האתר הזה מחדש ב…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "מיון לשוניות לפי מגירה",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "תמיד לפתוח את האתר הזה ב…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "תמיד לפתוח ב…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "תמיד לפתוח אתר במגירה"
+  },
+  "openANewTabIn": {
+    "message": "פתיחת לשונית חדשה ב…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "פתיחת לשונית חדשה במגירה הזאת"
+  },
+  "openTabs": {
+    "message": "לשוניות פתוחות",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "העברת לשוניות לחלון חדש"
+  },
+  "onboarding-2-header": {
+    "message": "לתת למגירות לעבוד בשבילך."
+  },
+  "onboarding-2-description": {
+    "message": "יכולות כמו סימון בצבע ולשוניות במגירות נפרדות מסייעות לך למצוא דברים בקלות, להתמקד במשימות שלך ולצמצם את הסחות הדעת."
+  },
+  "onboarding-3-header": {
+    "message": "מקום לכל דבר וכל דבר במקומו."
+  },
+  "onboarding-3-description": {
+    "message": "אפשר להתחיל במגירות שיצרנו, או להשתמש בכאלו משלך."
+  },
+  "onboarding-4-header": {
+    "message": "תמיד לפתוח אתרים במגירות שרצויות לך."
+  },
+  "onboarding-4-description": {
+    "message": "לחיצה ימנית בתוך לשונית במגירה תאפשר לשייך את האתר כך שתמיד ייפתח במגירה."
+  },
+  "onboarding-5-header": {
+    "message": "לשוניות במגירות מתי שצריך אותן."
+  },
+  "onboarding-5-description": {
+    "message": "לחיצה ארוכה על כפתור הלשונית החדשה תאפשר ליצור לשונית חדשה במגירה."
+  },
+  "onboarding-6-header": {
+    "message": "מעתה אפשר לסנכרן מגירות!"
+  },
+  "onboarding-6-description-2": {
+    "message": "ניתן להפעיל סנכרון כדי לשתף מגירות ושיוכי אתרים עם כל מחשב שמחובר לחשבון שלך."
+  },
+  "onboarding-7-header-2": {
+    "message": "צריך חשבון כדי לסנכרן."
+  },
+  "onboarding-7-description-2": {
+    "message": "יש ללחוץ על כניסה כדי לאמת שהחשבון שלך פעיל."
+  },
+  "onboarding-8-description": {
+    "message": "מהיום מגירות יכולות להשתלב מול Mozilla VPN או מול מתווך שלך כדי ליצור חיבור מאובטח ופרטי שמגן על הפעילות שלך."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 לשוניות!"
+  },
+  "youHaveOpened": {
+    "message": "פתחת 100 לשוניות במגירות."
+  },
+  "spreadTheWord": {
+    "message": "אם נהנית להשתמש במגירות, נשמח להמלצה הלאה!"
+  },
+  "rate": {
+    "message": "דירוג"
+  },
+  "share": {
+    "message": "שיתוף"
+  },
+  "tweet": {
+    "message": "ציוץ"
+  },
+  "default": {
+    "message": "ברירת מחדל"
+  },
+  "manageContainers": {
+    "message": "ניהול מגירות"
+  },
+  "newContainer": {
+    "message": "מגירה חדשה"
+  },
+  "hideThisContainer": {
+    "message": "הסתרת מגירה זו"
+  },
+  "showThisContainer": {
+    "message": "הצגת מגירה זו"
+  },
+  "removeThisContainer": {
+    "message": "הסרת מגירה זו"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "להסיר את המגירה הזאת?"
+  },
+  "cancel": {
+    "message": "ביטול"
+  },
+  "ok": {
+    "message": "אישור"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "אתרים שמשויכים למגירה זו"
+  },
+  "options": {
+    "message": "אפשרויות"
+  },
+  "name": {
+    "message": "שם"
+  },
+  "color": {
+    "message": "צבע"
+  },
+  "icon": {
+    "message": "סמל"
+  },
+  "limitToDesignatedSites": {
+    "message": "הגבלה לאתרים מוקצים"
+  },
+  "deleteThisContainer": {
+    "message": "מחיקת מגירה זו"
+  },
+  "manageSiteList": {
+    "message": "ניהול רשימת אתרים…"
+  },
+  "manageThisContainer": {
+    "message": "ניהול מגירה זו"
+  },
+  "containers": {
+    "message": "מגירות"
+  },
+  "done": {
+    "message": "סיום"
+  },
+  "getStarted": {
+    "message": "תחילת עבודה"
+  },
+  "signIn": {
+    "message": "כניסה"
+  },
+  "notNow": {
+    "message": "לא כעת"
+  },
+  "startSyncing": {
+    "message": "התחלה בסנכרון"
+  },
+  "info": {
+    "message": "פרטים",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "הבא"
+  },
+  "openThisSiteConfirmation": {
+    "message": "לפתוח את האתר הזה במגירה ששויכה לו?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "לפתוח את זה במגירה הנוכחית בכל זאת?"
+  },
+  "rememberMyDecision": {
+    "message": "שמירת הבחירה שלי עבור אתר זה"
+  },
+  "optionalPermissions": {
+    "message": "הרשאות אופציונליות:"
+  },
+  "keyboardShortCuts": {
+    "message": "קיצורי מקלדת:"
+  },
+  "onboarding": {
+    "message": "קבלת פנים"
+  },
+  "resetOnboardingPanels": {
+    "message": "איפוס לוחות קבלת פנים"
+  },
+  "onboardingToggle": {
+    "message": "יש להחליף את הבחירה כדי לצפות בלוחות קבלת הפנים שוב."
+  },
+  "tabBehavior": {
+    "message": "התנהגות לשוניות:"
+  },
+  "enableBookMarkMenus": {
+    "message": "הפעלת תפריטי סימניות"
+  },
+  "sync": {
+    "message": "סנכרון:"
+  },
+  "enableSync": {
+    "message": "הפעלת סנכרון"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "הגדרה זו מאפשרת לך לפתוח סימנייה או תיקייה של סימניות במגירה."
+  },
+  "enableSyncDescription": {
+    "message": "הגדרה זו מאפשרת לך לסנכרן את המגירות ואת שיוכי האתרים שלך בין מכשירים."
+  },
+  "syncExclude": {
+    "message": "החרגת מגירות"
+  },
+  "syncExcludePlaceholder": {
+    "message": "הוספת ביטוי רגולרי"
+  },
+  "syncExcludeDescription": {
+    "message": "החרגת מגירות מסנכרון כשהשמות שלהן תואמים לביטוי רגולרי מסוים ללא תלות ברישיות."
+  },
+  "replaceTab": {
+    "message": "להחליף את הלשונית במקום לייצר חדשה"
+  },
+  "replaceTabDescription": {
+    "message": "להחליף את הלשונית הנוכחית אם נפתח עמוד שמשויך למגירה אחרת (במקום להשאיר את הלשונית הנוכחית פתוחה). פתיחת לשוניות עם כפתור העכבר האמצעי לא תושפע."
+  },
+  "editWhichContainer": {
+    "message": "עריכה איזו מגירה תיפתח בעת שימוש בקיצורי מקלדת ממוספרים."
+  },
+  "keyboardShortCut": {
+    "message": "מגירה לפתיחה עם קיצור המקלדת $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "פתיחה במגירה „$containerName$”",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "פתיחה בלשונית הנוכחית",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "ביקשת מ־Firefox תמיד לפתוח את האתר הזה תחת „$containerName$”:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "בחירת מקום",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "הסתרה"
+  },
+  "show": {
+    "message": "הצגה"
+  },
+  "protectYourContainers": {
+    "message": "הגנה על המגירות שלך עם Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "הגנה על מגירה זו עם Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "הגדרות שרת מתווך מתקדמות"
+  },
+  "proxyInputLabel": {
+    "message": "נא למלא שרת מתווך מותאם אישית"
+  },
+  "useCustomLocation": {
+    "message": "שימוש במקום מותאם אישית למגירה זו"
+  },
+  "clearproxylabel": {
+    "message": "ניקוי שרת מתווך"
+  },
+  "moz-vpn-connected": {
+    "message": "‏Mozilla VPN פעיל"
+  },
+  "moz-vpn-disconnected": {
+    "message": "‏Mozilla VPN כבוי"
+  },
+  "invalidProxyAlert": {
+    "message": "נא למלא כתובת שרת מתווך תקינה"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "יש להפעיל את Mozilla VPN כדי להשתמש ביכולת הזאת."
+  },
+  "learnMore": {
+    "message": "מידע נוסף"
+  },
+  "proxyNowAvailable": {
+    "message": "עכשיו עם Mozilla VPN והגדרות שרת מתווך מתקדמות"
+  },
+  "applyToContainer": {
+    "message": "החלה על מגירה"
+  },
+  "tooltipWarning": {
+    "message": "מגירה זו מוגדרת להשתמש בשרת מתווך של Mozilla VPN, אך Mozilla VPN אינו פעיל. יש להפעיל את Mozilla VPN כדי להשתמש במגירה זו."
+  },
+  "integratewithmozillavpn": {
+    "message": "שילוב המגירות שלך עם Mozilla VPN"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "לאפשר להרחבה להחליף הודעות עם יישומים אחרים מלבד Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "הגדרה זו מאפשרת להרחבה להחליף הודעות עם לקוח Mozilla VPN וזה נחוץ כדי שיכולות השילוב מול Mozilla VPN יעבדו.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "לאפשר להרחבה לשלוט בהגדרות השרת המתווך",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "הגדרה זו מאפשרת לך להשתמש בהגדרות שרת מתווך מתקדמות ולהפעיל את יכולות השילוב של Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "אפשרות זו דורשת הרשאות נוספות כדי לעבוד. ניתן להשבית את ההרשאות בכל עת דרך עמוד ההגדרות.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "השילוב מול Mozilla VPN דורש מינוי והרשאות נוספות כדי לעבוד."
+  },
+  "enable": {
+    "message": "הפעלה",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "שילוב המגירות שלך מול Mozilla VPN"
+  },
+  "theme": {
+    "message": "ערכת נושא:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "בחירת ערכת נושא",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "זיהוי אוטומטי (ברירת מחדל)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "בהירה",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "כהה",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "סינון רשימת המגירות לפי שם:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "חיפוש שם מגירה"
+  },
+  "imageAltContainerInfo": {
+    "message": "פרטי מגירה",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "מגירה ברירת מחדל",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "פתיחת לוח מגירות",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "קיצור דרך למגירה $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "פתיחת סימנייה במגירת לשוניות"
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värein merkityt välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Avaa uusi välilehti eristystilassa…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Avaa tämä sivusto uudelleen eristystilassa…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Lajittele välilehdet eristystilan mukaan",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Avaa tämä sivusto aina eristystilassa…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Avaa aina eristystilassa…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Avaa sivusto aina eristystilassa"
+  },
+  "openANewTabIn": {
+    "message": "Avaa uusi välilehti eristystilassa…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Avaa uusi välilehti tässä eristystilassa"
+  },
+  "openTabs": {
+    "message": "Avoimet välilehdet",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Siirrä välilehdet uuteen ikkunaan"
+  },
+  "onboarding-1-header": {
+    "message": "Parempi tapa hallita kaikkia verkossa tekemiäsi asioita"
+  },
+  "onboarding-1-description": {
+    "message": "Käytä eristystiloja tehtävien järjestämiseen, tilien hallintaan ja keskittyäksesi mihin haluat."
+  },
+  "onboarding-2-header": {
+    "message": "Aseta eristystilat soveltumaan tarpeisiisi."
+  },
+  "onboarding-2-description": {
+    "message": "Ominaisuudet, kuten värikoodaus ja erilliset eristystilassa olevat välilehdet, auttavat sinua löytämään asioita aiempaa helpommin, keskittämään huomiosi ja vähentämään häiriötekijät."
+  },
+  "onboarding-3-header": {
+    "message": "Paikka kaikelle ja kaikki paikallaan."
+  },
+  "onboarding-3-description": {
+    "message": "Aloita luomillamme eristystiloilla tai luo oma eristystila."
+  },
+  "onboarding-4-header": {
+    "message": "Avaa aina haluamasi sivustot haluamissasi eristystiloissa."
+  },
+  "onboarding-4-description": {
+    "message": "Napsauta hiiren kakkospainikkeella eristystilassa olevaa välilehteä määrittääksesi sivuston aina avattavaksi eristystilassa."
+  },
+  "onboarding-5-header": {
+    "message": "Eristetyt välilehdet kun niitä tarvitset."
+  },
+  "onboarding-5-description": {
+    "message": "Paina pitkään Uusi välilehti -painiketta luodaksesi uuden eristystilassa olevan välilehden."
+  },
+  "onboarding-6-header": {
+    "message": "Eristystilojen synkronointi on nyt saatavilla!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Ota synkronointi käyttöön, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustomääritykset minkä tahansa tiliisi yhdistetyn tietokoneen kanssa."
+  },
+  "onboarding-7-header-2": {
+    "message": "Synkronointiin tarvitaan tili."
+  },
+  "onboarding-7-description-2": {
+    "message": "Napsauta Kirjaudu sisään vahvistaaksesi, että tilisi on aktiivinen."
+  },
+  "onboarding-8-description": {
+    "message": "Eristystilat on nyt mahdollista integroida Mozilla VPN -palveluun tai omaan välityspalvelimeen, jotta voit luoda turvallisen ja yksityisen yhteyden toimintasi suojaamiseksi."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 välilehteä!"
+  },
+  "youHaveOpened": {
+    "message": "Olet avannut 100 eristystilassa olevaa välilehteä!"
+  },
+  "spreadTheWord": {
+    "message": "Jos pidät eristystiloissa olevista välilehdistä, auta levittämään sanaa!"
+  },
+  "rate": {
+    "message": "Arvostele"
+  },
+  "share": {
+    "message": "Jaa"
+  },
+  "tweet": {
+    "message": "Twiittaa"
+  },
+  "default": {
+    "message": "Oletus"
+  },
+  "manageContainers": {
+    "message": "Hallitse eristystiloja"
+  },
+  "newContainer": {
+    "message": "Uusi eristystila"
+  },
+  "hideThisContainer": {
+    "message": "Piilota tämä eristystila"
+  },
+  "showThisContainer": {
+    "message": "Näytä tämä eristystila"
+  },
+  "removeThisContainer": {
+    "message": "Poista tämä eristystila"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Haluatko varmasti poistaa tämän eristystilan?"
+  },
+  "cancel": {
+    "message": "Peruuta"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Tähän eristystilaan määritetyt sivustot"
+  },
+  "options": {
+    "message": "Valinnat"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "color": {
+    "message": "Väri"
+  },
+  "icon": {
+    "message": "Kuvake"
+  },
+  "limitToDesignatedSites": {
+    "message": "Rajoita määritettyihin sivustoihin"
+  },
+  "deleteThisContainer": {
+    "message": "Poista tämä eristystila"
+  },
+  "manageSiteList": {
+    "message": "Hallitse sivustoluetteloa…"
+  },
+  "manageThisContainer": {
+    "message": "Hallitse tätä eristystilaa"
+  },
+  "containers": {
+    "message": "Eristystilat"
+  },
+  "done": {
+    "message": "Valmis"
+  },
+  "getStarted": {
+    "message": "Aloitetaan"
+  },
+  "signIn": {
+    "message": "Kirjaudu sisään"
+  },
+  "notNow": {
+    "message": "Ei nyt"
+  },
+  "startSyncing": {
+    "message": "Aloita synkronointi"
+  },
+  "info": {
+    "message": "Tiedot",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Seuraava"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Avataanko tämä sivusto sille määritetyssä eristystilassa?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Haluatko silti avata tässä nykyisessä eristystilassa?"
+  },
+  "rememberMyDecision": {
+    "message": "Muista valinta tälle sivustolle"
+  },
+  "optionalPermissions": {
+    "message": "Valinnaiset oikeudet:"
+  },
+  "keyboardShortCuts": {
+    "message": "Pikanäppäimet:"
+  },
+  "onboarding": {
+    "message": "Perehdytys"
+  },
+  "resetOnboardingPanels": {
+    "message": "Nollaa perehdytyspaneelit"
+  },
+  "onboardingToggle": {
+    "message": "Kytke päälle nähdäksesi perehdytyspaneelit uudelleen."
+  },
+  "tabBehavior": {
+    "message": "Välilehden toiminta:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ota kirjanmerkkivalikot käyttöön"
+  },
+  "sync": {
+    "message": "Synkronointi:"
+  },
+  "enableSync": {
+    "message": "Ota synkronointi käyttöön"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Tämän asetuksen avulla voit avata kirjanmerkin tai kirjanmerkkikansion eristystilassa."
+  },
+  "enableSyncDescription": {
+    "message": "Tämän asetuksen avulla voit synkronoida eristystilat ja sivustomääritykset eri laitteiden välillä."
+  },
+  "syncExclude": {
+    "message": "Eristystilan poissulkeminen"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Lisää säännöllinen lauseke"
+  },
+  "syncExcludeDescription": {
+    "message": "Sulje eristystilat pois synkronoinnista, kun niiden nimi vastaa määritettyä eroteltua säännöllistä lauseketta. Kirjainkoolla ei ole merkitystä."
+  },
+  "replaceTab": {
+    "message": "Korvaa välilehti sen sijaan että luot uuden."
+  },
+  "replaceTabDescription": {
+    "message": "Korvaa nykyinen välilehti, jos avataan sivu, joka on määritetty toiseen eristystilaan (sen sijaan, että nykyinen välilehti pidettäisiin auki). Tämä ei vaikuta välilehtien avaamiseen hiiren keskipainikkeella."
+  },
+  "editWhichContainer": {
+    "message": "Muokkaa, mikä eristystila avataan, kun käytät numeroituja pikanäppäimiä."
+  },
+  "keyboardShortCut": {
+    "message": "Pikanäppäimellä $keyId$ avattava eristystila",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers -eristystilojen navigoinnin vahvistaminen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Avaa $containerName$ eristystilassa",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Avaa nykyisessä välilehdessä",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ tälle sivustolle:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Valitse sijainti",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Piilota"
+  },
+  "show": {
+    "message": "Näytä"
+  },
+  "protectYourContainers": {
+    "message": "Suojaa eristystilasi Mozilla VPN:llä"
+  },
+  "protectThisContainer": {
+    "message": "Suojaa tämä eristystila Mozilla VPN:llä"
+  },
+  "advancedProxySettings": {
+    "message": "Välityspalvelimen lisäasetukset"
+  },
+  "proxyInputLabel": {
+    "message": "Anna mukautettu välityspalvelin"
+  },
+  "useCustomLocation": {
+    "message": "Käytä mukautettua sijaintia tälle eristystilalle"
+  },
+  "clearproxylabel": {
+    "message": "Tyhjennä välityspalvelin"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN on päällä"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN on pois päältä"
+  },
+  "invalidProxyAlert": {
+    "message": "Anna kelvollinen välityspalvelimen URL-osoite"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN:n tulee olla päällä tämän ominaisuuden käyttämiseksi."
+  },
+  "learnMore": {
+    "message": "Lue lisää"
+  },
+  "proxyNowAvailable": {
+    "message": "Nyt Mozilla VPN:llä ja edistyneillä välityspalvelinasetuksilla"
+  },
+  "applyToContainer": {
+    "message": "Toteuta eristystilaan"
+  },
+  "tooltipWarning": {
+    "message": "Tämä eristystila on määritetty käyttämään Mozilla VPN -välityspalvelinta, mutta Mozilla VPN ei ole päällä. Ota Mozilla VPN käyttöön käyttääksesi tätä eristystilaa."
+  },
+  "getMozillaVpn": {
+    "message": "Hanki Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN ja välityspalvelimen käyttöoikeudet",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Salli laajennuksen vaihtaa viestejä muiden ohjelmien kuin Firefoxin kanssa",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Tämä asetus sallii laajennuksen vaihtaa viestejä Mozilla VPN -asiakkaan kanssa, ja se on välttämätön, jotta Mozilla VPN -integraatio-ominaisuudet toimivat.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Salli laajennuksen hallita välityspalvelimen asetuksia",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Tämän avulla voit käyttää välityspalvelimen lisäasetuksia ja ottaa käyttöön Mozilla VPN -integraatio-ominaisuudet.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Tämä ominaisuus vaatii käyttöoikeuden toimiakseen. Käyttöoikeuksia voi poistaa käytöstä milloin tahansa asetussivulla.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrointi Mozilla VPN:n kanssa vaatii tilauksen ja lisäoikeudet toimiakseen."
+  },
+  "enable": {
+    "message": "Käytä",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
+  },
+  "theme": {
+    "message": "Teema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Valitse teema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automaattinen tunnistus (oletus)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Vaalea",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tumma",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Suodata eristystilalistaa nimen perusteella:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Etsi eristystilan nimeä"
+  },
+  "imageAltContainerInfo": {
+    "message": "Eristystilan tiedot",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Oletusarvoinen eristystila",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Avaa eristystilan paneeli",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Eristystilan pikanäppäin $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Avaa kirjanmerkki eristettyyn välilehteen"
+  }
+}

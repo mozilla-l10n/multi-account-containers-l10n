@@ -1,0 +1,192 @@
+{
+  "openInNewTabTitle": {
+    "message": "Dobrir l’onglet novèl dins…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Tornar dobrir lo site dins…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Triar los onglets per contenedor",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Totjorn dobrir lo aqueste dins…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Totjorn dobrir dins…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Totjorn dobrir lo site dins d‘aquí"
+  },
+  "openANewTabIn": {
+    "message": "Dobrir un onglet novèl dins…"
+  },
+  "openTabs": {
+    "message": "Onglets dobèrts",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 onglets !"
+  },
+  "youHaveOpened": {
+    "message": "Avètz dubèrt 100 onglets contextuals."
+  },
+  "rate": {
+    "message": "Avalorar"
+  },
+  "share": {
+    "message": "Partejar"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Per defaut"
+  },
+  "manageContainers": {
+    "message": "Gerir los contenedors"
+  },
+  "newContainer": {
+    "message": "Contenedor novèl"
+  },
+  "hideThisContainer": {
+    "message": "Amagar aqueste contenedor"
+  },
+  "showThisContainer": {
+    "message": "Mostrar aqueste contenedor"
+  },
+  "removeThisContainer": {
+    "message": "Suprimir aqueste contenedor"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Volètz vertadièrament suprimir aqueste contenedor ?"
+  },
+  "cancel": {
+    "message": "Anullar"
+  },
+  "ok": {
+    "message": "D’acòrdi"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sites assignats a aqueste contenedor"
+  },
+  "options": {
+    "message": "Opcions"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "color": {
+    "message": "Color"
+  },
+  "icon": {
+    "message": "Icòna"
+  },
+  "deleteThisContainer": {
+    "message": "Suprimir aqueste contenedor"
+  },
+  "manageSiteList": {
+    "message": "Gerir la lista de sites…"
+  },
+  "containers": {
+    "message": "Contenidors"
+  },
+  "done": {
+    "message": "Acabat"
+  },
+  "getStarted": {
+    "message": "Per començar"
+  },
+  "signIn": {
+    "message": "Se connectar"
+  },
+  "notNow": {
+    "message": "Mai tard"
+  },
+  "startSyncing": {
+    "message": "Començar de sincronizar"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Seguent"
+  },
+  "keyboardShortCuts": {
+    "message": "Acorchis de clavièr :"
+  },
+  "onboarding": {
+    "message": "Aculhença"
+  },
+  "resetOnboardingPanels": {
+    "message": "Remetre a zèro los panèls d’aculhença"
+  },
+  "tabBehavior": {
+    "message": "Compòrtament de l’onglet :"
+  },
+  "enableSync": {
+    "message": "Activar la sincronizacion"
+  },
+  "chooseLocation": {
+    "message": "Causir l’emplaçament",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Amagar"
+  },
+  "show": {
+    "message": "Afichar"
+  },
+  "advancedProxySettings": {
+    "message": "Paramètres avançats de proxy"
+  },
+  "proxyInputLabel": {
+    "message": "Picatz un proxy personalizat"
+  },
+  "clearproxylabel": {
+    "message": "Escafar lo proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN es activat"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN es desactivat"
+  },
+  "invalidProxyAlert": {
+    "message": "Picatz una URL de servidor proxy valida"
+  },
+  "learnMore": {
+    "message": "Ne saber mai"
+  },
+  "applyToContainer": {
+    "message": "Aplicar al contenidor"
+  },
+  "getMozillaVpn": {
+    "message": "Obténer Mozilla VPN"
+  },
+  "enable": {
+    "message": "Activar",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "Tèma :",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Causir un tèma",
+    "description": "Description for the theme option"
+  },
+  "themeLight": {
+    "message": "Clar",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Escur",
+    "description": "Value for the theme option select tag"
+  }
+}

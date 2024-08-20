@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers 可让您临时或永久地以指定身份打开生活中的网站（小号多开）。名称和颜色皆可自定义，助您分门别类地管理各种活动 — 网络购物、旅行规化、收发工作邮件等等。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "新建身份标签页打开…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "用身份标签页重新打开…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "按身份排序标签页",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "总是用身份标签页打开此网站…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "总是用身份标签页打开…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "总是用身份标签页打开网站"
+  },
+  "openANewTabIn": {
+    "message": "新建身份标签页打开…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "用此身份新建标签页"
+  },
+  "openTabs": {
+    "message": "打开的标签页",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "将标签页移动到新窗口"
+  },
+  "onboarding-1-header": {
+    "message": "更佳的网络生活管理方式"
+  },
+  "onboarding-1-description": {
+    "message": "用该功能安排任务、管理账户，专注于更重要的事情。"
+  },
+  "onboarding-2-header": {
+    "message": "不同身份，一键切换。"
+  },
+  "onboarding-2-description": {
+    "message": "“数据隔离 + 颜色标识”的标签页，助力您的工作与学习，保持专注、减少分心。"
+  },
+  "onboarding-3-header": {
+    "message": "一览无余，井井有条。"
+  },
+  "onboarding-3-description": {
+    "message": "默认四种身份，您可按需新建更多。"
+  },
+  "onboarding-4-header": {
+    "message": "按您所需，为特定网站指定所用身份。"
+  },
+  "onboarding-4-description": {
+    "message": "鼠标右键地址栏图标，即可指定网站总以该身份打开。"
+  },
+  "onboarding-5-header": {
+    "message": "按需以不同身份打开标签页。"
+  },
+  "onboarding-5-description": {
+    "message": "长按“新建标签页”按钮，即可选择身份。"
+  },
+  "onboarding-6-header": {
+    "message": "身份同步功能正式推出！"
+  },
+  "onboarding-6-description-2": {
+    "message": "开启同步后，即可将身份及网站设置同步到所有已登录账户的计算机。"
+  },
+  "onboarding-7-header-2": {
+    "message": "需要登录账户才能同步。"
+  },
+  "onboarding-7-description-2": {
+    "message": "点击登录，即可确认您的账户启用状态。"
+  },
+  "onboarding-8-description": {
+    "message": "现在起支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 个标签页！"
+  },
+  "youHaveOpened": {
+    "message": "您已打开 100 个身份标签页。"
+  },
+  "spreadTheWord": {
+    "message": "若您喜欢这个功能，就请向大家多多安利哟！"
+  },
+  "rate": {
+    "message": "评分"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "tweet": {
+    "message": "推文"
+  },
+  "default": {
+    "message": "默认"
+  },
+  "manageContainers": {
+    "message": "管理身份"
+  },
+  "newContainer": {
+    "message": "新建身份"
+  },
+  "hideThisContainer": {
+    "message": "隐藏此身份"
+  },
+  "showThisContainer": {
+    "message": "显示此身份"
+  },
+  "removeThisContainer": {
+    "message": "移除此身份"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "您确定要移除此身份吗？"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "ok": {
+    "message": "确定"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "指定至此身份的网站"
+  },
+  "options": {
+    "message": "选项"
+  },
+  "name": {
+    "message": "名称"
+  },
+  "color": {
+    "message": "颜色"
+  },
+  "icon": {
+    "message": "图标"
+  },
+  "limitToDesignatedSites": {
+    "message": "限制特定网站"
+  },
+  "deleteThisContainer": {
+    "message": "删除此身份"
+  },
+  "manageSiteList": {
+    "message": "管理网站列表…"
+  },
+  "manageThisContainer": {
+    "message": "管理此身份"
+  },
+  "containers": {
+    "message": "身份"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "getStarted": {
+    "message": "开始使用"
+  },
+  "signIn": {
+    "message": "登录"
+  },
+  "notNow": {
+    "message": "暂时不要"
+  },
+  "startSyncing": {
+    "message": "开始同步"
+  },
+  "info": {
+    "message": "信息",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "openThisSiteConfirmation": {
+    "message": "要用您指定的身份打开此网站吗？"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "仍要以当前身份打开？"
+  },
+  "rememberMyDecision": {
+    "message": "记住我对此网站的决定"
+  },
+  "optionalPermissions": {
+    "message": "可选权限："
+  },
+  "keyboardShortCuts": {
+    "message": "键盘快捷键："
+  },
+  "onboarding": {
+    "message": "快速入门"
+  },
+  "resetOnboardingPanels": {
+    "message": "重置入门面板"
+  },
+  "onboardingToggle": {
+    "message": "切换此选项即可再次查看入门面板。"
+  },
+  "tabBehavior": {
+    "message": "标签页行为："
+  },
+  "enableBookMarkMenus": {
+    "message": "启用书签菜单"
+  },
+  "sync": {
+    "message": "同步："
+  },
+  "enableSync": {
+    "message": "启用同步"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "此设置让您可用身份标签页打开单个书签或整个书签文件夹。"
+  },
+  "enableSyncDescription": {
+    "message": "此设置让您可在设备间同步身份和网站设置。"
+  },
+  "syncExclude": {
+    "message": "排除身份标签页"
+  },
+  "syncExcludePlaceholder": {
+    "message": "请输入正则表达式"
+  },
+  "syncExcludeDescription": {
+    "message": "排除同步匹配下列正则表达式（不区分大小写）名称的身份标签页。"
+  },
+  "replaceTab": {
+    "message": "覆盖标签页，而非新建标签页"
+  },
+  "replaceTabDescription": {
+    "message": "打开被指定至另一身份的页面时，覆盖当前标签页（不保留打开的标签页）。用鼠标中键打开标签页则不受影响。"
+  },
+  "editWhichContainer": {
+    "message": "编辑各数字快捷键所对应的身份。"
+  },
+  "keyboardShortCut": {
+    "message": "用快捷键 $keyId$ 打开身份",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers 确认导航",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "打开（$containerName$）",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "用当前标签页打开",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "您要求 Firefox 总以“$containerName$”身份打开此网站：",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "选择位置",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "隐藏"
+  },
+  "show": {
+    "message": "显示"
+  },
+  "protectYourContainers": {
+    "message": "用 Mozilla VPN 保护您的身份"
+  },
+  "protectThisContainer": {
+    "message": "用 Mozilla VPN 保护此身份"
+  },
+  "advancedProxySettings": {
+    "message": "高级代理设置"
+  },
+  "proxyInputLabel": {
+    "message": "输入自定义代理"
+  },
+  "useCustomLocation": {
+    "message": "为此身份使用自定义位置"
+  },
+  "clearproxylabel": {
+    "message": "清除代理"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN 已开启"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN 已关闭"
+  },
+  "invalidProxyAlert": {
+    "message": "请输入有效的代理网址"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "须启用 Mozilla VPN 才能使用此功能。"
+  },
+  "learnMore": {
+    "message": "详细了解"
+  },
+  "proxyNowAvailable": {
+    "message": "现已整合 Mozilla VPN 及高级代理设置"
+  },
+  "applyToContainer": {
+    "message": "应用至身份"
+  },
+  "tooltipWarning": {
+    "message": "此身份已设置为使用 Mozilla VPN 代理，但 Mozilla VPN 尚未开启。请启用 Mozilla VPN 以使用此身份。"
+  },
+  "getMozillaVpn": {
+    "message": "下载 Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "将 Mozilla VPN 与身份标签页整合"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN 与代理权限",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "允许扩展与 Firefox 以外的程序交换消息",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "此设置允许扩展与 Mozilla VPN 客户端交换消息，如此与 Mozilla VPN 整合功能才可正常使用。",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "允许扩展控制代理设置",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "此权限允许您使用高级代理设置，并启用与 Mozilla VPN 的整合功能。",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "此功能需额外权限才可使用，可随时到设置页面撤回。",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "与 Mozilla VPN 的整合功能需要订阅并授予更多权限才可使用。"
+  },
+  "enable": {
+    "message": "启用",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "将 Mozilla VPN 与身份标签页整合"
+  },
+  "theme": {
+    "message": "主题：",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "选择主题",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "自动检测（默认）",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "浅色",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "深色",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "按名称过滤身份列表：",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "搜索身份名称"
+  },
+  "imageAltContainerInfo": {
+    "message": "身份信息",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "默认身份",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "打开身份管理面板",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "身份快捷键 $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "在身份标签页中打开书签"
+  }
+}

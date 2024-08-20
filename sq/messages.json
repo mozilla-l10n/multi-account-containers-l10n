@@ -1,0 +1,415 @@
+{
+  "extensionDescription": {
+    "message": "Kontejnerët e Llogarive të Shumëfishta ju ndihmojnë të mbani krejt anët e jetës tuaj internetore brenda skedash të ndryshme. Etiketa vetjake dhe skeda të koduara përmes ngjyrash ju ndihmojnë t’i mbani veprimtaritë e ndryshme — bie fjala, blerje, planifikim udhëtimesh, apo parje email-esh të punë — ndarazi.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Hap Skedë të Re në…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Rihape Këtë Sajt në…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Renditi Skedat sipas Kontejnerësh",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Hape Përherë Këtë Sajt në…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Hape përherë në…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Hape Sajtin Përherë në Kontejner"
+  },
+  "openANewTabIn": {
+    "message": "Hap një Skedë të Re në…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Hap Skedë të Re në këtë Kontejner"
+  },
+  "openTabs": {
+    "message": "Hapi Skedat",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Kaloji Skedat në një Dritare të Re"
+  },
+  "onboarding-1-header": {
+    "message": "Një rrugë më e mirë për të administruar krejt gjërat që bëni në internet"
+  },
+  "onboarding-1-description": {
+    "message": "Përdorni Kontejnerë për të sistemuar punë, administruar llogari dhe për të pasur vëmendjen atje ku doni."
+  },
+  "onboarding-2-header": {
+    "message": "Vini Kontejnerët të punojnë për ju."
+  },
+  "onboarding-2-description": {
+    "message": "Veçori të tilla si, skeda të koduara përmes ngjyrash dhe Kontejner më vete ju ndihmojnë të gjeni gjërat kollaj, të përqendroni vëmendjen tuaj dhe të minimizoni shpërqendrimet."
+  },
+  "onboarding-3-header": {
+    "message": "Një vend për gjithçka dhe gjithçka në vendin e vet."
+  },
+  "onboarding-3-description": {
+    "message": "Filloni me Kontejnerët që kemi krijuar, ose krijoni tuajin."
+  },
+  "onboarding-4-header": {
+    "message": "Hapini sajtet përherë në Kontejnerët që doni."
+  },
+  "onboarding-4-description": {
+    "message": "Djathtasklikoni brenda një skede Kontejneri që të caktoni hapjen e sajtit përherë në Kontejner."
+  },
+  "onboarding-5-header": {
+    "message": "Skeda kontejneri, kur ju duhen."
+  },
+  "onboarding-5-description": {
+    "message": "Shtypni gjatë butonin Skedë e Re që të krijoni një skedë të re Kontejneri."
+  },
+  "onboarding-6-header": {
+    "message": "Njëkohësimi i Kontejnerëve tani është Gati!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Që të ndani Kontejner dhe caktime sajtesh me çfarëdo kompjuteri të lidhur me llogarinë tuaj, aktivizoni njëkohësimin."
+  },
+  "onboarding-7-header-2": {
+    "message": "Që të bëhet njëkohësim, lypset llogari."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klikoni mbi Hyni, që të ripohoni se llogaria juaj është aktive."
+  },
+  "onboarding-8-description": {
+    "message": "Tanimë Kontejnerët mund të integrohen me Mozilla VPN, ose ndërmjetësin tuaj, për të krijuar një lidhje të sigurt, private, që mbron veprimtarinë tuaj."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 skeda!"
+  },
+  "youHaveOpened": {
+    "message": "Keni hapur 100 skeda Kontejnerësh."
+  },
+  "spreadTheWord": {
+    "message": "Nëse ju pëlqejnë Kontejnerët, ndihmonani të përhapim fjalën!"
+  },
+  "rate": {
+    "message": "Vlerësojeni"
+  },
+  "share": {
+    "message": "Ndajeni me të tjerët"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Parazgjedhje"
+  },
+  "manageContainers": {
+    "message": "Administroni Kontejner"
+  },
+  "newContainer": {
+    "message": "Kontejner i Ri"
+  },
+  "hideThisContainer": {
+    "message": "Fshihe Këtë Kontejner"
+  },
+  "showThisContainer": {
+    "message": "Shfaqe Këtë Kontejner"
+  },
+  "removeThisContainer": {
+    "message": "Hiqe Këtë Kontejner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Jeni i sigurt se doni të hiqet ky Kontejner?"
+  },
+  "cancel": {
+    "message": "Anuloje"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sajte caktuar te ky Kontejner"
+  },
+  "options": {
+    "message": "Mundësi"
+  },
+  "name": {
+    "message": "Emër"
+  },
+  "color": {
+    "message": "Ngjyrë"
+  },
+  "icon": {
+    "message": "Ikonë"
+  },
+  "limitToDesignatedSites": {
+    "message": "Kufizoje te Sajtet e Caktuar"
+  },
+  "deleteThisContainer": {
+    "message": "Fshije Këtë Kontejner"
+  },
+  "manageSiteList": {
+    "message": "Administroni Listë Sajtesh…"
+  },
+  "manageThisContainer": {
+    "message": "Administroni Këtë Kontejner"
+  },
+  "containers": {
+    "message": "Kontejnerë"
+  },
+  "done": {
+    "message": "U bë"
+  },
+  "getStarted": {
+    "message": "Fillojani"
+  },
+  "signIn": {
+    "message": "Hyni"
+  },
+  "notNow": {
+    "message": "Jo Tani"
+  },
+  "startSyncing": {
+    "message": "Fillo Njëkohësim"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Pasuesja"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Të hapet ky sajt në Kontejnerin që i është caktuar?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Doni ende të hapet në këtë Kontejner të tanishëm?"
+  },
+  "rememberMyDecision": {
+    "message": "Mbaje mend vendimin tim për këtë sajt"
+  },
+  "optionalPermissions": {
+    "message": "Leje Opsionale:"
+  },
+  "keyboardShortCuts": {
+    "message": "Shkurtore Tastiere:"
+  },
+  "onboarding": {
+    "message": "Mirëseardhje"
+  },
+  "resetOnboardingPanels": {
+    "message": "Rikthe te Parazgjedhjet Panelet e Mirëseardhjes"
+  },
+  "onboardingToggle": {
+    "message": "Klikoni mbi butoni këtu sipër që të rishihni panelet e mirëseardhjes."
+  },
+  "tabBehavior": {
+    "message": "Sjellje skede:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktivizo Menu Faqerojtësish"
+  },
+  "sync": {
+    "message": "Njëkohësim:"
+  },
+  "enableSync": {
+    "message": "Aktivizo njëkohësim"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Ky rregullim ju lejon të hapni në një Kontejner një faqerojtës, ose dosje faqerojtësish."
+  },
+  "enableSyncDescription": {
+    "message": "Ky rregullim ju lejon të njëkohësoni nëpër pajisje Kontejnerët tuaj dhe caktime sajtesh."
+  },
+  "syncExclude": {
+    "message": "Përjashtim kontejnerësh"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Futni një shprehje të rregullt"
+  },
+  "syncExcludeDescription": {
+    "message": "Përjashto nga njëkohësimi kontejnerë, kur emri i tyre ka përputhje me shprehjen e rregullt të dhënë, pa marrë parasysh shkrim me të madhe a të vogël."
+  },
+  "replaceTab": {
+    "message": "Zëvendësoje skedën, në vend se të hapni një të re"
+  },
+  "replaceTabDescription": {
+    "message": "Zëvendëso skedën e tanishme, nëse është hapur një faqe që i është caktuar një Kontejneri tjetër (në vend se të mbahet hapur skeda e tanishme). Hapja e skedave me butonin e mesit të miut nuk preket nga kjo."
+  },
+  "editWhichContainer": {
+    "message": "Përpunoni cili Kontejner hapet, kur përdoren shkurtore të numërtuara."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner për t’u hapur me Shkurtore Tastiere $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInContainer": {
+    "message": "Hape në Kontejnerin $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Hape në skedën e tanishme",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "I kërkuat Firefox-it të hapë përherë $containerName$ për këtë sajt:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Zgjidhni vendndodhje",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Fshihe"
+  },
+  "show": {
+    "message": "Shfaqe"
+  },
+  "protectYourContainers": {
+    "message": "Mbroni Kontejnerët tuaj me Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Mbroje këtë Kontejner me Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Rregullime të thelluara ndërmjetësi"
+  },
+  "proxyInputLabel": {
+    "message": "Jepni ndërmjetës vetjak"
+  },
+  "useCustomLocation": {
+    "message": "Përdorni një vendndodhje vetjake për këtë Kontejner"
+  },
+  "clearproxylabel": {
+    "message": "Spastroje ndërmjetësin"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN është aktiv"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN s’është aktiv"
+  },
+  "invalidProxyAlert": {
+    "message": "Ju lutemi, jepni një URL të vlefshme ndërmjetësi"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Që të përdoret kjo veçori, Mozilla VPN duhet të jetë aktive."
+  },
+  "learnMore": {
+    "message": "Mësoni më tepër"
+  },
+  "proxyNowAvailable": {
+    "message": "Tanimë me Mozilla VPN dhe rregullime të thelluara ndërmjetësi"
+  },
+  "applyToContainer": {
+    "message": "Aplikoje mbi Kontejner"
+  },
+  "tooltipWarning": {
+    "message": "Ky Kontejner është ujdisur të përdorë një ndërmjetës Mozilla VPN, por Mozilla VPN s’është aktive. Që të përdorni këtë Kontejner, aktivizoni Mozilla VPN."
+  },
+  "getMozillaVpn": {
+    "message": "Merrni Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integroni Kontejnerët tuaj me Mozilla VPN-në"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN & Leje Ndërmjetësish",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Lejojeni zgjerimin të shkëmbejë mesazhe me programe të tjera veç Firefox-it",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Ky rregullim e lejon zgjerimin të shkëmbejë mesazhe me klientin Mozilla VPN dhe është i domosdoshëm që të funksionojë integrimi me Mozilla VPN-në.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Lejojeni zgjerimin të kontrollojë rregullime ndërmjetësi",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Kjo ju lejon të përdorni rregullime të thelluara ndërmjetësi dhe të aktivizoni veçori integrimi me Mozilla VPN-në.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Që të funksionojë, kjo veçori lyp një leje shtesë. Lejet mund të çaktivizohen kurdo, që nga faqja e rregullimeve.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Që të funksionojë, integrimi me Mozilla VPN-në lyp një pajtim dhe leje shtesë."
+  },
+  "enable": {
+    "message": "Aktivizoje",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integroni Kontejnerët tuaj me Mozilla VPN-në"
+  },
+  "theme": {
+    "message": "Temë:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Zgjidhni një temë",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Vetëpikase (parazgjedhje)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "E çelët",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "E errët",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtroje listën e kontejnerëve sipas emrash:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Kërkoni emër kontejneri"
+  },
+  "imageAltContainerInfo": {
+    "message": "Hollësi kontejneri",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Kontejner Parazgjedhje",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Hap panel kontejnerësh",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Shkurtore kontejneri $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Hape Faqerojtësin në Skedë Kontejneri"
+  }
+}

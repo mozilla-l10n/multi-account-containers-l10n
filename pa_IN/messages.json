@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਦੇ ਸਾਰੇ ਹਿੱਸਿਆਂ ਨੂੰ ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਿੱਚ ਵੰਡਣ ਲਈ ਮਦਦਗਾਰ ਹਨ। ਵੱਖੋ-ਵੱਖਰੀ ਸਰਗਰਮੀਆਂ ਲਈ ਪਸੰਦੀਦਾ ਲੇਬਲ ਤੇ ਰੰਗ-ਬਰੰਗੀਆਂ ਟੈਬਾਂ ਰੱਖੋ — ਜਿਵੇਂ ਆਨਲਾਈਨ ਖਰੀਦਦਾਰੀ, ਯਾਤਰਾ ਦੀਆਂ ਸਕੀਮਾਂ ਜਾਂ ਕੰਮ ਵਾਲੀਆਂ ਈਮੇਲਾਂ — ਸਭ ਵੱਖੋ-ਵੱਖ।",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "ਇਸ ਟੈਬ ਨੂੰ ਇਸ ਵਿੱਚ ਮੁੜ-ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "ਟੈਬਾਂ ਨੂੰ ਕਨਟੇਨਰ ਮੁਤਾਬਕ ਲੜੀਬੱਧ",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "openANewTabIn": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "openTabs": {
+    "message": "ਟੈਬਾਂ ਖੋਲ੍ਹੋ",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "ਟੈਬਾਂ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ"
+  },
+  "onboarding-1-header": {
+    "message": "ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਦੇ ਇੰਤਜ਼ਾਮ ਦਾ ਵਧੀਆ ਢੰਗ"
+  },
+  "onboarding-1-description": {
+    "message": "ਕਨਟੇਨਰਾਂ ਨੂੰ ਕੰਮ ਦਾ ਬੰਦੋਬਸਤ ਕਰਨ, ਖਾਤਿਆਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰਨ ਤੇ ਜਿੱਥੇ ਤੁਸੀਂ ਚਾਹੋ, ਓਥੇ ਧਿਆਨ ਕੇਂਦਰਿਤ ਕਰਨ ਲਈ ਵਰਤੋਂ।"
+  },
+  "onboarding-2-header": {
+    "message": "ਕਨਟੇਨਰਾਂ ਨੂੰ ਆਪਣੇ ਲਈ ਵਰਤੋਂ।"
+  },
+  "onboarding-2-description": {
+    "message": "ਰੰਗਦਾਰ ਸਕੀਮ ਤੇ ਵੱਖਰੇਵਾਂ ਕਨਟੇਨਰ ਟੈਬ ਵਰਗੇ ਫ਼ੀਚਰਾਂ ਨਾਲ ਤੁਸੀਂ ਚੀਜ਼ਾਂ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲੱਭ ਸਕਦੇ ਹੋ, ਤੁਹਾਡਾ ਧਿਆਨ ਕੇਂਦਰਿਤ ਰਹਿੰਦਾ ਹੈ ਤੇ ਰੁਕਾਵਟਾਂ ਘੱਟ ਤੋਂ ਘੱਟ ਹੁੰਦੀਆਂ ਹਨ।"
+  },
+  "onboarding-3-header": {
+    "message": "ਹਰ ਚੀਜ਼ ਲਈ ਇੱਕ ਟਿਕਾਣਾ ਅਤੇ ਹਰ ਚੀਜ਼ ਆਪਣੇ ਟਿਕਾਣੇ ਉੱਤੇ।"
+  },
+  "onboarding-3-description": {
+    "message": "ਸਾਡੇ ਵਲੋਂ ਬਣਾਏ ਹੋਏ ਕਨਟੇਨਰ ਵਰਤ ਲਵੋ ਜਾਂ ਆਪਣੇ ਖੁਦ ਦੇ ਬਣਾਓ।"
+  },
+  "onboarding-4-header": {
+    "message": "ਸਾਈਟਾਂ ਨੂੰ ਹਮੇਸ਼ਾਂ ਜਿਸ ਵਿੱਚ ਚਾਹੋ, ਉਸ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ।"
+  },
+  "onboarding-4-description": {
+    "message": "ਕਨਟੇਨਰ ਟੈਬ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰਕੇ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਖਾਸ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣ ਲਈ ਨਿਯਤ ਕਰ ਦਿਓ।"
+  },
+  "onboarding-5-header": {
+    "message": "ਜਦੋਂ ਵੀ ਤੁਹਾਨੂੰ ਲੋੜ ਹੋਵੇ ਤਾਂ ਕਨਟੇਨਰ ਟੈਬਾਂ।"
+  },
+  "onboarding-5-description": {
+    "message": "ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ ਬਣਾਉਣ ਲਈ ਨਵੀਂ ਟੈਬ ਬਟਨ ਨੂੰ ਵੱਧ ਚਿਰ ਦਬਾ ਕੇ ਰੱਖੋ।"
+  },
+  "onboarding-6-header": {
+    "message": "ਹੁਣ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸਿੰਕ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ!"
+  },
+  "onboarding-6-description-2": {
+    "message": "ਕਨਟੇਨਰ ਤੇ ਉਸ ਲਈ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਕਿਸੇ ਵੀ ਕੰਪਿਊਟਰ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।"
+  },
+  "onboarding-7-header-2": {
+    "message": "ਸਿੰਕ ਕਰਨ ਲਈ ਖਾਤਾ ਚਾਹੀਦਾ ਹੈ।"
+  },
+  "onboarding-7-description-2": {
+    "message": "ਤੁਹਾਡੇ ਖਾਤੇ ਦੇ ਸਰਗਰਮ ਹੋਣ ਦੀ ਤਸਦੀਕ ਕਰਨ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।"
+  },
+  "onboarding-8-description": {
+    "message": "ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀਆਂ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਵਾਸਤੇ ਸੁਰੱਖਿਅਤ, ਪ੍ਰਾਈਵੇਟ ਕਨੈਕਸ਼ਨ ਬਣਾਉਣ ਲਈ ਨਵੇਂ ਕਨਟੇਨਰ Mozilla VPN ਜਾਂ ਤੁਹਾਡੇ ਆਪਣੇ ਪਰਾਕਸੀ ਨਾਲ ਸੰਬੰਧਿਤ ਹੋ ਸਕਦੇ ਹਨ।"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 ਟੈਬਾਂ!"
+  },
+  "youHaveOpened": {
+    "message": "ਤੁਸੀਂ 100 ਕਨਟੇਨਰ ਟੈਬਾਂ ਖੋਲ੍ਹ ਚੁੱਕੇ ਹੋ।"
+  },
+  "spreadTheWord": {
+    "message": "ਜੇ ਤੁਹਾਨੂੰ ਕਨਟੇਨਰ ਪਸੰਦ ਆਏ ਹਨ ਤਾਂ ਪ੍ਰਚਾਰ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰੋ!"
+  },
+  "rate": {
+    "message": "ਰੇਟ"
+  },
+  "share": {
+    "message": "ਸਾਂਝਾ ਕਰੋ"
+  },
+  "tweet": {
+    "message": "ਟਵੀਟ"
+  },
+  "default": {
+    "message": "ਮੂਲ"
+  },
+  "manageContainers": {
+    "message": "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ"
+  },
+  "newContainer": {
+    "message": "ਨਵਾਂ ਕਨਟੇਨਰ"
+  },
+  "hideThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਲੁਕਾਓ"
+  },
+  "showThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਵੇਖਾਓ"
+  },
+  "removeThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਹਟਾਓ"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "ਕੀ ਤੁਸੀਂ ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+  },
+  "cancel": {
+    "message": "ਰੱਦ ਕਰੋ"
+  },
+  "ok": {
+    "message": "ਠੀਕ ਹੈ"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਦਿੱਤੀਆਂ ਸਾਈਟਾਂ"
+  },
+  "options": {
+    "message": "ਚੋਣਾਂ"
+  },
+  "name": {
+    "message": "ਨਾਂ"
+  },
+  "color": {
+    "message": "ਰੰਗ"
+  },
+  "icon": {
+    "message": "ਆਈਕਾਨ"
+  },
+  "limitToDesignatedSites": {
+    "message": "ਨਿਯੁਕਤ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਲਈ ਸੀਮਿਤ"
+  },
+  "deleteThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ ਹਟਾਓ"
+  },
+  "manageSiteList": {
+    "message": "…ਸਾਈਟ ਸੂਚੀ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ"
+  },
+  "manageThisContainer": {
+    "message": "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ"
+  },
+  "containers": {
+    "message": "ਕਨਟੇਨਰ"
+  },
+  "done": {
+    "message": "ਮੁਕੰਮਲ"
+  },
+  "getStarted": {
+    "message": "ਸ਼ੁਰੂ ਕਰੀਏ"
+  },
+  "signIn": {
+    "message": "ਸਾਈਨ ਇਨ"
+  },
+  "notNow": {
+    "message": "ਹੁਣੇ ਨਹੀਂ"
+  },
+  "startSyncing": {
+    "message": "ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ"
+  },
+  "info": {
+    "message": "ਜਾਣਕਾਰੀ",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "ਅੱਗੇ"
+  },
+  "openThisSiteConfirmation": {
+    "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਨਿਯਤ ਕੀਤੇ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਹੈ?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹਾਲੇ ਵੀ ਇਸ ਮੌਜੂਦਾ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਚਾਹੋਗੇ?"
+  },
+  "rememberMyDecision": {
+    "message": "ਇਸ ਸਾਈਟ ਲਈ ਮੇਰਾ ਫ਼ੈਸਲਾ ਯਾਦ ਰੱਖੋ"
+  },
+  "optionalPermissions": {
+    "message": "ਚੋਣਵੀਆਂ ਇਜਾਜ਼ਤਾਂ:"
+  },
+  "keyboardShortCuts": {
+    "message": "ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ:"
+  },
+  "onboarding": {
+    "message": "ਤਿਆਰੀ"
+  },
+  "resetOnboardingPanels": {
+    "message": "ਤਿਆਰੀ ਪੈਨਲਾਂ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ"
+  },
+  "onboardingToggle": {
+    "message": "ਤਿਆਰੀ ਪੈਨਲਾਂ ਨੂੰ ਮੁੜ ਵੇਖਣ ਲਈ ਇਸ ਨੂੰ ਬਦਲੋ।"
+  },
+  "tabBehavior": {
+    "message": "ਟੈਬ ਰਵੱਈਆ:"
+  },
+  "enableBookMarkMenus": {
+    "message": "ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ"
+  },
+  "sync": {
+    "message": "ਸਿੰਕ ਕਰਨਾ:"
+  },
+  "enableSync": {
+    "message": "ਸਿੰਕ ਸਮਰੱਥ ਕਰੋ"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "ਇਹ ਸੈਟਿੰਗ ਤੁਹਾਨੂੰ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਜਾਂ ਬੁੱਕਮਾਰਕ ਦਾ ਫੋਲਡਰ ਖੋਲ੍ਹਣ ਲਈ ਸਹਾਇਕ ਹੈ।"
+  },
+  "enableSyncDescription": {
+    "message": "ਇਹ ਸੈਟਿੰਗ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਕਨਟੇਨਰਾਂ ਤੇ ਤੈਅ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ।"
+  },
+  "syncExclude": {
+    "message": "ਕਨਟੇਨਰ ਅਲਹਿਦਗੀ"
+  },
+  "syncExcludePlaceholder": {
+    "message": "ਨਿਯਮਤ ਸਮੀਕਰਨ ਪਾਓ"
+  },
+  "syncExcludeDescription": {
+    "message": "ਖਾਸ ਦਿੱਤੇ (ਅੱਖਰਾਂ ਦੇ ਵੱਡੇ ਛੋਟੇ ਹੋਣ ਸਮੇਤ) ਨਿਯਮਤ ਸਮੀਕਰਨ ਨਾਲ ਮਿਲਦੇ ਨਾਂ ਮੁਤਾਬਕ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸਿੰਕ ਨਾ ਕਰੋ।"
+  },
+  "replaceTab": {
+    "message": "ਨਵੀਂ ਬਣਾਉਣ ਦੀ ਬਜਾਏ ਟੈਬ ਨੂੰ ਤਬਦੀਲ ਕਰੋ"
+  },
+  "replaceTabDescription": {
+    "message": "ਹੋਰ ਕਨਟੇਨਰ ਨੂੰ ਜਾਰੀ ਕੀਤੇ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬਦਲੋ (ਬਜਾਏ ਕਿ ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਖੁੱਲ੍ਹੀ ਰੱਖਿਆ ਜਾਵੇ)। ਵਿਚਲੇ ਮਾਊਸ ਬਟਨ ਨਾਲ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਅਸਰ ਨਹੀਂ ਪਵੇਗਾ।"
+  },
+  "editWhichContainer": {
+    "message": "ਦੱਸੋ ਕਿ ਅੰਕਾਂ ਵਾਲੇ ਸ਼ਾਰਟਕੱਟ ਵਰਤ ਕੇ ਕਿਹੜੇ ਕਨਟੇਨਰ ਖੋਲ੍ਹੇ ਜਾਣ।"
+  },
+  "keyboardShortCut": {
+    "message": "$keyId$ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਨਾਲ ਖੁੱਲ੍ਹਣ ਵਾਲਾ ਕਨਟੇਨਰ",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤਸਦੀਕ ਨੇਵੀਗੇਸ਼ਨ",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "ਮੌਜੂਦਾ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName$ ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "ਟਿਕਾਣਾ ਚੁਣੋ",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "ਲੁਕਾਓ"
+  },
+  "show": {
+    "message": "ਵੇਖਾਓ"
+  },
+  "protectYourContainers": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨਟੇਨਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+  },
+  "protectThisContainer": {
+    "message": "ਇਹ ਕਨਟੇਨਰ Mozilla VPN ਨਾਲ ਸੁਰੱਖਿਅਤ ਬਣਾਇਆ ਹੈ"
+  },
+  "advancedProxySettings": {
+    "message": "ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ"
+  },
+  "proxyInputLabel": {
+    "message": "ਪਸੰਦੀਦਾ ਪਰਾਕਸੀ ਦਿਓ"
+  },
+  "useCustomLocation": {
+    "message": "ਇਸ ਕਨਟੇਨਰ ਲਈ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਵਰਤੋਂ"
+  },
+  "clearproxylabel": {
+    "message": "ਪਰਾਕਸੀ ਮਿਟਾਓ"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN ਚਾਲੂ ਹੈ"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN ਬੰਦ ਹੈ"
+  },
+  "invalidProxyAlert": {
+    "message": "ਵਾਜਬ ਪਰਾਕਸੀ URL ਦਿਓ"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "ਇਹ ਫ਼ੀਚਰ ਵਰਤਣ ਵਾਸਤੇ Mozilla VPN ਚਾਲੂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
+  },
+  "learnMore": {
+    "message": "ਹੋਰ ਜਾਣੋ"
+  },
+  "proxyNowAvailable": {
+    "message": "ਹੁਣ Mozilla VPN ਅਤੇ ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਨਾਲ ਲੈੱਸ"
+  },
+  "applyToContainer": {
+    "message": "ਕਨਟੇਨਰ ਤੇ ਲਾਗੂ ਕਰੋ"
+  },
+  "tooltipWarning": {
+    "message": "ਇਹ ਕਨਟੇਨਰ Mozilla VPN ਪਰਕਾਸੀ ਵਰਤਣ ਲਈ ਸੈਟਅੱਪ ਕੀਤਾ ਹੈ, ਪਰ Mozilla VPN ਚਾਲੂ ਨਹੀਂ ਹੈ। ਇਹ ਕਨਟੇਨਰ ਵਰਤਣ ਲਈ Mozilla VPN  ਚਾਲੂ ਕਰੋ।"
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN ਲਵੋ"
+  },
+  "integratewithmozillavpn": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨੈਕਟਰਾਂ ਨੂੰ ਜੋੜੋ"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN ਤੇ ਪਰਾਕਸੀ ਇਜਾਜ਼ਤਾਂ",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ Firefox ਤੋਂ ਬਿਨਾਂ ਪ੍ਰੋਗਰਾਮਾਂ ਨਾਲ ਸੁਨੇਹੇ ਤਬਾਦਲੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "ਇਸ ਸੈਟਿੰਗ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ Mozilla VPN ਨਾਲ ਸੁਨੇਹੇ ਤਬਾਦਲੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਧੀ ਹੈ ਅਤੇ ਕੰਮ ਕਰਨ ਲਈ Mozilla VPN ਜੋੜ ਲਈ ਚਾਹੀਦੀ ਹੈ।",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਕੰਟਰੋਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "ਇਹ ਤੁਹਾਨੂੰ ਤਕਨੀਕੀ ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ ਵਰਤਣ ਤੇ Mozilla VPN ਜੋੜ ਫ਼ੀਚਰ ਸਮੱਰਥ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ।",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "ਇਹ ਫ਼ੀਚਰ ਨੂੰ ਕੰਮ ਕਰਨ ਲਈ ਵਧੀਕ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਸਫ਼ੇ ਤੋਂ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPN ਨਾਲ ਜੋੜਨ ਲਈ ਮੈਂਬਰੀ ਤੇ ਕੰਮ ਕਰਨ ਲਈ ਵਧੀਕ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੈ।"
+  },
+  "enable": {
+    "message": "ਸਮਰੱਥ ਕਰੋ",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Mozilla VPN ਨਾਲ ਆਪਣੇ ਕਨੈਕਟਰਾਂ ਨੂੰ ਜੋੜੋ"
+  },
+  "theme": {
+    "message": "ਥੀਮ:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "ਥੀਮ ਚੁਣੋ",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "ਆਪੇ-ਖੋਜੋ (ਮੂਲ)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "ਹਲਕਾ",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "ਗੂੜ੍ਹਾ",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "ਕੰਨਟੇਨਰ ਸੂਚੀ ਨੂੰ ਨਾਂ ਮੁਤਾਬਕ ਫਿਲਟਰ ਕਰੋ:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "ਕਨਟੇਨਰ ਨਾਂ ਖੋਜੋ"
+  },
+  "imageAltContainerInfo": {
+    "message": "ਕਨਟੇਨਰ ਜਾਣਕਾਰੀ",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "ਮੂਲ ਕਨਟੇਨਰ",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "ਕਨਟੇਨਰ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "ਕਨਟੇਨਰ ਸ਼ਾਰਟਕੱਟ $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": " ਬੁੱਕਮਾਰਕ ਨੂੰ ਕਨਟੇਨਰ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  }
+}

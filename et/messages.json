@@ -1,0 +1,384 @@
+{
+  "extensionDescription": {
+    "message": "Mitme konto konteinerid aitavad sul hoida kõik oma võrguelu osad erinevatel kaartidel. Kohandatud siltide ja värvikoodidega kaartidega on sul võimalik hoida lahus erinevad tegevused — nagu veebipoodlemine, reisimise planeerimine, töö e-posti kontrollimine jne.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Ava uuel kaardil konteineris…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Ava see sait uuesti konteineris…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sordi kaardid konteineri alusel",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ava see sait alati konteineris…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ava alati konteineris…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sait avatakse alati konteineris"
+  },
+  "openANewTabIn": {
+    "message": "Ava uus kaart konteineris…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Ava uus kaart selles konteineris"
+  },
+  "openTabs": {
+    "message": "Avatud kaardid",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Liiguta kaardid uude aknasse"
+  },
+  "onboarding-1-header": {
+    "message": "Parem viis kõigi veebis tehtavate asjade haldamiseks"
+  },
+  "onboarding-1-description": {
+    "message": "Kasuta konteinereid tegevuste korraldamiseks, kontode haldamiseks ja soovitud asjadele keskendumiseks."
+  },
+  "onboarding-2-header": {
+    "message": "Pane konteinerid enda kasuks tööle."
+  },
+  "onboarding-2-description": {
+    "message": "Funktsioonid nagu kaartide värvikoodistamine ja eraldiseisvad konteinerid aitavad sul asju hõlpsamini leida, tähelepanu koondada ja segavaid tegureid minimeerida."
+  },
+  "onboarding-3-header": {
+    "message": "Koht kõige jaoks ja kõik omal kohal."
+  },
+  "onboarding-3-description": {
+    "message": "Alusta meie loodud konteineritega või loo enda omad."
+  },
+  "onboarding-4-header": {
+    "message": "Ava saite alati soovitud konteinerites."
+  },
+  "onboarding-4-description": {
+    "message": "Paremklõpsa konteinerkaardi sees, et määrata see alati avanema antud konteineris."
+  },
+  "onboarding-5-header": {
+    "message": "Lisa kaardid vajadusel konteinerisse."
+  },
+  "onboarding-5-description": {
+    "message": "Uue konteinerkaardi avamiseks vajuta pikalt uue kaardi nupul."
+  },
+  "onboarding-6-header": {
+    "message": "Konteinerite sünkroniseerimine on nüüd saadaval!"
+  },
+  "onboarding-6-description": {
+    "message": "Lülita sünkroniseerimine sisse, et jagada konteinereid ja saitide määramist konteinerisse kõigi oma Firefoxi kontoga ühendatud arvutite vahel."
+  },
+  "onboarding-7-header": {
+    "message": "Sünkroonimiseks on vaja Firefoxi kontot."
+  },
+  "onboarding-7-description": {
+    "message": "Firefoxi konto aktiivsuse kinnitamiseks klõpsa nupul Logi sisse."
+  },
+  "onboarding-8-description": {
+    "message": "Nüüd on võimalik konteinereid integreerida Mozilla VPNiga või sinu enda puhverserveriga, et luua turvaline ja privaatne ühendus, mis kaitseb sinu tegevust."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 kaarti!"
+  },
+  "youHaveOpened": {
+    "message": "Sa oled avanud 100 konteinerkaarti."
+  },
+  "spreadTheWord": {
+    "message": "Kui sulle meeldivad konteinerid, siis aita sõna levitada!"
+  },
+  "rate": {
+    "message": "Hinda"
+  },
+  "share": {
+    "message": "Jaga"
+  },
+  "tweet": {
+    "message": "Säutsu"
+  },
+  "default": {
+    "message": "Vaikimisi"
+  },
+  "manageContainers": {
+    "message": "Halda konteinereid"
+  },
+  "newContainer": {
+    "message": "Uus konteiner"
+  },
+  "hideThisContainer": {
+    "message": "Peida see konteiner"
+  },
+  "showThisContainer": {
+    "message": "Kuva seda konteinerit"
+  },
+  "removeThisContainer": {
+    "message": "Eemalda see konteiner"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Kas oled kindel, et soovid selle konteineri eemaldada?"
+  },
+  "cancel": {
+    "message": "Loobu"
+  },
+  "ok": {
+    "message": "Olgu"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sellele konteinerile määratud saidid"
+  },
+  "options": {
+    "message": "Sätted"
+  },
+  "name": {
+    "message": "Nimi"
+  },
+  "color": {
+    "message": "Värv"
+  },
+  "icon": {
+    "message": "Ikoon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Piira määratud saitidele"
+  },
+  "deleteThisContainer": {
+    "message": "Kustuta see konteiner"
+  },
+  "manageSiteList": {
+    "message": "Halda saitide nimekirja…"
+  },
+  "manageThisContainer": {
+    "message": "Halda seda konteinerit"
+  },
+  "containers": {
+    "message": "Konteinerid"
+  },
+  "done": {
+    "message": "Valmis"
+  },
+  "getStarted": {
+    "message": "Tee algust"
+  },
+  "signIn": {
+    "message": "Logi sisse"
+  },
+  "notNow": {
+    "message": "Mitte praegu"
+  },
+  "startSyncing": {
+    "message": "Alusta sünkroniseerimist"
+  },
+  "info": {
+    "message": "ikoon",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Edasi"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Kas avada see sait määratud konteineris?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Kas soovid siiski avada selles praeguses konteineris?"
+  },
+  "rememberMyDecision": {
+    "message": "Otsus selle saidi jaoks peetakse meeles"
+  },
+  "optionalPermissions": {
+    "message": "Valikulised õigused:"
+  },
+  "keyboardShortCuts": {
+    "message": "Kiirklahvid:"
+  },
+  "onboarding": {
+    "message": "Alustamisjuhendid"
+  },
+  "resetOnboardingPanels": {
+    "message": "Lähtesta alustamisjuhendid"
+  },
+  "onboardingToggle": {
+    "message": "Alustamisjuhendite uuesti nägemiseks vajuta seda nuppu."
+  },
+  "tabBehavior": {
+    "message": "Kaardi käitumine:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Järjehoidjate menüüd lubatakse"
+  },
+  "firefoxAccountsSync": {
+    "message": "Firefoxi kontode sünkroniseerimine:"
+  },
+  "enableSync": {
+    "message": "Sünkroniseerimine lubatakse"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "See säte võimaldab sul avada järjehoidja või järjehoidjate kausta järjehoidjad konteineris."
+  },
+  "enableSyncDescription": {
+    "message": "See säte võimaldab sünkroniseerida konteinerid ja neile määratud saidid sinu seadmete vahel."
+  },
+  "syncExclude": {
+    "message": "Konteinerite välistamine"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Sisesta regulaaravaldis"
+  },
+  "syncExcludeDescription": {
+    "message": "Konteinerid välistatakse sünkroniseerimisest, kui nende nimi vastab määratud tõstutundetule regulaaravaldisele."
+  },
+  "replaceTab": {
+    "message": "Uue kaardi loomise asemel asendatakse see olemasolevaga"
+  },
+  "replaceTabDescription": {
+    "message": "Teisele konteinerile määratud saidi avamisel asendatakse olemasolev kaart (selle asemel, et jätta olemasolev kaart alles). Kaartide avamine hiire keskmise nupuga ei ole mõjutatud."
+  },
+  "editWhichContainer": {
+    "message": "Määra, milline konteiner nummerdatud kiirklahvi kasutamisel avatakse."
+  },
+  "keyboardShortCut": {
+    "message": "Kiirklahvide kombinatsiooniga $keyId$ avatakse konteiner",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Lisa Multi-Account Containers navigeerimise kinnitamine",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Ava konteineris $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "youAskedFirefox": {
+    "message": "Oled määranud Firefoxi järgnevat saiti alati avama konteineris $containerName$:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Vali asukoht",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Peida"
+  },
+  "show": {
+    "message": "Kuva"
+  },
+  "protectYourContainers": {
+    "message": "Kaitse oma konteinereid Mozilla VPNiga"
+  },
+  "protectThisContainer": {
+    "message": "Kaitse seda konteinerit Mozilla VPNiga"
+  },
+  "advancedProxySettings": {
+    "message": "Puhverserveri täpsemad sätted"
+  },
+  "proxyInputLabel": {
+    "message": "Sisesta kohandatud puhverserver"
+  },
+  "useCustomLocation": {
+    "message": "Kasuta selle konteineri jaoks kohandatud asukohta"
+  },
+  "clearproxylabel": {
+    "message": "Tühjenda puhverserver"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN on sisse lülitatud"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN on välja lülitatud"
+  },
+  "invalidProxyAlert": {
+    "message": "Palun sisesta korrektne puhverserveri URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Selle funktsionaalsuse kasutamiseks peab Mozilla VPN olema sisse lülitatud."
+  },
+  "learnMore": {
+    "message": "Rohkem teavet"
+  },
+  "proxyNowAvailable": {
+    "message": "Nüüd Mozilla VPNi ja täpsemate puhverserveri sätetega"
+  },
+  "applyToContainer": {
+    "message": "Rakenda konteinerile"
+  },
+  "tooltipWarning": {
+    "message": "See konteiner on seadistatud kasutama Mozilla VPNi puhverserverit. Konteineri kasutamiseks lülita Mozilla VPN sisse."
+  },
+  "getMozillaVpn": {
+    "message": "Hangi Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integreeri oma konteinerid Mozilla VPNiga"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPNi ja puhverserveri õigused",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Laiendusel lubatakse vahetada sõnumeid muude programmidega peale Firefoxi",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "See säte lubab laiendusel vahetada sõnumeid Mozilla VPNi kliendiga ja on vajalik, et Mozilla VPNi integreerimise funktsionaalsus töötaks.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Laiendus võib muuta puhverserveri sätteid",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "See võimaldab kasutada täpsemaid puhverserveri sätteid ja lubada integreerimise funktsionaalsuse Mozilla VPNiga.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "See funktsionaalsus vajab toimimiseks täiendavaid õigusi. Õigused saab sätete lehel igal ajal keelata.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integreerimine Mozilla VPNiga vajab töötamiseks teenuslepingut ning täiendavaid õigusi."
+  },
+  "enable": {
+    "message": "Luba",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integreeri oma konteinerid Mozilla VPNiga"
+  },
+  "theme": {
+    "message": "Teema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Vali teema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Tuvastatakse automaatselt (vaikimisi)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Hele",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Tume",
+    "description": "Value for the theme option select tag"
+  }
+}

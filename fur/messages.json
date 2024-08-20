@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers ti permet di isolâ lis variis parts de tô vite in rêt in schedis diversis. Lis etichetis personalizadis e lis schedis cun codifiche colorade a judin a separâ lis ativitâts, come lis compris in rêt, la planificazion dai viaçs o il control de pueste eletroniche par lavôr.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Vierç gnove schede in…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Torne vierç chest sît in…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Ordene schedis par contignidôr",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Vierç simpri chest sît in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Vierç simpri in…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Vierç simpri il sît in chest contignidôr"
+  },
+  "openANewTabIn": {
+    "message": "Vierç une gnove schede in…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Vierç gnove schede in chest contignidôr"
+  },
+  "openTabs": {
+    "message": "Schedis viertis",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Sposte schede intun gnûf barcon"
+  },
+  "onboarding-1-header": {
+    "message": "Un mût miôr par gjestî dutis lis tôs ativitâts in rêt"
+  },
+  "onboarding-1-description": {
+    "message": "Dopre i contignidôrs par organizâ lis ativitâts, gjestî i accounts e tignîti concentrât su ce che ti interesse."
+  },
+  "onboarding-2-header": {
+    "message": "Fâs lavorâ i contignidôrs al to puest."
+  },
+  "onboarding-2-description": {
+    "message": "Funzions come la codifiche a colôrs e lis schedis contignidôr separadis ti judin a cjatâ cun facilitât ce che ti covente, concentrâ la tô atenzion e ridusi al minim lis distrazions."
+  },
+  "onboarding-3-header": {
+    "message": "Un puest par ogni robe e ogni robe al so puest."
+  },
+  "onboarding-3-description": {
+    "message": "Scomence cui contignidôrs che o vin creât nô opûr cree un par to cont."
+  },
+  "onboarding-4-header": {
+    "message": "Vierç simpri i sîts tai contignidôrs che tu vûs."
+  },
+  "onboarding-4-description": {
+    "message": "Fâs clic cul boton diestri dal mouse dentri di une schede contignidôr par fâ in mût che il sît al vegni simpri viert tal contignidôr."
+  },
+  "onboarding-5-header": {
+    "message": "Schedis contignidôr cuant che ti coventin."
+  },
+  "onboarding-5-description": {
+    "message": "Frache a dilunc il boton Gnove schede par vierzi une gnove schede contignidôr."
+  },
+  "onboarding-6-header": {
+    "message": "Cumò tu puedis sincronizâ i contignidôrs!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Ative la sincronizazion par condividi i contignidôrs e i sîts associâts cun ducj i computers conetûts al to account."
+  },
+  "onboarding-7-header-2": {
+    "message": "Al covente un account par sincronizâ."
+  },
+  "onboarding-7-description-2": {
+    "message": "Fâs clic su Jentre par confermâ che il to account al è atîf."
+  },
+  "onboarding-8-description": {
+    "message": "Cumò al è pussibil integrâ i contignidôrs cun Mozilla VPN o un proxy a tô sielte, creant une conession sigure e riservade par protezi lis tôs ativitâts in rêt."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 schedis!"
+  },
+  "youHaveOpened": {
+    "message": "Tu âs viert 100 schedis contignidôr."
+  },
+  "spreadTheWord": {
+    "message": "Se ti plasin i contignidôrs, judinus a sparniçâ la vôs!"
+  },
+  "rate": {
+    "message": "Valute"
+  },
+  "share": {
+    "message": "Condivît"
+  },
+  "tweet": {
+    "message": "Mande un tweet"
+  },
+  "default": {
+    "message": "Predefinît"
+  },
+  "manageContainers": {
+    "message": "Gjestìs contignidôrs"
+  },
+  "newContainer": {
+    "message": "Gnûf contignidôr"
+  },
+  "hideThisContainer": {
+    "message": "Plate chest contignidôr"
+  },
+  "showThisContainer": {
+    "message": "Mostre chest contignidôr"
+  },
+  "removeThisContainer": {
+    "message": "Gjave chest contignidôr"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Gjavâ pardabon chest contignidôr?"
+  },
+  "cancel": {
+    "message": "Anule"
+  },
+  "ok": {
+    "message": "Va ben"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sîts assegnâts a chest contignidôr"
+  },
+  "options": {
+    "message": "Opzions"
+  },
+  "name": {
+    "message": "Non"
+  },
+  "color": {
+    "message": "Colôr"
+  },
+  "icon": {
+    "message": "Icone"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limite ai sîts designâts"
+  },
+  "deleteThisContainer": {
+    "message": "Elimine chest contignidôr"
+  },
+  "manageSiteList": {
+    "message": "Gjestìs liste sîts…"
+  },
+  "manageThisContainer": {
+    "message": "Gjestìs chest contignidôr"
+  },
+  "containers": {
+    "message": "Contignidôrs"
+  },
+  "done": {
+    "message": "Fat"
+  },
+  "getStarted": {
+    "message": "Scomence"
+  },
+  "signIn": {
+    "message": "Jentre"
+  },
+  "notNow": {
+    "message": "No cumò"
+  },
+  "startSyncing": {
+    "message": "Invie la sincronizazion"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Sucessîf"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Vierzi chest sît tal contignidôr assegnât?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Desideristu distès vierzi chest sît tal contignidôr corint?"
+  },
+  "rememberMyDecision": {
+    "message": "Visiti de mê decision par chest sît"
+  },
+  "optionalPermissions": {
+    "message": "Permès facoltatîfs:"
+  },
+  "keyboardShortCuts": {
+    "message": "Scurtis di tastiere:"
+  },
+  "onboarding": {
+    "message": "Introduzion"
+  },
+  "resetOnboardingPanels": {
+    "message": "Ripristine panei introduzion"
+  },
+  "onboardingToggle": {
+    "message": "Dopre cheste opzion par tornâ a viodi i panei de introduzion."
+  },
+  "tabBehavior": {
+    "message": "Compuartament de schede:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Ative menûs segnelibris"
+  },
+  "sync": {
+    "message": "Sincronizazion:"
+  },
+  "enableSync": {
+    "message": "Ative sincronizazion"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Cheste impostazion ti permet di vierzi un segnelibri o une cartele di segnelibris intun contignidôr."
+  },
+  "enableSyncDescription": {
+    "message": "Cheste impostazion ti permet di sincronizâ su plui dispositîfs i tiei contignidôrs e i sîts associâts."
+  },
+  "syncExclude": {
+    "message": "Esclusion contignidôrs"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Inserìs une espression regolâr"
+  },
+  "syncExcludeDescription": {
+    "message": "Esclût de sincronizazion i contignidôrs in base al lôr non doprant la espression regolâr specificade (cence distinzion tra maiusculis e minusculis)."
+  },
+  "replaceTab": {
+    "message": "Sostituìs schede invezit che creâ une gnove"
+  },
+  "replaceTabDescription": {
+    "message": "Se e ven vierte une pagjine assegnade a un altri contignidôr, sostituìs la schede corinte invezit di tignîle vierte. La viertidure des schedis cul boton centrâl dal mouse no ven tocjade di cheste opzion."
+  },
+  "editWhichContainer": {
+    "message": "Modifiche cuâl contignidôr che al à di sei viert cuant che a vegnin dopradis lis scurtis numeradis."
+  },
+  "keyboardShortCut": {
+    "message": "Contignidôr di vierzi cu la scurte di tastiere $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers — Conferme navigazion",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Vierç tal contignidôr $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Vierç in cheste schede",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Tu âs domandât a Firefox di vierzi simpri il contignidôr $containerName$ par chest sît:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Sielç posizion",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Plate"
+  },
+  "show": {
+    "message": "Mostre"
+  },
+  "protectYourContainers": {
+    "message": "Protêç i tiei contignidôrs cun Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protêç chest contignidôr cun Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Impostazions proxy avanzadis"
+  },
+  "proxyInputLabel": {
+    "message": "Inserìs un proxy personalizât"
+  },
+  "useCustomLocation": {
+    "message": "Dopre une posizion personalizade par chest contignidôr"
+  },
+  "clearproxylabel": {
+    "message": "Cancele proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN e je ative"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN no je ative"
+  },
+  "invalidProxyAlert": {
+    "message": "Inserìs un URL di proxy valit"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN e scugne jessi ative par doprâ cheste funzion."
+  },
+  "learnMore": {
+    "message": "Plui informazions"
+  },
+  "proxyNowAvailable": {
+    "message": "Cumò cun Mozilla VPN e impostazions proxy avanzadis"
+  },
+  "applyToContainer": {
+    "message": "Apliche al contignidôr"
+  },
+  "tooltipWarning": {
+    "message": "Chest contignidôr al è configurât par doprâ un proxy Mozilla VPN, ma Mozilla VPN no je ative. Ative Mozilla VPN par doprâ chest contignidôr."
+  },
+  "getMozillaVpn": {
+    "message": "Oten Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN e permès pai proxy",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Permet ae estension di scambiâ i messaçs cun programs diviers di Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Cheste impostazion e permet ae estension di scambiâ messaçs cul client Mozilla VPN e e covente pal funzionament de integrazion cun Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Permet ae estension di controlâ lis impostazions dal proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Chest al permet di doprâ lis impostazions proxy avanzadis e ativâ la integrazion cun Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Cheste funzion e à bisugne di un permès in plui par funzionâ. Cuant che tu volarâs, al sarà pussibil disativâ i permès te pagjine des impostazions.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "La integrazion cun Mozilla VPN e domande un abonament e permès in plui par funzionâ."
+  },
+  "enable": {
+    "message": "Ative",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+  },
+  "theme": {
+    "message": "Teme:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Sielç un teme",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Rileve in automatic (predefinît)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Clâr",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Scûr",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtre la liste dai contignidôrs par non:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cîr il non dal contignidôr"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informazions sul contignidôr",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Contignidôr predefinît",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Vierç panel contignidôrs",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Scurte pai contignidôrs $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Vierç segnelibri in schede contignidôr"
+  }
+}

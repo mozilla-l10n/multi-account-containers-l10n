@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "З дапамогай «Multi-Account Containers» вы можаце захоўваць усе аспекты сваёй працы ў Інтэрнэце ў асобных незалежных картках. Уласныя меткі і колер картак дапамагаюць падзяляць пакупкі ў Інтэрнэце, планаванне падарожжаў, праверку працоўнай электроннай пошты і іншую дзейнасць.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Адкрыць новую картку ў…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Паўторна адкрыць гэты сайт у…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Адсартаваць карткі па кантэйнерах",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Заўсёды адкрываць гэты сайт у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Заўсёды адкрываць у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Заўсёды адкрываць сайт у кантэйнеры"
+  },
+  "openANewTabIn": {
+    "message": "Адкрыць новую картку ў…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Адкрыць новую картку ў гэтым кантэйнеры"
+  },
+  "openTabs": {
+    "message": "Адкрытыя карткі",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Перанесці картку ў новае акно"
+  },
+  "onboarding-1-header": {
+    "message": "Лепшы спосаб кіраваць усім, што вы робіце ў Інтэрнэце"
+  },
+  "onboarding-1-description": {
+    "message": "Выкарыстоўвайце кантэйнеры для арганізацыі задач, кіравання ўліковымі запісамі, а таксама для засяроджвання ўвагі на важных рэчах."
+  },
+  "onboarding-2-header": {
+    "message": "Няхай кантэйнеры працуюць на вас."
+  },
+  "onboarding-2-description": {
+    "message": "Такія функцыі, як каляровая маркіроўка і асобныя кантэйнеры для картак, дапамогуць лёгка знаходзіць неабходнае і канцэнтраваць увагу, зводзячы да мінімуму адцягненне ўвагі."
+  },
+  "onboarding-3-header": {
+    "message": "Для ўсяго ёсць месца, і ўсё — на сваіх месцах."
+  },
+  "onboarding-3-description": {
+    "message": "Пачніце з існуючых кантэйнераў або стварыце ўласныя."
+  },
+  "onboarding-4-header": {
+    "message": "Заўсёды адкрывайце сайты ў патрэбных вам кантэйнерах."
+  },
+  "onboarding-4-description": {
+    "message": "Націсніце правай кнопкай мышы ўнутры карткі кантэйнера, каб прызначыць адкрыццё сайта заўсёды ў кантэйнеры."
+  },
+  "onboarding-5-header": {
+    "message": "Змяшчайце карткі ў кантэйнеры, калі вам гэта трэба."
+  },
+  "onboarding-5-description": {
+    "message": "Націсніце і ўтрымлівайце кнопку «Новая картка», каб адкрыць новую картку ў кантэйнеры."
+  },
+  "onboarding-6-header": {
+    "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Уключыце сінхранізацыю, каб дзяліцца кантэйнерамі і прызначэннямі сайта з любымі камп'ютарамі, падлучанымі да вашага ўліковага запісу."
+  },
+  "onboarding-7-header-2": {
+    "message": "Для сінхранізацыі патрэбен уліковы запіс."
+  },
+  "onboarding-7-description-2": {
+    "message": "Націсніце «Увайсці», каб пацвердзіць, што ваш уліковы запіс актыўны."
+  },
+  "onboarding-8-description": {
+    "message": "Цяпер кантэйнеры могуць працаваць з Mozilla VPN або вашым уласным проксі для стварэння бяспечнага прыватнага злучэння, якое абараняе вашу актыўнасць у Інтэрнэце."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 картак!"
+  },
+  "youHaveOpened": {
+    "message": "Вы адкрылі 100 картак у кантэйнерах."
+  },
+  "spreadTheWord": {
+    "message": "Калі вам падабаюцца кантэйнеры, дапамажыце нам расказаць пра іх іншым!"
+  },
+  "rate": {
+    "message": "Ацаніць"
+  },
+  "share": {
+    "message": "Падзяліцца"
+  },
+  "tweet": {
+    "message": "Падзяліцца ў Twitter"
+  },
+  "default": {
+    "message": "Прадвызначана"
+  },
+  "manageContainers": {
+    "message": "Кіраваць кантэйнерамі"
+  },
+  "newContainer": {
+    "message": "Новы кантэйнер"
+  },
+  "hideThisContainer": {
+    "message": "Схаваць гэты кантэйнер"
+  },
+  "showThisContainer": {
+    "message": "Паказаць гэты кантэйнер"
+  },
+  "removeThisContainer": {
+    "message": "Выдаліць гэты кантэйнер"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Вы ўпэўнены, што хочаце выдаліць гэты кантэйнер?"
+  },
+  "cancel": {
+    "message": "Скасаваць"
+  },
+  "ok": {
+    "message": "Добра"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайты, прызначаныя гэтаму кантэйнеру"
+  },
+  "options": {
+    "message": "Налады"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "color": {
+    "message": "Колер"
+  },
+  "icon": {
+    "message": "Значок"
+  },
+  "limitToDesignatedSites": {
+    "message": "Абмежаванні для пэўных сайтаў"
+  },
+  "deleteThisContainer": {
+    "message": "Выдаліць гэты кантэйнер"
+  },
+  "manageSiteList": {
+    "message": "Кіраваць спісам сайтаў…"
+  },
+  "manageThisContainer": {
+    "message": "Кіраваць гэтым кантэйнерам"
+  },
+  "containers": {
+    "message": "Кантэйнеры"
+  },
+  "done": {
+    "message": "Гатова"
+  },
+  "getStarted": {
+    "message": "Пачаць"
+  },
+  "signIn": {
+    "message": "Увайсці"
+  },
+  "notNow": {
+    "message": "Не зараз"
+  },
+  "startSyncing": {
+    "message": "Пачаць сінхранізацыю"
+  },
+  "info": {
+    "message": "Інфармацыя",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Далей"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Адкрыць гэты сайт у прызначаным кантэйнеры?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Вы ўсё яшчэ хочаце адкрыць у бягучым кантэйнеры?"
+  },
+  "rememberMyDecision": {
+    "message": "Запомніць маё рашэнне для гэтага сайта"
+  },
+  "optionalPermissions": {
+    "message": "Неабавязковыя дазволы:"
+  },
+  "keyboardShortCuts": {
+    "message": "Спалучэнні клавіш:"
+  },
+  "onboarding": {
+    "message": "Пачатак работы"
+  },
+  "resetOnboardingPanels": {
+    "message": "Скінуць панэлі пачатку працы"
+  },
+  "onboardingToggle": {
+    "message": "Націсніце сюды, каб зноў убачыць панэлі пачатку працы."
+  },
+  "tabBehavior": {
+    "message": "Паводзіны карткі:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Уключыць меню закладак"
+  },
+  "sync": {
+    "message": "Сінхранізацыя:"
+  },
+  "enableSync": {
+    "message": "Уключыць сінхранізацыю"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Гэта налада дазволіць вам адкрываць закладкі і папкі з імі ў кантэйнерах."
+  },
+  "enableSyncDescription": {
+    "message": "Гэта налада дазваляе сінхранізаваць кантэйнеры і прызначаныя сайты паміж прыладамі."
+  },
+  "syncExclude": {
+    "message": "Выключэнне кантэйнера"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Устаўце рэгулярны выраз"
+  },
+  "syncExcludeDescription": {
+    "message": "Выключайце кантэйнеры з сінхранізацыі, калі іх назва адпавядае пэўнаму рэгулярнаму выразу без уліку рэгістра."
+  },
+  "replaceTab": {
+    "message": "Замяніць картку замест стварэння новай"
+  },
+  "replaceTabDescription": {
+    "message": "Замяняць бягучую картка, калі адкрыта старонка, прызначаная іншаму кантэйнеру (замест таго, каб пакідаць бягучую картку адкрытай). Не ўплывае на адкрыццё картак сярэдняй кнопкай мышы."
+  },
+  "editWhichContainer": {
+    "message": "Укажыце, якія кантэйнеры будуць адкрыты пры выкарыстанні спалучэнняў клавіш з лічбамі."
+  },
+  "keyboardShortCut": {
+    "message": "Кантэйнер для адкрыцця з дапамогай спалучэння клавіш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Пацвярджэнне навігацыі для Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Адкрыць у кантэйнеры «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Адкрыць у бягучай картцы",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Вы папрасілі Firefox заўсёды адкрываць $containerName$ для гэтага сайта:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Выбраць месцазнаходжанне",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Схаваць"
+  },
+  "show": {
+    "message": "Паказаць"
+  },
+  "protectYourContainers": {
+    "message": "Абараніце свае кантэйнеры з дапамогай Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Абараніце гэты кантэйнеры з дапамогай Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Пашыраныя налады проксі"
+  },
+  "proxyInputLabel": {
+    "message": "Увядзіце ўласны проксі"
+  },
+  "useCustomLocation": {
+    "message": "Выкарыстоўваць уласнае месцазнаходжанне для гэтага кантэйнера"
+  },
+  "clearproxylabel": {
+    "message": "Ачысціць проксі"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN уключаны"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN адключаны"
+  },
+  "invalidProxyAlert": {
+    "message": "Увядзіце сапраўдны URL проксі"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Для выкарыстання гэтай функцыі неабходна ўключыць Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Падрабязней"
+  },
+  "proxyNowAvailable": {
+    "message": "Цяпер з Mozilla VPN і пашыранымі наладамі проксі"
+  },
+  "applyToContainer": {
+    "message": "Прымяніць да кантэйнера"
+  },
+  "tooltipWarning": {
+    "message": "Для гэтага кантэйнера ўсталяваны проксі Mozilla VPN, але Mozilla VPN адключаны. Уключыце Mozilla VPN для выкарыстання кантэйнера."
+  },
+  "getMozillaVpn": {
+    "message": "Атрымаць Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Дазволы Mozilla VPN і проксі",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Дазволіць пашырэнню абменьвацца паведамленнямі з іншымі праграмамі, акрамя Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Гэта налада дазволіць пашырэнню абменьвацца паведамленнямі з кліентам Mozilla VPN і неабходна для работы функцый інтэграцыі з Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Дазволіць пашырэнню кіраваць наладамі проксі",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Гэта дазволіць вам выкарыстоўваць пашыраныя налады проксі і ўключыць функцыі інтэграцыі з Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Гэта функцыя патрабуе дадатковых дазволаў для працы. Дазволы можна адключыць у любы момант на старонцы налад.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Для інтэграцыі з Mozilla VPN неабходна падпіска і дадатковыя дазволы."
+  },
+  "enable": {
+    "message": "Уключыць",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+  },
+  "theme": {
+    "message": "Тэма:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Выбраць тэму",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Аўтавызначэнне (прадвызначана)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Светлая",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Цёмная",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Упарадкаваць спіс кантэйнераў па назве:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Назва шуканага кантэйнера"
+  },
+  "imageAltContainerInfo": {
+    "message": "Інфармацыя аб кантэйнеры",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Прадвызначаны кантэйнер",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Адкрыць панэль кантэйнера",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Спалучэнне клавіш кантэйнера $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Адкрыць закладку ў картцы ў кантэйнеры"
+  }
+}

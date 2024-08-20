@@ -1,0 +1,395 @@
+{
+  "extensionDescription": {
+    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Buka Tab Baru di…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Buka Lagi Situs Ini di…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Urutkan Tab berdasarkan Kontainer",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Selalu Buka Situs Ini di…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Selalu buka di…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Selalu Buka Situs dalam Kontainer"
+  },
+  "openANewTabIn": {
+    "message": "Buka Tab Baru di…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Buka Tab Baru di Kontainer ini"
+  },
+  "openTabs": {
+    "message": "Buka Tab",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Pindahkan Tab ke Jendela Baru"
+  },
+  "onboarding-1-header": {
+    "message": "Cara yang lebih baik untuk mengelola semua aktivitas daring Anda"
+  },
+  "onboarding-1-description": {
+    "message": "Gunakan Kontainer untuk mengatur tugas, mengelola akun, dan menjaga fokus di mana Anda menginginkannya."
+  },
+  "onboarding-2-header": {
+    "message": "Tempatkan Kontainer untuk bekerja bagi Anda."
+  },
+  "onboarding-2-description": {
+    "message": "Fitur seperti pengodean warna dan tab Kontainer terpisah membantu Anda menemukan hal dengan mudah, memusatkan perhatian, dan meminimalkan gangguan."
+  },
+  "onboarding-3-header": {
+    "message": "Sebuah tempat untuk segalanya, dan segalanya berada di tempatnya."
+  },
+  "onboarding-3-description": {
+    "message": "Mulai dengan Kontainer yang kami buat, atau buat sendiri."
+  },
+  "onboarding-4-header": {
+    "message": "Selalu buka situs di Kontainer yang Anda inginkan."
+  },
+  "onboarding-4-description": {
+    "message": "Klik kanan di dalam tab Kontainer untuk menentukan situs agar selalu terbuka dalam Kontainer."
+  },
+  "onboarding-5-header": {
+    "message": "Tab Kontainer saat Anda membutuhkannya."
+  },
+  "onboarding-5-description": {
+    "message": "Tekan-lama tombol Tab Baru untuk membuat tab Kontainer baru."
+  },
+  "onboarding-6-header": {
+    "message": "Sinkronisasi Kontainer kini Tersedia!"
+  },
+  "onboarding-6-description": {
+    "message": "Aktifkan sinkronisasi untuk berbagi Kontainer dan penugasan situs dengan komputer mana pun yang terhubung ke akun Firefox Anda."
+  },
+  "onboarding-7-header": {
+    "message": "Akun Firefox diperlukan untuk sinkronisasi."
+  },
+  "onboarding-7-description": {
+    "message": "Klik Masuk untuk mengkonfirmasi bahwa akun Firefox Anda aktif."
+  },
+  "onboarding-8-description": {
+    "message": "Sekarang Kontainer dapat berintegrasi dengan Mozilla VPN atau proksi Anda sendiri untuk membuat koneksi pribadi yang aman dan melindungi aktivitas Anda."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 tab!"
+  },
+  "youHaveOpened": {
+    "message": "Anda telah membuka 100 tab Kontainer."
+  },
+  "spreadTheWord": {
+    "message": "Jika Anda menikmati Kontainer, bantu kami sebarkan berita!"
+  },
+  "rate": {
+    "message": "Nilai"
+  },
+  "share": {
+    "message": "Bagikan"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Baku"
+  },
+  "manageContainers": {
+    "message": "Kelola Kontainer"
+  },
+  "newContainer": {
+    "message": "Kontainer Baru"
+  },
+  "hideThisContainer": {
+    "message": "Sembunyikan Kontainer Ini"
+  },
+  "showThisContainer": {
+    "message": "Tampilkan Kontainer Ini"
+  },
+  "removeThisContainer": {
+    "message": "Hapus Kontainer Ini"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Yakin akan menghapus Kontainer ini?"
+  },
+  "cancel": {
+    "message": "Batal"
+  },
+  "ok": {
+    "message": "Oke"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Situs yang ditetapkan ke Kontainer ini"
+  },
+  "options": {
+    "message": "Opsi"
+  },
+  "name": {
+    "message": "Nama"
+  },
+  "color": {
+    "message": "Warna"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Batasi ke Situs yang Ditetapkan"
+  },
+  "deleteThisContainer": {
+    "message": "Hapus Kontainer Ini"
+  },
+  "manageSiteList": {
+    "message": "Kelola Daftar Situs…"
+  },
+  "manageThisContainer": {
+    "message": "Kelola Kontainer"
+  },
+  "containers": {
+    "message": "Kontainer"
+  },
+  "done": {
+    "message": "Selesai"
+  },
+  "getStarted": {
+    "message": "Memulai"
+  },
+  "signIn": {
+    "message": "Masuk"
+  },
+  "notNow": {
+    "message": "Jangan sekarang"
+  },
+  "startSyncing": {
+    "message": "Mulai Sinkronisasi"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Lanjut"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Buka situs ini dalam Kontainer yang Anda tentukan?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Apakah Anda masih ingin membuka dalam Kontainer saat ini?"
+  },
+  "rememberMyDecision": {
+    "message": "Ingat pilihan saya untuk situs ini"
+  },
+  "optionalPermissions": {
+    "message": "Izin Opsional:"
+  },
+  "keyboardShortCuts": {
+    "message": "Pintasan Papan Ketik:"
+  },
+  "onboarding": {
+    "message": "Orientasi"
+  },
+  "resetOnboardingPanels": {
+    "message": "Setel Ulang Panel Orientasi"
+  },
+  "onboardingToggle": {
+    "message": "Aktifkan/Nonaktifkan ini untuk melihat panel orientasi lagi."
+  },
+  "tabBehavior": {
+    "message": "Perilaku tab:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktifkan Menu Markah"
+  },
+  "firefoxAccountsSync": {
+    "message": "Sinkronisasi akun Firefox:"
+  },
+  "enableSync": {
+    "message": "Aktifkan sinkronisasi"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Setelan ini mengizinkan Anda untuk membuka markah atau folder dari markah pada Kontainer."
+  },
+  "enableSyncDescription": {
+    "message": "Setelan ini memungkinkan Anda untuk menyinkronkan Kontainer dan penugasan situs di berbagai perangkat."
+  },
+  "syncExclude": {
+    "message": "Pengecualian kontainer"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Sisipkan ekspresi reguler"
+  },
+  "syncExcludeDescription": {
+    "message": "Kecualikan kontainer dari sinkronisasi jika namanya cocok dengan ekspresi reguler yang tidak peka huruf tertentu."
+  },
+  "replaceTab": {
+    "message": "Ganti tab alih-alih membuat yang baru"
+  },
+  "replaceTabDescription": {
+    "message": "Ganti tab sekarang jika laman yang ditugaskan ke Kontainer lain dibuka (ketimbang membiarkan tab saat ini terbuka). Membuka tab dengan tombol tengah tetikus tidak terpengaruh."
+  },
+  "editWhichContainer": {
+    "message": "Ubah Kontainer mana yang dibuka saat menggunakan pintasan bernomor."
+  },
+  "keyboardShortCut": {
+    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Navigasi Konfirmasi Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Buka dalam $containerName$ container",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Buka di tab saat ini",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Pilih lokasi",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Sembunyikan"
+  },
+  "show": {
+    "message": "Tampilkan"
+  },
+  "protectYourContainers": {
+    "message": "Lindungi Kontainer Anda dengan Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Lindungi Kontainer ini dengan Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Setelan proksi lanjutan"
+  },
+  "proxyInputLabel": {
+    "message": "Masukkan proksi khusus"
+  },
+  "useCustomLocation": {
+    "message": "Gunakan lokasi khusus untuk Kontainer ini"
+  },
+  "clearproxylabel": {
+    "message": "Hapus proksi"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN aktif"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN nonaktif"
+  },
+  "invalidProxyAlert": {
+    "message": "Masukkan URL proksi yang benar"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN harus aktif untuk menggunakan fitur ini."
+  },
+  "learnMore": {
+    "message": "Pelajari selengkapnya"
+  },
+  "proxyNowAvailable": {
+    "message": "Sekarang dengan Mozilla VPN dan pengaturan proksi tingkat lanjut"
+  },
+  "applyToContainer": {
+    "message": "Terapkan ke Kontainer"
+  },
+  "tooltipWarning": {
+    "message": "Kontainer ini diatur untuk menggunakan proksi Mozilla VPN, tetapi Mozilla VPN masih non-aktif. Aktifkan Mozilla VPN untuk menggunakan Kontainer ini."
+  },
+  "getMozillaVpn": {
+    "message": "Dapatkan Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrasikan Kontainer Anda dengan Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN & Perizinan Proksi",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Izinkan ekstensi untuk bertukar pesan dengan program selain Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Pengaturan ini memungkinkan ekstensi untuk menukar pesan dengan klien Mozilla VPN dan diperlukan agar fitur integrasi Mozilla VPN dapat berjalan.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Izinkan ekstensi untuk mengontrol pengaturan proksi",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Ini memungkinkan Anda untuk menggunakan pengaturan proksi lanjutan dan mengaktifkan fitur integrasi VPN Mozilla.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Fitur ini memerlukan izin tambahan untuk bekerja. Izin dapat dinonaktifkan kapan saja pada laman pengaturan.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrasi dengan Mozilla VPN perlu berlangganan dan izin tambahan agar berfungsi."
+  },
+  "enable": {
+    "message": "Aktifkan",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrasikan Kontainer Anda dengan Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Pilih tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Deteksi otomatis (baku)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Terang",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Gelap",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filter daftar kontainer berdasarkan nama:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Cari nama kontainer"
+  }
+}

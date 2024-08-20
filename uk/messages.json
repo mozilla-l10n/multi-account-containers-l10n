@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Функція Multi-Account Containers допомагає користуватися різними частинами вашої роботи в Інтернеті незалежно в різних вкладках. Власні мітки і колір вкладок забезпечують зручність користування для різних цілей окремо, наприклад, покупки, планування подорожі, перевірка робочої електронної пошти.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Відкрити нову вкладку в…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Повторно відкрити цей сайт у…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Упорядкувати вкладки за контейнерами",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Завжди відкривати цей сайт у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Завжди відкривати у…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Завжди відкривати сайт у контейнері"
+  },
+  "openANewTabIn": {
+    "message": "Відкрити нову вкладку в…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Відкрити нову вкладку в цьому контейнері"
+  },
+  "openTabs": {
+    "message": "Відкриті вкладки",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Перемістити вкладки в нове вікно"
+  },
+  "onboarding-1-header": {
+    "message": "Кращий спосіб керувати всім, що ви робите в Інтернеті"
+  },
+  "onboarding-1-description": {
+    "message": "Користуйтеся контейнерами для організації завдань, керування обліковими записами, а також для зосередження на важливих речах."
+  },
+  "onboarding-2-header": {
+    "message": "Нехай контейнери працюють на вас."
+  },
+  "onboarding-2-description": {
+    "message": "Такі функції, як позначення кольором та окремі контейнери для вкладок, дають вам змогу легко знаходити необхідне та зосереджуватися на ньому, мінімізуючи відволікання."
+  },
+  "onboarding-3-header": {
+    "message": "Місце є для всього, і все — на своєму місці."
+  },
+  "onboarding-3-description": {
+    "message": "Розпочніть з уже наявних контейнерів або створіть власні."
+  },
+  "onboarding-4-header": {
+    "message": "Завжди відкривайте сайти в бажаних контейнерах."
+  },
+  "onboarding-4-description": {
+    "message": "Клацніть правою кнопкою миші на вкладці контейнера, щоб призначити відкриття сайту завжди в контейнері."
+  },
+  "onboarding-5-header": {
+    "message": "Розміщуйте вкладки в контейнерах, коли вам це необхідно."
+  },
+  "onboarding-5-description": {
+    "message": "Натисніть та утримуйте кнопку \"Нова вкладка\", щоб відкрити нову вкладку в контейнері."
+  },
+  "onboarding-6-header": {
+    "message": "Відтепер доступна синхронізація контейнерів!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Увімкніть синхронізацію, щоб обмінюватися контейнерами та призначеними сайтами між будь-якими комп'ютерами, під'єднаними до вашого облікового запису."
+  },
+  "onboarding-7-header-2": {
+    "message": "Для синхронізації необхідний обліковий запис."
+  },
+  "onboarding-7-description-2": {
+    "message": "Увійдіть для підтвердження активності облікового запису."
+  },
+  "onboarding-8-description": {
+    "message": "Відтепер контейнери можуть працювати з Mozilla VPN чи вашим власним проксі для створення захищеного приватного з'єднання, що захищає вашу активність в Інтернеті."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 вкладок!"
+  },
+  "youHaveOpened": {
+    "message": "Ви відкрили 100 вкладок у контейнерах."
+  },
+  "spreadTheWord": {
+    "message": "Якщо вам подобаються контейнери, допоможіть нам розповісти про це іншим!"
+  },
+  "rate": {
+    "message": "Оцінити"
+  },
+  "share": {
+    "message": "Поділитися"
+  },
+  "tweet": {
+    "message": "Поширити в Twitter"
+  },
+  "default": {
+    "message": "Типово"
+  },
+  "manageContainers": {
+    "message": "Керувати контейнерами"
+  },
+  "newContainer": {
+    "message": "Новий контейнер"
+  },
+  "hideThisContainer": {
+    "message": "Сховати цей контейнер"
+  },
+  "showThisContainer": {
+    "message": "Показати цей контейнер"
+  },
+  "removeThisContainer": {
+    "message": "Вилучити цей контейнер"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Ви дійсно хочете вилучити цей контейнер?"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Сайти, призначені цьому контейнеру"
+  },
+  "options": {
+    "message": "Налаштування"
+  },
+  "name": {
+    "message": "Назва"
+  },
+  "color": {
+    "message": "Колір"
+  },
+  "icon": {
+    "message": "Піктограма"
+  },
+  "limitToDesignatedSites": {
+    "message": "Обмеження до визначених сайтів"
+  },
+  "deleteThisContainer": {
+    "message": "Видалити цей контейнер"
+  },
+  "manageSiteList": {
+    "message": "Керувати списком сайтів…"
+  },
+  "manageThisContainer": {
+    "message": "Керувати цим контейнером"
+  },
+  "containers": {
+    "message": "Контейнери"
+  },
+  "done": {
+    "message": "Виконано"
+  },
+  "getStarted": {
+    "message": "Розпочнімо"
+  },
+  "signIn": {
+    "message": "Увійти"
+  },
+  "notNow": {
+    "message": "Не зараз"
+  },
+  "startSyncing": {
+    "message": "Почати синхронізацію"
+  },
+  "info": {
+    "message": "Інформація",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Далі"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Відкрити цей сайт у призначеному контейнері?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Ви все ще хочете відкрити в поточному контейнері?"
+  },
+  "rememberMyDecision": {
+    "message": "Запам'ятати моє рішення для цього сайту"
+  },
+  "optionalPermissions": {
+    "message": "Необов’язкові дозволи:"
+  },
+  "keyboardShortCuts": {
+    "message": "Комбінації клавіш:"
+  },
+  "onboarding": {
+    "message": "Початок роботи"
+  },
+  "resetOnboardingPanels": {
+    "message": "Скинути панелі початку роботи"
+  },
+  "onboardingToggle": {
+    "message": "Натисніть сюди, щоб знову побачити панелі початку роботи."
+  },
+  "tabBehavior": {
+    "message": "Поведінка вкладки:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Увімкнути меню закладок"
+  },
+  "sync": {
+    "message": "Синхронізація:"
+  },
+  "enableSync": {
+    "message": "Увімкнути синхронізацію"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Цей параметр дає змогу відкривати закладку чи теку закладок у контейнері."
+  },
+  "enableSyncDescription": {
+    "message": "Цей параметр дає змогу синхронізувати контейнери та призначені сайти на різних пристроях."
+  },
+  "syncExclude": {
+    "message": "Виключення контейнера"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Вставте регулярний вираз"
+  },
+  "syncExcludeDescription": {
+    "message": "Виключати контейнери з синхронізації, якщо їх назва відповідає вказаному регулярному виразу без урахування регістру."
+  },
+  "replaceTab": {
+    "message": "Замінити вкладку замість створення нової"
+  },
+  "replaceTabDescription": {
+    "message": "Замінити поточну вкладку, якщо відкрита сторінка, що призначена іншому контейнеру (замість збереження поточної вкладки відкритою). Не впливає на відкриття вкладок з використанням середньої кнопки миші."
+  },
+  "editWhichContainer": {
+    "message": "Укажіть, які контейнери буде відкрито після натискання комбінацій клавіш із цифрами."
+  },
+  "keyboardShortCut": {
+    "message": "Контейнер, який відкриється натисканням комбінації клавіш $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Підтвердження навігації для Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Відкрити в контейнері $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Відкрити в поточній вкладці",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Ви дали запит Firefox завжди відкривати $containerName$ для цього сайту:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Вибрати розташування",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Сховати"
+  },
+  "show": {
+    "message": "Показати"
+  },
+  "protectYourContainers": {
+    "message": "Захистіть свої контейнери за допомогою Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Захистіть цей контейнер за допомогою Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Розширені налаштування проксі"
+  },
+  "proxyInputLabel": {
+    "message": "Уведіть власний проксі"
+  },
+  "useCustomLocation": {
+    "message": "Використовувати власне розташування для цього контейнера"
+  },
+  "clearproxylabel": {
+    "message": "Очистити проксі"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN увімкнено"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN вимкнено"
+  },
+  "invalidProxyAlert": {
+    "message": "Введіть дійсну URL-адресу проксі"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Щоб використовувати цю функцію, необхідно увімкнути Mozilla VPN."
+  },
+  "learnMore": {
+    "message": "Докладніше"
+  },
+  "proxyNowAvailable": {
+    "message": "Тепер із Mozilla VPN і розширеними налаштуваннями проксі"
+  },
+  "applyToContainer": {
+    "message": "Застосувати до контейнера"
+  },
+  "tooltipWarning": {
+    "message": "Цей контейнер налаштовано для роботи з проксі Mozilla VPN, але функція Mozilla VPN вимкнена. Увімкніть Mozilla VPN для користування цим контейнером."
+  },
+  "getMozillaVpn": {
+    "message": "Отримати Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Інтегруйте свої контейнери з Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Дозволи Mozilla VPN і проксі",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Дозволити розширенню обмінюватися повідомленнями з іншими програмами, окрім Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Це налаштування дасть змогу розширенню обмінюватися повідомленнями з клієнтом Mozilla VPN і необхідне для роботи функцій інтеграції з Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Дозволити розширенню керувати налаштуваннями проксі",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Це дасть вам змогу користуватися розширеними налаштуваннями проксі й увімкнути функції інтеграції з Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Для роботи цієї функції потрібен додатковий дозвіл. Дозволи можна будь-коли вимкнути на сторінці налаштувань.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Для інтеграції з Mozilla VPN необхідна передплата й додаткові дозволи."
+  },
+  "enable": {
+    "message": "Увімкнути",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Інтегруйте свої контейнери з Mozilla VPN"
+  },
+  "theme": {
+    "message": "Тема:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Обрати тему",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Автовизначення (типово)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Світла",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Темна",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Упорядкувати список контейнерів за назвою:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Назва шуканого контейнера"
+  },
+  "imageAltContainerInfo": {
+    "message": "Інформація про контейнер",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Типовий контейнер",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Відкрити панель контейнера",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Комбінація клавіш відкриття контейнера $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Відкрити закладку у вкладці контейнера"
+  }
+}

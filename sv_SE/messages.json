@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers hjälper dig att hålla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och färgkodade flikar hjälper till att hålla olika aktiviteter — som onlineshopping, reseplanering eller kolla jobbmejl — åtskilda.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Öppna ny flik i…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Återöppna den här webbplatsen i…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sortera flikar efter behållare",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Öppna alltid den här webbplatsen i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Öppna alltid i…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Öppna alltid webbplats i behållare"
+  },
+  "openANewTabIn": {
+    "message": "Öppna en ny flik i…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Öppna ny flik i den här behållaren"
+  },
+  "openTabs": {
+    "message": "Öppna flikar",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Flytta flikar till ett nytt fönster"
+  },
+  "onboarding-1-header": {
+    "message": "Ett bättre sätt att hantera allt du gör online"
+  },
+  "onboarding-1-description": {
+    "message": "Använd behållare för att organisera uppgifter, hantera konton och hålla fokus där du vill ha det."
+  },
+  "onboarding-2-header": {
+    "message": "Få behållarna att fungera för dig."
+  },
+  "onboarding-2-description": {
+    "message": "Funktioner som färgkodning och separata innehållsflikar hjälper dig att enkelt hitta saker, fokusera din uppmärksamhet och minimera distraktioner."
+  },
+  "onboarding-3-header": {
+    "message": "En plats för allt och allt på sin plats."
+  },
+  "onboarding-3-description": {
+    "message": "Börja med behållarna vi har skapat eller skapa dina egna."
+  },
+  "onboarding-4-header": {
+    "message": "Öppna alltid webbplatser i de behållare du vill ha."
+  },
+  "onboarding-4-description": {
+    "message": "Högerklicka på en innehållsflik för att tilldela webbplatsen att alltid öppnas i behållaren."
+  },
+  "onboarding-5-header": {
+    "message": "Innehållsflikar när du behöver dem."
+  },
+  "onboarding-5-description": {
+    "message": "Tryck länge på knappen Ny flik för att skapa en ny innehållsflik."
+  },
+  "onboarding-6-header": {
+    "message": "Synkronisering av behållare är nu tillgängligt!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Aktivera synkronisering för att dela container- och webbplatstilldelningar med vilken dator som helst som är ansluten till ditt konto."
+  },
+  "onboarding-7-header-2": {
+    "message": "Ett konto krävs för att synkronisera."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klicka på Logga in för att bekräfta att ditt konto är aktivt."
+  },
+  "onboarding-8-description": {
+    "message": "Nu kan behållare integreras med Mozilla VPN eller din egen proxy för att skapa en säker, privat anslutning som skyddar din aktivitet."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 flikar!"
+  },
+  "youHaveOpened": {
+    "message": "Du har öppnat 100 innehållsflikar."
+  },
+  "spreadTheWord": {
+    "message": "Om du gillar behållare, berätta för andra om det!"
+  },
+  "rate": {
+    "message": "Betygsätt"
+  },
+  "share": {
+    "message": "Dela"
+  },
+  "tweet": {
+    "message": "Tweet"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Hantera behållare"
+  },
+  "newContainer": {
+    "message": "Ny behållare"
+  },
+  "hideThisContainer": {
+    "message": "Dölj den här behållaren"
+  },
+  "showThisContainer": {
+    "message": "Visa denna behållare"
+  },
+  "removeThisContainer": {
+    "message": "Ta bort denna behållare"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Är du säker på att du vill ta bort den här behållaren?"
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Webbplatser som tilldelats denna behållare"
+  },
+  "options": {
+    "message": "Alternativ"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "color": {
+    "message": "Färg"
+  },
+  "icon": {
+    "message": "Ikon"
+  },
+  "limitToDesignatedSites": {
+    "message": "Begränsning till angivna webbplatser"
+  },
+  "deleteThisContainer": {
+    "message": "Ta bort den här behållaren"
+  },
+  "manageSiteList": {
+    "message": "Hantera webbplatslista…"
+  },
+  "manageThisContainer": {
+    "message": "Hantera den här behållaren"
+  },
+  "containers": {
+    "message": "Behållare"
+  },
+  "done": {
+    "message": "Klar"
+  },
+  "getStarted": {
+    "message": "Kom igång"
+  },
+  "signIn": {
+    "message": "Logga in"
+  },
+  "notNow": {
+    "message": "Inte nu"
+  },
+  "startSyncing": {
+    "message": "Börja synkronisera"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Nästa"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Öppna den här webbplatsen i din tilldelade behållare?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Vill du fortfarande öppna i den här aktuella behållaren?"
+  },
+  "rememberMyDecision": {
+    "message": "Kom ihåg mitt beslut för denna webbsida"
+  },
+  "optionalPermissions": {
+    "message": "Valfria behörigheter:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tangentbordsgenvägar:"
+  },
+  "onboarding": {
+    "message": "Introduktion"
+  },
+  "resetOnboardingPanels": {
+    "message": "Återställ introduktionspaneler"
+  },
+  "onboardingToggle": {
+    "message": "Växla detta för att se introduktionspanelerna igen."
+  },
+  "tabBehavior": {
+    "message": "Flikbeteende:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Aktivera bokmärkesmenyer"
+  },
+  "sync": {
+    "message": "Synkronisering:"
+  },
+  "enableSync": {
+    "message": "Aktivera synkronisering"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Med den här inställningen kan du öppna ett bokmärke eller en mapp med bokmärken i en behållare."
+  },
+  "enableSyncDescription": {
+    "message": "Med den här inställningen kan du synkronisera dina behållare och webbplatstilldelningar mellan enheter."
+  },
+  "syncExclude": {
+    "message": "Uteslutning av behållare"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Infoga ett reguljärt uttryck"
+  },
+  "syncExcludeDescription": {
+    "message": "Uteslut behållare från synkronisering när deras namn matchar det angivna skiftlägesokänsliga reguljära uttrycket."
+  },
+  "replaceTab": {
+    "message": "Ersätt flik istället för att skapa en ny"
+  },
+  "replaceTabDescription": {
+    "message": "Ersätt den aktuella fliken om en webbsida som är tilldelad en annan behållare öppnas (istället för att behålla den aktuella fliken öppen). Öppnande av flikar med mitten av musknappen påverkas inte."
+  },
+  "editWhichContainer": {
+    "message": "Redigera vilken behållare som öppnas när du använder de numrerade genvägarna."
+  },
+  "keyboardShortCut": {
+    "message": "Behållare att öppna med kortkommando $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Bekräfta navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Öppna i behållare $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Öppna på aktuell flik",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Du bad Firefox att alltid öppna $containerName$ för den här webbplatsen:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Välj plats",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Dölj"
+  },
+  "show": {
+    "message": "Visa"
+  },
+  "protectYourContainers": {
+    "message": "Skydda dina behållare med Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Skydda den här behållaren med Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Avancerade proxyinställningar"
+  },
+  "proxyInputLabel": {
+    "message": "Ange anpassad proxy"
+  },
+  "useCustomLocation": {
+    "message": "Använd en anpassad plats för den här behållaren"
+  },
+  "clearproxylabel": {
+    "message": "Rensa proxy"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN är aktiverat"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN är avstängt"
+  },
+  "invalidProxyAlert": {
+    "message": "Ange en giltig proxy-URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN måste vara aktiverat för att kunna använda den här funktionen."
+  },
+  "learnMore": {
+    "message": "Läs mer"
+  },
+  "proxyNowAvailable": {
+    "message": "Nu med Mozilla VPN och avancerade proxyinställningar"
+  },
+  "applyToContainer": {
+    "message": "Tillämpa på behållare"
+  },
+  "tooltipWarning": {
+    "message": "Den här behållaren är inställd för att använda en Mozilla VPN-proxy, men Mozilla VPN är inte aktiverat. Aktivera Mozilla VPN för att använda den här behållaren."
+  },
+  "getMozillaVpn": {
+    "message": "Hämta Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrera dina behållare med Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN och proxybehörigheter",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Tillåt tillägg att utbyta meddelanden med andra program än Firefox",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Den här inställningen tillåter tillägget att utbyta meddelanden med Mozilla VPN-klienten och krävs för att Mozilla VPN-integreringsfunktioner ska fungera.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Tillåt tillägg att styra proxyinställningar",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Detta låter dig använda avancerade proxyinställningar och aktivera Mozilla VPN-integreringsfunktioner.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Den här funktionen kräver ytterligare behörighet för att fungera. Behörigheter kan inaktiveras när som helst på inställningssidan.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrering med Mozilla VPN kräver ett abonnemang och ytterligare behörigheter för att fungera."
+  },
+  "enable": {
+    "message": "Aktivera",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrera dina behållare med Mozilla VPN"
+  },
+  "theme": {
+    "message": "Tema:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Välj ett tema",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Automatisk identifiering (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Ljust",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Mörkt",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrera behållarlistan efter namn:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Sök efter behållarens namn"
+  },
+  "imageAltContainerInfo": {
+    "message": "Behållarinformation",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardbehållare",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Öppna behållarpanelen",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Behållargenväg $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Öppna bokmärke i innehållsfliken"
+  }
+}

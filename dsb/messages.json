@@ -1,0 +1,419 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers wam pomaga, wšykne źěle wašogo žywjenja online do rozdźělnych rejtarikow rozdźěliś. Swójske etikety a z barwu koděrowane rejtariki pomagaju, rozdźělne aktiwity – ako nakupowanje online, planowanje drogowanjow abo cytanje słužbnych mejlkow – wótgranicowaś.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Nowy rejtarik wócyniś w…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Toś to sedło znowego wócyniś w…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Rejtariki pó kontejnerje sortěrowaś",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Toś to sedło pśecej wócyniś w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Pśecej wócyniś w…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Sedło pśecej w kontejnerje wócyniś"
+  },
+  "openANewTabIn": {
+    "message": "Nowy rejtarik wócyniś w…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Nowy rejtarik w toś tom kontejnerje wócyniś"
+  },
+  "openTabs": {
+    "message": "Wócynjone rejtariki",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Rejtariki do nowego wokna pśesunuś"
+  },
+  "onboarding-1-header": {
+    "message": "Lěpša móžnosć wšykno zastojaś, což online cyniśo"
+  },
+  "onboarding-1-description": {
+    "message": "Wužywajśo kontejnery, aby nadawki organizěrował, konta zastojał a koncentrěrujśo se na to, což cośo."
+  },
+  "onboarding-2-header": {
+    "message": "Dajśo kontejneram za sebje źěłaś."
+  },
+  "onboarding-2-description": {
+    "message": "Funkcije ako koděrowanje z barwu a separatne kontejnerowe rejtariki wam pomagaju, wěcy lažko namakaś, wašu zajmowanosć koncentrěrowaś a wótchylenja miniměrowaś."
+  },
+  "onboarding-3-header": {
+    "message": "Městno za wšykno, a wšykno na jogo městnje."
+  },
+  "onboarding-3-description": {
+    "message": "Zachopśo z kontejnerami, kótarež my smy napórali, abo napórajśo swójske."
+  },
+  "onboarding-4-header": {
+    "message": "Wócyńśo sedła pśecej w pominanych kontejnerach."
+  },
+  "onboarding-4-description": {
+    "message": "Klikniśo z pšaweju tastu na kontejnerowy rejtarik, aby póstajił, až se sedło pśecej w kontejnerje wócynja."
+  },
+  "onboarding-5-header": {
+    "message": "Kontejnerowe rejtariki, gaž je trjebaśo."
+  },
+  "onboarding-5-description": {
+    "message": "Tłocćo dłujko na tłocašk Nowy rrjtark, aby nowy kontejnerowy rejtarik napórał."
+  },
+  "onboarding-6-header": {
+    "message": "Synchronizěrowanje kontejnerow jo něnto k dispoziciji!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Zmóžniśo synchronizaciju, aby kontejner a sedłowe pśipokazanja z kuždym licadłom źělił, kótarež je z wašym kontom zwězane."
+  },
+  "onboarding-7-header-2": {
+    "message": "Trjebaśo konto, aby synchronizěrował."
+  },
+  "onboarding-7-description-2": {
+    "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto jo aktiwne."
+  },
+  "onboarding-8-description": {
+    "message": "Něnto kontejnery daju se do Mozilla VPN abo swójogo proksy integrěrowaś, aby wěsty, priwatny zwisk napórał, kótaryž wašu aktiwitu šćita."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 rejtarikow!"
+  },
+  "youHaveOpened": {
+    "message": "Sćo wócynił 100 kontejnerowych rejtarikow."
+  },
+  "spreadTheWord": {
+    "message": "Jolic se wam kontejnery spódobaju, wulicujśo drugim wó tom!"
+  },
+  "rate": {
+    "message": "Pógódnośiś"
+  },
+  "share": {
+    "message": "Źěliś"
+  },
+  "tweet": {
+    "message": "Twitrowaś"
+  },
+  "default": {
+    "message": "Standard"
+  },
+  "manageContainers": {
+    "message": "Kontejnery zastojaś"
+  },
+  "newContainer": {
+    "message": "Nowy kontejner"
+  },
+  "hideThisContainer": {
+    "message": "Toś ten kontejner schowaś"
+  },
+  "showThisContainer": {
+    "message": "Toś ten kontejner pokazaś"
+  },
+  "removeThisContainer": {
+    "message": "Toś ten kontejner wótwónoźeś"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Cośo toś ten kontejner napšawdu wótwónoźeś?"
+  },
+  "cancel": {
+    "message": "Pśetergnuś"
+  },
+  "ok": {
+    "message": "W pórěźe"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Sedła, kótarež su se pśipokazali toś tomu kontejneroju"
+  },
+  "options": {
+    "message": "Nastajenja"
+  },
+  "name": {
+    "message": "Mě"
+  },
+  "color": {
+    "message": "Barwa"
+  },
+  "icon": {
+    "message": "Symbol"
+  },
+  "limitToDesignatedSites": {
+    "message": "Na wěste sedła wobgranicowaś"
+  },
+  "deleteThisContainer": {
+    "message": "Toś ten kontejner lašowaś"
+  },
+  "manageSiteList": {
+    "message": "Lisćinu sedłow zastojaś…"
+  },
+  "manageThisContainer": {
+    "message": "Toś ten kontejner zastojaś"
+  },
+  "containers": {
+    "message": "Kontejnery"
+  },
+  "done": {
+    "message": "Dokóńcony"
+  },
+  "getStarted": {
+    "message": "Prědne kšace"
+  },
+  "signIn": {
+    "message": "Pśizjawiś"
+  },
+  "notNow": {
+    "message": "Nic něnto"
+  },
+  "startSyncing": {
+    "message": "Synchronizaciju zachopiś"
+  },
+  "info": {
+    "message": "Info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Dalej"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Toś to sydło we wašom pśipokazanem kontejnerje wócyniś?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Cośo hyšći w aktualnem kontejnerje wócyniś?"
+  },
+  "rememberMyDecision": {
+    "message": "Mój rozsud za toś to sedło se spomnjeś"
+  },
+  "optionalPermissions": {
+    "message": "Opcionalne pšawa:"
+  },
+  "keyboardShortCuts": {
+    "message": "Tastowe skrotconki:"
+  },
+  "onboarding": {
+    "message": "Rozpokazanje"
+  },
+  "resetOnboardingPanels": {
+    "message": "Rozpokazańske wokna slědk stajiś"
+  },
+  "onboardingToggle": {
+    "message": "Pśešaltujśo to, aby rozpokazańske wokna zasej wiźeł."
+  },
+  "tabBehavior": {
+    "message": "Rejtarikowe zaźaržanje:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Menije cytańskich znamjenjow zmóžniś"
+  },
+  "sync": {
+    "message": "Synchronizacija:"
+  },
+  "enableSync": {
+    "message": "Synchronizěrowanje zmóžniś"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Z toś tym nastajenim móžośo cytańske znamjenja abo zarědnik z cytańskimi znamjenjami w kontejnerje wócyniś."
+  },
+  "enableSyncDescription": {
+    "message": "Z toś tym nastajenim móžośo swóje kontejnery a sedłowe pśipokazanja pśez rědy synchronizěrowaś."
+  },
+  "syncExclude": {
+    "message": "Wuzamknjenje kontejnerow"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Regularny wuraz zasajźiś"
+  },
+  "syncExcludeDescription": {
+    "message": "Wuwzejśo kontejnery wót synchronizacije, gaž jich mě pódanemu regularnemu wurazoju wótpowědujo, kótaryž mjazy wjeliko- a małopisanim njerozeznawa."
+  },
+  "replaceTab": {
+    "message": "Rejtarik wuměniś, město aby se nowy napórał"
+  },
+  "replaceTabDescription": {
+    "message": "Wuměńśo aktualny rejtarik, jolic se bok, kótaryž jo sr pśipokazał drugemu kontejneroju, wócynja (město togo, aby aktualny rejtarik wócynjony wóstawał). Wócynjanje rejtarikow ze srjejźneju tastu myški se njewobwliwujo."
+  },
+  "editWhichContainer": {
+    "message": "Nastajśo, kótary kontejner se wócynja, gaž se numerěrowane tastowe skrotconki wužywaju."
+  },
+  "keyboardShortCut": {
+    "message": "Kontejner, kótaryž ma se z tastoweju skrotconku $keyId$ wócyniś",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - Nawigaciju wobkšuśiś",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "W kontejnerje $containerName$ wócyniś",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "W aktualnem rejtariku wócyniś",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Sćo pšosył Firefox, $containerName$ pśecej za toś to sedło wócyniś:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Stojnišćo wubraś",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Schowaś"
+  },
+  "show": {
+    "message": "Pokazaś"
+  },
+  "protectYourContainers": {
+    "message": "Šćitajśo swóje kontejnery z Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Šćitajśo toś ten kontejner z Mozilla VPN"
+  },
+  "advancedProxySettings": {
+    "message": "Rozšyrjone proksy-nastajenja"
+  },
+  "proxyInputLabel": {
+    "message": "Swójski proksy zapódaś"
+  },
+  "useCustomLocation": {
+    "message": "Wužywajśo swójske stojnišćo za toś ten kontejner"
+  },
+  "clearproxylabel": {
+    "message": "Proksy lašowaś"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN jo zmóžnjony"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN jo znjemóžnjony"
+  },
+  "invalidProxyAlert": {
+    "message": "Pšosym zapódajśo płaśiwy proksy-URL"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN musy zmóžnjony byś, aby mógał toś tu funkciju wužywaś."
+  },
+  "learnMore": {
+    "message": "Dalšne informacije"
+  },
+  "proxyNowAvailable": {
+    "message": "Něnto z Mozilla VPN a rozšyrjonymi proksy-nastajenjami"
+  },
+  "applyToContainer": {
+    "message": "Na kontejner nałožyś"
+  },
+  "tooltipWarning": {
+    "message": "Toś ten kontejner jo tak nastajony, až proksy Mozilla VPN wužywa, ale Mozilla VPN njejo zmóžnjony. Zmóžniśo Mozilla VPN, aby toś ten kontejner wužywał."
+  },
+  "getMozillaVpn": {
+    "message": "Mozilla VPN wobstaraś"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN a proksy-pšawa",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Rozšyrjenjeju zmóžniś, aby powěsći z drugimi programami ako Firefox wuměniło",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Toś to nastajenje rozšyrjenjeju zmóžnja, powěsći z klientom Mozilla VPN wuměniś a jo trjebne, aby integraciske funkcije Mozilla VPN funkcioněrowali.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Rozšyrjenjeju zmóžniś, aby proksy-nastajenja wóźiło",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "To wam zmóžnja, rozšyrjone proksy-nastajenja wužywaś a integraciske funkcije Mozilla VPN zmóžniś.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Toś ta funkcija se pśidatne pšawo pomina, aby funkcioněrowała. Pšawa daju se kuždy cas na boku nastajenjow znjemóžniś.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integracija z Mozilla VPN se abonement a pśidatne pšawa pomina, aby funkcioněrowała."
+  },
+  "enable": {
+    "message": "Zmóžniś",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
+  },
+  "theme": {
+    "message": "Drastwa:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Drastwu wubraś",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Awtomatiski namakaś (standard)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Swětły",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Śamny",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Kontejnerowu lisćinu pó mjenju filtrowaś:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Kontejnerowe mě pytaś"
+  },
+  "imageAltContainerInfo": {
+    "message": "Informacije wó kontejnerje",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Standardny kontejner",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Kontejnerowy wobceŕk wócyniś",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Kontejnerowa skrotconka $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Cytańske znamje w nowem kontejnerowem rejtariku wócyniś"
+  }
+}

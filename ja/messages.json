@@ -1,0 +1,145 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers を使用すると、オンラインライフのすべての部分を異なるタブに収めることができます。カスタムラベルと色分けされたタブは、さまざまなアクティビティ—オンラインショッピング、旅行計画、仕事用メールのチェックなど—を個別に管理するのに役立ちます。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "新しいタブを開くコンテナー...",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "このサイトを再開するコンテナー...",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "コンテナーでタブを並べ替える",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "常にこのサイトを開くコンテナー...",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "常に開くコンテナー...",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "常にコンテナーでサイトを開く"
+  },
+  "openANewTabIn": {
+    "message": "新しいタブを開くコンテナー..."
+  },
+  "openNewTabInThisContainer": {
+    "message": "このコンテナーで新しいタブを開く"
+  },
+  "openTabs": {
+    "message": "開いたタブ",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "タブを新しいウィンドウへ移動"
+  },
+  "rate": {
+    "message": "評価"
+  },
+  "share": {
+    "message": "共有"
+  },
+  "tweet": {
+    "message": "ツイート"
+  },
+  "default": {
+    "message": "既定"
+  },
+  "manageContainers": {
+    "message": "コンテナーを管理"
+  },
+  "newContainer": {
+    "message": "新しいコンテナー"
+  },
+  "hideThisContainer": {
+    "message": "このコンテナーを隠す"
+  },
+  "showThisContainer": {
+    "message": "このコンテナーを表示する"
+  },
+  "removeThisContainer": {
+    "message": "このコンテナーを削除"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "このコンテナーを削除してもよろしいですか？"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "このコンテナーに割り当てられたサイト"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "name": {
+    "message": "コンテナー名"
+  },
+  "color": {
+    "message": "色"
+  },
+  "icon": {
+    "message": "アイコン"
+  },
+  "limitToDesignatedSites": {
+    "message": "指定されたサイトに限定"
+  },
+  "deleteThisContainer": {
+    "message": "このコンテナーを削除"
+  },
+  "manageSiteList": {
+    "message": "サイトのリストを管理..."
+  },
+  "manageThisContainer": {
+    "message": "このコンテナーを管理"
+  },
+  "containers": {
+    "message": "コンテナー"
+  },
+  "done": {
+    "message": "完了"
+  },
+  "getStarted": {
+    "message": "はじめに"
+  },
+  "signIn": {
+    "message": "ログイン"
+  },
+  "notNow": {
+    "message": "後で"
+  },
+  "startSyncing": {
+    "message": "同期を開始"
+  },
+  "info": {
+    "message": "情報",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "次へ"
+  },
+  "openThisSiteConfirmation": {
+    "message": "このサイトを割り当てられたコンテナーで開きますか？"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "この現在のコンテナーで開きますか？"
+  },
+  "rememberMyDecision": {
+    "message": "このサイトでは今後も同様に処理する"
+  },
+  "optionalPermissions": {
+    "message": "任意の許可設定:"
+  },
+  "keyboardShortCuts": {
+    "message": "キーボードショートカット:"
+  }
+}
