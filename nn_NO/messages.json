@@ -415,5 +415,9 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Opne bokmerke i innhaldsfane"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Fjern nettstaden",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
