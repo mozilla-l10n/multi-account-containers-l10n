@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Cytańske znamje w nowem kontejnerowem rejtariku wócyniś"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Cookieje za toś to sedło lašowaś",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Toś to sedło wótwónoźeś",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Składowak a cookieje lašowaś",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Cookieje za $siteName$ su se wuspěšnje wulašowali",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Cookieje njejsu dali se za $siteName$ wulašowaś",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Składowak a cookieje $containerName$ su se wulašowali.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
