@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Άνοιγμα σελιδοδείκτη σε θεματική καρτέλα"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Απαλοιφή cookie για τον ιστότοπο",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Αφαίρεση ιστοτόπου",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Απαλοιφή αποθηκευτικού χώρου και cookie",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Τα cookie για το $siteName$ διαγράφηκαν επιτυχώς",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Δεν ήταν δυνατή η απαλοιφή των cookie για το $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Έγινε απαλοιφή του αποθηκευτικού χώρου και των cookie του «$containerName$».",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
