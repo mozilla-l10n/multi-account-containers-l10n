@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": " ਬੁੱਕਮਾਰਕ ਨੂੰ ਕਨਟੇਨਰ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "ਇਸ ਸਾਈਟ ਲਈ ਕੂਕੀਜ਼ ਮਿਟਾਓ",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "ਇਹ ਸਾਈਟ ਨੂੰ ਹਟਾਓ",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "ਸਟੋਰੇਜ਼ ਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾਓ",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "$siteName$ ਲਈ ਕੂਕੀਜ਼ ਨੂੰ ਕਾਮਯਾਬੀ ਨਾਲ ਮਿਟਾਇਆ ਗਿਆ ਹੈ",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "$siteName$ ਲਈ ਕੂਕੀਜ਼ ਮਿਟਾਏ ਨਹੀਂ ਜਾ ਸਕੇ",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$ ਦੀ ਸਟੋਰੇਜ਼ ਤੇ ਕੂਕੀਜ਼ ਕਲੀਅਰ ਕੀਤੇ ਗਏ ਸਨ।",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
