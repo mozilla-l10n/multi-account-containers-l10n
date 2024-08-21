@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "用容器分頁開啟書籤"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "清除此網站的 Cookie",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "移除此網站",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "清理儲存空間與 Cookie",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "成功清除 $siteName$ 的 Cookie",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "無法清除 $siteName$ 的 Cookie",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "已清除 $containerName$ 的儲存空間與 Cookie。",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
