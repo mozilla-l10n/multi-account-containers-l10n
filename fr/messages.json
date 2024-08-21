@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Ouvrir le marque-page dans un onglet conteneur"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Effacer les cookies pour ce site",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Supprimer ce site",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Effacer l’espace de stockage et les cookies",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Les cookies de $siteName$ ont été effacés",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Les cookies n’ont pas pu être effacés pour $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "L’espace de stockage et les cookies de $containerName$ ont été effacés.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
