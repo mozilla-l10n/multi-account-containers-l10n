@@ -311,6 +311,9 @@
   "tooltipWarning": {
     "message": "מגירה זו מוגדרת להשתמש בשרת מתווך של Mozilla VPN, אך Mozilla VPN אינו פעיל. יש להפעיל את Mozilla VPN כדי להשתמש במגירה זו."
   },
+  "getMozillaVpn": {
+    "message": "קבלת Mozilla VPN"
+  },
   "integratewithmozillavpn": {
     "message": "שילוב המגירות שלך עם Mozilla VPN"
   },
@@ -394,5 +397,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "פתיחת סימנייה במגירת לשוניות"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "ניקוי עוגיות עבור אתר זה",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "הסרת אתר זה",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "ניקוי אחסון ועוגיות",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "עוגיות עבור $siteName$ נוקו בהצלחה",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "לא ניתן היה לנקות עוגיות עבור $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "האחסון והעוגיות של $containerName$ נוקו.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
