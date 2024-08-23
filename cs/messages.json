@@ -415,5 +415,17 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Otevřít záložku v kontejnerovém panelu"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Vymazat cookies pro tuto stránku",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Odebrat tuto stránku",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Vymazat úložiště a cookies",
+    "description": "Label for the clearing a containers storage and cache option"
   }
 }
