@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Otvoriť záložku na novej kontajnerovej karte"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Vymazať súbory cookie pre túto stránku",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Odstrániť túto stránku",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Vymazať úložisko a súbory cookie",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Súbory cookie pre $siteName$ boli úspešne vymazané",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Súbory cookie sa pre $siteName$ nepodarilo vymazať",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Úložisko a súbory cookie $containerName$ boli vymazané.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
