@@ -415,5 +415,9 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Blêdwizer iepenje yn kontenerljepblêd"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Dizze website fuortsmite",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
