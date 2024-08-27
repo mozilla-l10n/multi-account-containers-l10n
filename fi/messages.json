@@ -415,5 +415,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Avaa kirjanmerkki eristettyyn välilehteen"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Tyhjennä tämän sivuston evästeet",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Poista sivusto",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Tyhjennä tallennustila ja evästeet",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Sivuston $siteName$ evästeiden poistaminen onnistui",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Sivuston $siteName$ evästeitä ei voitu poistaa",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Kontin $containerName$ tallennustila ja evästeet tyhjennettiin.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
