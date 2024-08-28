@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Вы уверены, что хотите удалить этот контейнер?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Очистить хранилище контейнера"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Вы уверены, что хотите удалить куки и хранилище для этого контейнера?"
+  },
   "cancel": {
     "message": "Отмена"
   },
