@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Binne jo wis dat jo dizze kontener fuortsmite wolle?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Konteneropslach wiskje"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Binne jo wis dat jo cookies en opslach foar dizze kontener wiskje wolle?"
+  },
   "cancel": {
     "message": "Annulearje"
   },
@@ -416,8 +422,43 @@
   "openBookmarkInContainerTab": {
     "message": "Blêdwizer iepenje yn kontenerljepblêd"
   },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Cookies foar dizze website wiskje",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
   "deleteSiteTooltipInfo": {
     "message": "Dizze website fuortsmite",
     "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Opslach en cookies wiskje",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Cookies foar $siteName$ binne mei sukses wiske",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Cookies koene net wiske wurde foar $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "De opslach en cookies fan $containerName$ binne wiske.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
