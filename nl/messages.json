@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Weet u zeker dat u deze container wilt verwijderen?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Containeropslag wissen"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Weet u zeker dat u cookies en opslag voor deze container wilt wissen?"
+  },
   "cancel": {
     "message": "Annuleren"
   },
