@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Rimuovere questo contenitore?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Elimina dati salvati per il contenitore"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Eliminare cookie e dati salvati per questo contenitore?"
+  },
   "cancel": {
     "message": "Annulla"
   },
