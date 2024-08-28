@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Naozaj chcete odstrániť tento kontajner?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Vyčistenie úložiska kontajnera"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Naozaj chcete vymazať súbory cookie a úložisko pre tento kontajner?"
+  },
   "cancel": {
     "message": "Zrušiť"
   },
