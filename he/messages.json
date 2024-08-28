@@ -35,6 +35,9 @@
   "moveTabsToANewWindow": {
     "message": "העברת לשוניות לחלון חדש"
   },
+  "onboarding-1-header": {
+    "message": "דרך עדיפה לניהול כל הפעילויות המקוונות שלך"
+  },
   "onboarding-2-header": {
     "message": "לתת למגירות לעבוד בשבילך."
   },
@@ -112,6 +115,12 @@
   },
   "removeThisContainerConfirmation": {
     "message": "להסיר את המגירה הזאת?"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "ניקוי אחסון המגירה"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "האם ברצונך לנקות עוגיות ואחסון עבור מגירה זו?"
   },
   "cancel": {
     "message": "ביטול"
