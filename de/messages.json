@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Soll diese Umgebung wirklich entfernt werden?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Umgebungen-Speicher leeren"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Sollen Cookies und Speicher für diese Umgebung wirklich gelöscht werden?"
+  },
   "cancel": {
     "message": "Abbrechen"
   },
