@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Chceće woprawdźe tutón kontejner wotstronić?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Kontejnerowy składowak wuprózdnić"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Chceće woprawdźe placki zhašeć a składowak za tutón kontejner wuprózdnić?"
+  },
   "cancel": {
     "message": "Přetorhnyć"
   },
