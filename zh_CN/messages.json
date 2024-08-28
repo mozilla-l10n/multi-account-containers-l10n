@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "您确定要移除此身份吗？"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "清理身份存储空间"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "确定要清理此身份的 Cookie 和存储空间吗？"
+  },
   "cancel": {
     "message": "取消"
   },
