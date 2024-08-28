@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Cośo toś ten kontejner napšawdu wótwónoźeś?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Kontejnerowy składowak wuprozniś"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Cośo napšawdu cookieje lašowaś a składowak za toś ten kontejner prozniś?"
+  },
   "cancel": {
     "message": "Pśetergnuś"
   },
