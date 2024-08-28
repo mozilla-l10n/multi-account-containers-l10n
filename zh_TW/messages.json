@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "您確定要刪除此容器嗎？"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "清除容器儲存空間"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "您確定要清除此容器的 Cookie 與儲存空間嗎？"
+  },
   "cancel": {
     "message": "取消"
   },
