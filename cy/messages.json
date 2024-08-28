@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Ydych chi'n siŵr eich bod eisiau tynnu'r Cynhwysydd hwn?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Clirio Storfa'r Cynhwysydd"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Ydych chi'n siŵr eich bod am glirio cwcis a storfa'r Cynhwysydd hwn?"
+  },
   "cancel": {
     "message": "Diddymu"
   },
