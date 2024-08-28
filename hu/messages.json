@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Biztos, hogy törli ezt a konténert?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Konténertároló törlése"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Biztos, hogy törli a sütiket és a tárolót ebből a konténerből?"
+  },
   "cancel": {
     "message": "Mégse"
   },
@@ -415,5 +421,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Könyvjelző megnyitása új konténerlapon"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Sütik törlése erről a webhelyről",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Webhely eltávolítása",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Tároló és sütik törlése",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "A(z) $siteName$ sütijei sikeresen törölve lettek",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "A sütik nem törölhetőek a következőnél: $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "A(z) $containerName$ tárolója és sütijei törölve lettek.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
