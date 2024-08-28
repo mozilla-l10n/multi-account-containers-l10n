@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Haluatko varmasti poistaa tämän eristystilan?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Tyhjennä eristystilan tallennustila"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Haluatko varmasti tyhjentää tämän eristystilan evästeet ja tallennustilan?"
+  },
   "cancel": {
     "message": "Peruuta"
   },
