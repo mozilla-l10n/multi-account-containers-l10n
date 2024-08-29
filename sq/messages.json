@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Jeni i sigurt se doni të hiqet ky Kontejner?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Spastro Depozitë Kontejneri"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Jeni i sigurt se doni të spastrohen “cookies” dhe depozitë për këtë Kontejner?"
+  },
   "cancel": {
     "message": "Anuloje"
   },
@@ -411,5 +417,26 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Hape Faqerojtësin në Skedë Kontejneri"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Spastro “cookies” për këtë sajt",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Hiqe këtë sajt",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Spastro depozitë dhe “cookies”",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "“Cookies” për $siteName$ u spastruan me sukses",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   }
 }
