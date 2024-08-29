@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Opravdu chcete odstranit tento kontejner?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Vymazat úložiště kontejneru"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Jste si jisti, že chcete vymazat cookies a úložiště pro tento kontejner?"
+  },
   "cancel": {
     "message": "Zrušit"
   },
@@ -427,5 +433,32 @@
   "clearContainerStorage": {
     "message": "Vymazat úložiště a cookies",
     "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Cookies pro $siteName$ byly úspěšně vymazány",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Cookies se pro $siteName$ nepodařilo vymazat",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Úložiště a cookies pro kontejner $containerName$ byly vymazány.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
