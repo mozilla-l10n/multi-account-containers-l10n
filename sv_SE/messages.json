@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Är du säker på att du vill ta bort den här behållaren?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Rensa behållarens lagring"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Är du säker på att du vill rensa kakor och lagringsutrymmet för den här behållaren?"
+  },
   "cancel": {
     "message": "Avbryt"
   },
