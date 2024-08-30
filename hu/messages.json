@@ -314,7 +314,7 @@
     "message": "A Mozilla VPN ki van kapcsolva"
   },
   "invalidProxyAlert": {
-    "message": "Írjon be egy érvényes proxy URL-t"
+    "message": "Írjon be egy érvényes proxy webcímet"
   },
   "mozillaVpnMustBeOn": {
     "message": "A funkció használatához be kell kapcsolni a Mozilla VPN-t."
