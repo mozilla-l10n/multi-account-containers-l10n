@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Θέλετε σίγουρα να αφαιρέσετε τη θεματική ενότητα;"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Απαλοιφή δεδομένων θεματικής ενότητας"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Θέλετε σίγουρα να διαγράψετε τα cookie και τα αποθηκευμένα δεδομένα αυτής της θεματικής ενότητας;"
+  },
   "cancel": {
     "message": "Ακύρωση"
   },
