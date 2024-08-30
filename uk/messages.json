@@ -415,5 +415,9 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Відкрити закладку у вкладці контейнера"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Вилучити цей сайт",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
