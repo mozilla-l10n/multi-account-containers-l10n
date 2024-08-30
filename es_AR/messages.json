@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "¿Estás seguro de querer eliminar este contenedor?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Limpiar almacenamiento del contenedor"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "¿Está seguro de querer borrar las cookies y el almacenamiento de este contenedor?"
+  },
   "cancel": {
     "message": "Cancelar"
   },
