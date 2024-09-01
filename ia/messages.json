@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Desira tu vermente remover iste contentor?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Vacuar le immagazinage del contentor"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Desira tu vermente vacuar cookies e immagazinage pro iste Contentor?"
+  },
   "cancel": {
     "message": "Cancellar"
   },
