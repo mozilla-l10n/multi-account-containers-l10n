@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Ви дійсно хочете вилучити цей контейнер?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Очистити сховище контейнера"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Ви впевнені, що хочете очистити файли cookie та сховище для цього контейнера?"
+  },
   "cancel": {
     "message": "Скасувати"
   },
@@ -416,8 +422,43 @@
   "openBookmarkInContainerTab": {
     "message": "Відкрити закладку у вкладці контейнера"
   },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Очистити файли cookie для цього сайту",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
   "deleteSiteTooltipInfo": {
     "message": "Вилучити цей сайт",
     "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Очистити сховище та файли cookie",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Файли cookie для $siteName$ успішно видалено",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Не вдалося видалити файли cookie для $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Сховище та файли cookie $containerName$ очищено.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
