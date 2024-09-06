@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Are you sure you want to remove this Container?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Clear Container Storage"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Are you sure you want to clear cookies and storage for this Container?"
+  },
   "cancel": {
     "message": "Cancel"
   },
@@ -415,5 +421,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Open Bookmark in Container Tab"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Clear cookies for this site",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Remove this site",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Clear storage and cookies",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Cookies for $siteName$ were cleared successfully",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Cookies could not be cleared for $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$’s storage and cookies were cleared.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
