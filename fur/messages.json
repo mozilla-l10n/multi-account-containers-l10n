@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Gjavâ pardabon chest contignidôr?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Nete la memorie di archiviazion dal contignidôr"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Netâ pardabon i cookies e la memorie di archiviazion par chest contignidôr?"
+  },
   "cancel": {
     "message": "Anule"
   },
@@ -415,5 +421,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Vierç segnelibri in schede contignidôr"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Nete i cookies par chest sît",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Gjave chest sît",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Nete memorie di archiviazion e cookies",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "I cookies par $siteName$ a son stâts netâts fûr cun sucès",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Nol è stât pussibil netâ fûr i cookies par $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "La memorie di archiviazion e i cookies di $containerName$ a son stâts netâts fûr.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
