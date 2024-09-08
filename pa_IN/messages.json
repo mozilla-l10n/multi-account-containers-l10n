@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "ਕੀ ਤੁਸੀਂ ਇਹ ਕਨਟੇਨਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "ਕਨਟੇਨਰ ਸਟੋਰੇਜ਼ ਨੂੰ ਮਿਟਾਓ"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "ਕੀ ਤੁਸੀਂ ਇਸ ਕਨਟੇਨਰ ਲਈ ਕੂਕੀਜ਼ ਅਤੇ ਸਟੋਰੇਜ਼ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+  },
   "cancel": {
     "message": "ਰੱਦ ਕਰੋ"
   },
