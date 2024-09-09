@@ -438,5 +438,23 @@
         "content": "$1"
       }
     }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Për $siteName$ s’u spastruan dot cookie-t",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Depozitimet dhe cookie-t për $containerName$ u spastruan.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
