@@ -49,7 +49,7 @@
     "message": "Få beholderne til å fungere for deg."
   },
   "onboarding-2-description": {
-    "message": "Funksjoner som fargekoding og separate innholdsfaner hjelper deg med å finne ting enkelt, fokusere oppmerksomheten og minimere distraksjoner."
+    "message": "Funksjoner som fargekoding og separate beholderfaner hjelper deg med å finne ting enkelt, fokusere oppmerksomheten og minimere distraksjoner."
   },
   "onboarding-3-header": {
     "message": "Et sted for alt, og alt på sin plass."
@@ -61,13 +61,13 @@
     "message": "Åpne alltid nettsteder i beholderne du ønsker."
   },
   "onboarding-4-description": {
-    "message": "Høyreklikk inne i en innholdsfane for å tilordne nettstedet til alltid å åpne i beholderen."
+    "message": "Høyreklikk inne i en beholderfane for å tilordne nettstedet til alltid å åpne i beholderen."
   },
   "onboarding-5-header": {
-    "message": "Innholdsfaner når du trenger dem."
+    "message": "Beholderfaner når du trenger dem."
   },
   "onboarding-5-description": {
-    "message": "Trykk lenge på Ny fane-knappen for å opprette en ny innholdsfane."
+    "message": "Trykk lenge på Ny fane-knappen for å opprette en ny beholderfane."
   },
   "onboarding-6-header": {
     "message": "Synkronisering av beholdere er nå tilgjengelig!"
@@ -88,7 +88,7 @@
     "message": "100 faner!"
   },
   "youHaveOpened": {
-    "message": "Du har åpnet 100 innholdsfaner."
+    "message": "Du har åpnet 100 beholderfaner."
   },
   "spreadTheWord": {
     "message": "Hvis du liker beholdere, hjelp oss å spre ordet!"
@@ -414,6 +414,6 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Åpne bokmerke i innholdsfane"
+    "message": "Åpne bokmerke i beholderfane"
   }
 }
