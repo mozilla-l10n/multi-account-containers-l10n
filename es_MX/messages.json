@@ -415,5 +415,9 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Abrir marcador en pestaña contenedora"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Eliminar este sitio",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
