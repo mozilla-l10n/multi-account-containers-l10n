@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "이 Container를 제거하시겠습니까?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Container 저장소 삭제"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "이 Container의 쿠키 및 저장소를 정말 삭제하시겠습니까?"
+  },
   "cancel": {
     "message": "취소"
   },
@@ -415,5 +421,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "컨테이너 탭에서 북마크 열기"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "이 사이트의 쿠키 삭제",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "이 사이트 삭제",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "저장소 및 쿠키 삭제",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "$siteName$의 쿠키가 성공적으로 삭제되었습니다",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "$siteName$의 쿠키를 삭제할 수 없습니다",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$의 저장소와 쿠키가 삭제되었습니다.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
