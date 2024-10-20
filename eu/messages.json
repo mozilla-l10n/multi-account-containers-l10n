@@ -47,9 +47,6 @@
   "onboarding-6-header": {
     "message": "Edukiontzien sinkronizazioa eskuragarri dago!"
   },
-  "onboarding-7-header": {
-    "message": "Firefox kontua behar da sinkronizatzeko."
-  },
   "onboarding-8-description": {
     "message": "Edukiontziak Mozilla VPN edo zure proxy propioarekin integra daitezke orain, zure jarduera babestuko duen konexio seguru eta pribatua sortzeko."
   },
@@ -171,9 +168,6 @@
   "enableBookMarkMenus": {
     "message": "Gaitu laster-marken menuak"
   },
-  "firefoxAccountsSync": {
-    "message": "Firefox kontuen sinkronizazioa:"
-  },
   "enableSync": {
     "message": "Gaitu sinkronizazioa"
   },
@@ -273,5 +267,29 @@
   "themeDark": {
     "message": "Iluna",
     "description": "Value for the theme option select tag"
+  },
+  "imageAltContainerInfo": {
+    "message": "Edukiontziaren informazioa",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Edukiontzi lehenetsia",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Ireki edukiontzien panela",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Edukiontziaren $keyId$. lasterbidea",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Ireki laster-marka edukiontzi-fitxan"
   }
 }
