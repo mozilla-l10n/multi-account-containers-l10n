@@ -268,6 +268,13 @@
     "message": "Iluna",
     "description": "Value for the theme option select tag"
   },
+  "filterInputLabel": {
+    "message": "Iragazi edukiontzien zerrenda izenaren arabera:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Bilatu edukiontzi-izena"
+  },
   "imageAltContainerInfo": {
     "message": "Edukiontziaren informazioa",
     "description": "Alt text for right-arrow button to view container info"
@@ -291,5 +298,44 @@
   },
   "openBookmarkInContainerTab": {
     "message": "Ireki laster-marka edukiontzi-fitxan"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Garbitu gune honetarako cookieak",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Kendu gune hau",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Garbitu biltegiratzea eta cookieak",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "$siteName$ gunerako cookieak ondo garbitu dira",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Ezin izan dira $siteName$ gunerako cookieak garbitu",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$ edukiontziaren biltegiratzea eta cookieak garbitu egin dira.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
