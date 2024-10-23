@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "Er du sikker på at du vil fjerne denne behaldaren?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Rydd behaldar-lagring"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Er du sikker på at du vil slette infokapslar og lagring for denne behaldaren?"
+  },
   "cancel": {
     "message": "Avbryt"
   },
@@ -416,8 +422,43 @@
   "openBookmarkInContainerTab": {
     "message": "Opne bokmerke i innhaldsfane"
   },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Slett infokapslar for denne nettstaden",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
   "deleteSiteTooltipInfo": {
     "message": "Fjern nettstaden",
     "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Tøm lagring og infokapslar",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Infokapslar for $siteName$ vart sletta",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Infokapslar kunne ikkje slettast for $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$ lagring og infokapslar vart sletta.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
