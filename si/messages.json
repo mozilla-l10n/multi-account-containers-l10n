@@ -429,5 +429,36 @@
   "deleteSiteTooltipInfo": {
     "message": "මෙම අඩවිය ඉවත් කරන්න",
     "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "දත්තකඩ හා ආචයනය මකන්න",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "$siteName$ දත්තකඩ සාර්ථකව මැකිණි",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "$siteName$ දත්තකඩ මැකීමට නොහැකි විය",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "$containerName$ ආචයනය සහ දත්තකඩ මැකිණි.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
