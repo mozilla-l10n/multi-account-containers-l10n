@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "ඔබට මෙම අඩංගුව ඉවත් කිරීමට අවශ්‍ය බව විශ්වාසද?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "අඩංගුවේ ආචයනය මකන්න"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "ඔබට මෙම අඩංගුවේ දත්තකඩ සහ ආචයනය මැකීමට වුවමනා ද?"
+  },
   "cancel": {
     "message": "අවලංගු"
   },
@@ -415,5 +421,13 @@
   },
   "openBookmarkInContainerTab": {
     "message": "පොත්යොමු අඩංගුවක අරින්න"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "මෙම අඩවියේ දත්තකඩ මකන්න",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "මෙම අඩවිය ඉවත් කරන්න",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
