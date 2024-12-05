@@ -25,9 +25,18 @@
   "openANewTabIn": {
     "message": "Dobrir un onglet novèl dins…"
   },
+  "openNewTabInThisContainer": {
+    "message": "Dobrir un onglet novèl dins aqueste onglet isolat"
+  },
   "openTabs": {
     "message": "Onglets dobèrts",
     "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Desplaçar los onglets cap a una fenèstra novèla"
+  },
+  "onboarding-2-header": {
+    "message": "Fasètz trabalhar los contenedors a vòstra plaça."
   },
   "oneHundredTabsHeader": {
     "message": "100 onglets !"
@@ -128,6 +137,9 @@
   },
   "tabBehavior": {
     "message": "Compòrtament de l’onglet :"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activar los menús marcapaginas"
   },
   "enableSync": {
     "message": "Activar la sincronizacion"
