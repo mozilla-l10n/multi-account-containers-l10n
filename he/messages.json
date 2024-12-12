@@ -38,6 +38,9 @@
   "onboarding-1-header": {
     "message": "דרך עדיפה לניהול כל הפעילויות המקוונות שלך"
   },
+  "onboarding-1-description": {
+    "message": "אפשר להשתמש במגירות כדי לארגן משימות, לנהל חשבונות ולשמור על מיקוד איפה שצריך."
+  },
   "onboarding-2-header": {
     "message": "לתת למגירות לעבוד בשבילך."
   },
@@ -247,6 +250,10 @@
         "content": "$1"
       }
     }
+  },
+  "confirmNavigationTitle": {
+    "message": "אישור ניווט במגירות לריבוי חשבונות",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
     "message": "פתיחה במגירה „$containerName$”",
