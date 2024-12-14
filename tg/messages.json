@@ -38,5 +38,129 @@
   },
   "moveTabsToANewWindow": {
     "message": "Гузаронидани варақаҳо ба равзанаи нав"
+  },
+  "onboarding-1-header": {
+    "message": "Роҳи беҳтарин барои идора кардани ҳамаи корҳое, ки шумо дар онлайн мекунед"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 варақа!"
+  },
+  "manageContainers": {
+    "message": "Идоракунии дарбаргирандаҳо"
+  },
+  "newContainer": {
+    "message": "Дарбаргирандаи нав"
+  },
+  "cancel": {
+    "message": "Бекор кардан"
+  },
+  "ok": {
+    "message": "ХУБ"
+  },
+  "options": {
+    "message": "Имконот"
+  },
+  "name": {
+    "message": "Ном"
+  },
+  "color": {
+    "message": "Ранг"
+  },
+  "icon": {
+    "message": "Нишона"
+  },
+  "containers": {
+    "message": "Дарбаргирандаҳо"
+  },
+  "done": {
+    "message": "Тайёр"
+  },
+  "getStarted": {
+    "message": "Оғози кор"
+  },
+  "signIn": {
+    "message": "Ворид шудан"
+  },
+  "notNow": {
+    "message": "Ҳоло не"
+  },
+  "startSyncing": {
+    "message": "Оғози ҳамоҳангсозӣ"
+  },
+  "next": {
+    "message": "Навбатӣ"
+  },
+  "openInNoContainer": {
+    "message": "Кушодан дар варақаи ҷорӣ",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "chooseLocation": {
+    "message": "Интихоби ҷойгиршавӣ",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Пинҳон кардан"
+  },
+  "show": {
+    "message": "Намоиш додан"
+  },
+  "protectYourContainers": {
+    "message": "Дарбаргирандаҳои худро ба воситаи «Mozilla VPN» муҳофизат намоед"
+  },
+  "protectThisContainer": {
+    "message": "Муҳофизат кардани ин дарбаргиранда ба воситаи «Mozilla VPN»"
+  },
+  "advancedProxySettings": {
+    "message": "Танзимоти иловагии прокси"
+  },
+  "moz-vpn-connected": {
+    "message": "«Mozilla VPN» фаъол аст"
+  },
+  "moz-vpn-disconnected": {
+    "message": "«Mozilla VPN» хомӯш аст"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Барои истифода кардани ин хусусият «Mozilla VPN» бояд фаъол бошад."
+  },
+  "learnMore": {
+    "message": "Маълумоти бештар"
+  },
+  "applyToContainer": {
+    "message": "Татбиқ кардан ба дарбаргиранда"
+  },
+  "getMozillaVpn": {
+    "message": "Ба даст овардани «Mozilla VPN»"
+  },
+  "enable": {
+    "message": "Фаъол кардан",
+    "description": "Button title "
+  },
+  "theme": {
+    "message": "Мавзуъ:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Мавзуеро интихоб кунед",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Муайянкунии худкор (пешфарз)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Равшан",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Торик",
+    "description": "Value for the theme option select tag"
+  },
+  "defaultContainerLabel": {
+    "message": "Дарбаргирандаи пешфарз",
+    "description": "The title of the default container"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Тоза кардани ин сомона",
+    "description": "Label for hovering of the trash button in a containers site manager"
   }
 }
