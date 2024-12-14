@@ -42,8 +42,23 @@
   "onboarding-1-header": {
     "message": "Роҳи беҳтарин барои идора кардани ҳамаи корҳое, ки шумо дар онлайн мекунед"
   },
+  "onboarding-7-header-2": {
+    "message": "Барои ҳамоҳангсозӣ ҳисоби шахсӣ лозим аст."
+  },
   "oneHundredTabsHeader": {
     "message": "100 варақа!"
+  },
+  "rate": {
+    "message": "Баҳо додан"
+  },
+  "share": {
+    "message": "Мубодила кардан"
+  },
+  "tweet": {
+    "message": "Фиристодан ба «Twitter»"
+  },
+  "default": {
+    "message": "Пешфарз"
   },
   "manageContainers": {
     "message": "Идоракунии дарбаргирандаҳо"
@@ -217,6 +232,9 @@
   "themeDark": {
     "message": "Торик",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputPlaceholder": {
+    "message": "Ҷустуҷӯи номи дарбаргиранда"
   },
   "defaultContainerLabel": {
     "message": "Дарбаргирандаи пешфарз",
