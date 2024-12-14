@@ -1,0 +1,42 @@
+{
+  "extensionDescription": {
+    "message": "Дарбаргирандаҳои серҳисоб ба шумо кумак мекунанд, то ки тавонед ҳамаи тарафҳои ҳаёти онлайни худро тавассути варақаҳои гуногун нигоҳ доред ва алоҳида дар бар гиред. Варақаҳои фармоишӣ бо имконияти татбиқи барчаспҳо ва рангҳои дилхоҳ барои алоҳида нигоҳ доштани фаъолияти гуногун кумак мекунанд — барои мисол, фаъолияти харидории дар онлайн, банақшагирии сафар ё тафтиши почтаи электронии корӣ — алоҳида ба кор баред.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Кушодани варақаи нав дар…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Аз нав кушодани ин сомона дар…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Мураттаб кардани варақаҳо аз рӯи дарбаргиранда",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Ҳамеша кушодани ин сомона дар…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Ҳамеша кушодан дар…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Сомона ҳамеша дар дарбаргиранда кушода шавад"
+  },
+  "openANewTabIn": {
+    "message": "Кушодани варақаи нав дар…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Кушодани варақаи нав дар ин дарбаргиранда"
+  },
+  "openTabs": {
+    "message": "Варақаҳои кушодашуда",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Гузаронидани варақаҳо ба равзанаи нав"
+  }
+}
