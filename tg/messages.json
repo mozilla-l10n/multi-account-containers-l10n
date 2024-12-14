@@ -191,11 +191,23 @@
   "advancedProxySettings": {
     "message": "Танзимоти иловагии прокси"
   },
+  "proxyInputLabel": {
+    "message": "Прокси фармоиширо ворид намоед"
+  },
+  "useCustomLocation": {
+    "message": "Истифода кардани ҷойгиршавии фармоишӣ барои ин дарбаргиранда"
+  },
+  "clearproxylabel": {
+    "message": "Пок кардани прокси"
+  },
   "moz-vpn-connected": {
     "message": "«Mozilla VPN» фаъол аст"
   },
   "moz-vpn-disconnected": {
     "message": "«Mozilla VPN» хомӯш аст"
+  },
+  "invalidProxyAlert": {
+    "message": "Лутфан, нишонии URL-и эътибори проксиро ворид намоед"
   },
   "mozillaVpnMustBeOn": {
     "message": "Барои истифода кардани ин хусусият «Mozilla VPN» бояд фаъол бошад."
@@ -203,11 +215,18 @@
   "learnMore": {
     "message": "Маълумоти бештар"
   },
+  "proxyNowAvailable": {
+    "message": "Акнун дорои «Mozilla VPN» ва танзимоти иловагии прокси мебошад"
+  },
   "applyToContainer": {
     "message": "Татбиқ кардан ба дарбаргиранда"
   },
   "getMozillaVpn": {
     "message": "Ба даст овардани «Mozilla VPN»"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Иҷозатҳои «Mozilla VPN» ва Прокси",
+    "description": "Section headline in settings"
   },
   "enable": {
     "message": "Фаъол кардан",
@@ -233,15 +252,56 @@
     "message": "Торик",
     "description": "Value for the theme option select tag"
   },
+  "filterInputLabel": {
+    "message": "Мураттаб кардани рӯйхати дарбаргирандаҳо аз рӯйи ном:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
   "filterInputPlaceholder": {
     "message": "Ҷустуҷӯи номи дарбаргиранда"
+  },
+  "imageAltContainerInfo": {
+    "message": "Маълумот дар бораи дарбаргиранда",
+    "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
     "message": "Дарбаргирандаи пешфарз",
     "description": "The title of the default container"
   },
+  "openContainerPanel": {
+    "message": "Кушодани лавҳаи дарбаргиранда",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Миёнбури дарбаргиранда $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Кушодани хатбарак дар варақаи дарбаргиранда"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Пок кардани кукиҳо барои ин сомона",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
   "deleteSiteTooltipInfo": {
     "message": "Тоза кардани ин сомона",
     "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Пок кардани захирагоҳ ва кукиҳо",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Кукиҳо барои сомонаи $siteName$ бо муваффақият пок карда шудаанд",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   }
 }
