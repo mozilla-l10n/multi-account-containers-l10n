@@ -51,11 +51,32 @@
   "newContainer": {
     "message": "Дарбаргирандаи нав"
   },
+  "hideThisContainer": {
+    "message": "Пинҳон кардани ин дарбаргиранда"
+  },
+  "showThisContainer": {
+    "message": "Нишон додани ин дарбаргиранда"
+  },
+  "removeThisContainer": {
+    "message": "Тоза кардани ин дарбаргиранда"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Шумо мутмаин ҳастед, ки мехоҳед ин дарбаргирандаро тоза намоед?"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "Пок кардани захирагоҳи дарбаргиранда"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Оё мутмаин ҳастед, ки мехоҳед кукиҳо ва захирагоҳро барои ин дарбаргиранда пок созед?"
+  },
   "cancel": {
     "message": "Бекор кардан"
   },
   "ok": {
     "message": "ХУБ"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Сомонаҳои таъиншуда ба ин дарбаргиранда"
   },
   "options": {
     "message": "Имконот"
@@ -68,6 +89,9 @@
   },
   "icon": {
     "message": "Нишона"
+  },
+  "deleteThisContainer": {
+    "message": "Нест кардани ин дарбаргиранда"
   },
   "containers": {
     "message": "Дарбаргирандаҳо"
@@ -87,8 +111,47 @@
   "startSyncing": {
     "message": "Оғози ҳамоҳангсозӣ"
   },
+  "info": {
+    "message": "Иттилоот",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
   "next": {
     "message": "Навбатӣ"
+  },
+  "optionalPermissions": {
+    "message": "Иҷозатҳои интихобӣ"
+  },
+  "keyboardShortCuts": {
+    "message": "Миёнбурҳои клавиатура:"
+  },
+  "onboarding": {
+    "message": "Лавҳаи оғози кор"
+  },
+  "resetOnboardingPanels": {
+    "message": "Аз нав танзим кардани лавҳаҳои оғози кор"
+  },
+  "onboardingToggle": {
+    "message": "Барои аз нав намоиш додани лавҳаҳои оғози кор, ин имконро интихоб намоед."
+  },
+  "tabBehavior": {
+    "message": "Рафтори варақа:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Фаъол кардани менюи хатбаракҳо"
+  },
+  "sync": {
+    "message": "Ҳамоҳангсозӣ:"
+  },
+  "enableSync": {
+    "message": "Фаъол кардани ҳамоҳангсозӣ"
+  },
+  "openInContainer": {
+    "message": "Кушодан дар дарбаргирандаи «$containerName$»",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "openInNoContainer": {
     "message": "Кушодан дар варақаи ҷорӣ",
