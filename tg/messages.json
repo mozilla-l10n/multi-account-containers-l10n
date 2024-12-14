@@ -196,6 +196,9 @@
   "syncExclude": {
     "message": "Истиснои дарбаргирандаҳо"
   },
+  "syncExcludePlaceholder": {
+    "message": "Ифодаи мунтазамро ворид намоед"
+  },
   "keyboardShortCut": {
     "message": "Дарбаргирандае, ки ба воситаи миёнбури клавиатураи «$keyId$» кушода мешавад",
     "placeholders": {
