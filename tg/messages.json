@@ -42,6 +42,15 @@
   "onboarding-1-header": {
     "message": "Роҳи беҳтарин барои идора кардани ҳамаи корҳое, ки шумо дар онлайн мекунед"
   },
+  "onboarding-2-header": {
+    "message": "Бигузор, ки дарбаргирандаҳо барои шумо кор кунанд."
+  },
+  "onboarding-5-header": {
+    "message": "Варақаҳоро дар вақти дилхоҳ дар дарбаргирандаҳо кушоед."
+  },
+  "onboarding-6-header": {
+    "message": "Акнун имконияти ҳамоҳангсозии дарбаргирандаҳо дастрас аст!"
+  },
   "onboarding-7-header-2": {
     "message": "Барои ҳамоҳангсозӣ ҳисоби шахсӣ лозим аст."
   },
@@ -108,6 +117,12 @@
   "deleteThisContainer": {
     "message": "Нест кардани ин дарбаргиранда"
   },
+  "manageSiteList": {
+    "message": "Идора кардани рӯйхати сомонаҳо…"
+  },
+  "manageThisContainer": {
+    "message": "Идора кардани ин дарбаргиранда"
+  },
   "containers": {
     "message": "Дарбаргирандаҳо"
   },
@@ -132,6 +147,15 @@
   },
   "next": {
     "message": "Навбатӣ"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Ин сомонаро дар дарбаргирандаи таъиншуда мекушоед?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Оё шумо ба ҳар ҳол мехоҳед, ки онро дар ин дарбаргирандаи ҷорӣ кушоед?"
+  },
+  "rememberMyDecision": {
+    "message": "Қарори ман барои ин сомона дар хотир дошта шавад"
   },
   "optionalPermissions": {
     "message": "Иҷозатҳои интихобӣ"
@@ -159,6 +183,17 @@
   },
   "enableSync": {
     "message": "Фаъол кардани ҳамоҳангсозӣ"
+  },
+  "syncExclude": {
+    "message": "Истиснои дарбаргирандаҳо"
+  },
+  "keyboardShortCut": {
+    "message": "Дарбаргирандае, ки ба воситаи миёнбури клавиатураи «$keyId$» кушода мешавад",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "openInContainer": {
     "message": "Кушодан дар дарбаргирандаи «$containerName$»",
