@@ -207,6 +207,10 @@
       }
     }
   },
+  "confirmNavigationTitle": {
+    "message": "Тасдиқи паймоиш тавассути дарбаргирандаҳои серҳисоб",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "Кушодан дар дарбаргирандаи «$containerName$»",
     "placeholders": {
@@ -218,6 +222,14 @@
   "openInNoContainer": {
     "message": "Кушодан дар варақаи ҷорӣ",
     "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Шумо аз браузери «Firefox» дархост кардед, ки ин сомона ҳамеша дар «$containerName$» кушода шавад:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Интихоби ҷойгиршавӣ",
@@ -268,16 +280,29 @@
   "applyToContainer": {
     "message": "Татбиқ кардан ба дарбаргиранда"
   },
+  "tooltipWarning": {
+    "message": "Ин дарбаргиранда барои истифодаи прокси «Mozilla VPN» насб шудааст, аммо «Mozilla VPN» фаъол нест. Барои истифодаи ин дарбаргиранда, лутфан, «Mozilla VPN»-ро фаъол созед."
+  },
   "getMozillaVpn": {
     "message": "Ба даст овардани «Mozilla VPN»"
+  },
+  "integratewithmozillavpn": {
+    "message": "Дарбаргирандаҳои худро бо «Mozilla VPN» ҳамгиро созед"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Иҷозатҳои «Mozilla VPN» ва Прокси",
     "description": "Section headline in settings"
   },
+  "proxyPermissionTitle": {
+    "message": "Ба васеъшавӣ иҷозат диҳед, ки танзимоти проксиро идора кунад",
+    "description": "Permission title"
+  },
   "enable": {
     "message": "Фаъол кардан",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Дарбаргирандаҳои худро бо «Mozilla VPN» ҳамгиро созед"
   },
   "theme": {
     "message": "Мавзуъ:",
@@ -347,6 +372,24 @@
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Кукиҳо барои сомонаи $siteName$ пок карда нашуданд",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Захирагоҳ ва кукиҳои «$containerName»$ пок карда шудаанд.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
         "content": "$1"
       }
     }
