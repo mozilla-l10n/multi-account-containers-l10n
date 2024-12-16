@@ -428,7 +428,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "Захирагоҳ ва кукиҳои «$containerName»$ пок карда шудаанд.",
+    "message": "Захирагоҳ ва кукиҳои «$containerName$» пок карда шудаанд.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {
