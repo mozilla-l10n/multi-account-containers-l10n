@@ -361,6 +361,9 @@
     "message": "Ин хусусият барои кор иҷозати иловагиро талаб мекунад. Иҷозатҳо метавонанд дар саҳифаи танзимот дар вақти дилхоҳ ғайрифаъол карда шаванд.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Амали ҳамгироӣ ва кор бо «Mozilla VPN» обуна ва иҷозатҳои иловагиро талаб мекунад."
+  },
   "enable": {
     "message": "Фаъол кардан",
     "description": "Button title "
