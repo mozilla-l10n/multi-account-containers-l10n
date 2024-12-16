@@ -341,9 +341,25 @@
     "message": "Иҷозатҳои «Mozilla VPN» ва Прокси",
     "description": "Section headline in settings"
   },
+  "nativeMessagingPermissionTitle": {
+    "message": "Ба васеъшавӣ барои мубодила кардани паёмҳо бо барномаҳои ғайр аз «Firefox» иҷозат диҳед",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Ин танзим ба васеъшавӣ имкон медиҳад, ки тавонад паёмҳоро бо муштарии «Mozilla VPN» мубодила кунад ва ин танзим, инчунин, барои кор кардани хусусиятҳои ҳамгироии «Mozilla VPN» талаб карда мешавад.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
     "message": "Ба васеъшавӣ иҷозат диҳед, ки танзимоти проксиро идора кунад",
     "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Ин ба шумо имкон медиҳад, ки тавонед танзимоти иловагии проксиро истифода баред ва хусусиятҳои ҳамгироии «Mozilla VPN»-ро фаъол созед.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Ин хусусият барои кор иҷозати иловагиро талаб мекунад. Иҷозатҳо метавонанд дар саҳифаи танзимот дар вақти дилхоҳ ғайрифаъол карда шаванд.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "enable": {
     "message": "Фаъол кардан",
