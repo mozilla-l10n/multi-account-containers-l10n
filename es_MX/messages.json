@@ -123,6 +123,12 @@
   "removeThisContainerConfirmation": {
     "message": "¿Estás seguro de que deseas remover este contenedor?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Limpiar almacenamiento de contenedores"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "¿Quieres borrar las cookies y el almacenamiento de este contenedor?"
+  },
   "cancel": {
     "message": "Cancelar"
   },
@@ -416,6 +422,10 @@
   "openBookmarkInContainerTab": {
     "message": "Abrir marcador en pestaña contenedora"
   },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Borrar cookies para este sitio",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
   "deleteSiteTooltipInfo": {
     "message": "Eliminar este sitio",
     "description": "Label for hovering of the trash button in a containers site manager"
@@ -438,6 +448,15 @@
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Se ha borrado el almacenamiento y las cookies de $containerName$.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
         "content": "$1"
       }
     }
