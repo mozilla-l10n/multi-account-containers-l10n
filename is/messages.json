@@ -1,0 +1,59 @@
+{
+  "openInNewTabTitle": {
+    "message": "Opna nýjan flipa í…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Opna þessa síðu aftur í…",
+    "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Raða flipum eftir sérefni",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Opna þessa síðu alltaf í…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Alltaf opna í…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Opna vefsvæðið alltaf í sérefnisflipa"
+  },
+  "openANewTabIn": {
+    "message": "Opna nýjan flipa í…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Opna nýjan flipa í þessum sérefnisflipa"
+  },
+  "openTabs": {
+    "message": "Opna flipa",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Færa flipa yfir í nýjan glugga"
+  },
+  "rate": {
+    "message": "Gefa einkunn"
+  },
+  "share": {
+    "message": "Deila"
+  },
+  "tweet": {
+    "message": "Tísta"
+  },
+  "default": {
+    "message": "Sjálfgefið"
+  },
+  "manageContainers": {
+    "message": "Sýsla með sérefnisflipa"
+  },
+  "newContainer": {
+    "message": "Nýr sérefnisflipi"
+  },
+  "cancel": {
+    "message": "Hætta við"
+  }
+}
