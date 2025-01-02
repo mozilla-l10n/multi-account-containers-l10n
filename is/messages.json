@@ -35,6 +35,15 @@
   "moveTabsToANewWindow": {
     "message": "Færa flipa yfir í nýjan glugga"
   },
+  "onboarding-1-header": {
+    "message": "Betri leið til að halda utan um allt það sem þú gerir á netinu"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 flipar!"
+  },
+  "youHaveOpened": {
+    "message": "Þú hefur opnað 100 sérefnisflipa."
+  },
   "rate": {
     "message": "Gefa einkunn"
   },
@@ -48,10 +57,19 @@
     "message": "Sjálfgefið"
   },
   "manageContainers": {
-    "message": "Sýsla með sérefnisflipa"
+    "message": "Sýsla með sérefnisgáma"
   },
   "newContainer": {
-    "message": "Nýr sérefnisflipi"
+    "message": "Nýr sérefnisgámur"
+  },
+  "hideThisContainer": {
+    "message": "Fela þennan sérefnisgám"
+  },
+  "showThisContainer": {
+    "message": "Sýna þennan sérefnisgám"
+  },
+  "removeThisContainer": {
+    "message": "Fjarlægja þennan sérefnisgám"
   },
   "cancel": {
     "message": "Hætta við"
