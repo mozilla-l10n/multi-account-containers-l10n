@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "已清理 $containerName$ 的存储空间和 Cookie。",
+    "message": "已清理“$containerName$”的存储空间和 Cookie。",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {
