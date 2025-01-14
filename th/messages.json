@@ -82,7 +82,7 @@
     "message": "คลิก \"ลงชื่อเข้า\" เพื่อยืนยันว่าบัญชีของคุณเปิดใช้งานอยู่"
   },
   "onboarding-8-description": {
-    "message": "ตอนนี้ที่แยกข้อมูลสามารถผสานรวมกับ Mozilla VPN หรือ Proxy ของคุณเองเพื่อสร้างการเชื่อมต่อที่ปลอดภัยและเป็นส่วนตัวซึ่งปกป้องกิจกรรมของคุณ"
+    "message": "ตอนนี้ที่แยกข้อมูลสามารถผสานรวมกับ Mozilla VPN หรือพร็อกซีของคุณเองเพื่อสร้างการเชื่อมต่อที่ปลอดภัยและเป็นส่วนตัวซึ่งปกป้องกิจกรรมของคุณ"
   },
   "oneHundredTabsHeader": {
     "message": "100 แท็บ!"
@@ -247,6 +247,18 @@
   "editWhichContainer": {
     "message": "แก้ไขว่าจะให้เปิดที่แยกข้อมูลใดบ้างเมื่อใช้แป้นลัดที่เป็นตัวเลข"
   },
+  "keyboardShortCut": {
+    "message": "ที่แยกข้อมูลที่จะเปิดด้วยแป้นพิมพ์ลัด $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "ยืนยันการนำทางให้กับ Multi-Account Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
   "openInContainer": {
     "message": "เปิดในการแยกข้อมูล $containerName$",
     "placeholders": {
@@ -254,6 +266,10 @@
         "content": "$1"
       }
     }
+  },
+  "openInNoContainer": {
+    "message": "เปิดในแท็บปัจจุบัน",
+    "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
     "message": "คุณได้ขอให้ Firefox เปิด $containerName$ สำหรับไซต์นี้เสมอ:",
@@ -306,15 +322,54 @@
   "learnMore": {
     "message": "เรียนรู้เพิ่มเติม"
   },
+  "proxyNowAvailable": {
+    "message": "ตอนนี้มาพร้อมกับ Mozilla VPN และการตั้งค่าพร็อกซีขั้นสูง"
+  },
   "applyToContainer": {
     "message": "นำไปใช้กับที่แยกข้อมูล"
+  },
+  "tooltipWarning": {
+    "message": "ที่แยกข้อมูลนี้ถูกตั้งค่าให้ใช้พร็อกซี Mozilla VPN แต่ Mozilla VPN ไม่ได้เปิดอยู่ ให้เปิด Mozilla VPN เพื่อใช้ที่แยกข้อมูลนี้"
   },
   "getMozillaVpn": {
     "message": "รับ Mozilla VPN"
   },
+  "integratewithmozillavpn": {
+    "message": "ผสานรวมที่แยกข้อมูลของคุณกับ Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN และการกำหนดสิทธิ์พร็อกซี",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "อนุญาตให้ส่วนขยายแลกเปลี่ยนข้อความกับโปรแกรมอื่นที่ไม่ใช่ Firefox ได้",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "การตั้งค่านี้จะอนุญาตให้ส่วนขยายแลกเปลี่ยนข้อความกับไคลเอนต์ Mozilla VPN ได้ และจำเป็นเพื่อให้คุณลักษณะการผสานรวมกับ Mozilla VPN สามารถใช้งานได้",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "อนุญาตให้ส่วนขยายควบคุมการตั้งค่าพร็อกซีได้",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "การตั้งค่านี้ให้คุณใช้การตั้งค่าพร็อกซีขั้นสูงและเปิดใช้งานคุณลักษณะการผสานรวมกับ Mozilla VPN ได้",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "คุณลักษณะนี้ต้องการการกำหนดสิทธิ์เพิ่มเติมจึงจะทำงานได้ โดยสามารถปิดใช้งานสิทธิ์ได้ตลอดเวลาบนหน้าการตั้งค่า",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "การผสานรวมกับ Mozilla VPN ต้องการการสมัครสมาชิกและการกำหนดสิทธิ์เพิ่มเติมจึงจะทำงานได้"
+  },
   "enable": {
     "message": "เปิดใช้งาน",
     "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "ผสานรวมที่แยกข้อมูลของคุณกับ Mozilla VPN"
   },
   "theme": {
     "message": "ชุดตกแต่ง:",
@@ -335,5 +390,75 @@
   "themeDark": {
     "message": "มืด",
     "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "กรองรายการที่แยกข้อมูลตามชื่อ:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "ค้นหาชื่อที่แยกข้อมูล"
+  },
+  "imageAltContainerInfo": {
+    "message": "ข้อมูลที่แยกข้อมูล",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "ที่แยกข้อมูลเริ่มต้น",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "เปิดแผงที่แยกข้อมูล",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "แป้นลัดที่แยกข้อมูล $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "เปิดที่คั่นหน้าในแท็บแยกข้อมูล"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "ล้างคุกกี้สำหรับไซต์นี้",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "เอาไซต์นี้ออก",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "ล้างพื้นที่จัดเก็บข้อมูลและคุกกี้",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "คุกกี้สำหรับ $siteName$ ถูกล้างเรียบร้อยแล้ว",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "ไม่สามารถล้างคุกกี้สำหรับ $siteName$ ได้",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "พื้นที่จัดเก็บข้อมูลและคุกกี้ของ $containerName$ ถูกล้างแล้ว",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
