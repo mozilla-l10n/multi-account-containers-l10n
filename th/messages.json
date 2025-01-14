@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Multi-Account Containers ให้คุณแยกข้อมูลสำหรับส่วนต่างๆ ทั้งหมดของชีวิตออนไลน์ของคุณในคนละแท็บกันได้ ฉลากกำหนดเองและแท็บที่เป็นสีสันจะช่วยแยกกิจกรรมต่างๆ ออกจากกัน เช่น การซื้อของออนไลน์ การวางแผนเดินทาง หรือการตรวจอีเมลที่ทำงาน",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "เปิดแท็บใหม่ใน…",
     "description": "Menu title"
@@ -35,6 +39,60 @@
   "moveTabsToANewWindow": {
     "message": "ย้ายแท็บไปยังหน้าต่างใหม่"
   },
+  "onboarding-1-header": {
+    "message": "วิธีที่ดีกว่าในการจัดการทุกสิ่งที่คุณทำบนโลกออนไลน์"
+  },
+  "onboarding-1-description": {
+    "message": "ใช้การแยกข้อมูลเพื่อจัดระเบียบงาน จัดการบัญชี และไม่ให้เสียสมาธิในจุดที่คุณต้องการ"
+  },
+  "onboarding-2-header": {
+    "message": "ให้การแยกข้อมูลทำงานเพื่อคุณ"
+  },
+  "onboarding-2-description": {
+    "message": "คุณลักษณะต่างๆ เช่น การกำหนดสี และแท็บแยกข้อมูลแยกต่างหาก ช่วยคุณหาสิ่งต่างๆ ได้อย่างง่ายดาย รวมทั้งดึงดูดความสนใจของคุณ และลดสิ่งรบกวนให้เหลือน้อยที่สุด"
+  },
+  "onboarding-3-header": {
+    "message": "ที่สำหรับทุกอย่าง ครบในที่เดียว"
+  },
+  "onboarding-3-description": {
+    "message": "เริ่มด้วยการแยกข้อมูลที่เราสร้างขึ้น หรือสร้างของคุณเอง"
+  },
+  "onboarding-4-header": {
+    "message": "เปิดไซต์ในการแยกข้อมูลที่คุณต้องการเสมอ"
+  },
+  "onboarding-4-description": {
+    "message": "คลิกขวาภายในแท็บแยกข้อมูล เพื่อกำหนดไซต์ให้เปิดในการแยกข้อมูลเสมอ"
+  },
+  "onboarding-5-header": {
+    "message": "ใช้แท็บแยกข้อมูลเมื่อคุณต้องการ"
+  },
+  "onboarding-5-description": {
+    "message": "กดปุ่ม \"แท็บใหม่\" ค้างเพื่อสร้างแท็บแยกข้อมูลใหม่"
+  },
+  "onboarding-6-header": {
+    "message": "การซิงค์การแยกข้อมูลสามารถใช้ได้แล้ว!"
+  },
+  "onboarding-6-description-2": {
+    "message": "เปิดการซิงค์เพื่อแบ่งปันการแยกข้อมูลและการกำหนดไซต์กับคอมพิวเตอร์ใดก็ตามที่เชื่อมต่อกับบัญชีของคุณ"
+  },
+  "onboarding-7-header-2": {
+    "message": "ต้องมีบัญชีเพื่อซิงค์"
+  },
+  "onboarding-7-description-2": {
+    "message": "คลิก \"ลงชื่อเข้า\" เพื่อยืนยันว่าบัญชีของคุณเปิดใช้งานอยู่"
+  },
+  "onboarding-8-description": {
+    "message": "ตอนนี้การแยกข้อมูลสามารถผสานรวมกับ Mozilla VPN หรือ Proxy ของคุณเองเพื่อสร้างการเชื่อมต่อที่ปลอดภัยและเป็นส่วนตัวซึ่งปกป้องกิจกรรมของคุณ"
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 แท็บ!"
+  },
+  "youHaveOpened": {
+    "message": "คุณได้เปิดแท็บแยกข้อมูล 100 แท็บ"
+  },
+  "spreadTheWord": {
+    "message": "ถ้าคุณเพลิดเพลินกับการใช้การแยกข้อมูล ก็ช่วยเราบอกต่อเลย!"
+  },
   "rate": {
     "message": "ให้คะแนน"
   },
@@ -64,6 +122,12 @@
   },
   "removeThisContainerConfirmation": {
     "message": "คุณแน่ใจหรือไม่ว่าต้องการเอาการแยกข้อมูลนี้ออก?"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "ล้างที่เก็บการแยกข้อมูล"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการล้างคุกกี้และที่เก็บสำหรับการแยกข้อมูลนี้?"
   },
   "cancel": {
     "message": "ยกเลิก"
@@ -153,11 +217,26 @@
   "enableBookMarkMenus": {
     "message": "เปิดใช้งานเมนที่คั่นหน้า"
   },
-  "firefoxAccountsSync": {
-    "message": "การซิงค์กับบัญชี Firefox:"
+  "sync": {
+    "message": "การประสานข้อมูล:"
   },
   "enableSync": {
     "message": "เปิดใช้งานการซิงค์"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "การตั้งค่านี้ให้คุณสามารถเปิดที่คั่นหน้าหรือโฟลเดอร์เก็บที่คั่นหน้าในการแยกข้อมูลได้"
+  },
+  "enableSyncDescription": {
+    "message": "การตั้งค่านี้ให้คุณสามารถซิงค์การแยกข้อมูลและการกำหนดไซต์ของคุณระหว่างอุปกรณ์ต่างๆ ได้"
+  },
+  "syncExclude": {
+    "message": "การยกเว้นการแยกข้อมูล"
+  },
+  "syncExcludePlaceholder": {
+    "message": "แทรกนิพจน์ปกติ"
+  },
+  "syncExcludeDescription": {
+    "message": "ไม่รวมการแยกข้อมูลจากการซิงค์เมื่อชื่อของการแยกข้อมูลเหล่านั้นตรงกับนิพจน์ปกติที่ไม่คำนึงถึงตัวพิมพ์ใหญ่-เล็กตามที่ระบุ"
   },
   "openInContainer": {
     "message": "เปิดในการแยกข้อมูล $containerName$",
