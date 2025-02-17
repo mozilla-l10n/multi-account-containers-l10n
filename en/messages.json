@@ -117,6 +117,12 @@
   "showThisContainer": {
     "message": "Show This Container"
   },
+  "sortTabs":{
+    "message" : "sort tabs"
+  },
+  "sortTabsConfirmation": {
+    "message": "Are you sure you want to sort all tabs?"
+  },
   "removeThisContainer": {
     "message": "Remove This Container"
   },
