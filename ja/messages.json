@@ -69,6 +69,15 @@
   "onboarding-5-description": {
     "message": "新しいタブボタンを長押しすると、新しいコンテナータブを作成できます。"
   },
+  "onboarding-6-header": {
+    "message": "コンテナーの同期が利用可能になりました！"
+  },
+  "onboarding-6-description-2": {
+    "message": "同期を有効にすると、コンテナーとサイトの割り当てをアカウントに接続したすべてのコンピューターで共有できます。"
+  },
+  "onboarding-7-header-2": {
+    "message": "同期にはアカウントが必要です"
+  },
   "rate": {
     "message": "評価"
   },
