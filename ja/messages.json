@@ -39,6 +39,15 @@
   "moveTabsToANewWindow": {
     "message": "タブを新しいウィンドウへ移動"
   },
+  "onboarding-1-header": {
+    "message": "さまざまなオンラインの行動を管理する最適な方法"
+  },
+  "onboarding-1-description": {
+    "message": "Containers を使用するとタスクを整理し、アカウントを管理し、必要なところに集中できます。"
+  },
+  "onboarding-2-header": {
+    "message": "Containers を活用しましょう"
+  },
   "rate": {
     "message": "評価"
   },
