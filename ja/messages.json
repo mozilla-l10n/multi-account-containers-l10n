@@ -48,6 +48,27 @@
   "onboarding-2-header": {
     "message": "Containers を活用しましょう"
   },
+  "onboarding-2-description": {
+    "message": "色分けやコンテナータブによる分割などの機能で必要なものが見つけやすくなり、注意をそらすものを最小限に抑えられて集中できるようにします。"
+  },
+  "onboarding-3-header": {
+    "message": "すべてにあるべき場所があり、すべてがあるべき場所にある"
+  },
+  "onboarding-3-description": {
+    "message": "私たちが作成したコンテナーを使用するか、独自のコンテナーを作成してはじめます。"
+  },
+  "onboarding-4-header": {
+    "message": "希望のコンテナーで常にサイトを開きます"
+  },
+  "onboarding-4-description": {
+    "message": "コンテナータブで右クリックすると、サイトを常にそのサイトで開くように割り当てられます。"
+  },
+  "onboarding-5-header": {
+    "message": "コンテナータブが必要なときは"
+  },
+  "onboarding-5-description": {
+    "message": "新しいタブボタンを長押しすると、新しいコンテナータブを作成できます。"
+  },
   "rate": {
     "message": "評価"
   },
