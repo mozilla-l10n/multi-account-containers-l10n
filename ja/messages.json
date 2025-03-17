@@ -1,184 +1,187 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers を使用すると、オンラインライフのすべての部分を異なるタブに収めることができます。カスタムラベルと色分けされたタブは、さまざまなアクティビティ—オンラインショッピング、旅行計画、仕事用メールのチェックなど—を個別に管理するのに役立ちます。",
+    "message": "Multi-Account Containers \u3092\u4f7f\u7528\u3059\u308b\u3068\u3001\u30aa\u30f3\u30e9\u30a4\u30f3\u30e9\u30a4\u30d5\u306e\u3059\u3079\u3066\u306e\u90e8\u5206\u3092\u7570\u306a\u308b\u30bf\u30d6\u306b\u53ce\u3081\u308b\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002\u30ab\u30b9\u30bf\u30e0\u30e9\u30d9\u30eb\u3068\u8272\u5206\u3051\u3055\u308c\u305f\u30bf\u30d6\u306f\u3001\u3055\u307e\u3056\u307e\u306a\u30a2\u30af\u30c6\u30a3\u30d3\u30c6\u30a3\u2014\u30aa\u30f3\u30e9\u30a4\u30f3\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3001\u65c5\u884c\u8a08\u753b\u3001\u4ed5\u4e8b\u7528\u30e1\u30fc\u30eb\u306e\u30c1\u30a7\u30c3\u30af\u306a\u3069\u2014\u3092\u500b\u5225\u306b\u7ba1\u7406\u3059\u308b\u306e\u306b\u5f79\u7acb\u3061\u307e\u3059\u3002",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "新しいタブを開くコンテナー...",
+    "message": "\u65b0\u3057\u3044\u30bf\u30d6\u3092\u958b\u304f\u30b3\u30f3\u30c6\u30ca\u30fc...",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "このサイトを再開するコンテナー...",
+    "message": "\u3053\u306e\u30b5\u30a4\u30c8\u3092\u518d\u958b\u3059\u308b\u30b3\u30f3\u30c6\u30ca\u30fc...",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "コンテナーでタブを並べ替える",
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u30bf\u30d6\u3092\u4e26\u3079\u66ff\u3048\u308b",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "常にこのサイトを開くコンテナー...",
+    "message": "\u5e38\u306b\u3053\u306e\u30b5\u30a4\u30c8\u3092\u958b\u304f\u30b3\u30f3\u30c6\u30ca\u30fc...",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "常に開くコンテナー...",
+    "message": "\u5e38\u306b\u958b\u304f\u30b3\u30f3\u30c6\u30ca\u30fc...",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "常にコンテナーでサイトを開く"
+    "message": "\u5e38\u306b\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u30b5\u30a4\u30c8\u3092\u958b\u304f"
   },
   "openANewTabIn": {
-    "message": "新しいタブを開くコンテナー..."
+    "message": "\u65b0\u3057\u3044\u30bf\u30d6\u3092\u958b\u304f\u30b3\u30f3\u30c6\u30ca\u30fc..."
   },
   "openNewTabInThisContainer": {
-    "message": "このコンテナーで新しいタブを開く"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u65b0\u3057\u3044\u30bf\u30d6\u3092\u958b\u304f"
   },
   "openTabs": {
-    "message": "開いたタブ",
+    "message": "\u958b\u3044\u305f\u30bf\u30d6",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "タブを新しいウィンドウへ移動"
+    "message": "\u30bf\u30d6\u3092\u65b0\u3057\u3044\u30a6\u30a3\u30f3\u30c9\u30a6\u3078\u79fb\u52d5"
   },
   "onboarding-1-header": {
-    "message": "さまざまなオンラインの行動を管理する最適な方法"
+    "message": "\u3055\u307e\u3056\u307e\u306a\u30aa\u30f3\u30e9\u30a4\u30f3\u306e\u884c\u52d5\u3092\u7ba1\u7406\u3059\u308b\u6700\u9069\u306a\u65b9\u6cd5"
   },
   "onboarding-1-description": {
-    "message": "Containers を使用するとタスクを整理し、アカウントを管理し、必要なところに集中できます。"
+    "message": "Containers \u3092\u4f7f\u7528\u3059\u308b\u3068\u30bf\u30b9\u30af\u3092\u6574\u7406\u3057\u3001\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u7ba1\u7406\u3057\u3001\u5fc5\u8981\u306a\u3068\u3053\u308d\u306b\u96c6\u4e2d\u3067\u304d\u307e\u3059\u3002"
   },
   "onboarding-2-header": {
-    "message": "Containers を活用しましょう"
+    "message": "Containers \u3092\u6d3b\u7528\u3057\u307e\u3057\u3087\u3046"
   },
   "onboarding-2-description": {
-    "message": "色分けやコンテナータブによる分割などの機能で必要なものが見つけやすくなり、注意をそらすものを最小限に抑えられて集中できるようにします。"
+    "message": "\u8272\u5206\u3051\u3084\u30b3\u30f3\u30c6\u30ca\u30fc\u30bf\u30d6\u306b\u3088\u308b\u5206\u5272\u306a\u3069\u306e\u6a5f\u80fd\u3067\u5fc5\u8981\u306a\u3082\u306e\u304c\u898b\u3064\u3051\u3084\u3059\u304f\u306a\u308a\u3001\u6ce8\u610f\u3092\u305d\u3089\u3059\u3082\u306e\u3092\u6700\u5c0f\u9650\u306b\u6291\u3048\u3089\u308c\u3066\u96c6\u4e2d\u3067\u304d\u308b\u3088\u3046\u306b\u3057\u307e\u3059\u3002"
   },
   "onboarding-3-header": {
-    "message": "すべてにあるべき場所があり、すべてがあるべき場所にある"
+    "message": "\u3059\u3079\u3066\u306b\u3042\u308b\u3079\u304d\u5834\u6240\u304c\u3042\u308a\u3001\u3059\u3079\u3066\u304c\u3042\u308b\u3079\u304d\u5834\u6240\u306b\u3042\u308b"
   },
   "onboarding-3-description": {
-    "message": "私たちが作成したコンテナーを使用するか、独自のコンテナーを作成してはじめます。"
+    "message": "\u79c1\u305f\u3061\u304c\u4f5c\u6210\u3057\u305f\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u4f7f\u7528\u3059\u308b\u304b\u3001\u72ec\u81ea\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u4f5c\u6210\u3057\u3066\u306f\u3058\u3081\u307e\u3059\u3002"
   },
   "onboarding-4-header": {
-    "message": "希望のコンテナーで常にサイトを開きます"
+    "message": "\u5e0c\u671b\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u5e38\u306b\u30b5\u30a4\u30c8\u3092\u958b\u304d\u307e\u3059"
   },
   "onboarding-4-description": {
-    "message": "コンテナータブで右クリックすると、サイトを常にそのサイトで開くように割り当てられます。"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u30bf\u30d6\u3067\u53f3\u30af\u30ea\u30c3\u30af\u3059\u308b\u3068\u3001\u30b5\u30a4\u30c8\u3092\u5e38\u306b\u305d\u306e\u30b5\u30a4\u30c8\u3067\u958b\u304f\u3088\u3046\u306b\u5272\u308a\u5f53\u3066\u3089\u308c\u307e\u3059\u3002"
   },
   "onboarding-5-header": {
-    "message": "コンテナータブが必要なときは"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u30bf\u30d6\u304c\u5fc5\u8981\u306a\u3068\u304d\u306f"
   },
   "onboarding-5-description": {
-    "message": "新しいタブボタンを長押しすると、新しいコンテナータブを作成できます。"
+    "message": "\u65b0\u3057\u3044\u30bf\u30d6\u30dc\u30bf\u30f3\u3092\u9577\u62bc\u3057\u3059\u308b\u3068\u3001\u65b0\u3057\u3044\u30b3\u30f3\u30c6\u30ca\u30fc\u30bf\u30d6\u3092\u4f5c\u6210\u3067\u304d\u307e\u3059\u3002"
   },
   "onboarding-6-header": {
-    "message": "コンテナーの同期が利用可能になりました！"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u306e\u540c\u671f\u304c\u5229\u7528\u53ef\u80fd\u306b\u306a\u308a\u307e\u3057\u305f\uff01"
   },
   "onboarding-6-description-2": {
-    "message": "同期を有効にすると、コンテナーとサイトの割り当てをアカウントに接続したすべてのコンピューターで共有できます。"
+    "message": "\u540c\u671f\u3092\u6709\u52b9\u306b\u3059\u308b\u3068\u3001\u30b3\u30f3\u30c6\u30ca\u30fc\u3068\u30b5\u30a4\u30c8\u306e\u5272\u308a\u5f53\u3066\u3092\u30a2\u30ab\u30a6\u30f3\u30c8\u306b\u63a5\u7d9a\u3057\u305f\u3059\u3079\u3066\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3067\u5171\u6709\u3067\u304d\u307e\u3059\u3002"
   },
   "onboarding-7-header-2": {
-    "message": "同期にはアカウントが必要です"
+    "message": "\u540c\u671f\u306b\u306f\u30a2\u30ab\u30a6\u30f3\u30c8\u304c\u5fc5\u8981\u3067\u3059"
   },
   "rate": {
-    "message": "評価"
+    "message": "\u8a55\u4fa1"
   },
   "share": {
-    "message": "共有"
+    "message": "\u5171\u6709"
   },
   "tweet": {
-    "message": "ツイート"
+    "message": "\u30c4\u30a4\u30fc\u30c8"
   },
   "default": {
-    "message": "既定"
+    "message": "\u65e2\u5b9a"
   },
   "manageContainers": {
-    "message": "コンテナーを管理"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u7ba1\u7406"
   },
   "newContainer": {
-    "message": "新しいコンテナー"
+    "message": "\u65b0\u3057\u3044\u30b3\u30f3\u30c6\u30ca\u30fc"
   },
   "hideThisContainer": {
-    "message": "このコンテナーを隠す"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u96a0\u3059"
   },
   "showThisContainer": {
-    "message": "このコンテナーを表示する"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u8868\u793a\u3059\u308b"
   },
   "removeThisContainer": {
-    "message": "このコンテナーを削除"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u524a\u9664"
   },
   "removeThisContainerConfirmation": {
-    "message": "このコンテナーを削除してもよろしいですか？"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u524a\u9664\u3057\u3066\u3082\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f"
   },
   "cancel": {
-    "message": "キャンセル"
+    "message": "\u30ad\u30e3\u30f3\u30bb\u30eb"
   },
   "ok": {
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "このコンテナーに割り当てられたサイト"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u306b\u5272\u308a\u5f53\u3066\u3089\u308c\u305f\u30b5\u30a4\u30c8"
   },
   "options": {
-    "message": "オプション"
+    "message": "\u30aa\u30d7\u30b7\u30e7\u30f3"
   },
   "name": {
-    "message": "コンテナー名"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u540d"
   },
   "color": {
-    "message": "色"
+    "message": "\u8272"
   },
   "icon": {
-    "message": "アイコン"
+    "message": "\u30a2\u30a4\u30b3\u30f3"
   },
   "limitToDesignatedSites": {
-    "message": "指定されたサイトに限定"
+    "message": "\u6307\u5b9a\u3055\u308c\u305f\u30b5\u30a4\u30c8\u306b\u9650\u5b9a"
   },
   "deleteThisContainer": {
-    "message": "このコンテナーを削除"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u524a\u9664"
   },
   "manageSiteList": {
-    "message": "サイトのリストを管理..."
+    "message": "\u30b5\u30a4\u30c8\u306e\u30ea\u30b9\u30c8\u3092\u7ba1\u7406..."
   },
   "manageThisContainer": {
-    "message": "このコンテナーを管理"
+    "message": "\u3053\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3092\u7ba1\u7406"
   },
   "containers": {
-    "message": "コンテナー"
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc"
   },
   "done": {
-    "message": "完了"
+    "message": "\u5b8c\u4e86"
   },
   "getStarted": {
-    "message": "はじめに"
+    "message": "\u306f\u3058\u3081\u306b"
   },
   "signIn": {
-    "message": "ログイン"
+    "message": "\u30ed\u30b0\u30a4\u30f3"
   },
   "notNow": {
-    "message": "後で"
+    "message": "\u5f8c\u3067"
   },
   "startSyncing": {
-    "message": "同期を開始"
+    "message": "\u540c\u671f\u3092\u958b\u59cb"
   },
   "info": {
-    "message": "情報",
+    "message": "\u60c5\u5831",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "次へ"
+    "message": "\u6b21\u3078"
   },
   "openThisSiteConfirmation": {
-    "message": "このサイトを割り当てられたコンテナーで開きますか？"
+    "message": "\u3053\u306e\u30b5\u30a4\u30c8\u3092\u5272\u308a\u5f53\u3066\u3089\u308c\u305f\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u958b\u304d\u307e\u3059\u304b\uff1f"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "この現在のコンテナーで開きますか？"
+    "message": "\u3053\u306e\u73fe\u5728\u306e\u30b3\u30f3\u30c6\u30ca\u30fc\u3067\u958b\u304d\u307e\u3059\u304b\uff1f"
   },
   "rememberMyDecision": {
-    "message": "このサイトでは今後も同様に処理する"
+    "message": "\u3053\u306e\u30b5\u30a4\u30c8\u3067\u306f\u4eca\u5f8c\u3082\u540c\u69d8\u306b\u51e6\u7406\u3059\u308b"
   },
   "optionalPermissions": {
-    "message": "任意の許可設定:"
+    "message": "\u4efb\u610f\u306e\u8a31\u53ef\u8a2d\u5b9a:"
   },
   "keyboardShortCuts": {
-    "message": "キーボードショートカット:"
+    "message": "\u30ad\u30fc\u30dc\u30fc\u30c9\u30b7\u30e7\u30fc\u30c8\u30ab\u30c3\u30c8:"
+  },
+  "filterInputPlaceholder": {
+    "message": "\u30b3\u30f3\u30c6\u30ca\u30fc\u540d\u3092\u691c\u7d22"
   }
 }
