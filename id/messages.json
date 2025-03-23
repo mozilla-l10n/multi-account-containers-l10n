@@ -72,6 +72,9 @@
   "onboarding-6-header": {
     "message": "Sinkronisasi Kontainer kini Tersedia!"
   },
+  "onboarding-6-description-2": {
+    "message": "Aktifkan sinkronisasi untuk membagikan tugas Kontainer dan penetapan situs ke komputer mana pun yang terhubung ke akun Anda."
+  },
   "onboarding-7-header-2": {
     "message": "Akun diperlukan untuk menyinkronkan."
   },
