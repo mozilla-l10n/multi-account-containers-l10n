@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
+    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas \u2014 seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor \u2014 terpisah.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Buka Tab Baru di…",
+    "message": "Buka Tab Baru di\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Buka Lagi Situs Ini di…",
+    "message": "Buka Lagi Situs Ini di\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Selalu Buka Situs Ini di…",
+    "message": "Selalu Buka Situs Ini di\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Selalu buka di…",
+    "message": "Selalu buka di\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Selalu Buka Situs dalam Kontainer"
   },
   "openANewTabIn": {
-    "message": "Buka Tab Baru di…"
+    "message": "Buka Tab Baru di\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Buka Tab Baru di Kontainer ini"
@@ -72,14 +72,11 @@
   "onboarding-6-header": {
     "message": "Sinkronisasi Kontainer kini Tersedia!"
   },
-  "onboarding-6-description": {
-    "message": "Aktifkan sinkronisasi untuk berbagi Kontainer dan penugasan situs dengan komputer mana pun yang terhubung ke akun Firefox Anda."
+  "onboarding-7-header-2": {
+    "message": "Akun diperlukan untuk menyinkronkan."
   },
-  "onboarding-7-header": {
-    "message": "Akun Firefox diperlukan untuk sinkronisasi."
-  },
-  "onboarding-7-description": {
-    "message": "Klik Masuk untuk mengkonfirmasi bahwa akun Firefox Anda aktif."
+  "onboarding-7-description-2": {
+    "message": "Klik Masuk untuk mengonfirmasi bahwa akun Anda aktif."
   },
   "onboarding-8-description": {
     "message": "Sekarang Kontainer dapat berintegrasi dengan Mozilla VPN atau proksi Anda sendiri untuk membuat koneksi pribadi yang aman dan melindungi aktivitas Anda."
@@ -123,6 +120,12 @@
   "removeThisContainerConfirmation": {
     "message": "Yakin akan menghapus Kontainer ini?"
   },
+  "clearContainerStoragePanelTitle": {
+    "message": "Bersihkan Penyimpanan Kontainer"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Yakin ingin menghapus kuki dan penyimpanan untuk Kontainer ini?"
+  },
   "cancel": {
     "message": "Batal"
   },
@@ -151,7 +154,7 @@
     "message": "Hapus Kontainer Ini"
   },
   "manageSiteList": {
-    "message": "Kelola Daftar Situs…"
+    "message": "Kelola Daftar Situs\u2026"
   },
   "manageThisContainer": {
     "message": "Kelola Kontainer"
@@ -211,8 +214,8 @@
   "enableBookMarkMenus": {
     "message": "Aktifkan Menu Markah"
   },
-  "firefoxAccountsSync": {
-    "message": "Sinkronisasi akun Firefox:"
+  "sync": {
+    "message": "Sinkronisasi:"
   },
   "enableSync": {
     "message": "Aktifkan sinkronisasi"
@@ -242,36 +245,21 @@
     "message": "Ubah Kontainer mana yang dibuka saat menggunakan pintasan bernomor."
   },
   "keyboardShortCut": {
-    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$",
-    "placeholders": {
-      "keyId": {
-        "content": "$1"
-      }
-    }
+    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$"
   },
   "confirmNavigationTitle": {
     "message": "Navigasi Konfirmasi Multi-Account Containers",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Buka dalam $containerName$ container",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
+    "message": "Buka dalam $containerName$ container"
   },
   "openInNoContainer": {
     "message": "Buka di tab saat ini",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
+    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:"
   },
   "chooseLocation": {
     "message": "Pilih lokasi",
@@ -391,5 +379,48 @@
   },
   "filterInputPlaceholder": {
     "message": "Cari nama kontainer"
+  },
+  "imageAltContainerInfo": {
+    "message": "Info kontainer",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Kontainer Baku",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Buka panel kontainer",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Pintasan kontainer $KeyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10."
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Buka Markah di Tab Kontainer"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Bersihkan kuki untuk situs ini",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Hapus situs ini",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Bersihkan penyimpanan dan kuki",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Kuki untuk $siteName$ berhasil dibersihkan",
+    "description": "Label to confirm that cookies were cleared in the site manager"
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Kuki tidak dapat dibersihkan untuk $siteName$",
+    "description": "Error message that shows if cookies could not be cleared in the site manager"
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Penyimpanan dan kuki $containerName$ telah dibersihkan.",
+    "description": "The confirmation label that a containers storage was cleared successfully."
   }
 }
