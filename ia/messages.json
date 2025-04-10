@@ -4,11 +4,11 @@
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Aperir un nove scheda in…",
+    "message": "Aperir un nove scheda in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Reaperir iste sito in…",
+    "message": "Reaperir iste sito in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Sempre aperir iste sito in…",
+    "message": "Sempre aperir iste sito in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Sempre aperir in…",
+    "message": "Sempre aperir in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Sempre aperir sito in contentor"
   },
   "openANewTabIn": {
-    "message": "Aperir un nove scheda in…"
+    "message": "Aperir un nove scheda in\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Aperir nove scheda in iste contentor"
@@ -157,7 +157,7 @@
     "message": "Deler iste contentor"
   },
   "manageSiteList": {
-    "message": "Gerer lista de sitos…"
+    "message": "Gerer lista de sitos\u2026"
   },
   "manageThisContainer": {
     "message": "Gerer iste contentor"

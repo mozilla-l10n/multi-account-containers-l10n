@@ -248,21 +248,36 @@
     "message": "Ubah Kontainer mana yang dibuka saat menggunakan pintasan bernomor."
   },
   "keyboardShortCut": {
-    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$"
+    "message": "Kontainer untuk dibuka dengan Pintasan Papan Ketik $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "confirmNavigationTitle": {
     "message": "Navigasi Konfirmasi Multi-Account Containers",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Buka dalam $containerName$ container"
+    "message": "Buka dalam $containerName$ container",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "openInNoContainer": {
     "message": "Buka di tab saat ini",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:"
+    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "Pilih lokasi",
@@ -397,7 +412,12 @@
   },
   "containerShortcut": {
     "message": "Pintasan kontainer $KeyId$",
-    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10."
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "KeyId": {
+        "content": "$1"
+      }
+    }
   },
   "openBookmarkInContainerTab": {
     "message": "Buka Markah di Tab Kontainer"
@@ -416,14 +436,29 @@
   },
   "cookiesClearedSuccess": {
     "message": "Kuki untuk $siteName$ berhasil dibersihkan",
-    "description": "Label to confirm that cookies were cleared in the site manager"
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   },
   "cookiesCouldNotBeCleared": {
     "message": "Kuki tidak dapat dibersihkan untuk $siteName$",
-    "description": "Error message that shows if cookies could not be cleared in the site manager"
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   },
   "storageWasClearedConfirmation": {
     "message": "Penyimpanan dan kuki $containerName$ telah dibersihkan.",
-    "description": "The confirmation label that a containers storage was cleared successfully."
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "openInNewTabTitle": {
-    "message": "Ireki fitxa berria hemen…",
+    "message": "Ireki fitxa berria hemen\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Ireki berriro gune hau hemen…",
+    "message": "Ireki berriro gune hau hemen\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -12,18 +12,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Ireki beti gune hau hemen…",
+    "message": "Ireki beti gune hau hemen\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Ireki beti hemen…",
+    "message": "Ireki beti hemen\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Ireki beti gunea edukiontzi batean"
   },
   "openANewTabIn": {
-    "message": "Ireki fitxa berria hemen…"
+    "message": "Ireki fitxa berria hemen\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Ireki fitxa berria edukiontzi honetan"
@@ -108,7 +108,7 @@
     "message": "Ezabatu edukiontzi hau"
   },
   "manageSiteList": {
-    "message": "Kudeatu guneen zerrenda…"
+    "message": "Kudeatu guneen zerrenda\u2026"
   },
   "manageThisContainer": {
     "message": "Kudeatu edukiontzi hau"

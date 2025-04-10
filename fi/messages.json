@@ -1,55 +1,55 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värein merkityt välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
+    "message": "Multi-Account Containers -eristystilat auttavat sinua pit\u00e4m\u00e4\u00e4n verkossa tekem\u00e4si asiat toisistaan erill\u00e4\u00e4n eri v\u00e4lilehdiss\u00e4. Mukautetut nimikkeet ja v\u00e4rein merkityt v\u00e4lilehdet mahdollistavat erilaisten toimien \u2014 kuten verkko-ostosten, lomasuunnitelmien ja ty\u00f6s\u00e4hk\u00f6postin \u2014 eriytt\u00e4misen.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Avaa uusi välilehti eristystilassa…",
+    "message": "Avaa uusi v\u00e4lilehti eristystilassa\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Avaa tämä sivusto uudelleen eristystilassa…",
+    "message": "Avaa t\u00e4m\u00e4 sivusto uudelleen eristystilassa\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Lajittele välilehdet eristystilan mukaan",
+    "message": "Lajittele v\u00e4lilehdet eristystilan mukaan",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Avaa tämä sivusto aina eristystilassa…",
+    "message": "Avaa t\u00e4m\u00e4 sivusto aina eristystilassa\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Avaa aina eristystilassa…",
+    "message": "Avaa aina eristystilassa\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Avaa sivusto aina eristystilassa"
   },
   "openANewTabIn": {
-    "message": "Avaa uusi välilehti eristystilassa…"
+    "message": "Avaa uusi v\u00e4lilehti eristystilassa\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Avaa uusi välilehti tässä eristystilassa"
+    "message": "Avaa uusi v\u00e4lilehti t\u00e4ss\u00e4 eristystilassa"
   },
   "openTabs": {
-    "message": "Avoimet välilehdet",
+    "message": "Avoimet v\u00e4lilehdet",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Siirrä välilehdet uuteen ikkunaan"
+    "message": "Siirr\u00e4 v\u00e4lilehdet uuteen ikkunaan"
   },
   "onboarding-1-header": {
-    "message": "Parempi tapa hallita kaikkia verkossa tekemiäsi asioita"
+    "message": "Parempi tapa hallita kaikkia verkossa tekemi\u00e4si asioita"
   },
   "onboarding-1-description": {
-    "message": "Käytä eristystiloja tehtävien järjestämiseen, tilien hallintaan ja keskittyäksesi mihin haluat."
+    "message": "K\u00e4yt\u00e4 eristystiloja teht\u00e4vien j\u00e4rjest\u00e4miseen, tilien hallintaan ja keskitty\u00e4ksesi mihin haluat."
   },
   "onboarding-2-header": {
     "message": "Aseta eristystilat soveltumaan tarpeisiisi."
   },
   "onboarding-2-description": {
-    "message": "Ominaisuudet, kuten värikoodaus ja erilliset eristystilassa olevat välilehdet, auttavat sinua löytämään asioita aiempaa helpommin, keskittämään huomiosi ja vähentämään häiriötekijät."
+    "message": "Ominaisuudet, kuten v\u00e4rikoodaus ja erilliset eristystilassa olevat v\u00e4lilehdet, auttavat sinua l\u00f6yt\u00e4m\u00e4\u00e4n asioita aiempaa helpommin, keskitt\u00e4m\u00e4\u00e4n huomiosi ja v\u00e4hent\u00e4m\u00e4\u00e4n h\u00e4iri\u00f6tekij\u00e4t."
   },
   "onboarding-3-header": {
     "message": "Paikka kaikelle ja kaikki paikallaan."
@@ -61,37 +61,37 @@
     "message": "Avaa aina haluamasi sivustot haluamissasi eristystiloissa."
   },
   "onboarding-4-description": {
-    "message": "Napsauta hiiren kakkospainikkeella eristystilassa olevaa välilehteä määrittääksesi sivuston aina avattavaksi eristystilassa."
+    "message": "Napsauta hiiren kakkospainikkeella eristystilassa olevaa v\u00e4lilehte\u00e4 m\u00e4\u00e4ritt\u00e4\u00e4ksesi sivuston aina avattavaksi eristystilassa."
   },
   "onboarding-5-header": {
-    "message": "Eristetyt välilehdet kun niitä tarvitset."
+    "message": "Eristetyt v\u00e4lilehdet kun niit\u00e4 tarvitset."
   },
   "onboarding-5-description": {
-    "message": "Paina pitkään Uusi välilehti -painiketta luodaksesi uuden eristystilassa olevan välilehden."
+    "message": "Paina pitk\u00e4\u00e4n Uusi v\u00e4lilehti -painiketta luodaksesi uuden eristystilassa olevan v\u00e4lilehden."
   },
   "onboarding-6-header": {
     "message": "Eristystilojen synkronointi on nyt saatavilla!"
   },
   "onboarding-6-description-2": {
-    "message": "Ota synkronointi käyttöön, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustomääritykset minkä tahansa tiliisi yhdistetyn tietokoneen kanssa."
+    "message": "Ota synkronointi k\u00e4ytt\u00f6\u00f6n, jotta voit jakaa eristystilat ja eristystilakohtaiset sivustom\u00e4\u00e4ritykset mink\u00e4 tahansa tiliisi yhdistetyn tietokoneen kanssa."
   },
   "onboarding-7-header-2": {
     "message": "Synkronointiin tarvitaan tili."
   },
   "onboarding-7-description-2": {
-    "message": "Napsauta Kirjaudu sisään vahvistaaksesi, että tilisi on aktiivinen."
+    "message": "Napsauta Kirjaudu sis\u00e4\u00e4n vahvistaaksesi, ett\u00e4 tilisi on aktiivinen."
   },
   "onboarding-8-description": {
-    "message": "Eristystilat on nyt mahdollista integroida Mozilla VPN -palveluun tai omaan välityspalvelimeen, jotta voit luoda turvallisen ja yksityisen yhteyden toimintasi suojaamiseksi."
+    "message": "Eristystilat on nyt mahdollista integroida Mozilla VPN -palveluun tai omaan v\u00e4lityspalvelimeen, jotta voit luoda turvallisen ja yksityisen yhteyden toimintasi suojaamiseksi."
   },
   "oneHundredTabsHeader": {
-    "message": "100 välilehteä!"
+    "message": "100 v\u00e4lilehte\u00e4!"
   },
   "youHaveOpened": {
-    "message": "Olet avannut 100 eristystilassa olevaa välilehteä!"
+    "message": "Olet avannut 100 eristystilassa olevaa v\u00e4lilehte\u00e4!"
   },
   "spreadTheWord": {
-    "message": "Jos pidät eristystiloissa olevista välilehdistä, auta levittämään sanaa!"
+    "message": "Jos pid\u00e4t eristystiloissa olevista v\u00e4lilehdist\u00e4, auta levitt\u00e4m\u00e4\u00e4n sanaa!"
   },
   "rate": {
     "message": "Arvostele"
@@ -112,22 +112,22 @@
     "message": "Uusi eristystila"
   },
   "hideThisContainer": {
-    "message": "Piilota tämä eristystila"
+    "message": "Piilota t\u00e4m\u00e4 eristystila"
   },
   "showThisContainer": {
-    "message": "Näytä tämä eristystila"
+    "message": "N\u00e4yt\u00e4 t\u00e4m\u00e4 eristystila"
   },
   "removeThisContainer": {
-    "message": "Poista tämä eristystila"
+    "message": "Poista t\u00e4m\u00e4 eristystila"
   },
   "removeThisContainerConfirmation": {
-    "message": "Haluatko varmasti poistaa tämän eristystilan?"
+    "message": "Haluatko varmasti poistaa t\u00e4m\u00e4n eristystilan?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "Tyhjennä eristystilan tallennustila"
+    "message": "Tyhjenn\u00e4 eristystilan tallennustila"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Haluatko varmasti tyhjentää tämän eristystilan evästeet ja tallennustilan?"
+    "message": "Haluatko varmasti tyhjent\u00e4\u00e4 t\u00e4m\u00e4n eristystilan ev\u00e4steet ja tallennustilan?"
   },
   "cancel": {
     "message": "Peruuta"
@@ -136,7 +136,7 @@
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Tähän eristystilaan määritetyt sivustot"
+    "message": "T\u00e4h\u00e4n eristystilaan m\u00e4\u00e4ritetyt sivustot"
   },
   "options": {
     "message": "Valinnat"
@@ -145,22 +145,22 @@
     "message": "Nimi"
   },
   "color": {
-    "message": "Väri"
+    "message": "V\u00e4ri"
   },
   "icon": {
     "message": "Kuvake"
   },
   "limitToDesignatedSites": {
-    "message": "Rajoita määritettyihin sivustoihin"
+    "message": "Rajoita m\u00e4\u00e4ritettyihin sivustoihin"
   },
   "deleteThisContainer": {
-    "message": "Poista tämä eristystila"
+    "message": "Poista t\u00e4m\u00e4 eristystila"
   },
   "manageSiteList": {
-    "message": "Hallitse sivustoluetteloa…"
+    "message": "Hallitse sivustoluetteloa\u2026"
   },
   "manageThisContainer": {
-    "message": "Hallitse tätä eristystilaa"
+    "message": "Hallitse t\u00e4t\u00e4 eristystilaa"
   },
   "containers": {
     "message": "Eristystilat"
@@ -172,7 +172,7 @@
     "message": "Aloitetaan"
   },
   "signIn": {
-    "message": "Kirjaudu sisään"
+    "message": "Kirjaudu sis\u00e4\u00e4n"
   },
   "notNow": {
     "message": "Ei nyt"
@@ -188,19 +188,19 @@
     "message": "Seuraava"
   },
   "openThisSiteConfirmation": {
-    "message": "Avataanko tämä sivusto sille määritetyssä eristystilassa?"
+    "message": "Avataanko t\u00e4m\u00e4 sivusto sille m\u00e4\u00e4ritetyss\u00e4 eristystilassa?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Haluatko silti avata tässä nykyisessä eristystilassa?"
+    "message": "Haluatko silti avata t\u00e4ss\u00e4 nykyisess\u00e4 eristystilassa?"
   },
   "rememberMyDecision": {
-    "message": "Muista valinta tälle sivustolle"
+    "message": "Muista valinta t\u00e4lle sivustolle"
   },
   "optionalPermissions": {
     "message": "Valinnaiset oikeudet:"
   },
   "keyboardShortCuts": {
-    "message": "Pikanäppäimet:"
+    "message": "Pikan\u00e4pp\u00e4imet:"
   },
   "onboarding": {
     "message": "Perehdytys"
@@ -209,46 +209,46 @@
     "message": "Nollaa perehdytyspaneelit"
   },
   "onboardingToggle": {
-    "message": "Kytke päälle nähdäksesi perehdytyspaneelit uudelleen."
+    "message": "Kytke p\u00e4\u00e4lle n\u00e4hd\u00e4ksesi perehdytyspaneelit uudelleen."
   },
   "tabBehavior": {
-    "message": "Välilehden toiminta:"
+    "message": "V\u00e4lilehden toiminta:"
   },
   "enableBookMarkMenus": {
-    "message": "Ota kirjanmerkkivalikot käyttöön"
+    "message": "Ota kirjanmerkkivalikot k\u00e4ytt\u00f6\u00f6n"
   },
   "sync": {
     "message": "Synkronointi:"
   },
   "enableSync": {
-    "message": "Ota synkronointi käyttöön"
+    "message": "Ota synkronointi k\u00e4ytt\u00f6\u00f6n"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Tämän asetuksen avulla voit avata kirjanmerkin tai kirjanmerkkikansion eristystilassa."
+    "message": "T\u00e4m\u00e4n asetuksen avulla voit avata kirjanmerkin tai kirjanmerkkikansion eristystilassa."
   },
   "enableSyncDescription": {
-    "message": "Tämän asetuksen avulla voit synkronoida eristystilat ja sivustomääritykset eri laitteiden välillä."
+    "message": "T\u00e4m\u00e4n asetuksen avulla voit synkronoida eristystilat ja sivustom\u00e4\u00e4ritykset eri laitteiden v\u00e4lill\u00e4."
   },
   "syncExclude": {
     "message": "Eristystilan poissulkeminen"
   },
   "syncExcludePlaceholder": {
-    "message": "Lisää säännöllinen lauseke"
+    "message": "Lis\u00e4\u00e4 s\u00e4\u00e4nn\u00f6llinen lauseke"
   },
   "syncExcludeDescription": {
-    "message": "Sulje eristystilat pois synkronoinnista, kun niiden nimi vastaa määritettyä eroteltua säännöllistä lauseketta. Kirjainkoolla ei ole merkitystä."
+    "message": "Sulje eristystilat pois synkronoinnista, kun niiden nimi vastaa m\u00e4\u00e4ritetty\u00e4 eroteltua s\u00e4\u00e4nn\u00f6llist\u00e4 lauseketta. Kirjainkoolla ei ole merkityst\u00e4."
   },
   "replaceTab": {
-    "message": "Korvaa välilehti sen sijaan että luot uuden."
+    "message": "Korvaa v\u00e4lilehti sen sijaan ett\u00e4 luot uuden."
   },
   "replaceTabDescription": {
-    "message": "Korvaa nykyinen välilehti, jos avataan sivu, joka on määritetty toiseen eristystilaan (sen sijaan, että nykyinen välilehti pidettäisiin auki). Tämä ei vaikuta välilehtien avaamiseen hiiren keskipainikkeella."
+    "message": "Korvaa nykyinen v\u00e4lilehti, jos avataan sivu, joka on m\u00e4\u00e4ritetty toiseen eristystilaan (sen sijaan, ett\u00e4 nykyinen v\u00e4lilehti pidett\u00e4isiin auki). T\u00e4m\u00e4 ei vaikuta v\u00e4lilehtien avaamiseen hiiren keskipainikkeella."
   },
   "editWhichContainer": {
-    "message": "Muokkaa, mikä eristystila avataan, kun käytät numeroituja pikanäppäimiä."
+    "message": "Muokkaa, mik\u00e4 eristystila avataan, kun k\u00e4yt\u00e4t numeroituja pikan\u00e4pp\u00e4imi\u00e4."
   },
   "keyboardShortCut": {
-    "message": "Pikanäppäimellä $keyId$ avattava eristystila",
+    "message": "Pikan\u00e4pp\u00e4imell\u00e4 $keyId$ avattava eristystila",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Avaa nykyisessä välilehdessä",
+    "message": "Avaa nykyisess\u00e4 v\u00e4lilehdess\u00e4",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ tälle sivustolle:",
+    "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ t\u00e4lle sivustolle:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -287,49 +287,49 @@
     "message": "Piilota"
   },
   "show": {
-    "message": "Näytä"
+    "message": "N\u00e4yt\u00e4"
   },
   "protectYourContainers": {
-    "message": "Suojaa eristystilasi Mozilla VPN:llä"
+    "message": "Suojaa eristystilasi Mozilla VPN:ll\u00e4"
   },
   "protectThisContainer": {
-    "message": "Suojaa tämä eristystila Mozilla VPN:llä"
+    "message": "Suojaa t\u00e4m\u00e4 eristystila Mozilla VPN:ll\u00e4"
   },
   "advancedProxySettings": {
-    "message": "Välityspalvelimen lisäasetukset"
+    "message": "V\u00e4lityspalvelimen lis\u00e4asetukset"
   },
   "proxyInputLabel": {
-    "message": "Anna mukautettu välityspalvelin"
+    "message": "Anna mukautettu v\u00e4lityspalvelin"
   },
   "useCustomLocation": {
-    "message": "Käytä mukautettua sijaintia tälle eristystilalle"
+    "message": "K\u00e4yt\u00e4 mukautettua sijaintia t\u00e4lle eristystilalle"
   },
   "clearproxylabel": {
-    "message": "Tyhjennä välityspalvelin"
+    "message": "Tyhjenn\u00e4 v\u00e4lityspalvelin"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN on päällä"
+    "message": "Mozilla VPN on p\u00e4\u00e4ll\u00e4"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN on pois päältä"
+    "message": "Mozilla VPN on pois p\u00e4\u00e4lt\u00e4"
   },
   "invalidProxyAlert": {
-    "message": "Anna kelvollinen välityspalvelimen URL-osoite"
+    "message": "Anna kelvollinen v\u00e4lityspalvelimen URL-osoite"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN:n tulee olla päällä tämän ominaisuuden käyttämiseksi."
+    "message": "Mozilla VPN:n tulee olla p\u00e4\u00e4ll\u00e4 t\u00e4m\u00e4n ominaisuuden k\u00e4ytt\u00e4miseksi."
   },
   "learnMore": {
-    "message": "Lue lisää"
+    "message": "Lue lis\u00e4\u00e4"
   },
   "proxyNowAvailable": {
-    "message": "Nyt Mozilla VPN:llä ja edistyneillä välityspalvelinasetuksilla"
+    "message": "Nyt Mozilla VPN:ll\u00e4 ja edistyneill\u00e4 v\u00e4lityspalvelinasetuksilla"
   },
   "applyToContainer": {
     "message": "Toteuta eristystilaan"
   },
   "tooltipWarning": {
-    "message": "Tämä eristystila on määritetty käyttämään Mozilla VPN -välityspalvelinta, mutta Mozilla VPN ei ole päällä. Ota Mozilla VPN käyttöön käyttääksesi tätä eristystilaa."
+    "message": "T\u00e4m\u00e4 eristystila on m\u00e4\u00e4ritetty k\u00e4ytt\u00e4m\u00e4\u00e4n Mozilla VPN -v\u00e4lityspalvelinta, mutta Mozilla VPN ei ole p\u00e4\u00e4ll\u00e4. Ota Mozilla VPN k\u00e4ytt\u00f6\u00f6n k\u00e4ytt\u00e4\u00e4ksesi t\u00e4t\u00e4 eristystilaa."
   },
   "getMozillaVpn": {
     "message": "Hanki Mozilla VPN"
@@ -338,34 +338,34 @@
     "message": "Integroi eristystilasi Mozilla VPN:n kanssa"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN ja välityspalvelimen käyttöoikeudet",
+    "message": "Mozilla VPN ja v\u00e4lityspalvelimen k\u00e4ytt\u00f6oikeudet",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Salli laajennuksen vaihtaa viestejä muiden ohjelmien kuin Firefoxin kanssa",
+    "message": "Salli laajennuksen vaihtaa viestej\u00e4 muiden ohjelmien kuin Firefoxin kanssa",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Tämä asetus sallii laajennuksen vaihtaa viestejä Mozilla VPN -asiakkaan kanssa, ja se on välttämätön, jotta Mozilla VPN -integraatio-ominaisuudet toimivat.",
+    "message": "T\u00e4m\u00e4 asetus sallii laajennuksen vaihtaa viestej\u00e4 Mozilla VPN -asiakkaan kanssa, ja se on v\u00e4ltt\u00e4m\u00e4t\u00f6n, jotta Mozilla VPN -integraatio-ominaisuudet toimivat.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Salli laajennuksen hallita välityspalvelimen asetuksia",
+    "message": "Salli laajennuksen hallita v\u00e4lityspalvelimen asetuksia",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Tämän avulla voit käyttää välityspalvelimen lisäasetuksia ja ottaa käyttöön Mozilla VPN -integraatio-ominaisuudet.",
+    "message": "T\u00e4m\u00e4n avulla voit k\u00e4ytt\u00e4\u00e4 v\u00e4lityspalvelimen lis\u00e4asetuksia ja ottaa k\u00e4ytt\u00f6\u00f6n Mozilla VPN -integraatio-ominaisuudet.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Tämä ominaisuus vaatii käyttöoikeuden toimiakseen. Käyttöoikeuksia voi poistaa käytöstä milloin tahansa asetussivulla.",
+    "message": "T\u00e4m\u00e4 ominaisuus vaatii k\u00e4ytt\u00f6oikeuden toimiakseen. K\u00e4ytt\u00f6oikeuksia voi poistaa k\u00e4yt\u00f6st\u00e4 milloin tahansa asetussivulla.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Integrointi Mozilla VPN:n kanssa vaatii tilauksen ja lisäoikeudet toimiakseen."
+    "message": "Integrointi Mozilla VPN:n kanssa vaatii tilauksen ja lis\u00e4oikeudet toimiakseen."
   },
   "enable": {
-    "message": "Käytä",
+    "message": "K\u00e4yt\u00e4",
     "description": "Button title "
   },
   "integrateContainers": {
@@ -396,7 +396,7 @@
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Etsi eristystilan nimeä"
+    "message": "Etsi eristystilan nime\u00e4"
   },
   "imageAltContainerInfo": {
     "message": "Eristystilan tiedot",
@@ -411,7 +411,7 @@
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Eristystilan pikanäppäin $keyId$",
+    "message": "Eristystilan pikan\u00e4pp\u00e4in $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,10 +420,10 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Avaa kirjanmerkki eristettyyn välilehteen"
+    "message": "Avaa kirjanmerkki eristettyyn v\u00e4lilehteen"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Tyhjennä tämän sivuston evästeet",
+    "message": "Tyhjenn\u00e4 t\u00e4m\u00e4n sivuston ev\u00e4steet",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
@@ -431,11 +431,11 @@
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "Tyhjennä tallennustila ja evästeet",
+    "message": "Tyhjenn\u00e4 tallennustila ja ev\u00e4steet",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "Sivuston $siteName$ evästeiden poistaminen onnistui",
+    "message": "Sivuston $siteName$ ev\u00e4steiden poistaminen onnistui",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Sivuston $siteName$ evästeitä ei voitu poistaa",
+    "message": "Sivuston $siteName$ ev\u00e4steit\u00e4 ei voitu poistaa",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "Kontin $containerName$ tallennustila ja evästeet tyhjennettiin.",
+    "message": "Kontin $containerName$ tallennustila ja ev\u00e4steet tyhjennettiin.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

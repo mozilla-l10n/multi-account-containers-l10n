@@ -1,248 +1,248 @@
 {
   "extensionDescription": {
-    "message": "З дапамогай «Multi-Account Containers» вы можаце захоўваць усе аспекты сваёй працы ў Інтэрнэце ў асобных незалежных картках. Уласныя меткі і колер картак дапамагаюць падзяляць пакупкі ў Інтэрнэце, планаванне падарожжаў, праверку працоўнай электроннай пошты і іншую дзейнасць.",
+    "message": "\u0417 \u0434\u0430\u043f\u0430\u043c\u043e\u0433\u0430\u0439 \u00abMulti-Account Containers\u00bb \u0432\u044b \u043c\u043e\u0436\u0430\u0446\u0435 \u0437\u0430\u0445\u043e\u045e\u0432\u0430\u0446\u044c \u0443\u0441\u0435 \u0430\u0441\u043f\u0435\u043a\u0442\u044b \u0441\u0432\u0430\u0451\u0439 \u043f\u0440\u0430\u0446\u044b \u045e \u0406\u043d\u0442\u044d\u0440\u043d\u044d\u0446\u0435 \u045e \u0430\u0441\u043e\u0431\u043d\u044b\u0445 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u044b\u0445 \u043a\u0430\u0440\u0442\u043a\u0430\u0445. \u0423\u043b\u0430\u0441\u043d\u044b\u044f \u043c\u0435\u0442\u043a\u0456 \u0456 \u043a\u043e\u043b\u0435\u0440 \u043a\u0430\u0440\u0442\u0430\u043a \u0434\u0430\u043f\u0430\u043c\u0430\u0433\u0430\u044e\u0446\u044c \u043f\u0430\u0434\u0437\u044f\u043b\u044f\u0446\u044c \u043f\u0430\u043a\u0443\u043f\u043a\u0456 \u045e \u0406\u043d\u0442\u044d\u0440\u043d\u044d\u0446\u0435, \u043f\u043b\u0430\u043d\u0430\u0432\u0430\u043d\u043d\u0435 \u043f\u0430\u0434\u0430\u0440\u043e\u0436\u0436\u0430\u045e, \u043f\u0440\u0430\u0432\u0435\u0440\u043a\u0443 \u043f\u0440\u0430\u0446\u043e\u045e\u043d\u0430\u0439 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u0439 \u043f\u043e\u0448\u0442\u044b \u0456 \u0456\u043d\u0448\u0443\u044e \u0434\u0437\u0435\u0439\u043d\u0430\u0441\u0446\u044c.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Адкрыць новую картку ў…",
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u043d\u043e\u0432\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0443 \u045e\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Паўторна адкрыць гэты сайт у…",
+    "message": "\u041f\u0430\u045e\u0442\u043e\u0440\u043d\u0430 \u0430\u0434\u043a\u0440\u044b\u0446\u044c \u0433\u044d\u0442\u044b \u0441\u0430\u0439\u0442 \u0443\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Адсартаваць карткі па кантэйнерах",
+    "message": "\u0410\u0434\u0441\u0430\u0440\u0442\u0430\u0432\u0430\u0446\u044c \u043a\u0430\u0440\u0442\u043a\u0456 \u043f\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u0445",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Заўсёды адкрываць гэты сайт у…",
+    "message": "\u0417\u0430\u045e\u0441\u0451\u0434\u044b \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0446\u044c \u0433\u044d\u0442\u044b \u0441\u0430\u0439\u0442 \u0443\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Заўсёды адкрываць у…",
+    "message": "\u0417\u0430\u045e\u0441\u0451\u0434\u044b \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0446\u044c \u0443\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Заўсёды адкрываць сайт у кантэйнеры"
+    "message": "\u0417\u0430\u045e\u0441\u0451\u0434\u044b \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0446\u044c \u0441\u0430\u0439\u0442 \u0443 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b"
   },
   "openANewTabIn": {
-    "message": "Адкрыць новую картку ў…"
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u043d\u043e\u0432\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0443 \u045e\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Адкрыць новую картку ў гэтым кантэйнеры"
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u043d\u043e\u0432\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0443 \u045e \u0433\u044d\u0442\u044b\u043c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b"
   },
   "openTabs": {
-    "message": "Адкрытыя карткі",
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0442\u044b\u044f \u043a\u0430\u0440\u0442\u043a\u0456",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Перанесці картку ў новае акно"
+    "message": "\u041f\u0435\u0440\u0430\u043d\u0435\u0441\u0446\u0456 \u043a\u0430\u0440\u0442\u043a\u0443 \u045e \u043d\u043e\u0432\u0430\u0435 \u0430\u043a\u043d\u043e"
   },
   "onboarding-1-header": {
-    "message": "Лепшы спосаб кіраваць усім, што вы робіце ў Інтэрнэце"
+    "message": "\u041b\u0435\u043f\u0448\u044b \u0441\u043f\u043e\u0441\u0430\u0431 \u043a\u0456\u0440\u0430\u0432\u0430\u0446\u044c \u0443\u0441\u0456\u043c, \u0448\u0442\u043e \u0432\u044b \u0440\u043e\u0431\u0456\u0446\u0435 \u045e \u0406\u043d\u0442\u044d\u0440\u043d\u044d\u0446\u0435"
   },
   "onboarding-1-description": {
-    "message": "Выкарыстоўвайце кантэйнеры для арганізацыі задач, кіравання ўліковымі запісамі, а таксама для засяроджвання ўвагі на важных рэчах."
+    "message": "\u0412\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u043e\u045e\u0432\u0430\u0439\u0446\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0434\u043b\u044f \u0430\u0440\u0433\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u0456 \u0437\u0430\u0434\u0430\u0447, \u043a\u0456\u0440\u0430\u0432\u0430\u043d\u043d\u044f \u045e\u043b\u0456\u043a\u043e\u0432\u044b\u043c\u0456 \u0437\u0430\u043f\u0456\u0441\u0430\u043c\u0456, \u0430 \u0442\u0430\u043a\u0441\u0430\u043c\u0430 \u0434\u043b\u044f \u0437\u0430\u0441\u044f\u0440\u043e\u0434\u0436\u0432\u0430\u043d\u043d\u044f \u045e\u0432\u0430\u0433\u0456 \u043d\u0430 \u0432\u0430\u0436\u043d\u044b\u0445 \u0440\u044d\u0447\u0430\u0445."
   },
   "onboarding-2-header": {
-    "message": "Няхай кантэйнеры працуюць на вас."
+    "message": "\u041d\u044f\u0445\u0430\u0439 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u043f\u0440\u0430\u0446\u0443\u044e\u0446\u044c \u043d\u0430 \u0432\u0430\u0441."
   },
   "onboarding-2-description": {
-    "message": "Такія функцыі, як каляровая маркіроўка і асобныя кантэйнеры для картак, дапамогуць лёгка знаходзіць неабходнае і канцэнтраваць увагу, зводзячы да мінімуму адцягненне ўвагі."
+    "message": "\u0422\u0430\u043a\u0456\u044f \u0444\u0443\u043d\u043a\u0446\u044b\u0456, \u044f\u043a \u043a\u0430\u043b\u044f\u0440\u043e\u0432\u0430\u044f \u043c\u0430\u0440\u043a\u0456\u0440\u043e\u045e\u043a\u0430 \u0456 \u0430\u0441\u043e\u0431\u043d\u044b\u044f \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0434\u043b\u044f \u043a\u0430\u0440\u0442\u0430\u043a, \u0434\u0430\u043f\u0430\u043c\u043e\u0433\u0443\u0446\u044c \u043b\u0451\u0433\u043a\u0430 \u0437\u043d\u0430\u0445\u043e\u0434\u0437\u0456\u0446\u044c \u043d\u0435\u0430\u0431\u0445\u043e\u0434\u043d\u0430\u0435 \u0456 \u043a\u0430\u043d\u0446\u044d\u043d\u0442\u0440\u0430\u0432\u0430\u0446\u044c \u0443\u0432\u0430\u0433\u0443, \u0437\u0432\u043e\u0434\u0437\u044f\u0447\u044b \u0434\u0430 \u043c\u0456\u043d\u0456\u043c\u0443\u043c\u0443 \u0430\u0434\u0446\u044f\u0433\u043d\u0435\u043d\u043d\u0435 \u045e\u0432\u0430\u0433\u0456."
   },
   "onboarding-3-header": {
-    "message": "Для ўсяго ёсць месца, і ўсё — на сваіх месцах."
+    "message": "\u0414\u043b\u044f \u045e\u0441\u044f\u0433\u043e \u0451\u0441\u0446\u044c \u043c\u0435\u0441\u0446\u0430, \u0456 \u045e\u0441\u0451 \u2014 \u043d\u0430 \u0441\u0432\u0430\u0456\u0445 \u043c\u0435\u0441\u0446\u0430\u0445."
   },
   "onboarding-3-description": {
-    "message": "Пачніце з існуючых кантэйнераў або стварыце ўласныя."
+    "message": "\u041f\u0430\u0447\u043d\u0456\u0446\u0435 \u0437 \u0456\u0441\u043d\u0443\u044e\u0447\u044b\u0445 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u045e \u0430\u0431\u043e \u0441\u0442\u0432\u0430\u0440\u044b\u0446\u0435 \u045e\u043b\u0430\u0441\u043d\u044b\u044f."
   },
   "onboarding-4-header": {
-    "message": "Заўсёды адкрывайце сайты ў патрэбных вам кантэйнерах."
+    "message": "\u0417\u0430\u045e\u0441\u0451\u0434\u044b \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0439\u0446\u0435 \u0441\u0430\u0439\u0442\u044b \u045e \u043f\u0430\u0442\u0440\u044d\u0431\u043d\u044b\u0445 \u0432\u0430\u043c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u0445."
   },
   "onboarding-4-description": {
-    "message": "Націсніце правай кнопкай мышы ўнутры карткі кантэйнера, каб прызначыць адкрыццё сайта заўсёды ў кантэйнеры."
+    "message": "\u041d\u0430\u0446\u0456\u0441\u043d\u0456\u0446\u0435 \u043f\u0440\u0430\u0432\u0430\u0439 \u043a\u043d\u043e\u043f\u043a\u0430\u0439 \u043c\u044b\u0448\u044b \u045e\u043d\u0443\u0442\u0440\u044b \u043a\u0430\u0440\u0442\u043a\u0456 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430, \u043a\u0430\u0431 \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u044b\u0446\u044c \u0430\u0434\u043a\u0440\u044b\u0446\u0446\u0451 \u0441\u0430\u0439\u0442\u0430 \u0437\u0430\u045e\u0441\u0451\u0434\u044b \u045e \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b."
   },
   "onboarding-5-header": {
-    "message": "Змяшчайце карткі ў кантэйнеры, калі вам гэта трэба."
+    "message": "\u0417\u043c\u044f\u0448\u0447\u0430\u0439\u0446\u0435 \u043a\u0430\u0440\u0442\u043a\u0456 \u045e \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b, \u043a\u0430\u043b\u0456 \u0432\u0430\u043c \u0433\u044d\u0442\u0430 \u0442\u0440\u044d\u0431\u0430."
   },
   "onboarding-5-description": {
-    "message": "Націсніце і ўтрымлівайце кнопку «Новая картка», каб адкрыць новую картку ў кантэйнеры."
+    "message": "\u041d\u0430\u0446\u0456\u0441\u043d\u0456\u0446\u0435 \u0456 \u045e\u0442\u0440\u044b\u043c\u043b\u0456\u0432\u0430\u0439\u0446\u0435 \u043a\u043d\u043e\u043f\u043a\u0443 \u00ab\u041d\u043e\u0432\u0430\u044f \u043a\u0430\u0440\u0442\u043a\u0430\u00bb, \u043a\u0430\u0431 \u0430\u0434\u043a\u0440\u044b\u0446\u044c \u043d\u043e\u0432\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0443 \u045e \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b."
   },
   "onboarding-6-header": {
-    "message": "Цяпер даступна сінхранізацыя кантэйнераў!"
+    "message": "\u0426\u044f\u043f\u0435\u0440 \u0434\u0430\u0441\u0442\u0443\u043f\u043d\u0430 \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u045e!"
   },
   "onboarding-6-description-2": {
-    "message": "Уключыце сінхранізацыю, каб дзяліцца кантэйнерамі і прызначэннямі сайта з любымі камп'ютарамі, падлучанымі да вашага ўліковага запісу."
+    "message": "\u0423\u043a\u043b\u044e\u0447\u044b\u0446\u0435 \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044e, \u043a\u0430\u0431 \u0434\u0437\u044f\u043b\u0456\u0446\u0446\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u043c\u0456 \u0456 \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u044d\u043d\u043d\u044f\u043c\u0456 \u0441\u0430\u0439\u0442\u0430 \u0437 \u043b\u044e\u0431\u044b\u043c\u0456 \u043a\u0430\u043c\u043f'\u044e\u0442\u0430\u0440\u0430\u043c\u0456, \u043f\u0430\u0434\u043b\u0443\u0447\u0430\u043d\u044b\u043c\u0456 \u0434\u0430 \u0432\u0430\u0448\u0430\u0433\u0430 \u045e\u043b\u0456\u043a\u043e\u0432\u0430\u0433\u0430 \u0437\u0430\u043f\u0456\u0441\u0443."
   },
   "onboarding-7-header-2": {
-    "message": "Для сінхранізацыі патрэбен уліковы запіс."
+    "message": "\u0414\u043b\u044f \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u0456 \u043f\u0430\u0442\u0440\u044d\u0431\u0435\u043d \u0443\u043b\u0456\u043a\u043e\u0432\u044b \u0437\u0430\u043f\u0456\u0441."
   },
   "onboarding-7-description-2": {
-    "message": "Націсніце «Увайсці», каб пацвердзіць, што ваш уліковы запіс актыўны."
+    "message": "\u041d\u0430\u0446\u0456\u0441\u043d\u0456\u0446\u0435 \u00ab\u0423\u0432\u0430\u0439\u0441\u0446\u0456\u00bb, \u043a\u0430\u0431 \u043f\u0430\u0446\u0432\u0435\u0440\u0434\u0437\u0456\u0446\u044c, \u0448\u0442\u043e \u0432\u0430\u0448 \u0443\u043b\u0456\u043a\u043e\u0432\u044b \u0437\u0430\u043f\u0456\u0441 \u0430\u043a\u0442\u044b\u045e\u043d\u044b."
   },
   "onboarding-8-description": {
-    "message": "Цяпер кантэйнеры могуць працаваць з Mozilla VPN або вашым уласным проксі для стварэння бяспечнага прыватнага злучэння, якое абараняе вашу актыўнасць у Інтэрнэце."
+    "message": "\u0426\u044f\u043f\u0435\u0440 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u043c\u043e\u0433\u0443\u0446\u044c \u043f\u0440\u0430\u0446\u0430\u0432\u0430\u0446\u044c \u0437 Mozilla VPN \u0430\u0431\u043e \u0432\u0430\u0448\u044b\u043c \u0443\u043b\u0430\u0441\u043d\u044b\u043c \u043f\u0440\u043e\u043a\u0441\u0456 \u0434\u043b\u044f \u0441\u0442\u0432\u0430\u0440\u044d\u043d\u043d\u044f \u0431\u044f\u0441\u043f\u0435\u0447\u043d\u0430\u0433\u0430 \u043f\u0440\u044b\u0432\u0430\u0442\u043d\u0430\u0433\u0430 \u0437\u043b\u0443\u0447\u044d\u043d\u043d\u044f, \u044f\u043a\u043e\u0435 \u0430\u0431\u0430\u0440\u0430\u043d\u044f\u0435 \u0432\u0430\u0448\u0443 \u0430\u043a\u0442\u044b\u045e\u043d\u0430\u0441\u0446\u044c \u0443 \u0406\u043d\u0442\u044d\u0440\u043d\u044d\u0446\u0435."
   },
   "oneHundredTabsHeader": {
-    "message": "100 картак!"
+    "message": "100 \u043a\u0430\u0440\u0442\u0430\u043a!"
   },
   "youHaveOpened": {
-    "message": "Вы адкрылі 100 картак у кантэйнерах."
+    "message": "\u0412\u044b \u0430\u0434\u043a\u0440\u044b\u043b\u0456 100 \u043a\u0430\u0440\u0442\u0430\u043a \u0443 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u0445."
   },
   "spreadTheWord": {
-    "message": "Калі вам падабаюцца кантэйнеры, дапамажыце нам расказаць пра іх іншым!"
+    "message": "\u041a\u0430\u043b\u0456 \u0432\u0430\u043c \u043f\u0430\u0434\u0430\u0431\u0430\u044e\u0446\u0446\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b, \u0434\u0430\u043f\u0430\u043c\u0430\u0436\u044b\u0446\u0435 \u043d\u0430\u043c \u0440\u0430\u0441\u043a\u0430\u0437\u0430\u0446\u044c \u043f\u0440\u0430 \u0456\u0445 \u0456\u043d\u0448\u044b\u043c!"
   },
   "rate": {
-    "message": "Ацаніць"
+    "message": "\u0410\u0446\u0430\u043d\u0456\u0446\u044c"
   },
   "share": {
-    "message": "Падзяліцца"
+    "message": "\u041f\u0430\u0434\u0437\u044f\u043b\u0456\u0446\u0446\u0430"
   },
   "tweet": {
-    "message": "Падзяліцца ў Twitter"
+    "message": "\u041f\u0430\u0434\u0437\u044f\u043b\u0456\u0446\u0446\u0430 \u045e Twitter"
   },
   "default": {
-    "message": "Прадвызначана"
+    "message": "\u041f\u0440\u0430\u0434\u0432\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u0430"
   },
   "manageContainers": {
-    "message": "Кіраваць кантэйнерамі"
+    "message": "\u041a\u0456\u0440\u0430\u0432\u0430\u0446\u044c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u043c\u0456"
   },
   "newContainer": {
-    "message": "Новы кантэйнер"
+    "message": "\u041d\u043e\u0432\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440"
   },
   "hideThisContainer": {
-    "message": "Схаваць гэты кантэйнер"
+    "message": "\u0421\u0445\u0430\u0432\u0430\u0446\u044c \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440"
   },
   "showThisContainer": {
-    "message": "Паказаць гэты кантэйнер"
+    "message": "\u041f\u0430\u043a\u0430\u0437\u0430\u0446\u044c \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440"
   },
   "removeThisContainer": {
-    "message": "Выдаліць гэты кантэйнер"
+    "message": "\u0412\u044b\u0434\u0430\u043b\u0456\u0446\u044c \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440"
   },
   "removeThisContainerConfirmation": {
-    "message": "Вы ўпэўнены, што хочаце выдаліць гэты кантэйнер?"
+    "message": "\u0412\u044b \u045e\u043f\u044d\u045e\u043d\u0435\u043d\u044b, \u0448\u0442\u043e \u0445\u043e\u0447\u0430\u0446\u0435 \u0432\u044b\u0434\u0430\u043b\u0456\u0446\u044c \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440?"
   },
   "cancel": {
-    "message": "Скасаваць"
+    "message": "\u0421\u043a\u0430\u0441\u0430\u0432\u0430\u0446\u044c"
   },
   "ok": {
-    "message": "Добра"
+    "message": "\u0414\u043e\u0431\u0440\u0430"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Сайты, прызначаныя гэтаму кантэйнеру"
+    "message": "\u0421\u0430\u0439\u0442\u044b, \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u044b\u044f \u0433\u044d\u0442\u0430\u043c\u0443 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0443"
   },
   "options": {
-    "message": "Налады"
+    "message": "\u041d\u0430\u043b\u0430\u0434\u044b"
   },
   "name": {
-    "message": "Назва"
+    "message": "\u041d\u0430\u0437\u0432\u0430"
   },
   "color": {
-    "message": "Колер"
+    "message": "\u041a\u043e\u043b\u0435\u0440"
   },
   "icon": {
-    "message": "Значок"
+    "message": "\u0417\u043d\u0430\u0447\u043e\u043a"
   },
   "limitToDesignatedSites": {
-    "message": "Абмежаванні для пэўных сайтаў"
+    "message": "\u0410\u0431\u043c\u0435\u0436\u0430\u0432\u0430\u043d\u043d\u0456 \u0434\u043b\u044f \u043f\u044d\u045e\u043d\u044b\u0445 \u0441\u0430\u0439\u0442\u0430\u045e"
   },
   "deleteThisContainer": {
-    "message": "Выдаліць гэты кантэйнер"
+    "message": "\u0412\u044b\u0434\u0430\u043b\u0456\u0446\u044c \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440"
   },
   "manageSiteList": {
-    "message": "Кіраваць спісам сайтаў…"
+    "message": "\u041a\u0456\u0440\u0430\u0432\u0430\u0446\u044c \u0441\u043f\u0456\u0441\u0430\u043c \u0441\u0430\u0439\u0442\u0430\u045e\u2026"
   },
   "manageThisContainer": {
-    "message": "Кіраваць гэтым кантэйнерам"
+    "message": "\u041a\u0456\u0440\u0430\u0432\u0430\u0446\u044c \u0433\u044d\u0442\u044b\u043c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u043c"
   },
   "containers": {
-    "message": "Кантэйнеры"
+    "message": "\u041a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b"
   },
   "done": {
-    "message": "Гатова"
+    "message": "\u0413\u0430\u0442\u043e\u0432\u0430"
   },
   "getStarted": {
-    "message": "Пачаць"
+    "message": "\u041f\u0430\u0447\u0430\u0446\u044c"
   },
   "signIn": {
-    "message": "Увайсці"
+    "message": "\u0423\u0432\u0430\u0439\u0441\u0446\u0456"
   },
   "notNow": {
-    "message": "Не зараз"
+    "message": "\u041d\u0435 \u0437\u0430\u0440\u0430\u0437"
   },
   "startSyncing": {
-    "message": "Пачаць сінхранізацыю"
+    "message": "\u041f\u0430\u0447\u0430\u0446\u044c \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044e"
   },
   "info": {
-    "message": "Інфармацыя",
+    "message": "\u0406\u043d\u0444\u0430\u0440\u043c\u0430\u0446\u044b\u044f",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Далей"
+    "message": "\u0414\u0430\u043b\u0435\u0439"
   },
   "openThisSiteConfirmation": {
-    "message": "Адкрыць гэты сайт у прызначаным кантэйнеры?"
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u0433\u044d\u0442\u044b \u0441\u0430\u0439\u0442 \u0443 \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u044b\u043c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Вы ўсё яшчэ хочаце адкрыць у бягучым кантэйнеры?"
+    "message": "\u0412\u044b \u045e\u0441\u0451 \u044f\u0448\u0447\u044d \u0445\u043e\u0447\u0430\u0446\u0435 \u0430\u0434\u043a\u0440\u044b\u0446\u044c \u0443 \u0431\u044f\u0433\u0443\u0447\u044b\u043c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b?"
   },
   "rememberMyDecision": {
-    "message": "Запомніць маё рашэнне для гэтага сайта"
+    "message": "\u0417\u0430\u043f\u043e\u043c\u043d\u0456\u0446\u044c \u043c\u0430\u0451 \u0440\u0430\u0448\u044d\u043d\u043d\u0435 \u0434\u043b\u044f \u0433\u044d\u0442\u0430\u0433\u0430 \u0441\u0430\u0439\u0442\u0430"
   },
   "optionalPermissions": {
-    "message": "Неабавязковыя дазволы:"
+    "message": "\u041d\u0435\u0430\u0431\u0430\u0432\u044f\u0437\u043a\u043e\u0432\u044b\u044f \u0434\u0430\u0437\u0432\u043e\u043b\u044b:"
   },
   "keyboardShortCuts": {
-    "message": "Спалучэнні клавіш:"
+    "message": "\u0421\u043f\u0430\u043b\u0443\u0447\u044d\u043d\u043d\u0456 \u043a\u043b\u0430\u0432\u0456\u0448:"
   },
   "onboarding": {
-    "message": "Пачатак работы"
+    "message": "\u041f\u0430\u0447\u0430\u0442\u0430\u043a \u0440\u0430\u0431\u043e\u0442\u044b"
   },
   "resetOnboardingPanels": {
-    "message": "Скінуць панэлі пачатку працы"
+    "message": "\u0421\u043a\u0456\u043d\u0443\u0446\u044c \u043f\u0430\u043d\u044d\u043b\u0456 \u043f\u0430\u0447\u0430\u0442\u043a\u0443 \u043f\u0440\u0430\u0446\u044b"
   },
   "onboardingToggle": {
-    "message": "Націсніце сюды, каб зноў убачыць панэлі пачатку працы."
+    "message": "\u041d\u0430\u0446\u0456\u0441\u043d\u0456\u0446\u0435 \u0441\u044e\u0434\u044b, \u043a\u0430\u0431 \u0437\u043d\u043e\u045e \u0443\u0431\u0430\u0447\u044b\u0446\u044c \u043f\u0430\u043d\u044d\u043b\u0456 \u043f\u0430\u0447\u0430\u0442\u043a\u0443 \u043f\u0440\u0430\u0446\u044b."
   },
   "tabBehavior": {
-    "message": "Паводзіны карткі:"
+    "message": "\u041f\u0430\u0432\u043e\u0434\u0437\u0456\u043d\u044b \u043a\u0430\u0440\u0442\u043a\u0456:"
   },
   "enableBookMarkMenus": {
-    "message": "Уключыць меню закладак"
+    "message": "\u0423\u043a\u043b\u044e\u0447\u044b\u0446\u044c \u043c\u0435\u043d\u044e \u0437\u0430\u043a\u043b\u0430\u0434\u0430\u043a"
   },
   "sync": {
-    "message": "Сінхранізацыя:"
+    "message": "\u0421\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044f:"
   },
   "enableSync": {
-    "message": "Уключыць сінхранізацыю"
+    "message": "\u0423\u043a\u043b\u044e\u0447\u044b\u0446\u044c \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u044e"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Гэта налада дазволіць вам адкрываць закладкі і папкі з імі ў кантэйнерах."
+    "message": "\u0413\u044d\u0442\u0430 \u043d\u0430\u043b\u0430\u0434\u0430 \u0434\u0430\u0437\u0432\u043e\u043b\u0456\u0446\u044c \u0432\u0430\u043c \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0446\u044c \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0456 \u0456 \u043f\u0430\u043f\u043a\u0456 \u0437 \u0456\u043c\u0456 \u045e \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u0445."
   },
   "enableSyncDescription": {
-    "message": "Гэта налада дазваляе сінхранізаваць кантэйнеры і прызначаныя сайты паміж прыладамі."
+    "message": "\u0413\u044d\u0442\u0430 \u043d\u0430\u043b\u0430\u0434\u0430 \u0434\u0430\u0437\u0432\u0430\u043b\u044f\u0435 \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0432\u0430\u0446\u044c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0456 \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u044b\u044f \u0441\u0430\u0439\u0442\u044b \u043f\u0430\u043c\u0456\u0436 \u043f\u0440\u044b\u043b\u0430\u0434\u0430\u043c\u0456."
   },
   "syncExclude": {
-    "message": "Выключэнне кантэйнера"
+    "message": "\u0412\u044b\u043a\u043b\u044e\u0447\u044d\u043d\u043d\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430"
   },
   "syncExcludePlaceholder": {
-    "message": "Устаўце рэгулярны выраз"
+    "message": "\u0423\u0441\u0442\u0430\u045e\u0446\u0435 \u0440\u044d\u0433\u0443\u043b\u044f\u0440\u043d\u044b \u0432\u044b\u0440\u0430\u0437"
   },
   "syncExcludeDescription": {
-    "message": "Выключайце кантэйнеры з сінхранізацыі, калі іх назва адпавядае пэўнаму рэгулярнаму выразу без уліку рэгістра."
+    "message": "\u0412\u044b\u043a\u043b\u044e\u0447\u0430\u0439\u0446\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0437 \u0441\u0456\u043d\u0445\u0440\u0430\u043d\u0456\u0437\u0430\u0446\u044b\u0456, \u043a\u0430\u043b\u0456 \u0456\u0445 \u043d\u0430\u0437\u0432\u0430 \u0430\u0434\u043f\u0430\u0432\u044f\u0434\u0430\u0435 \u043f\u044d\u045e\u043d\u0430\u043c\u0443 \u0440\u044d\u0433\u0443\u043b\u044f\u0440\u043d\u0430\u043c\u0443 \u0432\u044b\u0440\u0430\u0437\u0443 \u0431\u0435\u0437 \u0443\u043b\u0456\u043a\u0443 \u0440\u044d\u0433\u0456\u0441\u0442\u0440\u0430."
   },
   "replaceTab": {
-    "message": "Замяніць картку замест стварэння новай"
+    "message": "\u0417\u0430\u043c\u044f\u043d\u0456\u0446\u044c \u043a\u0430\u0440\u0442\u043a\u0443 \u0437\u0430\u043c\u0435\u0441\u0442 \u0441\u0442\u0432\u0430\u0440\u044d\u043d\u043d\u044f \u043d\u043e\u0432\u0430\u0439"
   },
   "replaceTabDescription": {
-    "message": "Замяняць бягучую картка, калі адкрыта старонка, прызначаная іншаму кантэйнеру (замест таго, каб пакідаць бягучую картку адкрытай). Не ўплывае на адкрыццё картак сярэдняй кнопкай мышы."
+    "message": "\u0417\u0430\u043c\u044f\u043d\u044f\u0446\u044c \u0431\u044f\u0433\u0443\u0447\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0430, \u043a\u0430\u043b\u0456 \u0430\u0434\u043a\u0440\u044b\u0442\u0430 \u0441\u0442\u0430\u0440\u043e\u043d\u043a\u0430, \u043f\u0440\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u0430\u044f \u0456\u043d\u0448\u0430\u043c\u0443 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0443 (\u0437\u0430\u043c\u0435\u0441\u0442 \u0442\u0430\u0433\u043e, \u043a\u0430\u0431 \u043f\u0430\u043a\u0456\u0434\u0430\u0446\u044c \u0431\u044f\u0433\u0443\u0447\u0443\u044e \u043a\u0430\u0440\u0442\u043a\u0443 \u0430\u0434\u043a\u0440\u044b\u0442\u0430\u0439). \u041d\u0435 \u045e\u043f\u043b\u044b\u0432\u0430\u0435 \u043d\u0430 \u0430\u0434\u043a\u0440\u044b\u0446\u0446\u0451 \u043a\u0430\u0440\u0442\u0430\u043a \u0441\u044f\u0440\u044d\u0434\u043d\u044f\u0439 \u043a\u043d\u043e\u043f\u043a\u0430\u0439 \u043c\u044b\u0448\u044b."
   },
   "editWhichContainer": {
-    "message": "Укажыце, якія кантэйнеры будуць адкрыты пры выкарыстанні спалучэнняў клавіш з лічбамі."
+    "message": "\u0423\u043a\u0430\u0436\u044b\u0446\u0435, \u044f\u043a\u0456\u044f \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0431\u0443\u0434\u0443\u0446\u044c \u0430\u0434\u043a\u0440\u044b\u0442\u044b \u043f\u0440\u044b \u0432\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u0430\u043d\u043d\u0456 \u0441\u043f\u0430\u043b\u0443\u0447\u044d\u043d\u043d\u044f\u045e \u043a\u043b\u0430\u0432\u0456\u0448 \u0437 \u043b\u0456\u0447\u0431\u0430\u043c\u0456."
   },
   "keyboardShortCut": {
-    "message": "Кантэйнер для адкрыцця з дапамогай спалучэння клавіш $keyId$",
+    "message": "\u041a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440 \u0434\u043b\u044f \u0430\u0434\u043a\u0440\u044b\u0446\u0446\u044f \u0437 \u0434\u0430\u043f\u0430\u043c\u043e\u0433\u0430\u0439 \u0441\u043f\u0430\u043b\u0443\u0447\u044d\u043d\u043d\u044f \u043a\u043b\u0430\u0432\u0456\u0448 $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -250,11 +250,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Пацвярджэнне навігацыі для Multi-Account Containers",
+    "message": "\u041f\u0430\u0446\u0432\u044f\u0440\u0434\u0436\u044d\u043d\u043d\u0435 \u043d\u0430\u0432\u0456\u0433\u0430\u0446\u044b\u0456 \u0434\u043b\u044f Multi-Account Containers",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Адкрыць у кантэйнеры «$containerName$»",
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u0443 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u00ab$containerName$\u00bb",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -262,11 +262,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Адкрыць у бягучай картцы",
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u0443 \u0431\u044f\u0433\u0443\u0447\u0430\u0439 \u043a\u0430\u0440\u0442\u0446\u044b",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Вы папрасілі Firefox заўсёды адкрываць $containerName$ для гэтага сайта:",
+    "message": "\u0412\u044b \u043f\u0430\u043f\u0440\u0430\u0441\u0456\u043b\u0456 Firefox \u0437\u0430\u045e\u0441\u0451\u0434\u044b \u0430\u0434\u043a\u0440\u044b\u0432\u0430\u0446\u044c $containerName$ \u0434\u043b\u044f \u0433\u044d\u0442\u0430\u0433\u0430 \u0441\u0430\u0439\u0442\u0430:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -274,138 +274,138 @@
     }
   },
   "chooseLocation": {
-    "message": "Выбраць месцазнаходжанне",
+    "message": "\u0412\u044b\u0431\u0440\u0430\u0446\u044c \u043c\u0435\u0441\u0446\u0430\u0437\u043d\u0430\u0445\u043e\u0434\u0436\u0430\u043d\u043d\u0435",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "Схаваць"
+    "message": "\u0421\u0445\u0430\u0432\u0430\u0446\u044c"
   },
   "show": {
-    "message": "Паказаць"
+    "message": "\u041f\u0430\u043a\u0430\u0437\u0430\u0446\u044c"
   },
   "protectYourContainers": {
-    "message": "Абараніце свае кантэйнеры з дапамогай Mozilla VPN"
+    "message": "\u0410\u0431\u0430\u0440\u0430\u043d\u0456\u0446\u0435 \u0441\u0432\u0430\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0437 \u0434\u0430\u043f\u0430\u043c\u043e\u0433\u0430\u0439 Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Абараніце гэты кантэйнеры з дапамогай Mozilla VPN"
+    "message": "\u0410\u0431\u0430\u0440\u0430\u043d\u0456\u0446\u0435 \u0433\u044d\u0442\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0437 \u0434\u0430\u043f\u0430\u043c\u043e\u0433\u0430\u0439 Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "Пашыраныя налады проксі"
+    "message": "\u041f\u0430\u0448\u044b\u0440\u0430\u043d\u044b\u044f \u043d\u0430\u043b\u0430\u0434\u044b \u043f\u0440\u043e\u043a\u0441\u0456"
   },
   "proxyInputLabel": {
-    "message": "Увядзіце ўласны проксі"
+    "message": "\u0423\u0432\u044f\u0434\u0437\u0456\u0446\u0435 \u045e\u043b\u0430\u0441\u043d\u044b \u043f\u0440\u043e\u043a\u0441\u0456"
   },
   "useCustomLocation": {
-    "message": "Выкарыстоўваць уласнае месцазнаходжанне для гэтага кантэйнера"
+    "message": "\u0412\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u043e\u045e\u0432\u0430\u0446\u044c \u0443\u043b\u0430\u0441\u043d\u0430\u0435 \u043c\u0435\u0441\u0446\u0430\u0437\u043d\u0430\u0445\u043e\u0434\u0436\u0430\u043d\u043d\u0435 \u0434\u043b\u044f \u0433\u044d\u0442\u0430\u0433\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430"
   },
   "clearproxylabel": {
-    "message": "Ачысціць проксі"
+    "message": "\u0410\u0447\u044b\u0441\u0446\u0456\u0446\u044c \u043f\u0440\u043e\u043a\u0441\u0456"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN уключаны"
+    "message": "Mozilla VPN \u0443\u043a\u043b\u044e\u0447\u0430\u043d\u044b"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN адключаны"
+    "message": "Mozilla VPN \u0430\u0434\u043a\u043b\u044e\u0447\u0430\u043d\u044b"
   },
   "invalidProxyAlert": {
-    "message": "Увядзіце сапраўдны URL проксі"
+    "message": "\u0423\u0432\u044f\u0434\u0437\u0456\u0446\u0435 \u0441\u0430\u043f\u0440\u0430\u045e\u0434\u043d\u044b URL \u043f\u0440\u043e\u043a\u0441\u0456"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Для выкарыстання гэтай функцыі неабходна ўключыць Mozilla VPN."
+    "message": "\u0414\u043b\u044f \u0432\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u0430\u043d\u043d\u044f \u0433\u044d\u0442\u0430\u0439 \u0444\u0443\u043d\u043a\u0446\u044b\u0456 \u043d\u0435\u0430\u0431\u0445\u043e\u0434\u043d\u0430 \u045e\u043a\u043b\u044e\u0447\u044b\u0446\u044c Mozilla VPN."
   },
   "learnMore": {
-    "message": "Падрабязней"
+    "message": "\u041f\u0430\u0434\u0440\u0430\u0431\u044f\u0437\u043d\u0435\u0439"
   },
   "proxyNowAvailable": {
-    "message": "Цяпер з Mozilla VPN і пашыранымі наладамі проксі"
+    "message": "\u0426\u044f\u043f\u0435\u0440 \u0437 Mozilla VPN \u0456 \u043f\u0430\u0448\u044b\u0440\u0430\u043d\u044b\u043c\u0456 \u043d\u0430\u043b\u0430\u0434\u0430\u043c\u0456 \u043f\u0440\u043e\u043a\u0441\u0456"
   },
   "applyToContainer": {
-    "message": "Прымяніць да кантэйнера"
+    "message": "\u041f\u0440\u044b\u043c\u044f\u043d\u0456\u0446\u044c \u0434\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430"
   },
   "tooltipWarning": {
-    "message": "Для гэтага кантэйнера ўсталяваны проксі Mozilla VPN, але Mozilla VPN адключаны. Уключыце Mozilla VPN для выкарыстання кантэйнера."
+    "message": "\u0414\u043b\u044f \u0433\u044d\u0442\u0430\u0433\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430 \u045e\u0441\u0442\u0430\u043b\u044f\u0432\u0430\u043d\u044b \u043f\u0440\u043e\u043a\u0441\u0456 Mozilla VPN, \u0430\u043b\u0435 Mozilla VPN \u0430\u0434\u043a\u043b\u044e\u0447\u0430\u043d\u044b. \u0423\u043a\u043b\u044e\u0447\u044b\u0446\u0435 Mozilla VPN \u0434\u043b\u044f \u0432\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u0430\u043d\u043d\u044f \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430."
   },
   "getMozillaVpn": {
-    "message": "Атрымаць Mozilla VPN"
+    "message": "\u0410\u0442\u0440\u044b\u043c\u0430\u0446\u044c Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+    "message": "\u0406\u043d\u0442\u044d\u0433\u0440\u0443\u0439\u0446\u0435 \u0441\u0432\u0430\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0437 Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Дазволы Mozilla VPN і проксі",
+    "message": "\u0414\u0430\u0437\u0432\u043e\u043b\u044b Mozilla VPN \u0456 \u043f\u0440\u043e\u043a\u0441\u0456",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Дазволіць пашырэнню абменьвацца паведамленнямі з іншымі праграмамі, акрамя Firefox",
+    "message": "\u0414\u0430\u0437\u0432\u043e\u043b\u0456\u0446\u044c \u043f\u0430\u0448\u044b\u0440\u044d\u043d\u043d\u044e \u0430\u0431\u043c\u0435\u043d\u044c\u0432\u0430\u0446\u0446\u0430 \u043f\u0430\u0432\u0435\u0434\u0430\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0456 \u0437 \u0456\u043d\u0448\u044b\u043c\u0456 \u043f\u0440\u0430\u0433\u0440\u0430\u043c\u0430\u043c\u0456, \u0430\u043a\u0440\u0430\u043c\u044f Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Гэта налада дазволіць пашырэнню абменьвацца паведамленнямі з кліентам Mozilla VPN і неабходна для работы функцый інтэграцыі з Mozilla VPN.",
+    "message": "\u0413\u044d\u0442\u0430 \u043d\u0430\u043b\u0430\u0434\u0430 \u0434\u0430\u0437\u0432\u043e\u043b\u0456\u0446\u044c \u043f\u0430\u0448\u044b\u0440\u044d\u043d\u043d\u044e \u0430\u0431\u043c\u0435\u043d\u044c\u0432\u0430\u0446\u0446\u0430 \u043f\u0430\u0432\u0435\u0434\u0430\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0456 \u0437 \u043a\u043b\u0456\u0435\u043d\u0442\u0430\u043c Mozilla VPN \u0456 \u043d\u0435\u0430\u0431\u0445\u043e\u0434\u043d\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0444\u0443\u043d\u043a\u0446\u044b\u0439 \u0456\u043d\u0442\u044d\u0433\u0440\u0430\u0446\u044b\u0456 \u0437 Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Дазволіць пашырэнню кіраваць наладамі проксі",
+    "message": "\u0414\u0430\u0437\u0432\u043e\u043b\u0456\u0446\u044c \u043f\u0430\u0448\u044b\u0440\u044d\u043d\u043d\u044e \u043a\u0456\u0440\u0430\u0432\u0430\u0446\u044c \u043d\u0430\u043b\u0430\u0434\u0430\u043c\u0456 \u043f\u0440\u043e\u043a\u0441\u0456",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Гэта дазволіць вам выкарыстоўваць пашыраныя налады проксі і ўключыць функцыі інтэграцыі з Mozilla VPN.",
+    "message": "\u0413\u044d\u0442\u0430 \u0434\u0430\u0437\u0432\u043e\u043b\u0456\u0446\u044c \u0432\u0430\u043c \u0432\u044b\u043a\u0430\u0440\u044b\u0441\u0442\u043e\u045e\u0432\u0430\u0446\u044c \u043f\u0430\u0448\u044b\u0440\u0430\u043d\u044b\u044f \u043d\u0430\u043b\u0430\u0434\u044b \u043f\u0440\u043e\u043a\u0441\u0456 \u0456 \u045e\u043a\u043b\u044e\u0447\u044b\u0446\u044c \u0444\u0443\u043d\u043a\u0446\u044b\u0456 \u0456\u043d\u0442\u044d\u0433\u0440\u0430\u0446\u044b\u0456 \u0437 Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Гэта функцыя патрабуе дадатковых дазволаў для працы. Дазволы можна адключыць у любы момант на старонцы налад.",
+    "message": "\u0413\u044d\u0442\u0430 \u0444\u0443\u043d\u043a\u0446\u044b\u044f \u043f\u0430\u0442\u0440\u0430\u0431\u0443\u0435 \u0434\u0430\u0434\u0430\u0442\u043a\u043e\u0432\u044b\u0445 \u0434\u0430\u0437\u0432\u043e\u043b\u0430\u045e \u0434\u043b\u044f \u043f\u0440\u0430\u0446\u044b. \u0414\u0430\u0437\u0432\u043e\u043b\u044b \u043c\u043e\u0436\u043d\u0430 \u0430\u0434\u043a\u043b\u044e\u0447\u044b\u0446\u044c \u0443 \u043b\u044e\u0431\u044b \u043c\u043e\u043c\u0430\u043d\u0442 \u043d\u0430 \u0441\u0442\u0430\u0440\u043e\u043d\u0446\u044b \u043d\u0430\u043b\u0430\u0434.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Для інтэграцыі з Mozilla VPN неабходна падпіска і дадатковыя дазволы."
+    "message": "\u0414\u043b\u044f \u0456\u043d\u0442\u044d\u0433\u0440\u0430\u0446\u044b\u0456 \u0437 Mozilla VPN \u043d\u0435\u0430\u0431\u0445\u043e\u0434\u043d\u0430 \u043f\u0430\u0434\u043f\u0456\u0441\u043a\u0430 \u0456 \u0434\u0430\u0434\u0430\u0442\u043a\u043e\u0432\u044b\u044f \u0434\u0430\u0437\u0432\u043e\u043b\u044b."
   },
   "enable": {
-    "message": "Уключыць",
+    "message": "\u0423\u043a\u043b\u044e\u0447\u044b\u0446\u044c",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Інтэгруйце свае кантэйнеры з Mozilla VPN"
+    "message": "\u0406\u043d\u0442\u044d\u0433\u0440\u0443\u0439\u0446\u0435 \u0441\u0432\u0430\u0435 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b \u0437 Mozilla VPN"
   },
   "theme": {
-    "message": "Тэма:",
+    "message": "\u0422\u044d\u043c\u0430:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Выбраць тэму",
+    "message": "\u0412\u044b\u0431\u0440\u0430\u0446\u044c \u0442\u044d\u043c\u0443",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Аўтавызначэнне (прадвызначана)",
+    "message": "\u0410\u045e\u0442\u0430\u0432\u044b\u0437\u043d\u0430\u0447\u044d\u043d\u043d\u0435 (\u043f\u0440\u0430\u0434\u0432\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u0430)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "Светлая",
+    "message": "\u0421\u0432\u0435\u0442\u043b\u0430\u044f",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "Цёмная",
+    "message": "\u0426\u0451\u043c\u043d\u0430\u044f",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Упарадкаваць спіс кантэйнераў па назве:",
+    "message": "\u0423\u043f\u0430\u0440\u0430\u0434\u043a\u0430\u0432\u0430\u0446\u044c \u0441\u043f\u0456\u0441 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430\u045e \u043f\u0430 \u043d\u0430\u0437\u0432\u0435:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Назва шуканага кантэйнера"
+    "message": "\u041d\u0430\u0437\u0432\u0430 \u0448\u0443\u043a\u0430\u043d\u0430\u0433\u0430 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430"
   },
   "imageAltContainerInfo": {
-    "message": "Інфармацыя аб кантэйнеры",
+    "message": "\u0406\u043d\u0444\u0430\u0440\u043c\u0430\u0446\u044b\u044f \u0430\u0431 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "Прадвызначаны кантэйнер",
+    "message": "\u041f\u0440\u0430\u0434\u0432\u044b\u0437\u043d\u0430\u0447\u0430\u043d\u044b \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Адкрыць панэль кантэйнера",
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u043f\u0430\u043d\u044d\u043b\u044c \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Спалучэнне клавіш кантэйнера $keyId$",
+    "message": "\u0421\u043f\u0430\u043b\u0443\u0447\u044d\u043d\u043d\u0435 \u043a\u043b\u0430\u0432\u0456\u0448 \u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u0430 $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -414,6 +414,6 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Адкрыць закладку ў картцы ў кантэйнеры"
+    "message": "\u0410\u0434\u043a\u0440\u044b\u0446\u044c \u0437\u0430\u043a\u043b\u0430\u0434\u043a\u0443 \u045e\u00a0\u043a\u0430\u0440\u0442\u0446\u044b \u045e\u00a0\u043a\u0430\u043d\u0442\u044d\u0439\u043d\u0435\u0440\u044b"
   }
 }

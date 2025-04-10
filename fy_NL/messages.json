@@ -1,97 +1,97 @@
 {
   "extensionDescription": {
-    "message": "Mei Multi-Account Containers kinne jo alle ûnderdielen fan jo onlinelibben yn ferskate ljepblêden hâlde. Oanpaste labels en kleurkodearre ljepblêden helpe ferskate aktiviteiten – lykas online winkelje, reisplanning of it lêzen fan saaklike e-mail – skieden te hâlden.",
+    "message": "Mei Multi-Account Containers kinne jo alle \u00fbnderdielen fan jo onlinelibben yn ferskate ljepbl\u00eaden h\u00e2lde. Oanpaste labels en kleurkodearre ljepbl\u00eaden helpe ferskate aktiviteiten \u2013 lykas online winkelje, reisplanning of it l\u00eazen fan saaklike e-mail \u2013 skieden te h\u00e2lden.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Nij ljepblêd iepenje yn…",
+    "message": "Nij ljepbl\u00ead iepenje yn\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Dizze website opnij iepenje yn…",
+    "message": "Dizze website opnij iepenje yn\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Ljepblêden per kontener sortearje",
+    "message": "Ljepbl\u00eaden per kontener sortearje",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Dizze website altyd iepenje yn…",
+    "message": "Dizze website altyd iepenje yn\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Altyd iepenje yn…",
+    "message": "Altyd iepenje yn\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Website altyd yn kontener iepenje"
   },
   "openANewTabIn": {
-    "message": "Nij ljepblêd iepenje yn…"
+    "message": "Nij ljepbl\u00ead iepenje yn\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Nij ljepblêd iepenje yn dizze kontener"
+    "message": "Nij ljepbl\u00ead iepenje yn dizze kontener"
   },
   "openTabs": {
-    "message": "Iepen ljeplêden",
+    "message": "Iepen ljepl\u00eaden",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Ljepblêden nei in nij finster ferpleatse"
+    "message": "Ljepbl\u00eaden nei in nij finster ferpleatse"
   },
   "onboarding-1-header": {
-    "message": "In bettere manier om alle dingen dy’t jo online dogge te behearen"
+    "message": "In bettere manier om alle dingen dy\u2019t jo online dogge te behearen"
   },
   "onboarding-1-description": {
-    "message": "Brûk konteners om taken te organisearjen, accounts te behearen en jo oandacht te hâlden wêr’t jo dat wolle."
+    "message": "Br\u00fbk konteners om taken te organisearjen, accounts te behearen en jo oandacht te h\u00e2lden w\u00ear\u2019t jo dat wolle."
   },
   "onboarding-2-header": {
     "message": "Set konteners foar jo oan it wurk."
   },
   "onboarding-2-description": {
-    "message": "Funksjes lykas kleurkodearing en aparte kontenerljepblêden helpe jo dingen maklik te finen, jo oandacht rjochte te hâlden en ôfliedingen te minimalisearjen."
+    "message": "Funksjes lykas kleurkodearing en aparte kontenerljepbl\u00eaden helpe jo dingen maklik te finen, jo oandacht rjochte te h\u00e2lden en \u00f4fliedingen te minimalisearjen."
   },
   "onboarding-3-header": {
     "message": "In plak foar alles, en alles op syn plak."
   },
   "onboarding-3-description": {
-    "message": "Begjin mei de konteners dy’t wy makke hawwe, of meitsje jo eigen."
+    "message": "Begjin mei de konteners dy\u2019t wy makke hawwe, of meitsje jo eigen."
   },
   "onboarding-4-header": {
-    "message": "Iepenje websites altyd yn de konteners dy’t jo wolle."
+    "message": "Iepenje websites altyd yn de konteners dy\u2019t jo wolle."
   },
   "onboarding-4-description": {
-    "message": "Klik mei de rjochtermûsknop yn in kontenerljepblêd om de website altyd yn de kontener te iepenjen."
+    "message": "Klik mei de rjochterm\u00fbsknop yn in kontenerljepbl\u00ead om de website altyd yn de kontener te iepenjen."
   },
   "onboarding-5-header": {
-    "message": "Kontenerljepblêden wannear’t jo se nedich hawwe."
+    "message": "Kontenerljepbl\u00eaden wannear\u2019t jo se nedich hawwe."
   },
   "onboarding-5-description": {
-    "message": "Hâld de knop Nij ljepblêd lang yndrukt om in nij kontenerljepblêd oan te meitsjen."
+    "message": "H\u00e2ld de knop Nij ljepbl\u00ead lang yndrukt om in nij kontenerljepbl\u00ead oan te meitsjen."
   },
   "onboarding-6-header": {
     "message": "It syngronisearjen fan konteners is no beskikber!"
   },
   "onboarding-6-description-2": {
-    "message": "Skeakelje syngronisaasje yn om kontener- en websitetawizingen te dielen mei elke kompjûter dy’t ferbûn is mei jo account."
+    "message": "Skeakelje syngronisaasje yn om kontener- en websitetawizingen te dielen mei elke kompj\u00fbter dy\u2019t ferb\u00fbn is mei jo account."
   },
   "onboarding-7-header-2": {
     "message": "In account is fereaske om te syngronisearjen."
   },
   "onboarding-7-description-2": {
-    "message": "Klik op Oanmelde om te befêstigjen dat jo account aktyf is."
+    "message": "Klik op Oanmelde om te bef\u00eastigjen dat jo account aktyf is."
   },
   "onboarding-8-description": {
-    "message": "Konteners kinne no yntegrearje mei Mozilla VPN of jo eigen proxy om in feilige priveeferbining te kreëarjen dy’t jo aktiviteit beskermet."
+    "message": "Konteners kinne no yntegrearje mei Mozilla VPN of jo eigen proxy om in feilige priveeferbining te kre\u00ebarjen dy\u2019t jo aktiviteit beskermet."
   },
   "oneHundredTabsHeader": {
-    "message": "100 ljepblêden!"
+    "message": "100 ljepbl\u00eaden!"
   },
   "youHaveOpened": {
-    "message": "Jo hawwe 100 kontenerljepblêden iepene."
+    "message": "Jo hawwe 100 kontenerljepbl\u00eaden iepene."
   },
   "spreadTheWord": {
-    "message": "As jo fan konteners genietsje, help ús it fierder te fertellen!"
+    "message": "As jo fan konteners genietsje, help \u00fas it fierder te fertellen!"
   },
   "rate": {
     "message": "Wurdearje"
@@ -157,7 +157,7 @@
     "message": "Dizze kontener fuortsmite"
   },
   "manageSiteList": {
-    "message": "Websitelist beheare…"
+    "message": "Websitelist beheare\u2026"
   },
   "manageThisContainer": {
     "message": "Dizze kontener beheare"
@@ -194,7 +194,7 @@
     "message": "Wolle jo noch hieltyd yn dizze aktuele kontener iepenje?"
   },
   "rememberMyDecision": {
-    "message": "Beslissing ûnthâlde foar dizze website"
+    "message": "Beslissing \u00fbnth\u00e2lde foar dizze website"
   },
   "optionalPermissions": {
     "message": "Opsjonele tastimmingen:"
@@ -212,10 +212,10 @@
     "message": "Skeakelje dit om om de wolkomstpanielen nochris te sjen."
   },
   "tabBehavior": {
-    "message": "Ljepblêdgedrach:"
+    "message": "Ljepbl\u00eadgedrach:"
   },
   "enableBookMarkMenus": {
-    "message": "Blêdwizermenu’s ynskeakelje"
+    "message": "Bl\u00eadwizermenu\u2019s ynskeakelje"
   },
   "sync": {
     "message": "Syngronisaasje:"
@@ -224,7 +224,7 @@
     "message": "Syngronisaasje ynskeakelje"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Mei dizze ynstelling kinne jo in blêdwizer of map mei blêdwizers yn in kontener iepenje."
+    "message": "Mei dizze ynstelling kinne jo in bl\u00eadwizer of map mei bl\u00eadwizers yn in kontener iepenje."
   },
   "enableSyncDescription": {
     "message": "Mei dizze ynstelling kinne jo jo konteners en websitetawizingen mei oare apparaten syngronisearje."
@@ -236,16 +236,16 @@
     "message": "In reguliere ekspresje ynfoegje"
   },
   "syncExcludeDescription": {
-    "message": "Konteners útslute fan syngronisaasje wannear’t harren namme oerienkomt mei de opjûne haadletterûngefoelige reguliere ekspresje."
+    "message": "Konteners \u00fatslute fan syngronisaasje wannear\u2019t harren namme oerienkomt mei de opj\u00fbne haadletter\u00fbngefoelige reguliere ekspresje."
   },
   "replaceTab": {
-    "message": "Ljepblêd ferfange yn stee fan in nije meitsje"
+    "message": "Ljepbl\u00ead ferfange yn stee fan in nije meitsje"
   },
   "replaceTabDescription": {
-    "message": "It aktuele ljepblêd ferfange as in side dy’t tawiisd is oan in oare kontener iepene wurdt (yn stee fan it aktuele ljepblêd iepen te hâlden). It iepenjen fan ljepblêden mei de middelste mûsknop wurdt net beynfloede."
+    "message": "It aktuele ljepbl\u00ead ferfange as in side dy\u2019t tawiisd is oan in oare kontener iepene wurdt (yn stee fan it aktuele ljepbl\u00ead iepen te h\u00e2lden). It iepenjen fan ljepbl\u00eaden mei de middelste m\u00fbsknop wurdt net beynfloede."
   },
   "editWhichContainer": {
-    "message": "Bewurkje hokker kontener iepene wurdt by it brûken fan de nûmere fluchtoetsen."
+    "message": "Bewurkje hokker kontener iepene wurdt by it br\u00fbken fan de n\u00fbmere fluchtoetsen."
   },
   "keyboardShortCut": {
     "message": "Te iepenjen kontener mei fluchtoets $keyId$",
@@ -256,7 +256,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers – Navigaasje befêstigje",
+    "message": "Multi-Account Containers \u2013 Navigaasje bef\u00eastigje",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -268,7 +268,7 @@
     }
   },
   "openInNoContainer": {
-    "message": "Iepenje yn aktuele ljepblêd",
+    "message": "Iepenje yn aktuele ljepbl\u00ead",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
@@ -302,7 +302,7 @@
     "message": "Oanpaste proxy ynfiere"
   },
   "useCustomLocation": {
-    "message": "In oanpaste lokaasje foar dizze kontener brûke"
+    "message": "In oanpaste lokaasje foar dizze kontener br\u00fbke"
   },
   "clearproxylabel": {
     "message": "Proxy wiskje"
@@ -311,13 +311,13 @@
     "message": "Mozilla VPN is oan"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN is út"
+    "message": "Mozilla VPN is \u00fat"
   },
   "invalidProxyAlert": {
     "message": "Fier in jildige proxy-URL yn"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN moat ynskeakele wêze om dizze funksje te brûken."
+    "message": "Mozilla VPN moat ynskeakele w\u00eaze om dizze funksje te br\u00fbken."
   },
   "learnMore": {
     "message": "Mear ynfo"
@@ -329,7 +329,7 @@
     "message": "Tapasse op kontener"
   },
   "tooltipWarning": {
-    "message": "Dizze kontener is ynsteld om in Mozilla VPN-proxy te brûken, mar Mozilla VPN is net ynskeakele. Skeakelje Mozilla VPN yn om dizze kontener te brûken."
+    "message": "Dizze kontener is ynsteld om in Mozilla VPN-proxy te br\u00fbken, mar Mozilla VPN is net ynskeakele. Skeakelje Mozilla VPN yn om dizze kontener te br\u00fbken."
   },
   "getMozillaVpn": {
     "message": "Mozilla VPN downloade"
@@ -342,11 +342,11 @@
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Utwreiding tastean om berjochten mei oare programma’s as Firefox út te wikseljen",
+    "message": "Utwreiding tastean om berjochten mei oare programma\u2019s as Firefox \u00fat te wikseljen",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Dizze ynstelling lit de útwreiding berjochten útwikselje mei de Mozilla VPN-client en is fereaske om de yntegraasjefunksjes fan Mozilla VPN wurkje te litten.",
+    "message": "Dizze ynstelling lit de \u00fatwreiding berjochten \u00fatwikselje mei de Mozilla VPN-client en is fereaske om de yntegraasjefunksjes fan Mozilla VPN wurkje te litten.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
@@ -354,11 +354,11 @@
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Hjirtroch kinne jo avansearre proxy-ynstellingen brûke en Mozilla VPN-yntegraasjefunksjes ynskeakelje.",
+    "message": "Hjirtroch kinne jo avansearre proxy-ynstellingen br\u00fbke en Mozilla VPN-yntegraasjefunksjes ynskeakelje.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Dizze funksje fereasket in ekstra tastimming om te wurkjen. Tastimmingen kinne op elk momint útskeakele wurde op de ynstellingenside.",
+    "message": "Dizze funksje fereasket in ekstra tastimming om te wurkjen. Tastimmingen kinne op elk momint \u00fatskeakele wurde op de ynstellingenside.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
@@ -420,7 +420,7 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Blêdwizer iepenje yn kontenerljepblêd"
+    "message": "Bl\u00eadwizer iepenje yn kontenerljepbl\u00ead"
   },
   "clearSiteCookiesTooltipInfo": {
     "message": "Cookies foar dizze website wiskje",

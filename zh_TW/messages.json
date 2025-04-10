@@ -1,254 +1,254 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers 可透過將網路生活中所需的各種網站封裝於不同容器中，來幫助您管理分頁。自訂標籤及色彩，幫助您分別管理各種活動 — 例如線上購物、行程規劃、收發工作郵件等等。",
+    "message": "Multi-Account Containers \u53ef\u900f\u904e\u5c07\u7db2\u8def\u751f\u6d3b\u4e2d\u6240\u9700\u7684\u5404\u7a2e\u7db2\u7ad9\u5c01\u88dd\u65bc\u4e0d\u540c\u5bb9\u5668\u4e2d\uff0c\u4f86\u5e6b\u52a9\u60a8\u7ba1\u7406\u5206\u9801\u3002\u81ea\u8a02\u6a19\u7c64\u53ca\u8272\u5f69\uff0c\u5e6b\u52a9\u60a8\u5206\u5225\u7ba1\u7406\u5404\u7a2e\u6d3b\u52d5 \u2014 \u4f8b\u5982\u7dda\u4e0a\u8cfc\u7269\u3001\u884c\u7a0b\u898f\u5283\u3001\u6536\u767c\u5de5\u4f5c\u90f5\u4ef6\u7b49\u7b49\u3002",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "使用其他容器開啟新分頁…",
+    "message": "\u4f7f\u7528\u5176\u4ed6\u5bb9\u5668\u958b\u555f\u65b0\u5206\u9801\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "用其他容器重新開啟此網站…",
+    "message": "\u7528\u5176\u4ed6\u5bb9\u5668\u91cd\u65b0\u958b\u555f\u6b64\u7db2\u7ad9\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "依照容器排序分頁",
+    "message": "\u4f9d\u7167\u5bb9\u5668\u6392\u5e8f\u5206\u9801",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "總是用下列容器開啟此網站…",
+    "message": "\u7e3d\u662f\u7528\u4e0b\u5217\u5bb9\u5668\u958b\u555f\u6b64\u7db2\u7ad9\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "總是用下列容器開啟…",
+    "message": "\u7e3d\u662f\u7528\u4e0b\u5217\u5bb9\u5668\u958b\u555f\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "總是用容器開啟網站"
+    "message": "\u7e3d\u662f\u7528\u5bb9\u5668\u958b\u555f\u7db2\u7ad9"
   },
   "openANewTabIn": {
-    "message": "用下列容器開啟新分頁…"
+    "message": "\u7528\u4e0b\u5217\u5bb9\u5668\u958b\u555f\u65b0\u5206\u9801\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "用此容器開啟新分頁"
+    "message": "\u7528\u6b64\u5bb9\u5668\u958b\u555f\u65b0\u5206\u9801"
   },
   "openTabs": {
-    "message": "開啟的分頁",
+    "message": "\u958b\u555f\u7684\u5206\u9801",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "將分頁移動到新視窗"
+    "message": "\u5c07\u5206\u9801\u79fb\u52d5\u5230\u65b0\u8996\u7a97"
   },
   "onboarding-1-header": {
-    "message": "管理您線上生活的更佳方式"
+    "message": "\u7ba1\u7406\u60a8\u7dda\u4e0a\u751f\u6d3b\u7684\u66f4\u4f73\u65b9\u5f0f"
   },
   "onboarding-1-description": {
-    "message": "使用容器來安排任務、管理帳號，聚焦於您想要的地方。"
+    "message": "\u4f7f\u7528\u5bb9\u5668\u4f86\u5b89\u6392\u4efb\u52d9\u3001\u7ba1\u7406\u5e33\u865f\uff0c\u805a\u7126\u65bc\u60a8\u60f3\u8981\u7684\u5730\u65b9\u3002"
   },
   "onboarding-2-header": {
-    "message": "讓容器為您所用。"
+    "message": "\u8b93\u5bb9\u5668\u70ba\u60a8\u6240\u7528\u3002"
   },
   "onboarding-2-description": {
-    "message": "透過分頁色彩標籤、分離容器分頁等功能，幫助您簡單找到各種內容、聚焦專注、避免干擾。"
+    "message": "\u900f\u904e\u5206\u9801\u8272\u5f69\u6a19\u7c64\u3001\u5206\u96e2\u5bb9\u5668\u5206\u9801\u7b49\u529f\u80fd\uff0c\u5e6b\u52a9\u60a8\u7c21\u55ae\u627e\u5230\u5404\u7a2e\u5167\u5bb9\u3001\u805a\u7126\u5c08\u6ce8\u3001\u907f\u514d\u5e72\u64fe\u3002"
   },
   "onboarding-3-header": {
-    "message": "一個可容納所有項目的地方，所有東西都能整齊安排好。"
+    "message": "\u4e00\u500b\u53ef\u5bb9\u7d0d\u6240\u6709\u9805\u76ee\u7684\u5730\u65b9\uff0c\u6240\u6709\u6771\u897f\u90fd\u80fd\u6574\u9f4a\u5b89\u6392\u597d\u3002"
   },
   "onboarding-3-description": {
-    "message": "從我們預設的容器開始，您也可以自己建立。"
+    "message": "\u5f9e\u6211\u5011\u9810\u8a2d\u7684\u5bb9\u5668\u958b\u59cb\uff0c\u60a8\u4e5f\u53ef\u4ee5\u81ea\u5df1\u5efa\u7acb\u3002"
   },
   "onboarding-4-header": {
-    "message": "可以隨您需求，用特定容器開啟特定網站。"
+    "message": "\u53ef\u4ee5\u96a8\u60a8\u9700\u6c42\uff0c\u7528\u7279\u5b9a\u5bb9\u5668\u958b\u555f\u7279\u5b9a\u7db2\u7ad9\u3002"
   },
   "onboarding-4-description": {
-    "message": "對容器分頁按右鍵，即可將網站指定為總是使用該容器開啟。"
+    "message": "\u5c0d\u5bb9\u5668\u5206\u9801\u6309\u53f3\u9375\uff0c\u5373\u53ef\u5c07\u7db2\u7ad9\u6307\u5b9a\u70ba\u7e3d\u662f\u4f7f\u7528\u8a72\u5bb9\u5668\u958b\u555f\u3002"
   },
   "onboarding-5-header": {
-    "message": "需要時，將分頁放入容器中封裝起來。"
+    "message": "\u9700\u8981\u6642\uff0c\u5c07\u5206\u9801\u653e\u5165\u5bb9\u5668\u4e2d\u5c01\u88dd\u8d77\u4f86\u3002"
   },
   "onboarding-5-description": {
-    "message": "長按「開新分頁」按鈕，即可建立新容器分頁。"
+    "message": "\u9577\u6309\u300c\u958b\u65b0\u5206\u9801\u300d\u6309\u9215\uff0c\u5373\u53ef\u5efa\u7acb\u65b0\u5bb9\u5668\u5206\u9801\u3002"
   },
   "onboarding-6-header": {
-    "message": "容器同步功能已經推出！"
+    "message": "\u5bb9\u5668\u540c\u6b65\u529f\u80fd\u5df2\u7d93\u63a8\u51fa\uff01"
   },
   "onboarding-6-description-2": {
-    "message": "開啟同步後，即可將容器及網站設定同步到所有與帳號連結的電腦。"
+    "message": "\u958b\u555f\u540c\u6b65\u5f8c\uff0c\u5373\u53ef\u5c07\u5bb9\u5668\u53ca\u7db2\u7ad9\u8a2d\u5b9a\u540c\u6b65\u5230\u6240\u6709\u8207\u5e33\u865f\u9023\u7d50\u7684\u96fb\u8166\u3002"
   },
   "onboarding-7-header-2": {
-    "message": "需要有帳號才能同步。"
+    "message": "\u9700\u8981\u6709\u5e33\u865f\u624d\u80fd\u540c\u6b65\u3002"
   },
   "onboarding-7-description-2": {
-    "message": "點擊「登入」，即可確認您的帳號啟用狀態。"
+    "message": "\u9ede\u64ca\u300c\u767b\u5165\u300d\uff0c\u5373\u53ef\u78ba\u8a8d\u60a8\u7684\u5e33\u865f\u555f\u7528\u72c0\u614b\u3002"
   },
   "onboarding-8-description": {
-    "message": "現在起，容器功能已與 Mozilla VPN 或您自己的 Proxy 整合起來，讓您有安全、有隱私的連線，並能保護上網安全。"
+    "message": "\u73fe\u5728\u8d77\uff0c\u5bb9\u5668\u529f\u80fd\u5df2\u8207 Mozilla VPN \u6216\u60a8\u81ea\u5df1\u7684 Proxy \u6574\u5408\u8d77\u4f86\uff0c\u8b93\u60a8\u6709\u5b89\u5168\u3001\u6709\u96b1\u79c1\u7684\u9023\u7dda\uff0c\u4e26\u80fd\u4fdd\u8b77\u4e0a\u7db2\u5b89\u5168\u3002"
   },
   "oneHundredTabsHeader": {
-    "message": "100 個分頁！"
+    "message": "100 \u500b\u5206\u9801\uff01"
   },
   "youHaveOpened": {
-    "message": "您已開啟 100 個容器分頁。"
+    "message": "\u60a8\u5df2\u958b\u555f 100 \u500b\u5bb9\u5668\u5206\u9801\u3002"
   },
   "spreadTheWord": {
-    "message": "若您喜歡容器功能，也請幫助我們廣傳！"
+    "message": "\u82e5\u60a8\u559c\u6b61\u5bb9\u5668\u529f\u80fd\uff0c\u4e5f\u8acb\u5e6b\u52a9\u6211\u5011\u5ee3\u50b3\uff01"
   },
   "rate": {
-    "message": "評分"
+    "message": "\u8a55\u5206"
   },
   "share": {
-    "message": "分享"
+    "message": "\u5206\u4eab"
   },
   "tweet": {
-    "message": "推文"
+    "message": "\u63a8\u6587"
   },
   "default": {
-    "message": "預設"
+    "message": "\u9810\u8a2d"
   },
   "manageContainers": {
-    "message": "管理容器"
+    "message": "\u7ba1\u7406\u5bb9\u5668"
   },
   "newContainer": {
-    "message": "新容器"
+    "message": "\u65b0\u5bb9\u5668"
   },
   "hideThisContainer": {
-    "message": "隱藏此容器"
+    "message": "\u96b1\u85cf\u6b64\u5bb9\u5668"
   },
   "showThisContainer": {
-    "message": "顯示此容器"
+    "message": "\u986f\u793a\u6b64\u5bb9\u5668"
   },
   "removeThisContainer": {
-    "message": "移除此容器"
+    "message": "\u79fb\u9664\u6b64\u5bb9\u5668"
   },
   "removeThisContainerConfirmation": {
-    "message": "您確定要刪除此容器嗎？"
+    "message": "\u60a8\u78ba\u5b9a\u8981\u522a\u9664\u6b64\u5bb9\u5668\u55ce\uff1f"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "清除容器儲存空間"
+    "message": "\u6e05\u9664\u5bb9\u5668\u5132\u5b58\u7a7a\u9593"
   },
   "clearContainerStorageConfirmation": {
-    "message": "您確定要清除此容器的 Cookie 與儲存空間嗎？"
+    "message": "\u60a8\u78ba\u5b9a\u8981\u6e05\u9664\u6b64\u5bb9\u5668\u7684 Cookie \u8207\u5132\u5b58\u7a7a\u9593\u55ce\uff1f"
   },
   "cancel": {
-    "message": "取消"
+    "message": "\u53d6\u6d88"
   },
   "ok": {
-    "message": "確定"
+    "message": "\u78ba\u5b9a"
   },
   "sitesAssignedToThisContainer": {
-    "message": "指派到此容器的網站"
+    "message": "\u6307\u6d3e\u5230\u6b64\u5bb9\u5668\u7684\u7db2\u7ad9"
   },
   "options": {
-    "message": "選項"
+    "message": "\u9078\u9805"
   },
   "name": {
-    "message": "名稱"
+    "message": "\u540d\u7a31"
   },
   "color": {
-    "message": "色彩"
+    "message": "\u8272\u5f69"
   },
   "icon": {
-    "message": "圖示"
+    "message": "\u5716\u793a"
   },
   "limitToDesignatedSites": {
-    "message": "限制特定網站"
+    "message": "\u9650\u5236\u7279\u5b9a\u7db2\u7ad9"
   },
   "deleteThisContainer": {
-    "message": "刪除此容器"
+    "message": "\u522a\u9664\u6b64\u5bb9\u5668"
   },
   "manageSiteList": {
-    "message": "管理網站清單…"
+    "message": "\u7ba1\u7406\u7db2\u7ad9\u6e05\u55ae\u2026"
   },
   "manageThisContainer": {
-    "message": "管理此容器"
+    "message": "\u7ba1\u7406\u6b64\u5bb9\u5668"
   },
   "containers": {
-    "message": "容器"
+    "message": "\u5bb9\u5668"
   },
   "done": {
-    "message": "完成"
+    "message": "\u5b8c\u6210"
   },
   "getStarted": {
-    "message": "開始使用"
+    "message": "\u958b\u59cb\u4f7f\u7528"
   },
   "signIn": {
-    "message": "登入"
+    "message": "\u767b\u5165"
   },
   "notNow": {
-    "message": "現在不要"
+    "message": "\u73fe\u5728\u4e0d\u8981"
   },
   "startSyncing": {
-    "message": "開始同步"
+    "message": "\u958b\u59cb\u540c\u6b65"
   },
   "info": {
-    "message": "資訊",
+    "message": "\u8cc7\u8a0a",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "下一步"
+    "message": "\u4e0b\u4e00\u6b65"
   },
   "openThisSiteConfirmation": {
-    "message": "要用您指定的容器開啟此網站嗎？"
+    "message": "\u8981\u7528\u60a8\u6307\u5b9a\u7684\u5bb9\u5668\u958b\u555f\u6b64\u7db2\u7ad9\u55ce\uff1f"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "您還想要使用目前的容器開啟嗎？"
+    "message": "\u60a8\u9084\u60f3\u8981\u4f7f\u7528\u76ee\u524d\u7684\u5bb9\u5668\u958b\u555f\u55ce\uff1f"
   },
   "rememberMyDecision": {
-    "message": "對此網站記住我的決定"
+    "message": "\u5c0d\u6b64\u7db2\u7ad9\u8a18\u4f4f\u6211\u7684\u6c7a\u5b9a"
   },
   "optionalPermissions": {
-    "message": "非必要權限:"
+    "message": "\u975e\u5fc5\u8981\u6b0a\u9650:"
   },
   "keyboardShortCuts": {
-    "message": "快速鍵:"
+    "message": "\u5feb\u901f\u9375:"
   },
   "onboarding": {
-    "message": "使用入門"
+    "message": "\u4f7f\u7528\u5165\u9580"
   },
   "resetOnboardingPanels": {
-    "message": "重設入門面板"
+    "message": "\u91cd\u8a2d\u5165\u9580\u9762\u677f"
   },
   "onboardingToggle": {
-    "message": "切換此選項即可再次檢視入門面板。"
+    "message": "\u5207\u63db\u6b64\u9078\u9805\u5373\u53ef\u518d\u6b21\u6aa2\u8996\u5165\u9580\u9762\u677f\u3002"
   },
   "tabBehavior": {
-    "message": "分頁行為:"
+    "message": "\u5206\u9801\u884c\u70ba:"
   },
   "enableBookMarkMenus": {
-    "message": "啟用書籤選單"
+    "message": "\u555f\u7528\u66f8\u7c64\u9078\u55ae"
   },
   "sync": {
-    "message": "同步："
+    "message": "\u540c\u6b65\uff1a"
   },
   "enableSync": {
-    "message": "開啟同步"
+    "message": "\u958b\u555f\u540c\u6b65"
   },
   "enableBookMarkMenusDescription": {
-    "message": "此設定讓您可直接使用容器開啟單一書籤或整個書籤資料夾。"
+    "message": "\u6b64\u8a2d\u5b9a\u8b93\u60a8\u53ef\u76f4\u63a5\u4f7f\u7528\u5bb9\u5668\u958b\u555f\u55ae\u4e00\u66f8\u7c64\u6216\u6574\u500b\u66f8\u7c64\u8cc7\u6599\u593e\u3002"
   },
   "enableSyncDescription": {
-    "message": "此設定讓您可在不同裝置間同步容器與網站設定。"
+    "message": "\u6b64\u8a2d\u5b9a\u8b93\u60a8\u53ef\u5728\u4e0d\u540c\u88dd\u7f6e\u9593\u540c\u6b65\u5bb9\u5668\u8207\u7db2\u7ad9\u8a2d\u5b9a\u3002"
   },
   "syncExclude": {
-    "message": "容器排除項目"
+    "message": "\u5bb9\u5668\u6392\u9664\u9805\u76ee"
   },
   "syncExcludePlaceholder": {
-    "message": "請輸入正規表達式"
+    "message": "\u8acb\u8f38\u5165\u6b63\u898f\u8868\u9054\u5f0f"
   },
   "syncExcludeDescription": {
-    "message": "排除同步符合下列正規表達式（不區分大小寫）名稱的容器。"
+    "message": "\u6392\u9664\u540c\u6b65\u7b26\u5408\u4e0b\u5217\u6b63\u898f\u8868\u9054\u5f0f\uff08\u4e0d\u5340\u5206\u5927\u5c0f\u5beb\uff09\u540d\u7a31\u7684\u5bb9\u5668\u3002"
   },
   "replaceTab": {
-    "message": "取代分頁，而非開新分頁"
+    "message": "\u53d6\u4ee3\u5206\u9801\uff0c\u800c\u975e\u958b\u65b0\u5206\u9801"
   },
   "replaceTabDescription": {
-    "message": "若將分頁指派到另一個已開啟的容器時，取代目前分頁（而不保留已開啟的分頁）。使用滑鼠中鍵開啟分頁時的行為則不受影響。"
+    "message": "\u82e5\u5c07\u5206\u9801\u6307\u6d3e\u5230\u53e6\u4e00\u500b\u5df2\u958b\u555f\u7684\u5bb9\u5668\u6642\uff0c\u53d6\u4ee3\u76ee\u524d\u5206\u9801\uff08\u800c\u4e0d\u4fdd\u7559\u5df2\u958b\u555f\u7684\u5206\u9801\uff09\u3002\u4f7f\u7528\u6ed1\u9f20\u4e2d\u9375\u958b\u555f\u5206\u9801\u6642\u7684\u884c\u70ba\u5247\u4e0d\u53d7\u5f71\u97ff\u3002"
   },
   "editWhichContainer": {
-    "message": "編輯按下編號快速鍵時，要分別開啟哪些帳號。"
+    "message": "\u7de8\u8f2f\u6309\u4e0b\u7de8\u865f\u5feb\u901f\u9375\u6642\uff0c\u8981\u5206\u5225\u958b\u555f\u54ea\u4e9b\u5e33\u865f\u3002"
   },
   "keyboardShortCut": {
-    "message": "使用快速鍵 $keyId$ 開啟下列容器",
+    "message": "\u4f7f\u7528\u5feb\u901f\u9375 $keyId$ \u958b\u555f\u4e0b\u5217\u5bb9\u5668",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers 確認瀏覽",
+    "message": "Multi-Account Containers \u78ba\u8a8d\u700f\u89bd",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "用 $containerName$ 容器開啟",
+    "message": "\u7528 $containerName$ \u5bb9\u5668\u958b\u555f",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "用目前分頁開啟",
+    "message": "\u7528\u76ee\u524d\u5206\u9801\u958b\u555f",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "您要求 Firefox 總是使用 $containerName$ 開啟此網站:",
+    "message": "\u60a8\u8981\u6c42 Firefox \u7e3d\u662f\u4f7f\u7528 $containerName$ \u958b\u555f\u6b64\u7db2\u7ad9:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,138 +280,138 @@
     }
   },
   "chooseLocation": {
-    "message": "選擇位置",
+    "message": "\u9078\u64c7\u4f4d\u7f6e",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "隱藏"
+    "message": "\u96b1\u85cf"
   },
   "show": {
-    "message": "顯示"
+    "message": "\u986f\u793a"
   },
   "protectYourContainers": {
-    "message": "使用 Mozilla VPN 保護您的容器"
+    "message": "\u4f7f\u7528 Mozilla VPN \u4fdd\u8b77\u60a8\u7684\u5bb9\u5668"
   },
   "protectThisContainer": {
-    "message": "使用 Mozilla VPN 保護此容器"
+    "message": "\u4f7f\u7528 Mozilla VPN \u4fdd\u8b77\u6b64\u5bb9\u5668"
   },
   "advancedProxySettings": {
-    "message": "進階 Proxy 設定"
+    "message": "\u9032\u968e Proxy \u8a2d\u5b9a"
   },
   "proxyInputLabel": {
-    "message": "輸入自訂 Proxy"
+    "message": "\u8f38\u5165\u81ea\u8a02 Proxy"
   },
   "useCustomLocation": {
-    "message": "為此容器使用自動位置"
+    "message": "\u70ba\u6b64\u5bb9\u5668\u4f7f\u7528\u81ea\u52d5\u4f4d\u7f6e"
   },
   "clearproxylabel": {
-    "message": "清除 Proxy"
+    "message": "\u6e05\u9664 Proxy"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN 已開啟"
+    "message": "Mozilla VPN \u5df2\u958b\u555f"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN 已關閉"
+    "message": "Mozilla VPN \u5df2\u95dc\u9589"
   },
   "invalidProxyAlert": {
-    "message": "請輸入有效的 proxy 網址"
+    "message": "\u8acb\u8f38\u5165\u6709\u6548\u7684 proxy \u7db2\u5740"
   },
   "mozillaVpnMustBeOn": {
-    "message": "必須開啟 Mozilla VPN 才能使用此功能。"
+    "message": "\u5fc5\u9808\u958b\u555f Mozilla VPN \u624d\u80fd\u4f7f\u7528\u6b64\u529f\u80fd\u3002"
   },
   "learnMore": {
-    "message": "了解更多"
+    "message": "\u4e86\u89e3\u66f4\u591a"
   },
   "proxyNowAvailable": {
-    "message": "現在起整合了 Mozilla VPN 及進階 Proxy 設定"
+    "message": "\u73fe\u5728\u8d77\u6574\u5408\u4e86 Mozilla VPN \u53ca\u9032\u968e Proxy \u8a2d\u5b9a"
   },
   "applyToContainer": {
-    "message": "套用至容器"
+    "message": "\u5957\u7528\u81f3\u5bb9\u5668"
   },
   "tooltipWarning": {
-    "message": "此容器已設定使用 Mozilla VPN proxy 連線，但 Mozilla VPN 並未開啟。請先開啟 Mozilla VPN 再使用此容器。"
+    "message": "\u6b64\u5bb9\u5668\u5df2\u8a2d\u5b9a\u4f7f\u7528 Mozilla VPN proxy \u9023\u7dda\uff0c\u4f46 Mozilla VPN \u4e26\u672a\u958b\u555f\u3002\u8acb\u5148\u958b\u555f Mozilla VPN \u518d\u4f7f\u7528\u6b64\u5bb9\u5668\u3002"
   },
   "getMozillaVpn": {
-    "message": "下載 Mozilla VPN"
+    "message": "\u4e0b\u8f09 Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "將容器與 Mozilla VPN 整合使用"
+    "message": "\u5c07\u5bb9\u5668\u8207 Mozilla VPN \u6574\u5408\u4f7f\u7528"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN 與代理伺服器權限",
+    "message": "Mozilla VPN \u8207\u4ee3\u7406\u4f3a\u670d\u5668\u6b0a\u9650",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "允許擴充套件與 Firefox 以外的程式交換訊息",
+    "message": "\u5141\u8a31\u64f4\u5145\u5957\u4ef6\u8207 Firefox \u4ee5\u5916\u7684\u7a0b\u5f0f\u4ea4\u63db\u8a0a\u606f",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "此設定讓擴充套件能與 Mozilla VPN 客戶端交換訊息，對 Mozilla VPN 的整合功能才可以運作。",
+    "message": "\u6b64\u8a2d\u5b9a\u8b93\u64f4\u5145\u5957\u4ef6\u80fd\u8207 Mozilla VPN \u5ba2\u6236\u7aef\u4ea4\u63db\u8a0a\u606f\uff0c\u5c0d Mozilla VPN \u7684\u6574\u5408\u529f\u80fd\u624d\u53ef\u4ee5\u904b\u4f5c\u3002",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "允許擴充套件控制代理伺服器設定",
+    "message": "\u5141\u8a31\u64f4\u5145\u5957\u4ef6\u63a7\u5236\u4ee3\u7406\u4f3a\u670d\u5668\u8a2d\u5b9a",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "此權限讓您可使用進階代理伺服器設定，並開啟與 Mozilla VPN 的整合功能。",
+    "message": "\u6b64\u6b0a\u9650\u8b93\u60a8\u53ef\u4f7f\u7528\u9032\u968e\u4ee3\u7406\u4f3a\u670d\u5668\u8a2d\u5b9a\uff0c\u4e26\u958b\u555f\u8207 Mozilla VPN \u7684\u6574\u5408\u529f\u80fd\u3002",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "此功能需要額外權限才可運作，可以隨時到設定頁面撤回授權。",
+    "message": "\u6b64\u529f\u80fd\u9700\u8981\u984d\u5916\u6b0a\u9650\u624d\u53ef\u904b\u4f5c\uff0c\u53ef\u4ee5\u96a8\u6642\u5230\u8a2d\u5b9a\u9801\u9762\u64a4\u56de\u6388\u6b0a\u3002",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "與 Mozilla VPN 的整合功能需要訂閱與授予更多權限才可正常使用。"
+    "message": "\u8207 Mozilla VPN \u7684\u6574\u5408\u529f\u80fd\u9700\u8981\u8a02\u95b1\u8207\u6388\u4e88\u66f4\u591a\u6b0a\u9650\u624d\u53ef\u6b63\u5e38\u4f7f\u7528\u3002"
   },
   "enable": {
-    "message": "啟用",
+    "message": "\u555f\u7528",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "將容器與 Mozilla VPN 整合使用"
+    "message": "\u5c07\u5bb9\u5668\u8207 Mozilla VPN \u6574\u5408\u4f7f\u7528"
   },
   "theme": {
-    "message": "佈景主題:",
+    "message": "\u4f48\u666f\u4e3b\u984c:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "選擇佈景主題",
+    "message": "\u9078\u64c7\u4f48\u666f\u4e3b\u984c",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "自動偵測（預設）",
+    "message": "\u81ea\u52d5\u5075\u6e2c\uff08\u9810\u8a2d\uff09",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "亮色",
+    "message": "\u4eae\u8272",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "暗色",
+    "message": "\u6697\u8272",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "用名稱過濾容器分頁清單：",
+    "message": "\u7528\u540d\u7a31\u904e\u6ffe\u5bb9\u5668\u5206\u9801\u6e05\u55ae\uff1a",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "搜尋容器名稱"
+    "message": "\u641c\u5c0b\u5bb9\u5668\u540d\u7a31"
   },
   "imageAltContainerInfo": {
-    "message": "容器資訊",
+    "message": "\u5bb9\u5668\u8cc7\u8a0a",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "預設容器",
+    "message": "\u9810\u8a2d\u5bb9\u5668",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "開啟容器面板",
+    "message": "\u958b\u555f\u5bb9\u5668\u9762\u677f",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "容器快速鍵 $keyId$",
+    "message": "\u5bb9\u5668\u5feb\u901f\u9375 $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "用容器分頁開啟書籤"
+    "message": "\u7528\u5bb9\u5668\u5206\u9801\u958b\u555f\u66f8\u7c64"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "清除此網站的 Cookie",
+    "message": "\u6e05\u9664\u6b64\u7db2\u7ad9\u7684 Cookie",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "移除此網站",
+    "message": "\u79fb\u9664\u6b64\u7db2\u7ad9",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "清理儲存空間與 Cookie",
+    "message": "\u6e05\u7406\u5132\u5b58\u7a7a\u9593\u8207 Cookie",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "成功清除 $siteName$ 的 Cookie",
+    "message": "\u6210\u529f\u6e05\u9664 $siteName$ \u7684 Cookie",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "無法清除 $siteName$ 的 Cookie",
+    "message": "\u7121\u6cd5\u6e05\u9664 $siteName$ \u7684 Cookie",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "已清除 $containerName$ 的儲存空間與 Cookie。",
+    "message": "\u5df2\u6e05\u9664 $containerName$ \u7684\u5132\u5b58\u7a7a\u9593\u8207 Cookie\u3002",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

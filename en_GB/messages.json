@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers helps you keep all the parts of your online life contained in different tabs. Custom labels and colour-coded tabs help keep different activities — like online shopping, travel planning, or checking work email — separate.",
+    "message": "Multi-Account Containers helps you keep all the parts of your online life contained in different tabs. Custom labels and colour-coded tabs help keep different activities \u2014 like online shopping, travel planning, or checking work email \u2014 separate.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Open New Tab in…",
+    "message": "Open New Tab in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Reopen This Site in…",
+    "message": "Reopen This Site in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Always Open This Site in…",
+    "message": "Always Open This Site in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Always open in…",
+    "message": "Always open in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Always Open Site in Container"
   },
   "openANewTabIn": {
-    "message": "Open a New Tab in…"
+    "message": "Open a New Tab in\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Open New Tab in this Container"
@@ -55,7 +55,7 @@
     "message": "A place for everything, and everything in its place."
   },
   "onboarding-3-description": {
-    "message": "Start with the Containers we’ve created, or create your own."
+    "message": "Start with the Containers we\u2019ve created, or create your own."
   },
   "onboarding-4-header": {
     "message": "Always open sites in the Containers you want."
@@ -88,7 +88,7 @@
     "message": "100 tabs!"
   },
   "youHaveOpened": {
-    "message": "You’ve opened 100 Container tabs."
+    "message": "You\u2019ve opened 100 Container tabs."
   },
   "spreadTheWord": {
     "message": "If you enjoy Containers, help us spread the word!"
@@ -157,7 +157,7 @@
     "message": "Delete This Container"
   },
   "manageSiteList": {
-    "message": "Manage Site List…"
+    "message": "Manage Site List\u2026"
   },
   "manageThisContainer": {
     "message": "Manage This Container"
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "$containerName$’s storage and cookies were cleared.",
+    "message": "$containerName$\u2019s storage and cookies were cleared.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

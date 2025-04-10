@@ -1,254 +1,254 @@
 {
   "extensionDescription": {
-    "message": "A Multi-Account Containers segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
+    "message": "A Multi-Account Containers seg\u00edts\u00e9g\u00e9vel online \u00e9let\u00e9nek minden r\u00e9sz\u00e9t k\u00fcl\u00f6nb\u00f6z\u0151, elszigetelt lapokon t\u00e1rolhatja. Az egy\u00e9ni c\u00edmk\u00e9k \u00e9s a sz\u00ednk\u00f3dolt lapok seg\u00edtenek megk\u00fcl\u00f6nb\u00f6ztetni a k\u00fcl\u00f6nb\u00f6z\u0151 tev\u00e9kenys\u00e9geket \u2013 p\u00e9ld\u00e1ul az online v\u00e1s\u00e1rl\u00e1st, az utaz\u00e1stervez\u00e9st vagy a munkahelyi e-mailek ellen\u0151rz\u00e9s\u00e9t.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Új lap megnyitása itt…",
+    "message": "\u00daj lap megnyit\u00e1sa itt\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Ezen oldal újranyitása itt…",
+    "message": "Ezen oldal \u00fajranyit\u00e1sa itt\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Lapok rendezése konténer szerint",
+    "message": "Lapok rendez\u00e9se kont\u00e9ner szerint",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Ezen weboldal megnyitása mindig itt…",
+    "message": "Ezen weboldal megnyit\u00e1sa mindig itt\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Megnyitás mindig itt…",
+    "message": "Megnyit\u00e1s mindig itt\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Oldal megnyitása mindig konténerben"
+    "message": "Oldal megnyit\u00e1sa mindig kont\u00e9nerben"
   },
   "openANewTabIn": {
-    "message": "Új lap megnyitása itt…"
+    "message": "\u00daj lap megnyit\u00e1sa itt\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Új lap megnyitása ebben a konténerben"
+    "message": "\u00daj lap megnyit\u00e1sa ebben a kont\u00e9nerben"
   },
   "openTabs": {
-    "message": "Lapok megnyitása",
+    "message": "Lapok megnyit\u00e1sa",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Lapok áthelyezése új ablakba"
+    "message": "Lapok \u00e1thelyez\u00e9se \u00faj ablakba"
   },
   "onboarding-1-header": {
-    "message": "Egy jobb módja az összes online tevékenységének kezelésének"
+    "message": "Egy jobb m\u00f3dja az \u00f6sszes online tev\u00e9kenys\u00e9g\u00e9nek kezel\u00e9s\u00e9nek"
   },
   "onboarding-1-description": {
-    "message": "Konténerek használata a feladatok szervezéséhez, fiókok kezeléséhez, és hogy arra koncentráljon, amire szeretne."
+    "message": "Kont\u00e9nerek haszn\u00e1lata a feladatok szervez\u00e9s\u00e9hez, fi\u00f3kok kezel\u00e9s\u00e9hez, \u00e9s hogy arra koncentr\u00e1ljon, amire szeretne."
   },
   "onboarding-2-header": {
-    "message": "Dolgozzanak Önnek a konténerek."
+    "message": "Dolgozzanak \u00d6nnek a kont\u00e9nerek."
   },
   "onboarding-2-description": {
-    "message": "Az olyan funkciók, mint a színkódolás és a különálló konténerlapok, segítenek könnyen megtalálni a dolgokat, összpontosítani a figyelmét, és minimalizálni a zavaró tényezőket."
+    "message": "Az olyan funkci\u00f3k, mint a sz\u00ednk\u00f3dol\u00e1s \u00e9s a k\u00fcl\u00f6n\u00e1ll\u00f3 kont\u00e9nerlapok, seg\u00edtenek k\u00f6nnyen megtal\u00e1lni a dolgokat, \u00f6sszpontos\u00edtani a figyelm\u00e9t, \u00e9s minimaliz\u00e1lni a zavar\u00f3 t\u00e9nyez\u0151ket."
   },
   "onboarding-3-header": {
-    "message": "Egy hely mindennek, és minden a helyén."
+    "message": "Egy hely mindennek, \u00e9s minden a hely\u00e9n."
   },
   "onboarding-3-description": {
-    "message": "Kezdje az általunk létrehozott konténerekkel, vagy hozza létre a sajátjait."
+    "message": "Kezdje az \u00e1ltalunk l\u00e9trehozott kont\u00e9nerekkel, vagy hozza l\u00e9tre a saj\u00e1tjait."
   },
   "onboarding-4-header": {
-    "message": "Mindig a kívánt konténerben nyissa meg a webhelyeket."
+    "message": "Mindig a k\u00edv\u00e1nt kont\u00e9nerben nyissa meg a webhelyeket."
   },
   "onboarding-4-description": {
-    "message": "Kattintson a jobb gombbal egy konténerlapon, és rendelje hozzá a webhelyet, hogy mindig abban a konténerben nyíljon meg."
+    "message": "Kattintson a jobb gombbal egy kont\u00e9nerlapon, \u00e9s rendelje hozz\u00e1 a webhelyet, hogy mindig abban a kont\u00e9nerben ny\u00edljon meg."
   },
   "onboarding-5-header": {
-    "message": "Konténerlapok, ha szüksége van rájuk."
+    "message": "Kont\u00e9nerlapok, ha sz\u00fcks\u00e9ge van r\u00e1juk."
   },
   "onboarding-5-description": {
-    "message": "Nyomja hosszan az Új lap gombot egy új konténerlap létrehozásához."
+    "message": "Nyomja hosszan az \u00daj lap gombot egy \u00faj kont\u00e9nerlap l\u00e9trehoz\u00e1s\u00e1hoz."
   },
   "onboarding-6-header": {
-    "message": "A konténerek szinkronizálása már elérhető!"
+    "message": "A kont\u00e9nerek szinkroniz\u00e1l\u00e1sa m\u00e1r el\u00e9rhet\u0151!"
   },
   "onboarding-6-description-2": {
-    "message": "Kapcsolja be a szinkronizálást, hogy megossza a konténereit és a webhely-hozzárendeléseket bármely, a fiókjához csatlakoztatott számítógéppel."
+    "message": "Kapcsolja be a szinkroniz\u00e1l\u00e1st, hogy megossza a kont\u00e9nereit \u00e9s a webhely-hozz\u00e1rendel\u00e9seket b\u00e1rmely, a fi\u00f3kj\u00e1hoz csatlakoztatott sz\u00e1m\u00edt\u00f3g\u00e9ppel."
   },
   "onboarding-7-header-2": {
-    "message": "A szinkronizáláshoz fiók szükséges."
+    "message": "A szinkroniz\u00e1l\u00e1shoz fi\u00f3k sz\u00fcks\u00e9ges."
   },
   "onboarding-7-description-2": {
-    "message": "Kattintson a Bejelentkezésre annak a megerősítéséhez, hogy a fiókja aktív-e."
+    "message": "Kattintson a Bejelentkez\u00e9sre annak a meger\u0151s\u00edt\u00e9s\u00e9hez, hogy a fi\u00f3kja akt\u00edv-e."
   },
   "onboarding-8-description": {
-    "message": "A konténerek mostantól integrációra képesek a Mozilla VPN-nel vagy a saját proxyjával, hogy biztonságos, privát kapcsolatot hozzanak létre, melyek megvédik a tevékenységét."
+    "message": "A kont\u00e9nerek mostant\u00f3l integr\u00e1ci\u00f3ra k\u00e9pesek a Mozilla VPN-nel vagy a saj\u00e1t proxyj\u00e1val, hogy biztons\u00e1gos, priv\u00e1t kapcsolatot hozzanak l\u00e9tre, melyek megv\u00e9dik a tev\u00e9kenys\u00e9g\u00e9t."
   },
   "oneHundredTabsHeader": {
     "message": "100 lap!"
   },
   "youHaveOpened": {
-    "message": "100 konténerlapot nyitott meg."
+    "message": "100 kont\u00e9nerlapot nyitott meg."
   },
   "spreadTheWord": {
-    "message": "Ha élvezi a konténereket, akkor segítsen megismertetni!"
+    "message": "Ha \u00e9lvezi a kont\u00e9nereket, akkor seg\u00edtsen megismertetni!"
   },
   "rate": {
-    "message": "Értékelés"
+    "message": "\u00c9rt\u00e9kel\u00e9s"
   },
   "share": {
-    "message": "Megosztás"
+    "message": "Megoszt\u00e1s"
   },
   "tweet": {
-    "message": "Tweetelés"
+    "message": "Tweetel\u00e9s"
   },
   "default": {
-    "message": "Alapértelmezett"
+    "message": "Alap\u00e9rtelmezett"
   },
   "manageContainers": {
-    "message": "Konténerek kezelése"
+    "message": "Kont\u00e9nerek kezel\u00e9se"
   },
   "newContainer": {
-    "message": "Új konténer"
+    "message": "\u00daj kont\u00e9ner"
   },
   "hideThisContainer": {
-    "message": "Konténer elrejtése"
+    "message": "Kont\u00e9ner elrejt\u00e9se"
   },
   "showThisContainer": {
-    "message": "Konténer megjelenítése"
+    "message": "Kont\u00e9ner megjelen\u00edt\u00e9se"
   },
   "removeThisContainer": {
-    "message": "Konténer eltávolítása"
+    "message": "Kont\u00e9ner elt\u00e1vol\u00edt\u00e1sa"
   },
   "removeThisContainerConfirmation": {
-    "message": "Biztos, hogy törli ezt a konténert?"
+    "message": "Biztos, hogy t\u00f6rli ezt a kont\u00e9nert?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "Konténertároló törlése"
+    "message": "Kont\u00e9nert\u00e1rol\u00f3 t\u00f6rl\u00e9se"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Biztos, hogy törli a sütiket és a tárolót ebből a konténerből?"
+    "message": "Biztos, hogy t\u00f6rli a s\u00fctiket \u00e9s a t\u00e1rol\u00f3t ebb\u0151l a kont\u00e9nerb\u0151l?"
   },
   "cancel": {
-    "message": "Mégse"
+    "message": "M\u00e9gse"
   },
   "ok": {
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "E tárolóhoz rendelt webhelyek"
+    "message": "E t\u00e1rol\u00f3hoz rendelt webhelyek"
   },
   "options": {
-    "message": "Beállítások"
+    "message": "Be\u00e1ll\u00edt\u00e1sok"
   },
   "name": {
-    "message": "Név"
+    "message": "N\u00e9v"
   },
   "color": {
-    "message": "Szín"
+    "message": "Sz\u00edn"
   },
   "icon": {
     "message": "Ikon"
   },
   "limitToDesignatedSites": {
-    "message": "Korlátozás a kijelölt webhelyekre"
+    "message": "Korl\u00e1toz\u00e1s a kijel\u00f6lt webhelyekre"
   },
   "deleteThisContainer": {
-    "message": "Konténer törlése"
+    "message": "Kont\u00e9ner t\u00f6rl\u00e9se"
   },
   "manageSiteList": {
-    "message": "Webhelylista kezelése…"
+    "message": "Webhelylista kezel\u00e9se\u2026"
   },
   "manageThisContainer": {
-    "message": "Konténer kezelése"
+    "message": "Kont\u00e9ner kezel\u00e9se"
   },
   "containers": {
-    "message": "Konténerek"
+    "message": "Kont\u00e9nerek"
   },
   "done": {
-    "message": "Kész"
+    "message": "K\u00e9sz"
   },
   "getStarted": {
-    "message": "Kezdő lépések"
+    "message": "Kezd\u0151 l\u00e9p\u00e9sek"
   },
   "signIn": {
-    "message": "Bejelentkezés"
+    "message": "Bejelentkez\u00e9s"
   },
   "notNow": {
     "message": "Most nem"
   },
   "startSyncing": {
-    "message": "Szinkronizálás indítása"
+    "message": "Szinkroniz\u00e1l\u00e1s ind\u00edt\u00e1sa"
   },
   "info": {
-    "message": "információ",
+    "message": "inform\u00e1ci\u00f3",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Tovább"
+    "message": "Tov\u00e1bb"
   },
   "openThisSiteConfirmation": {
-    "message": "Megnyitja ezt a webhelyet a hozzárendelt konténerben?"
+    "message": "Megnyitja ezt a webhelyet a hozz\u00e1rendelt kont\u00e9nerben?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Továbbra is a jelenlegi konténerben nyitja meg?"
+    "message": "Tov\u00e1bbra is a jelenlegi kont\u00e9nerben nyitja meg?"
   },
   "rememberMyDecision": {
-    "message": "Döntés megjegyzése ehhez az oldalhoz"
+    "message": "D\u00f6nt\u00e9s megjegyz\u00e9se ehhez az oldalhoz"
   },
   "optionalPermissions": {
-    "message": "Nem kötelező engedélyek:"
+    "message": "Nem k\u00f6telez\u0151 enged\u00e9lyek:"
   },
   "keyboardShortCuts": {
-    "message": "Gyorsbillentyűk:"
+    "message": "Gyorsbillenty\u0171k:"
   },
   "onboarding": {
-    "message": "Ismertető"
+    "message": "Ismertet\u0151"
   },
   "resetOnboardingPanels": {
-    "message": "Ismertető panelek alaphelyzetbe állítása"
+    "message": "Ismertet\u0151 panelek alaphelyzetbe \u00e1ll\u00edt\u00e1sa"
   },
   "onboardingToggle": {
-    "message": "Kapcsolja be, hogy újra láthassa az ismertető paneleket."
+    "message": "Kapcsolja be, hogy \u00fajra l\u00e1thassa az ismertet\u0151 paneleket."
   },
   "tabBehavior": {
-    "message": "Lap viselkedése:"
+    "message": "Lap viselked\u00e9se:"
   },
   "enableBookMarkMenus": {
-    "message": "Könyvjelző menük engedélyezése"
+    "message": "K\u00f6nyvjelz\u0151 men\u00fck enged\u00e9lyez\u00e9se"
   },
   "sync": {
-    "message": "Szinkronizálás:"
+    "message": "Szinkroniz\u00e1l\u00e1s:"
   },
   "enableSync": {
-    "message": "Szinkronizálás engedélyezése"
+    "message": "Szinkroniz\u00e1l\u00e1s enged\u00e9lyez\u00e9se"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Ez a beállítás lehetővé teszi egy könyvjelző vagy könyvjelzőmappa konténerben történő megnyitását."
+    "message": "Ez a be\u00e1ll\u00edt\u00e1s lehet\u0151v\u00e9 teszi egy k\u00f6nyvjelz\u0151 vagy k\u00f6nyvjelz\u0151mappa kont\u00e9nerben t\u00f6rt\u00e9n\u0151 megnyit\u00e1s\u00e1t."
   },
   "enableSyncDescription": {
-    "message": "Ez a beállítás lehetővé teszi a konténerek és a webhely-hozzárendelések szinkronizálását az eszközök között."
+    "message": "Ez a be\u00e1ll\u00edt\u00e1s lehet\u0151v\u00e9 teszi a kont\u00e9nerek \u00e9s a webhely-hozz\u00e1rendel\u00e9sek szinkroniz\u00e1l\u00e1s\u00e1t az eszk\u00f6z\u00f6k k\u00f6z\u00f6tt."
   },
   "syncExclude": {
-    "message": "Konténerek kizárása"
+    "message": "Kont\u00e9nerek kiz\u00e1r\u00e1sa"
   },
   "syncExcludePlaceholder": {
-    "message": "Szúrjon be egy reguláris kifejezést"
+    "message": "Sz\u00farjon be egy regul\u00e1ris kifejez\u00e9st"
   },
   "syncExcludeDescription": {
-    "message": "Konténerek kizárása a szinkronizálásból, ha a nevük megfelel a megadott reguláris kifejezésnek (a kis- és nagybetűk egyenértékűek)."
+    "message": "Kont\u00e9nerek kiz\u00e1r\u00e1sa a szinkroniz\u00e1l\u00e1sb\u00f3l, ha a nev\u00fck megfelel a megadott regul\u00e1ris kifejez\u00e9snek (a kis- \u00e9s nagybet\u0171k egyen\u00e9rt\u00e9k\u0171ek)."
   },
   "replaceTab": {
-    "message": "Lap cseréje ahelyett, hogy új lapot hozna létre"
+    "message": "Lap cser\u00e9je ahelyett, hogy \u00faj lapot hozna l\u00e9tre"
   },
   "replaceTabDescription": {
-    "message": "A jelenlegi lap cseréje, ha egy másik konténerhez rendelt oldalt nyílik meg (ahelyett, hogy nyitva maradna a jelenlegi lap). A középső egérgombbal megnyitott lapokat nem érinti."
+    "message": "A jelenlegi lap cser\u00e9je, ha egy m\u00e1sik kont\u00e9nerhez rendelt oldalt ny\u00edlik meg (ahelyett, hogy nyitva maradna a jelenlegi lap). A k\u00f6z\u00e9ps\u0151 eg\u00e9rgombbal megnyitott lapokat nem \u00e9rinti."
   },
   "editWhichContainer": {
-    "message": "Szerkesztés, hogy melyik konténer nyíljon meg a számozott gyorsbillentyű használatakor."
+    "message": "Szerkeszt\u00e9s, hogy melyik kont\u00e9ner ny\u00edljon meg a sz\u00e1mozott gyorsbillenty\u0171 haszn\u00e1latakor."
   },
   "keyboardShortCut": {
-    "message": "A $keyId$ gyorsbillentyűre megnyitandó tároló",
+    "message": "A $keyId$ gyorsbillenty\u0171re megnyitand\u00f3 t\u00e1rol\u00f3",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers  – Navigáció megerősítése",
+    "message": "Multi-Account Containers  \u2013 Navig\u00e1ci\u00f3 meger\u0151s\u00edt\u00e9se",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Megnyitás a(z) $containerName$ konténerben",
+    "message": "Megnyit\u00e1s a(z) $containerName$ kont\u00e9nerben",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Megnyitás a jelenlegi lapon",
+    "message": "Megnyit\u00e1s a jelenlegi lapon",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Azt kért a Firefoxtól, hogy ezt az oldalt mindig a(z) $containerName$ konténerben nyissa meg:",
+    "message": "Azt k\u00e9rt a Firefoxt\u00f3l, hogy ezt az oldalt mindig a(z) $containerName$ kont\u00e9nerben nyissa meg:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,32 +280,32 @@
     }
   },
   "chooseLocation": {
-    "message": "Válasszon helyet",
+    "message": "V\u00e1lasszon helyet",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "Elrejtés"
+    "message": "Elrejt\u00e9s"
   },
   "show": {
-    "message": "Megjelenítés"
+    "message": "Megjelen\u00edt\u00e9s"
   },
   "protectYourContainers": {
-    "message": "Védje meg a konténereit a Mozilla VPN segítségével"
+    "message": "V\u00e9dje meg a kont\u00e9nereit a Mozilla VPN seg\u00edts\u00e9g\u00e9vel"
   },
   "protectThisContainer": {
-    "message": "Ezen konténer megvédése a Mozilla VPN segítségével"
+    "message": "Ezen kont\u00e9ner megv\u00e9d\u00e9se a Mozilla VPN seg\u00edts\u00e9g\u00e9vel"
   },
   "advancedProxySettings": {
-    "message": "Speciális proxybeállítások"
+    "message": "Speci\u00e1lis proxybe\u00e1ll\u00edt\u00e1sok"
   },
   "proxyInputLabel": {
-    "message": "Egyéni proxy megadása"
+    "message": "Egy\u00e9ni proxy megad\u00e1sa"
   },
   "useCustomLocation": {
-    "message": "Egyéni hely használata ehhez a konténerhez"
+    "message": "Egy\u00e9ni hely haszn\u00e1lata ehhez a kont\u00e9nerhez"
   },
   "clearproxylabel": {
-    "message": "Proxy törlése"
+    "message": "Proxy t\u00f6rl\u00e9se"
   },
   "moz-vpn-connected": {
     "message": "A Mozilla VPN be van kapcsolva"
@@ -314,104 +314,104 @@
     "message": "A Mozilla VPN ki van kapcsolva"
   },
   "invalidProxyAlert": {
-    "message": "Írjon be egy érvényes proxy webcímet"
+    "message": "\u00cdrjon be egy \u00e9rv\u00e9nyes proxy webc\u00edmet"
   },
   "mozillaVpnMustBeOn": {
-    "message": "A funkció használatához be kell kapcsolni a Mozilla VPN-t."
+    "message": "A funkci\u00f3 haszn\u00e1lat\u00e1hoz be kell kapcsolni a Mozilla VPN-t."
   },
   "learnMore": {
-    "message": "További tudnivalók"
+    "message": "Tov\u00e1bbi tudnival\u00f3k"
   },
   "proxyNowAvailable": {
-    "message": "Mostantól Mozilla VPN-nel és speciális proxybeállításokkal"
+    "message": "Mostant\u00f3l Mozilla VPN-nel \u00e9s speci\u00e1lis proxybe\u00e1ll\u00edt\u00e1sokkal"
   },
   "applyToContainer": {
-    "message": "Alkalmazás a konténerre"
+    "message": "Alkalmaz\u00e1s a kont\u00e9nerre"
   },
   "tooltipWarning": {
-    "message": "A tároló úgy van beállítva, hogy a Mozilla VPN proxyját használja, de a Mozilla VPN nincs bekapcsolva. A konténer használatához kapcsolja be a Mozilla VPN-t."
+    "message": "A t\u00e1rol\u00f3 \u00fagy van be\u00e1ll\u00edtva, hogy a Mozilla VPN proxyj\u00e1t haszn\u00e1lja, de a Mozilla VPN nincs bekapcsolva. A kont\u00e9ner haszn\u00e1lat\u00e1hoz kapcsolja be a Mozilla VPN-t."
   },
   "getMozillaVpn": {
-    "message": "Mozilla VPN beszerzése"
+    "message": "Mozilla VPN beszerz\u00e9se"
   },
   "integratewithmozillavpn": {
-    "message": "Integrálja a konténereit a Mozilla VPN-nel"
+    "message": "Integr\u00e1lja a kont\u00e9nereit a Mozilla VPN-nel"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN és proxy jogosultságok",
+    "message": "Mozilla VPN \u00e9s proxy jogosults\u00e1gok",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Engedélyezés a kiegészítő számára, hogy üzeneteket váltson a Firefoxtől eltérő programokkal",
+    "message": "Enged\u00e9lyez\u00e9s a kieg\u00e9sz\u00edt\u0151 sz\u00e1m\u00e1ra, hogy \u00fczeneteket v\u00e1ltson a Firefoxt\u0151l elt\u00e9r\u0151 programokkal",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Ez a beállítás lehetővé teszi a kiegészítő számára, hogy üzeneteket váltson a Mozilla VPN klienssel, és ez szükséges a Mozilla VPN integrációs funkcióinak működéséhez.",
+    "message": "Ez a be\u00e1ll\u00edt\u00e1s lehet\u0151v\u00e9 teszi a kieg\u00e9sz\u00edt\u0151 sz\u00e1m\u00e1ra, hogy \u00fczeneteket v\u00e1ltson a Mozilla VPN klienssel, \u00e9s ez sz\u00fcks\u00e9ges a Mozilla VPN integr\u00e1ci\u00f3s funkci\u00f3inak m\u0171k\u00f6d\u00e9s\u00e9hez.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Engedélyezés a kiegészítőnek, hogy szabályozza a proxybeállításokat",
+    "message": "Enged\u00e9lyez\u00e9s a kieg\u00e9sz\u00edt\u0151nek, hogy szab\u00e1lyozza a proxybe\u00e1ll\u00edt\u00e1sokat",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Ez lehetővé teszi a speciális proxybeállítások használatát, és engedélyezi a Mozilla VPN integrációs funkcióit.",
+    "message": "Ez lehet\u0151v\u00e9 teszi a speci\u00e1lis proxybe\u00e1ll\u00edt\u00e1sok haszn\u00e1lat\u00e1t, \u00e9s enged\u00e9lyezi a Mozilla VPN integr\u00e1ci\u00f3s funkci\u00f3it.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "A funkció működéséhez további jogosultság szükséges. A jogosultságok bármikor letilthatók a beállítások oldalon.",
+    "message": "A funkci\u00f3 m\u0171k\u00f6d\u00e9s\u00e9hez tov\u00e1bbi jogosults\u00e1g sz\u00fcks\u00e9ges. A jogosults\u00e1gok b\u00e1rmikor letilthat\u00f3k a be\u00e1ll\u00edt\u00e1sok oldalon.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "A Mozilla VPN integrációhoz előfizetés és további jogosultságok szükségesek."
+    "message": "A Mozilla VPN integr\u00e1ci\u00f3hoz el\u0151fizet\u00e9s \u00e9s tov\u00e1bbi jogosults\u00e1gok sz\u00fcks\u00e9gesek."
   },
   "enable": {
-    "message": "Engedélyezés",
+    "message": "Enged\u00e9lyez\u00e9s",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integrálja a konténereit a Mozilla VPN-nel"
+    "message": "Integr\u00e1lja a kont\u00e9nereit a Mozilla VPN-nel"
   },
   "theme": {
-    "message": "Téma:",
+    "message": "T\u00e9ma:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Válasszon témát",
+    "message": "V\u00e1lasszon t\u00e9m\u00e1t",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Automatikus észlelés (alapértelmezett)",
+    "message": "Automatikus \u00e9szlel\u00e9s (alap\u00e9rtelmezett)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "Világos",
+    "message": "Vil\u00e1gos",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "Sötét",
+    "message": "S\u00f6t\u00e9t",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Konténerlista szűrése név szerint:",
+    "message": "Kont\u00e9nerlista sz\u0171r\u00e9se n\u00e9v szerint:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Konténernév keresése"
+    "message": "Kont\u00e9nern\u00e9v keres\u00e9se"
   },
   "imageAltContainerInfo": {
-    "message": "Konténerinformációk",
+    "message": "Kont\u00e9nerinform\u00e1ci\u00f3k",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "Alapértelmezett konténer",
+    "message": "Alap\u00e9rtelmezett kont\u00e9ner",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Konténerpanel megnyitása",
+    "message": "Kont\u00e9nerpanel megnyit\u00e1sa",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "$keyId$. konténer gyorsbillentyűje",
+    "message": "$keyId$. kont\u00e9ner gyorsbillenty\u0171je",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Könyvjelző megnyitása új konténerlapon"
+    "message": "K\u00f6nyvjelz\u0151 megnyit\u00e1sa \u00faj kont\u00e9nerlapon"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Sütik törlése erről a webhelyről",
+    "message": "S\u00fctik t\u00f6rl\u00e9se err\u0151l a webhelyr\u0151l",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "Webhely eltávolítása",
+    "message": "Webhely elt\u00e1vol\u00edt\u00e1sa",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "Tároló és sütik törlése",
+    "message": "T\u00e1rol\u00f3 \u00e9s s\u00fctik t\u00f6rl\u00e9se",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "A(z) $siteName$ sütijei sikeresen törölve lettek",
+    "message": "A(z) $siteName$ s\u00fctijei sikeresen t\u00f6r\u00f6lve lettek",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "A sütik nem törölhetőek a következőnél: $siteName$",
+    "message": "A s\u00fctik nem t\u00f6r\u00f6lhet\u0151ek a k\u00f6vetkez\u0151n\u00e9l: $siteName$",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "A(z) $containerName$ tárolója és sütijei törölve lettek.",
+    "message": "A(z) $containerName$ t\u00e1rol\u00f3ja \u00e9s s\u00fctijei t\u00f6r\u00f6lve lettek.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

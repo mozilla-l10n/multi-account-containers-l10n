@@ -1,254 +1,254 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers 可让您临时或永久地以指定身份打开生活中的网站（小号多开）。名称和颜色皆可自定义，助您分门别类地管理各种活动 — 网络购物、旅行规划、收发工作邮件等等。",
+    "message": "Multi-Account Containers \u53ef\u8ba9\u60a8\u4e34\u65f6\u6216\u6c38\u4e45\u5730\u4ee5\u6307\u5b9a\u8eab\u4efd\u6253\u5f00\u751f\u6d3b\u4e2d\u7684\u7f51\u7ad9\uff08\u5c0f\u53f7\u591a\u5f00\uff09\u3002\u540d\u79f0\u548c\u989c\u8272\u7686\u53ef\u81ea\u5b9a\u4e49\uff0c\u52a9\u60a8\u5206\u95e8\u522b\u7c7b\u5730\u7ba1\u7406\u5404\u79cd\u6d3b\u52a8 \u2014 \u7f51\u7edc\u8d2d\u7269\u3001\u65c5\u884c\u89c4\u5212\u3001\u6536\u53d1\u5de5\u4f5c\u90ae\u4ef6\u7b49\u7b49\u3002",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "新建身份标签页打开…",
+    "message": "\u65b0\u5efa\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "用身份标签页重新打开…",
+    "message": "\u7528\u8eab\u4efd\u6807\u7b7e\u9875\u91cd\u65b0\u6253\u5f00\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "按身份排序标签页",
+    "message": "\u6309\u8eab\u4efd\u6392\u5e8f\u6807\u7b7e\u9875",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "总是用身份标签页打开此网站…",
+    "message": "\u603b\u662f\u7528\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u6b64\u7f51\u7ad9\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "总是用身份标签页打开…",
+    "message": "\u603b\u662f\u7528\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "总是用身份标签页打开网站"
+    "message": "\u603b\u662f\u7528\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u7f51\u7ad9"
   },
   "openANewTabIn": {
-    "message": "新建身份标签页打开…"
+    "message": "\u65b0\u5efa\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "用此身份新建标签页"
+    "message": "\u7528\u6b64\u8eab\u4efd\u65b0\u5efa\u6807\u7b7e\u9875"
   },
   "openTabs": {
-    "message": "打开的标签页",
+    "message": "\u6253\u5f00\u7684\u6807\u7b7e\u9875",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "将标签页移动到新窗口"
+    "message": "\u5c06\u6807\u7b7e\u9875\u79fb\u52a8\u5230\u65b0\u7a97\u53e3"
   },
   "onboarding-1-header": {
-    "message": "更佳的网络生活管理方式"
+    "message": "\u66f4\u4f73\u7684\u7f51\u7edc\u751f\u6d3b\u7ba1\u7406\u65b9\u5f0f"
   },
   "onboarding-1-description": {
-    "message": "用该功能安排任务、管理账户，专注于更重要的事情。"
+    "message": "\u7528\u8be5\u529f\u80fd\u5b89\u6392\u4efb\u52a1\u3001\u7ba1\u7406\u8d26\u6237\uff0c\u4e13\u6ce8\u4e8e\u66f4\u91cd\u8981\u7684\u4e8b\u60c5\u3002"
   },
   "onboarding-2-header": {
-    "message": "不同身份，一键切换。"
+    "message": "\u4e0d\u540c\u8eab\u4efd\uff0c\u4e00\u952e\u5207\u6362\u3002"
   },
   "onboarding-2-description": {
-    "message": "“数据隔离 + 颜色标识”的标签页，助力您的工作与学习，保持专注、减少分心。"
+    "message": "\u201c\u6570\u636e\u9694\u79bb + \u989c\u8272\u6807\u8bc6\u201d\u7684\u6807\u7b7e\u9875\uff0c\u52a9\u529b\u60a8\u7684\u5de5\u4f5c\u4e0e\u5b66\u4e60\uff0c\u4fdd\u6301\u4e13\u6ce8\u3001\u51cf\u5c11\u5206\u5fc3\u3002"
   },
   "onboarding-3-header": {
-    "message": "一览无余，井井有条。"
+    "message": "\u4e00\u89c8\u65e0\u4f59\uff0c\u4e95\u4e95\u6709\u6761\u3002"
   },
   "onboarding-3-description": {
-    "message": "默认四种身份，您可按需新建更多。"
+    "message": "\u9ed8\u8ba4\u56db\u79cd\u8eab\u4efd\uff0c\u60a8\u53ef\u6309\u9700\u65b0\u5efa\u66f4\u591a\u3002"
   },
   "onboarding-4-header": {
-    "message": "按您所需，为特定网站指定所用身份。"
+    "message": "\u6309\u60a8\u6240\u9700\uff0c\u4e3a\u7279\u5b9a\u7f51\u7ad9\u6307\u5b9a\u6240\u7528\u8eab\u4efd\u3002"
   },
   "onboarding-4-description": {
-    "message": "右键点击地址栏图标，即可指定网站总以该身份打开。"
+    "message": "\u53f3\u952e\u70b9\u51fb\u5730\u5740\u680f\u56fe\u6807\uff0c\u5373\u53ef\u6307\u5b9a\u7f51\u7ad9\u603b\u4ee5\u8be5\u8eab\u4efd\u6253\u5f00\u3002"
   },
   "onboarding-5-header": {
-    "message": "按需以不同身份打开标签页。"
+    "message": "\u6309\u9700\u4ee5\u4e0d\u540c\u8eab\u4efd\u6253\u5f00\u6807\u7b7e\u9875\u3002"
   },
   "onboarding-5-description": {
-    "message": "长按“新建标签页”按钮，即可选择身份。"
+    "message": "\u957f\u6309\u201c\u65b0\u5efa\u6807\u7b7e\u9875\u201d\u6309\u94ae\uff0c\u5373\u53ef\u9009\u62e9\u8eab\u4efd\u3002"
   },
   "onboarding-6-header": {
-    "message": "身份同步功能正式推出！"
+    "message": "\u8eab\u4efd\u540c\u6b65\u529f\u80fd\u6b63\u5f0f\u63a8\u51fa\uff01"
   },
   "onboarding-6-description-2": {
-    "message": "开启同步后，即可将身份及网站设置同步到所有已登录账户的计算机。"
+    "message": "\u5f00\u542f\u540c\u6b65\u540e\uff0c\u5373\u53ef\u5c06\u8eab\u4efd\u53ca\u7f51\u7ad9\u8bbe\u7f6e\u540c\u6b65\u5230\u6240\u6709\u5df2\u767b\u5f55\u8d26\u6237\u7684\u8ba1\u7b97\u673a\u3002"
   },
   "onboarding-7-header-2": {
-    "message": "需要登录账户才能同步。"
+    "message": "\u9700\u8981\u767b\u5f55\u8d26\u6237\u624d\u80fd\u540c\u6b65\u3002"
   },
   "onboarding-7-description-2": {
-    "message": "点击登录，即可确认您的账户启用状态。"
+    "message": "\u70b9\u51fb\u767b\u5f55\uff0c\u5373\u53ef\u786e\u8ba4\u60a8\u7684\u8d26\u6237\u542f\u7528\u72b6\u6001\u3002"
   },
   "onboarding-8-description": {
-    "message": "现在起支持使用 Mozilla VPN 或您的自有代理建立安全、私密的连接，更好地保护您的上网活动。"
+    "message": "\u73b0\u5728\u8d77\u652f\u6301\u4f7f\u7528 Mozilla VPN \u6216\u60a8\u7684\u81ea\u6709\u4ee3\u7406\u5efa\u7acb\u5b89\u5168\u3001\u79c1\u5bc6\u7684\u8fde\u63a5\uff0c\u66f4\u597d\u5730\u4fdd\u62a4\u60a8\u7684\u4e0a\u7f51\u6d3b\u52a8\u3002"
   },
   "oneHundredTabsHeader": {
-    "message": "100 个标签页！"
+    "message": "100 \u4e2a\u6807\u7b7e\u9875\uff01"
   },
   "youHaveOpened": {
-    "message": "您已打开 100 个身份标签页。"
+    "message": "\u60a8\u5df2\u6253\u5f00 100 \u4e2a\u8eab\u4efd\u6807\u7b7e\u9875\u3002"
   },
   "spreadTheWord": {
-    "message": "若您喜欢这个功能，就请向大家多多安利哟！"
+    "message": "\u82e5\u60a8\u559c\u6b22\u8fd9\u4e2a\u529f\u80fd\uff0c\u5c31\u8bf7\u5411\u5927\u5bb6\u591a\u591a\u5b89\u5229\u54df\uff01"
   },
   "rate": {
-    "message": "评分"
+    "message": "\u8bc4\u5206"
   },
   "share": {
-    "message": "分享"
+    "message": "\u5206\u4eab"
   },
   "tweet": {
-    "message": "推文"
+    "message": "\u63a8\u6587"
   },
   "default": {
-    "message": "默认"
+    "message": "\u9ed8\u8ba4"
   },
   "manageContainers": {
-    "message": "管理身份"
+    "message": "\u7ba1\u7406\u8eab\u4efd"
   },
   "newContainer": {
-    "message": "新建身份"
+    "message": "\u65b0\u5efa\u8eab\u4efd"
   },
   "hideThisContainer": {
-    "message": "隐藏此身份"
+    "message": "\u9690\u85cf\u6b64\u8eab\u4efd"
   },
   "showThisContainer": {
-    "message": "显示此身份"
+    "message": "\u663e\u793a\u6b64\u8eab\u4efd"
   },
   "removeThisContainer": {
-    "message": "移除此身份"
+    "message": "\u79fb\u9664\u6b64\u8eab\u4efd"
   },
   "removeThisContainerConfirmation": {
-    "message": "您确定要移除此身份吗？"
+    "message": "\u60a8\u786e\u5b9a\u8981\u79fb\u9664\u6b64\u8eab\u4efd\u5417\uff1f"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "清理身份存储空间"
+    "message": "\u6e05\u7406\u8eab\u4efd\u5b58\u50a8\u7a7a\u95f4"
   },
   "clearContainerStorageConfirmation": {
-    "message": "确定要清理此身份的 Cookie 和存储空间吗？"
+    "message": "\u786e\u5b9a\u8981\u6e05\u7406\u6b64\u8eab\u4efd\u7684 Cookie \u548c\u5b58\u50a8\u7a7a\u95f4\u5417\uff1f"
   },
   "cancel": {
-    "message": "取消"
+    "message": "\u53d6\u6d88"
   },
   "ok": {
-    "message": "确定"
+    "message": "\u786e\u5b9a"
   },
   "sitesAssignedToThisContainer": {
-    "message": "指定至此身份的网站"
+    "message": "\u6307\u5b9a\u81f3\u6b64\u8eab\u4efd\u7684\u7f51\u7ad9"
   },
   "options": {
-    "message": "选项"
+    "message": "\u9009\u9879"
   },
   "name": {
-    "message": "名称"
+    "message": "\u540d\u79f0"
   },
   "color": {
-    "message": "颜色"
+    "message": "\u989c\u8272"
   },
   "icon": {
-    "message": "图标"
+    "message": "\u56fe\u6807"
   },
   "limitToDesignatedSites": {
-    "message": "限制特定网站"
+    "message": "\u9650\u5236\u7279\u5b9a\u7f51\u7ad9"
   },
   "deleteThisContainer": {
-    "message": "删除此身份"
+    "message": "\u5220\u9664\u6b64\u8eab\u4efd"
   },
   "manageSiteList": {
-    "message": "管理网站列表…"
+    "message": "\u7ba1\u7406\u7f51\u7ad9\u5217\u8868\u2026"
   },
   "manageThisContainer": {
-    "message": "管理此身份"
+    "message": "\u7ba1\u7406\u6b64\u8eab\u4efd"
   },
   "containers": {
-    "message": "身份"
+    "message": "\u8eab\u4efd"
   },
   "done": {
-    "message": "完成"
+    "message": "\u5b8c\u6210"
   },
   "getStarted": {
-    "message": "开始使用"
+    "message": "\u5f00\u59cb\u4f7f\u7528"
   },
   "signIn": {
-    "message": "登录"
+    "message": "\u767b\u5f55"
   },
   "notNow": {
-    "message": "暂时不要"
+    "message": "\u6682\u65f6\u4e0d\u8981"
   },
   "startSyncing": {
-    "message": "开始同步"
+    "message": "\u5f00\u59cb\u540c\u6b65"
   },
   "info": {
-    "message": "信息",
+    "message": "\u4fe1\u606f",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "下一步"
+    "message": "\u4e0b\u4e00\u6b65"
   },
   "openThisSiteConfirmation": {
-    "message": "要用您指定的身份打开此网站吗？"
+    "message": "\u8981\u7528\u60a8\u6307\u5b9a\u7684\u8eab\u4efd\u6253\u5f00\u6b64\u7f51\u7ad9\u5417\uff1f"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "仍要以当前身份打开？"
+    "message": "\u4ecd\u8981\u4ee5\u5f53\u524d\u8eab\u4efd\u6253\u5f00\uff1f"
   },
   "rememberMyDecision": {
-    "message": "记住我对此网站的决定"
+    "message": "\u8bb0\u4f4f\u6211\u5bf9\u6b64\u7f51\u7ad9\u7684\u51b3\u5b9a"
   },
   "optionalPermissions": {
-    "message": "可选权限："
+    "message": "\u53ef\u9009\u6743\u9650\uff1a"
   },
   "keyboardShortCuts": {
-    "message": "键盘快捷键："
+    "message": "\u952e\u76d8\u5feb\u6377\u952e\uff1a"
   },
   "onboarding": {
-    "message": "快速入门"
+    "message": "\u5feb\u901f\u5165\u95e8"
   },
   "resetOnboardingPanels": {
-    "message": "重置入门面板"
+    "message": "\u91cd\u7f6e\u5165\u95e8\u9762\u677f"
   },
   "onboardingToggle": {
-    "message": "切换此选项即可再次查看入门面板。"
+    "message": "\u5207\u6362\u6b64\u9009\u9879\u5373\u53ef\u518d\u6b21\u67e5\u770b\u5165\u95e8\u9762\u677f\u3002"
   },
   "tabBehavior": {
-    "message": "标签页行为："
+    "message": "\u6807\u7b7e\u9875\u884c\u4e3a\uff1a"
   },
   "enableBookMarkMenus": {
-    "message": "启用书签菜单"
+    "message": "\u542f\u7528\u4e66\u7b7e\u83dc\u5355"
   },
   "sync": {
-    "message": "同步："
+    "message": "\u540c\u6b65\uff1a"
   },
   "enableSync": {
-    "message": "启用同步"
+    "message": "\u542f\u7528\u540c\u6b65"
   },
   "enableBookMarkMenusDescription": {
-    "message": "此设置让您可用身份标签页打开单个书签或整个书签文件夹。"
+    "message": "\u6b64\u8bbe\u7f6e\u8ba9\u60a8\u53ef\u7528\u8eab\u4efd\u6807\u7b7e\u9875\u6253\u5f00\u5355\u4e2a\u4e66\u7b7e\u6216\u6574\u4e2a\u4e66\u7b7e\u6587\u4ef6\u5939\u3002"
   },
   "enableSyncDescription": {
-    "message": "此设置让您可在设备间同步身份和网站设置。"
+    "message": "\u6b64\u8bbe\u7f6e\u8ba9\u60a8\u53ef\u5728\u8bbe\u5907\u95f4\u540c\u6b65\u8eab\u4efd\u548c\u7f51\u7ad9\u8bbe\u7f6e\u3002"
   },
   "syncExclude": {
-    "message": "排除身份标签页"
+    "message": "\u6392\u9664\u8eab\u4efd\u6807\u7b7e\u9875"
   },
   "syncExcludePlaceholder": {
-    "message": "请输入正则表达式"
+    "message": "\u8bf7\u8f93\u5165\u6b63\u5219\u8868\u8fbe\u5f0f"
   },
   "syncExcludeDescription": {
-    "message": "排除同步匹配下列正则表达式（不区分大小写）名称的身份标签页。"
+    "message": "\u6392\u9664\u540c\u6b65\u5339\u914d\u4e0b\u5217\u6b63\u5219\u8868\u8fbe\u5f0f\uff08\u4e0d\u533a\u5206\u5927\u5c0f\u5199\uff09\u540d\u79f0\u7684\u8eab\u4efd\u6807\u7b7e\u9875\u3002"
   },
   "replaceTab": {
-    "message": "覆盖标签页，而非新建标签页"
+    "message": "\u8986\u76d6\u6807\u7b7e\u9875\uff0c\u800c\u975e\u65b0\u5efa\u6807\u7b7e\u9875"
   },
   "replaceTabDescription": {
-    "message": "打开被指定至另一身份的页面时，覆盖当前标签页（不保留打开的标签页）。用鼠标中键打开标签页则不受影响。"
+    "message": "\u6253\u5f00\u88ab\u6307\u5b9a\u81f3\u53e6\u4e00\u8eab\u4efd\u7684\u9875\u9762\u65f6\uff0c\u8986\u76d6\u5f53\u524d\u6807\u7b7e\u9875\uff08\u4e0d\u4fdd\u7559\u6253\u5f00\u7684\u6807\u7b7e\u9875\uff09\u3002\u7528\u9f20\u6807\u4e2d\u952e\u6253\u5f00\u6807\u7b7e\u9875\u5219\u4e0d\u53d7\u5f71\u54cd\u3002"
   },
   "editWhichContainer": {
-    "message": "编辑各数字快捷键所对应的身份。"
+    "message": "\u7f16\u8f91\u5404\u6570\u5b57\u5feb\u6377\u952e\u6240\u5bf9\u5e94\u7684\u8eab\u4efd\u3002"
   },
   "keyboardShortCut": {
-    "message": "用快捷键 $keyId$ 打开身份",
+    "message": "\u7528\u5feb\u6377\u952e $keyId$ \u6253\u5f00\u8eab\u4efd",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers 确认导航",
+    "message": "Multi-Account Containers \u786e\u8ba4\u5bfc\u822a",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "打开（$containerName$）",
+    "message": "\u6253\u5f00\uff08$containerName$\uff09",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "用当前标签页打开",
+    "message": "\u7528\u5f53\u524d\u6807\u7b7e\u9875\u6253\u5f00",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "您要求 Firefox 总以“$containerName$”身份打开此网站：",
+    "message": "\u60a8\u8981\u6c42 Firefox \u603b\u4ee5\u201c$containerName$\u201d\u8eab\u4efd\u6253\u5f00\u6b64\u7f51\u7ad9\uff1a",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,138 +280,138 @@
     }
   },
   "chooseLocation": {
-    "message": "选择位置",
+    "message": "\u9009\u62e9\u4f4d\u7f6e",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "隐藏"
+    "message": "\u9690\u85cf"
   },
   "show": {
-    "message": "显示"
+    "message": "\u663e\u793a"
   },
   "protectYourContainers": {
-    "message": "用 Mozilla VPN 保护您的身份"
+    "message": "\u7528 Mozilla VPN \u4fdd\u62a4\u60a8\u7684\u8eab\u4efd"
   },
   "protectThisContainer": {
-    "message": "用 Mozilla VPN 保护此身份"
+    "message": "\u7528 Mozilla VPN \u4fdd\u62a4\u6b64\u8eab\u4efd"
   },
   "advancedProxySettings": {
-    "message": "高级代理设置"
+    "message": "\u9ad8\u7ea7\u4ee3\u7406\u8bbe\u7f6e"
   },
   "proxyInputLabel": {
-    "message": "输入自定义代理"
+    "message": "\u8f93\u5165\u81ea\u5b9a\u4e49\u4ee3\u7406"
   },
   "useCustomLocation": {
-    "message": "为此身份使用自定义位置"
+    "message": "\u4e3a\u6b64\u8eab\u4efd\u4f7f\u7528\u81ea\u5b9a\u4e49\u4f4d\u7f6e"
   },
   "clearproxylabel": {
-    "message": "清除代理"
+    "message": "\u6e05\u9664\u4ee3\u7406"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN 已开启"
+    "message": "Mozilla VPN \u5df2\u5f00\u542f"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN 已关闭"
+    "message": "Mozilla VPN \u5df2\u5173\u95ed"
   },
   "invalidProxyAlert": {
-    "message": "请输入有效的代理网址"
+    "message": "\u8bf7\u8f93\u5165\u6709\u6548\u7684\u4ee3\u7406\u7f51\u5740"
   },
   "mozillaVpnMustBeOn": {
-    "message": "须启用 Mozilla VPN 才能使用此功能。"
+    "message": "\u987b\u542f\u7528 Mozilla VPN \u624d\u80fd\u4f7f\u7528\u6b64\u529f\u80fd\u3002"
   },
   "learnMore": {
-    "message": "详细了解"
+    "message": "\u8be6\u7ec6\u4e86\u89e3"
   },
   "proxyNowAvailable": {
-    "message": "现已整合 Mozilla VPN 及高级代理设置"
+    "message": "\u73b0\u5df2\u6574\u5408 Mozilla VPN \u53ca\u9ad8\u7ea7\u4ee3\u7406\u8bbe\u7f6e"
   },
   "applyToContainer": {
-    "message": "应用至身份"
+    "message": "\u5e94\u7528\u81f3\u8eab\u4efd"
   },
   "tooltipWarning": {
-    "message": "此身份已设置为使用 Mozilla VPN 代理，但 Mozilla VPN 尚未开启。请启用 Mozilla VPN 以使用此身份。"
+    "message": "\u6b64\u8eab\u4efd\u5df2\u8bbe\u7f6e\u4e3a\u4f7f\u7528 Mozilla VPN \u4ee3\u7406\uff0c\u4f46 Mozilla VPN \u5c1a\u672a\u5f00\u542f\u3002\u8bf7\u542f\u7528 Mozilla VPN \u4ee5\u4f7f\u7528\u6b64\u8eab\u4efd\u3002"
   },
   "getMozillaVpn": {
-    "message": "下载 Mozilla VPN"
+    "message": "\u4e0b\u8f7d Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "将 Mozilla VPN 与身份标签页整合"
+    "message": "\u5c06 Mozilla VPN \u4e0e\u8eab\u4efd\u6807\u7b7e\u9875\u6574\u5408"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN 与代理权限",
+    "message": "Mozilla VPN \u4e0e\u4ee3\u7406\u6743\u9650",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "允许扩展与 Firefox 以外的程序交换消息",
+    "message": "\u5141\u8bb8\u6269\u5c55\u4e0e Firefox \u4ee5\u5916\u7684\u7a0b\u5e8f\u4ea4\u6362\u6d88\u606f",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "此设置允许扩展与 Mozilla VPN 客户端交换消息，如此与 Mozilla VPN 整合功能才可正常使用。",
+    "message": "\u6b64\u8bbe\u7f6e\u5141\u8bb8\u6269\u5c55\u4e0e Mozilla VPN \u5ba2\u6237\u7aef\u4ea4\u6362\u6d88\u606f\uff0c\u5982\u6b64\u4e0e Mozilla VPN \u6574\u5408\u529f\u80fd\u624d\u53ef\u6b63\u5e38\u4f7f\u7528\u3002",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "允许扩展控制代理设置",
+    "message": "\u5141\u8bb8\u6269\u5c55\u63a7\u5236\u4ee3\u7406\u8bbe\u7f6e",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "此权限允许您使用高级代理设置，并启用与 Mozilla VPN 的整合功能。",
+    "message": "\u6b64\u6743\u9650\u5141\u8bb8\u60a8\u4f7f\u7528\u9ad8\u7ea7\u4ee3\u7406\u8bbe\u7f6e\uff0c\u5e76\u542f\u7528\u4e0e Mozilla VPN \u7684\u6574\u5408\u529f\u80fd\u3002",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "此功能需额外权限才可使用，可随时到设置页面撤回。",
+    "message": "\u6b64\u529f\u80fd\u9700\u989d\u5916\u6743\u9650\u624d\u53ef\u4f7f\u7528\uff0c\u53ef\u968f\u65f6\u5230\u8bbe\u7f6e\u9875\u9762\u64a4\u56de\u3002",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "与 Mozilla VPN 的整合功能需要订阅并授予更多权限才可使用。"
+    "message": "\u4e0e Mozilla VPN \u7684\u6574\u5408\u529f\u80fd\u9700\u8981\u8ba2\u9605\u5e76\u6388\u4e88\u66f4\u591a\u6743\u9650\u624d\u53ef\u4f7f\u7528\u3002"
   },
   "enable": {
-    "message": "启用",
+    "message": "\u542f\u7528",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "将 Mozilla VPN 与身份标签页整合"
+    "message": "\u5c06 Mozilla VPN \u4e0e\u8eab\u4efd\u6807\u7b7e\u9875\u6574\u5408"
   },
   "theme": {
-    "message": "主题：",
+    "message": "\u4e3b\u9898\uff1a",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "选择主题",
+    "message": "\u9009\u62e9\u4e3b\u9898",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "自动检测（默认）",
+    "message": "\u81ea\u52a8\u68c0\u6d4b\uff08\u9ed8\u8ba4\uff09",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "浅色",
+    "message": "\u6d45\u8272",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "深色",
+    "message": "\u6df1\u8272",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "按名称过滤身份列表：",
+    "message": "\u6309\u540d\u79f0\u8fc7\u6ee4\u8eab\u4efd\u5217\u8868\uff1a",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "搜索身份名称"
+    "message": "\u641c\u7d22\u8eab\u4efd\u540d\u79f0"
   },
   "imageAltContainerInfo": {
-    "message": "身份信息",
+    "message": "\u8eab\u4efd\u4fe1\u606f",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "默认身份",
+    "message": "\u9ed8\u8ba4\u8eab\u4efd",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "打开身份管理面板",
+    "message": "\u6253\u5f00\u8eab\u4efd\u7ba1\u7406\u9762\u677f",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "身份快捷键 $keyId$",
+    "message": "\u8eab\u4efd\u5feb\u6377\u952e $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "在身份标签页中打开书签"
+    "message": "\u5728\u8eab\u4efd\u6807\u7b7e\u9875\u4e2d\u6253\u5f00\u4e66\u7b7e"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "清除此网站的 Cookie",
+    "message": "\u6e05\u9664\u6b64\u7f51\u7ad9\u7684 Cookie",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "移除此网站",
+    "message": "\u79fb\u9664\u6b64\u7f51\u7ad9",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "清理存储空间和 Cookie",
+    "message": "\u6e05\u7406\u5b58\u50a8\u7a7a\u95f4\u548c Cookie",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "已成功清除 $siteName$ 的Cookie",
+    "message": "\u5df2\u6210\u529f\u6e05\u9664 $siteName$ \u7684Cookie",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "无法清除 $siteName$ 的 Cookie",
+    "message": "\u65e0\u6cd5\u6e05\u9664 $siteName$ \u7684 Cookie",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "已清理“$containerName$”的存储空间和 Cookie。",
+    "message": "\u5df2\u6e05\u7406\u201c$containerName$\u201d\u7684\u5b58\u50a8\u7a7a\u95f4\u548c Cookie\u3002",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

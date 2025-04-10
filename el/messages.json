@@ -248,21 +248,36 @@
     "message": "\u0395\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5 \u03c0\u03bf\u03b9\u03b1 \u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1 \u03b8\u03b1 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c4\u03bf\u03bc\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2."
   },
   "keyboardShortCut": {
-    "message": "\u0398\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03bd\u03c4\u03cc\u03bc\u03b5\u03c5\u03c3\u03b7 \u03c0\u03bb\u03b7\u03ba\u03c4\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03bf\u03c5 $keyId$"
+    "message": "\u0398\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03bd\u03c4\u03cc\u03bc\u03b5\u03c5\u03c3\u03b7 \u03c0\u03bb\u03b7\u03ba\u03c4\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03bf\u03c5 $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account Containers - \u0395\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b7 \u03c0\u03bb\u03bf\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1 \u00ab$containerName$\u00bb"
+    "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1 \u00ab$containerName$\u00bb",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "openInNoContainer": {
     "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03c4\u03b7\u03bd \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03c3\u03b1 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf Firefox \u03bd\u03b1 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03c4\u03bf \u00ab$containerName$\u00bb \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf:"
+    "message": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03b6\u03b7\u03c4\u03ae\u03c3\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf Firefox \u03bd\u03b1 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03c4\u03bf \u00ab$containerName$\u00bb \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   },
   "chooseLocation": {
     "message": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1\u03c2",
@@ -397,7 +412,12 @@
   },
   "containerShortcut": {
     "message": "\u03a3\u03c5\u03bd\u03c4\u03cc\u03bc\u03b5\u03c5\u03c3\u03b7 \u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b5\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 $keyId$",
-    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10."
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "openBookmarkInContainerTab": {
     "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5\u03bb\u03b9\u03b4\u03bf\u03b4\u03b5\u03af\u03ba\u03c4\u03b7 \u03c3\u03b5 \u03b8\u03b5\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b1"
@@ -416,14 +436,29 @@
   },
   "cookiesClearedSuccess": {
     "message": "\u03a4\u03b1 cookie \u03b3\u03b9\u03b1 \u03c4\u03bf $siteName$ \u03b4\u03b9\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03ce\u03c2",
-    "description": "Label to confirm that cookies were cleared in the site manager"
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   },
   "cookiesCouldNotBeCleared": {
     "message": "\u0394\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b4\u03c5\u03bd\u03b1\u03c4\u03ae \u03b7 \u03b1\u03c0\u03b1\u03bb\u03bf\u03b9\u03c6\u03ae \u03c4\u03c9\u03bd cookie \u03b3\u03b9\u03b1 \u03c4\u03bf $siteName$",
-    "description": "Error message that shows if cookies could not be cleared in the site manager"
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
   },
   "storageWasClearedConfirmation": {
     "message": "\u0388\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c0\u03b1\u03bb\u03bf\u03b9\u03c6\u03ae \u03c4\u03bf\u03c5 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03c4\u03b9\u03ba\u03bf\u03cd \u03c7\u03ce\u03c1\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd cookie \u03c4\u03bf\u03c5 \u00ab$containerName$\u00bb.",
-    "description": "The confirmation label that a containers storage was cleared successfully."
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
