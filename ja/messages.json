@@ -211,6 +211,16 @@
   "onboardingToggle": {
     "message": "クリックすると、機能紹介パネルをもう一度表示します。"
   },
+  "tabBehavior": {
+    "message": "タブの動作:"
+  },
+  "sync": {
+    "message": "同期:"
+  },
+  "theme": {
+    "message": "テーマ:",
+    "description": "Theme section title in the option page"
+  },
   "filterInputPlaceholder": {
     "message": "コンテナー名を検索"
   }
