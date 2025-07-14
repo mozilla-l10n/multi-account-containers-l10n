@@ -220,6 +220,24 @@
   "sync": {
     "message": "同期:"
   },
+  "enableSync": {
+    "message": "同期を有効にする"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "この設定を有効にすると、ブックマークやブックマークのフォルダーをコンテナーで開けるようになります。"
+  },
+  "enableSyncDescription": {
+    "message": "この設定を有効にすると、端末間でコンテナーとサイトの割り当てを同期できます。"
+  },
+  "syncExclude": {
+    "message": "例外のコンテナー"
+  },
+  "syncExcludePlaceholder": {
+    "message": "正規表現を挿入してください"
+  },
+  "syncExcludeDescription": {
+    "message": "大文字と小文字を区別しない正規表現によって指定された名前と一致するコンテナーは、同期から除外します。"
+  },
   "theme": {
     "message": "テーマ:",
     "description": "Theme section title in the option page"
