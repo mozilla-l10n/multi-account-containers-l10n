@@ -214,6 +214,9 @@
   "tabBehavior": {
     "message": "タブの動作:"
   },
+  "enableBookMarkMenus": {
+    "message": "ブックマークメニューを有効にする"
+  },
   "sync": {
     "message": "同期:"
   },
