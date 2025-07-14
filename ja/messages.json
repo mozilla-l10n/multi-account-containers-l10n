@@ -279,6 +279,15 @@
       }
     }
   },
+  "hide": {
+    "message": "隠す"
+  },
+  "show": {
+    "message": "表示"
+  },
+  "learnMore": {
+    "message": "詳細情報"
+  },
   "theme": {
     "message": "テーマ:",
     "description": "Theme section title in the option page"
@@ -299,7 +308,39 @@
     "message": "ダーク",
     "description": "Value for the theme option select tag"
   },
+  "filterInputLabel": {
+    "message": "コンテナーのリストを名前でフィルター:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
   "filterInputPlaceholder": {
     "message": "コンテナー名を検索"
+  },
+  "imageAltContainerInfo": {
+    "message": "コンテナー情報",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "既定のコンテナー",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "コンテナーパネルを開く",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "コンテナーのショートカット $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "ブックマークをコンテナータブで開く"
+  },
+  "clearContainerStorage": {
+    "message": "ストレージと Cookie を消去",
+    "description": "Label for the clearing a containers storage and cache option"
   }
 }
