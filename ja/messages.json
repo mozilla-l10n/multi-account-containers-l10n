@@ -244,9 +244,60 @@
   "replaceTabDescription": {
     "message": "別のコンテナーに割り当てられているページを開いたとき、現在のタブを置き換えます (現在のタブを開いたままにしません)。マウスで中クリックしてタブを開く場合には影響しません。"
   },
+  "editWhichContainer": {
+    "message": "番号付きショートカットに対応して開くコンテナーを編集します。"
+  },
+  "keyboardShortCut": {
+    "message": "キーボードショートカット $keyId$ で開くコンテナー",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers によるナビゲーションの確認",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ コンテナーで開く",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "現在のタブで開く",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "このサイトは常に $containerName$ で開くように Firefox に設定されています:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
   "theme": {
     "message": "テーマ:",
     "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "テーマの選択",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "自動選択 (既定)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "ライト",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "ダーク",
+    "description": "Value for the theme option select tag"
   },
   "filterInputPlaceholder": {
     "message": "コンテナー名を検索"
