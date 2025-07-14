@@ -238,6 +238,12 @@
   "syncExcludeDescription": {
     "message": "大文字と小文字を区別しない正規表現によって指定された名前と一致するコンテナーは、同期から除外します。"
   },
+  "replaceTab": {
+    "message": "タブを新規作成せず、置き換える"
+  },
+  "replaceTabDescription": {
+    "message": "別のコンテナーに割り当てられているページを開いたとき、現在のタブを置き換えます (現在のタブを開いたままにしません)。マウスで中クリックしてタブを開く場合には影響しません。"
+  },
   "theme": {
     "message": "テーマ:",
     "description": "Theme section title in the option page"
