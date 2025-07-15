@@ -1,100 +1,100 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers hjälper dig att hålla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och färgkodade flikar hjälper till att hålla olika aktiviteter — som onlineshopping, reseplanering eller kolla jobbmejl — åtskilda.",
+    "message": "Multi-Account Containers hj\u00e4lper dig att h\u00e5lla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och f\u00e4rgkodade flikar hj\u00e4lper till att h\u00e5lla olika aktiviteter \u2014 som onlineshopping, reseplanering eller kolla jobbmejl \u2014 \u00e5tskilda.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Öppna ny flik i…",
+    "message": "\u00d6ppna ny flik i\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Återöppna den här webbplatsen i…",
+    "message": "\u00c5ter\u00f6ppna den h\u00e4r webbplatsen i\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Sortera flikar efter behållare",
+    "message": "Sortera flikar efter beh\u00e5llare",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Öppna alltid den här webbplatsen i…",
+    "message": "\u00d6ppna alltid den h\u00e4r webbplatsen i\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Öppna alltid i…",
+    "message": "\u00d6ppna alltid i\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Öppna alltid webbplats i behållare"
+    "message": "\u00d6ppna alltid webbplats i beh\u00e5llare"
   },
   "openANewTabIn": {
-    "message": "Öppna en ny flik i…"
+    "message": "\u00d6ppna en ny flik i\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Öppna ny flik i den här behållaren"
+    "message": "\u00d6ppna ny flik i den h\u00e4r beh\u00e5llaren"
   },
   "openTabs": {
-    "message": "Öppna flikar",
+    "message": "\u00d6ppna flikar",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Flytta flikar till ett nytt fönster"
+    "message": "Flytta flikar till ett nytt f\u00f6nster"
   },
   "onboarding-1-header": {
-    "message": "Ett bättre sätt att hantera allt du gör online"
+    "message": "Ett b\u00e4ttre s\u00e4tt att hantera allt du g\u00f6r online"
   },
   "onboarding-1-description": {
-    "message": "Använd behållare för att organisera uppgifter, hantera konton och hålla fokus där du vill ha det."
+    "message": "Anv\u00e4nd beh\u00e5llare f\u00f6r att organisera uppgifter, hantera konton och h\u00e5lla fokus d\u00e4r du vill ha det."
   },
   "onboarding-2-header": {
-    "message": "Få behållarna att fungera för dig."
+    "message": "F\u00e5 beh\u00e5llarna att fungera f\u00f6r dig."
   },
   "onboarding-2-description": {
-    "message": "Funktioner som färgkodning och separata innehållsflikar hjälper dig att enkelt hitta saker, fokusera din uppmärksamhet och minimera distraktioner."
+    "message": "Funktioner som f\u00e4rgkodning och separata inneh\u00e5llsflikar hj\u00e4lper dig att enkelt hitta saker, fokusera din uppm\u00e4rksamhet och minimera distraktioner."
   },
   "onboarding-3-header": {
-    "message": "En plats för allt och allt på sin plats."
+    "message": "En plats f\u00f6r allt och allt p\u00e5 sin plats."
   },
   "onboarding-3-description": {
-    "message": "Börja med behållarna vi har skapat eller skapa dina egna."
+    "message": "B\u00f6rja med beh\u00e5llarna vi har skapat eller skapa dina egna."
   },
   "onboarding-4-header": {
-    "message": "Öppna alltid webbplatser i de behållare du vill ha."
+    "message": "\u00d6ppna alltid webbplatser i de beh\u00e5llare du vill ha."
   },
   "onboarding-4-description": {
-    "message": "Högerklicka på en innehållsflik för att tilldela webbplatsen att alltid öppnas i behållaren."
+    "message": "H\u00f6gerklicka p\u00e5 en inneh\u00e5llsflik f\u00f6r att tilldela webbplatsen att alltid \u00f6ppnas i beh\u00e5llaren."
   },
   "onboarding-5-header": {
-    "message": "Innehållsflikar när du behöver dem."
+    "message": "Inneh\u00e5llsflikar n\u00e4r du beh\u00f6ver dem."
   },
   "onboarding-5-description": {
-    "message": "Tryck länge på knappen Ny flik för att skapa en ny innehållsflik."
+    "message": "Tryck l\u00e4nge p\u00e5 knappen Ny flik f\u00f6r att skapa en ny inneh\u00e5llsflik."
   },
   "onboarding-6-header": {
-    "message": "Synkronisering av behållare är nu tillgängligt!"
+    "message": "Synkronisering av beh\u00e5llare \u00e4r nu tillg\u00e4ngligt!"
   },
   "onboarding-6-description-2": {
-    "message": "Aktivera synkronisering för att dela container- och webbplatstilldelningar med vilken dator som helst som är ansluten till ditt konto."
+    "message": "Aktivera synkronisering f\u00f6r att dela container- och webbplatstilldelningar med vilken dator som helst som \u00e4r ansluten till ditt konto."
   },
   "onboarding-7-header-2": {
-    "message": "Ett konto krävs för att synkronisera."
+    "message": "Ett konto kr\u00e4vs f\u00f6r att synkronisera."
   },
   "onboarding-7-description-2": {
-    "message": "Klicka på Logga in för att bekräfta att ditt konto är aktivt."
+    "message": "Klicka p\u00e5 Logga in f\u00f6r att bekr\u00e4fta att ditt konto \u00e4r aktivt."
   },
   "onboarding-8-description": {
-    "message": "Nu kan behållare integreras med Mozilla VPN eller din egen proxy för att skapa en säker, privat anslutning som skyddar din aktivitet."
+    "message": "Nu kan beh\u00e5llare integreras med Mozilla VPN eller din egen proxy f\u00f6r att skapa en s\u00e4ker, privat anslutning som skyddar din aktivitet."
   },
   "oneHundredTabsHeader": {
     "message": "100 flikar!"
   },
   "youHaveOpened": {
-    "message": "Du har öppnat 100 innehållsflikar."
+    "message": "Du har \u00f6ppnat 100 inneh\u00e5llsflikar."
   },
   "spreadTheWord": {
-    "message": "Om du gillar behållare, berätta för andra om det!"
+    "message": "Om du gillar beh\u00e5llare, ber\u00e4tta f\u00f6r andra om det!"
   },
   "rate": {
-    "message": "Betygsätt"
+    "message": "Betygs\u00e4tt"
   },
   "share": {
     "message": "Dela"
@@ -106,28 +106,28 @@
     "message": "Standard"
   },
   "manageContainers": {
-    "message": "Hantera behållare"
+    "message": "Hantera beh\u00e5llare"
   },
   "newContainer": {
-    "message": "Ny behållare"
+    "message": "Ny beh\u00e5llare"
   },
   "hideThisContainer": {
-    "message": "Dölj den här behållaren"
+    "message": "D\u00f6lj den h\u00e4r beh\u00e5llaren"
   },
   "showThisContainer": {
-    "message": "Visa denna behållare"
+    "message": "Visa denna beh\u00e5llare"
   },
   "removeThisContainer": {
-    "message": "Ta bort denna behållare"
+    "message": "Ta bort denna beh\u00e5llare"
   },
   "removeThisContainerConfirmation": {
-    "message": "Är du säker på att du vill ta bort den här behållaren?"
+    "message": "\u00c4r du s\u00e4ker p\u00e5 att du vill ta bort den h\u00e4r beh\u00e5llaren?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "Rensa behållarens lagring"
+    "message": "Rensa beh\u00e5llarens lagring"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Är du säker på att du vill rensa kakor och lagringsutrymmet för den här behållaren?"
+    "message": "\u00c4r du s\u00e4ker p\u00e5 att du vill rensa kakor och lagringsutrymmet f\u00f6r den h\u00e4r beh\u00e5llaren?"
   },
   "cancel": {
     "message": "Avbryt"
@@ -136,7 +136,7 @@
     "message": "OK"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Webbplatser som tilldelats denna behållare"
+    "message": "Webbplatser som tilldelats denna beh\u00e5llare"
   },
   "options": {
     "message": "Alternativ"
@@ -145,31 +145,31 @@
     "message": "Namn"
   },
   "color": {
-    "message": "Färg"
+    "message": "F\u00e4rg"
   },
   "icon": {
     "message": "Ikon"
   },
   "limitToDesignatedSites": {
-    "message": "Begränsning till angivna webbplatser"
+    "message": "Begr\u00e4nsning till angivna webbplatser"
   },
   "deleteThisContainer": {
-    "message": "Ta bort den här behållaren"
+    "message": "Ta bort den h\u00e4r beh\u00e5llaren"
   },
   "manageSiteList": {
-    "message": "Hantera webbplatslista…"
+    "message": "Hantera webbplatslista\u2026"
   },
   "manageThisContainer": {
-    "message": "Hantera den här behållaren"
+    "message": "Hantera den h\u00e4r beh\u00e5llaren"
   },
   "containers": {
-    "message": "Behållare"
+    "message": "Beh\u00e5llare"
   },
   "done": {
     "message": "Klar"
   },
   "getStarted": {
-    "message": "Kom igång"
+    "message": "Kom ig\u00e5ng"
   },
   "signIn": {
     "message": "Logga in"
@@ -178,44 +178,44 @@
     "message": "Inte nu"
   },
   "startSyncing": {
-    "message": "Börja synkronisera"
+    "message": "B\u00f6rja synkronisera"
   },
   "info": {
     "message": "info",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Nästa"
+    "message": "N\u00e4sta"
   },
   "openThisSiteConfirmation": {
-    "message": "Öppna den här webbplatsen i din tilldelade behållare?"
+    "message": "\u00d6ppna den h\u00e4r webbplatsen i din tilldelade beh\u00e5llare?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Vill du fortfarande öppna i den här aktuella behållaren?"
+    "message": "Vill du fortfarande \u00f6ppna i den h\u00e4r aktuella beh\u00e5llaren?"
   },
   "rememberMyDecision": {
-    "message": "Kom ihåg mitt beslut för denna webbsida"
+    "message": "Kom ih\u00e5g mitt beslut f\u00f6r denna webbsida"
   },
   "optionalPermissions": {
-    "message": "Valfria behörigheter:"
+    "message": "Valfria beh\u00f6righeter:"
   },
   "keyboardShortCuts": {
-    "message": "Tangentbordsgenvägar:"
+    "message": "Tangentbordsgenv\u00e4gar:"
   },
   "onboarding": {
     "message": "Introduktion"
   },
   "resetOnboardingPanels": {
-    "message": "Återställ introduktionspaneler"
+    "message": "\u00c5terst\u00e4ll introduktionspaneler"
   },
   "onboardingToggle": {
-    "message": "Växla detta för att se introduktionspanelerna igen."
+    "message": "V\u00e4xla detta f\u00f6r att se introduktionspanelerna igen."
   },
   "tabBehavior": {
     "message": "Flikbeteende:"
   },
   "enableBookMarkMenus": {
-    "message": "Aktivera bokmärkesmenyer"
+    "message": "Aktivera bokm\u00e4rkesmenyer"
   },
   "sync": {
     "message": "Synkronisering:"
@@ -224,31 +224,31 @@
     "message": "Aktivera synkronisering"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Med den här inställningen kan du öppna ett bokmärke eller en mapp med bokmärken i en behållare."
+    "message": "Med den h\u00e4r inst\u00e4llningen kan du \u00f6ppna ett bokm\u00e4rke eller en mapp med bokm\u00e4rken i en beh\u00e5llare."
   },
   "enableSyncDescription": {
-    "message": "Med den här inställningen kan du synkronisera dina behållare och webbplatstilldelningar mellan enheter."
+    "message": "Med den h\u00e4r inst\u00e4llningen kan du synkronisera dina beh\u00e5llare och webbplatstilldelningar mellan enheter."
   },
   "syncExclude": {
-    "message": "Uteslutning av behållare"
+    "message": "Uteslutning av beh\u00e5llare"
   },
   "syncExcludePlaceholder": {
-    "message": "Infoga ett reguljärt uttryck"
+    "message": "Infoga ett regulj\u00e4rt uttryck"
   },
   "syncExcludeDescription": {
-    "message": "Uteslut behållare från synkronisering när deras namn matchar det angivna skiftlägesokänsliga reguljära uttrycket."
+    "message": "Uteslut beh\u00e5llare fr\u00e5n synkronisering n\u00e4r deras namn matchar det angivna skiftl\u00e4gesok\u00e4nsliga regulj\u00e4ra uttrycket."
   },
   "replaceTab": {
-    "message": "Ersätt flik istället för att skapa en ny"
+    "message": "Ers\u00e4tt flik ist\u00e4llet f\u00f6r att skapa en ny"
   },
   "replaceTabDescription": {
-    "message": "Ersätt den aktuella fliken om en webbsida som är tilldelad en annan behållare öppnas (istället för att behålla den aktuella fliken öppen). Öppnande av flikar med mitten av musknappen påverkas inte."
+    "message": "Ers\u00e4tt den aktuella fliken om en webbsida som \u00e4r tilldelad en annan beh\u00e5llare \u00f6ppnas (ist\u00e4llet f\u00f6r att beh\u00e5lla den aktuella fliken \u00f6ppen). \u00d6ppnande av flikar med mitten av musknappen p\u00e5verkas inte."
   },
   "editWhichContainer": {
-    "message": "Redigera vilken behållare som öppnas när du använder de numrerade genvägarna."
+    "message": "Redigera vilken beh\u00e5llare som \u00f6ppnas n\u00e4r du anv\u00e4nder de numrerade genv\u00e4garna."
   },
   "keyboardShortCut": {
-    "message": "Behållare att öppna med kortkommando $keyId$",
+    "message": "Beh\u00e5llare att \u00f6ppna med kortkommando $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Bekräfta navigering",
+    "message": "Multi-Account Containers - Bekr\u00e4fta navigering",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Öppna i behållare $containerName$",
+    "message": "\u00d6ppna i beh\u00e5llare $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Öppna på aktuell flik",
+    "message": "\u00d6ppna p\u00e5 aktuell flik",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Du bad Firefox att alltid öppna $containerName$ för den här webbplatsen:",
+    "message": "Du bad Firefox att alltid \u00f6ppna $containerName$ f\u00f6r den h\u00e4r webbplatsen:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,103 +280,103 @@
     }
   },
   "chooseLocation": {
-    "message": "Välj plats",
+    "message": "V\u00e4lj plats",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "Dölj"
+    "message": "D\u00f6lj"
   },
   "show": {
     "message": "Visa"
   },
   "protectYourContainers": {
-    "message": "Skydda dina behållare med Mozilla VPN"
+    "message": "Skydda dina beh\u00e5llare med Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Skydda den här behållaren med Mozilla VPN"
+    "message": "Skydda den h\u00e4r beh\u00e5llaren med Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "Avancerade proxyinställningar"
+    "message": "Avancerade proxyinst\u00e4llningar"
   },
   "proxyInputLabel": {
     "message": "Ange anpassad proxy"
   },
   "useCustomLocation": {
-    "message": "Använd en anpassad plats för den här behållaren"
+    "message": "Anv\u00e4nd en anpassad plats f\u00f6r den h\u00e4r beh\u00e5llaren"
   },
   "clearproxylabel": {
     "message": "Rensa proxy"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN är aktiverat"
+    "message": "Mozilla VPN \u00e4r aktiverat"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN är avstängt"
+    "message": "Mozilla VPN \u00e4r avst\u00e4ngt"
   },
   "invalidProxyAlert": {
     "message": "Ange en giltig proxy-URL"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN måste vara aktiverat för att kunna använda den här funktionen."
+    "message": "Mozilla VPN m\u00e5ste vara aktiverat f\u00f6r att kunna anv\u00e4nda den h\u00e4r funktionen."
   },
   "learnMore": {
-    "message": "Läs mer"
+    "message": "L\u00e4s mer"
   },
   "proxyNowAvailable": {
-    "message": "Nu med Mozilla VPN och avancerade proxyinställningar"
+    "message": "Nu med Mozilla VPN och avancerade proxyinst\u00e4llningar"
   },
   "applyToContainer": {
-    "message": "Tillämpa på behållare"
+    "message": "Till\u00e4mpa p\u00e5 beh\u00e5llare"
   },
   "tooltipWarning": {
-    "message": "Den här behållaren är inställd för att använda en Mozilla VPN-proxy, men Mozilla VPN är inte aktiverat. Aktivera Mozilla VPN för att använda den här behållaren."
+    "message": "Den h\u00e4r beh\u00e5llaren \u00e4r inst\u00e4lld f\u00f6r att anv\u00e4nda en Mozilla VPN-proxy, men Mozilla VPN \u00e4r inte aktiverat. Aktivera Mozilla VPN f\u00f6r att anv\u00e4nda den h\u00e4r beh\u00e5llaren."
   },
   "getMozillaVpn": {
-    "message": "Hämta Mozilla VPN"
+    "message": "H\u00e4mta Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Integrera dina behållare med Mozilla VPN"
+    "message": "Integrera dina beh\u00e5llare med Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN och proxybehörigheter",
+    "message": "Mozilla VPN och proxybeh\u00f6righeter",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Tillåt tillägg att utbyta meddelanden med andra program än Firefox",
+    "message": "Till\u00e5t till\u00e4gg att utbyta meddelanden med andra program \u00e4n Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Den här inställningen tillåter tillägget att utbyta meddelanden med Mozilla VPN-klienten och krävs för att Mozilla VPN-integreringsfunktioner ska fungera.",
+    "message": "Den h\u00e4r inst\u00e4llningen till\u00e5ter till\u00e4gget att utbyta meddelanden med Mozilla VPN-klienten och kr\u00e4vs f\u00f6r att Mozilla VPN-integreringsfunktioner ska fungera.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Tillåt tillägg att styra proxyinställningar",
+    "message": "Till\u00e5t till\u00e4gg att styra proxyinst\u00e4llningar",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Detta låter dig använda avancerade proxyinställningar och aktivera Mozilla VPN-integreringsfunktioner.",
+    "message": "Detta l\u00e5ter dig anv\u00e4nda avancerade proxyinst\u00e4llningar och aktivera Mozilla VPN-integreringsfunktioner.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Den här funktionen kräver ytterligare behörighet för att fungera. Behörigheter kan inaktiveras när som helst på inställningssidan.",
+    "message": "Den h\u00e4r funktionen kr\u00e4ver ytterligare beh\u00f6righet f\u00f6r att fungera. Beh\u00f6righeter kan inaktiveras n\u00e4r som helst p\u00e5 inst\u00e4llningssidan.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Integrering med Mozilla VPN kräver ett abonnemang och ytterligare behörigheter för att fungera."
+    "message": "Integrering med Mozilla VPN kr\u00e4ver ett abonnemang och ytterligare beh\u00f6righeter f\u00f6r att fungera."
   },
   "enable": {
     "message": "Aktivera",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integrera dina behållare med Mozilla VPN"
+    "message": "Integrera dina beh\u00e5llare med Mozilla VPN"
   },
   "theme": {
     "message": "Tema:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Välj ett tema",
+    "message": "V\u00e4lj ett tema",
     "description": "Description for the theme option"
   },
   "themeAuto": {
@@ -388,30 +388,30 @@
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "Mörkt",
+    "message": "M\u00f6rkt",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Filtrera behållarlistan efter namn:",
+    "message": "Filtrera beh\u00e5llarlistan efter namn:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Sök efter behållarens namn"
+    "message": "S\u00f6k efter beh\u00e5llarens namn"
   },
   "imageAltContainerInfo": {
-    "message": "Behållarinformation",
+    "message": "Beh\u00e5llarinformation",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "Standardbehållare",
+    "message": "Standardbeh\u00e5llare",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Öppna behållarpanelen",
+    "message": "\u00d6ppna beh\u00e5llarpanelen",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Behållargenväg $keyId$",
+    "message": "Beh\u00e5llargenv\u00e4g $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,14 +420,14 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Öppna bokmärke i innehållsfliken"
+    "message": "\u00d6ppna bokm\u00e4rke i inneh\u00e5llsfliken"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Rensa kakor för den här webbplatsen",
+    "message": "Rensa kakor f\u00f6r den h\u00e4r webbplatsen",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "Ta bort den här webbplatsen",
+    "message": "Ta bort den h\u00e4r webbplatsen",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
@@ -435,7 +435,7 @@
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "Kakor för $siteName$ rensades",
+    "message": "Kakor f\u00f6r $siteName$ rensades",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Kakor kunde inte rensas för $siteName$",
+    "message": "Kakor kunde inte rensas f\u00f6r $siteName$",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {

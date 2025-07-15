@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account-Containers hilft Ihnen, alle Teile Ihres Online-Lebens in verschiedene Tabs zu unterteilen. Benutzerdefinierte Etiketten und farbcodierte Tabs helfen dabei, verschiedene Aktivitäten – wie Online-Shopping, Reiseplanung oder das Abrufen von geschäftlichen E-Mails – voneinander zu trennen.",
+    "message": "Multi-Account-Containers hilft Ihnen, alle Teile Ihres Online-Lebens in verschiedene Tabs zu unterteilen. Benutzerdefinierte Etiketten und farbcodierte Tabs helfen dabei, verschiedene Aktivit\u00e4ten \u2013 wie Online-Shopping, Reiseplanung oder das Abrufen von gesch\u00e4ftlichen E-Mails \u2013 voneinander zu trennen.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Neuen Tab öffnen in…",
+    "message": "Neuen Tab \u00f6ffnen in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Diese Website erneut öffnen in…",
+    "message": "Diese Website erneut \u00f6ffnen in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,21 +16,21 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Diese Website immer öffnen in…",
+    "message": "Diese Website immer \u00f6ffnen in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Immer öffnen in…",
+    "message": "Immer \u00f6ffnen in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Website immer in Umgebung öffnen"
+    "message": "Website immer in Umgebung \u00f6ffnen"
   },
   "openANewTabIn": {
-    "message": "Einen neuen Tab öffnen in…"
+    "message": "Einen neuen Tab \u00f6ffnen in\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Neuen Tab in dieser Umgebung öffnen"
+    "message": "Neuen Tab in dieser Umgebung \u00f6ffnen"
   },
   "openTabs": {
     "message": "Offene Tabs",
@@ -40,37 +40,37 @@
     "message": "Tabs in neues Fenster verschieben"
   },
   "onboarding-1-header": {
-    "message": "Eine bessere Möglichkeit, all Ihre Online-Aktivitäten zu verwalten"
+    "message": "Eine bessere M\u00f6glichkeit, all Ihre Online-Aktivit\u00e4ten zu verwalten"
   },
   "onboarding-1-description": {
     "message": "Verwenden Sie Umgebungen, um Aufgaben zu organisieren, Konten zu verwalten und Ihren Fokus gezielt auszurichten."
   },
   "onboarding-2-header": {
-    "message": "Lassen Sie Umgebungen für sich arbeiten."
+    "message": "Lassen Sie Umgebungen f\u00fcr sich arbeiten."
   },
   "onboarding-2-description": {
     "message": "Funktionen wie Farbcodierung und separate Tab-Umgebungen helfen Ihnen, Dinge leicht zu finden, Ihre Aufmerksamkeit zu lenken und Ablenkungen zu minimieren."
   },
   "onboarding-3-header": {
-    "message": "Ein Platz für alles und alles an seinem Platz."
+    "message": "Ein Platz f\u00fcr alles und alles an seinem Platz."
   },
   "onboarding-3-description": {
     "message": "Beginnen Sie mit den von uns erstellten Umgebungen oder erstellen Sie Ihre eigenen."
   },
   "onboarding-4-header": {
-    "message": "Öffnen Sie Websites immer in den gewünschten Umgebungen."
+    "message": "\u00d6ffnen Sie Websites immer in den gew\u00fcnschten Umgebungen."
   },
   "onboarding-4-description": {
-    "message": "Klicken Sie mit der rechten Maustaste auf eine Tab-Umgebung, um festzulegen, dass die Website immer in der Umgebung geöffnet wird."
+    "message": "Klicken Sie mit der rechten Maustaste auf eine Tab-Umgebung, um festzulegen, dass die Website immer in der Umgebung ge\u00f6ffnet wird."
   },
   "onboarding-5-header": {
     "message": "Tab-Umgebungen, wenn Sie sie brauchen."
   },
   "onboarding-5-description": {
-    "message": "Drücken Sie lange auf die Neuer-Tab-Schaltfläche, um eine neue Tab-Umgebung zu öffnen."
+    "message": "Dr\u00fccken Sie lange auf die Neuer-Tab-Schaltfl\u00e4che, um eine neue Tab-Umgebung zu \u00f6ffnen."
   },
   "onboarding-6-header": {
-    "message": "Das Synchronisieren von Umgebungen ist jetzt verfügbar!"
+    "message": "Das Synchronisieren von Umgebungen ist jetzt verf\u00fcgbar!"
   },
   "onboarding-6-description-2": {
     "message": "Aktivieren Sie die Synchronisierung, um Tab-Umgebungen und Website-Zuweisungen mit jedem Computer zu teilen, der mit Ihrem Konto verbunden ist."
@@ -79,19 +79,19 @@
     "message": "Zum Synchronisieren ist ein Konto erforderlich."
   },
   "onboarding-7-description-2": {
-    "message": "Klicken Sie auf Anmelden, um zu bestätigen, dass Ihr Konto aktiv ist."
+    "message": "Klicken Sie auf Anmelden, um zu best\u00e4tigen, dass Ihr Konto aktiv ist."
   },
   "onboarding-8-description": {
-    "message": "Container können jetzt in Mozilla VPN oder Ihren eigenen Proxy integriert werden, um eine sichere, private Verbindung herzustellen, die Ihre Aktivitäten schützt."
+    "message": "Container k\u00f6nnen jetzt in Mozilla VPN oder Ihren eigenen Proxy integriert werden, um eine sichere, private Verbindung herzustellen, die Ihre Aktivit\u00e4ten sch\u00fctzt."
   },
   "oneHundredTabsHeader": {
     "message": "100 Tabs!"
   },
   "youHaveOpened": {
-    "message": "Sie haben 100 Tab-Umgebungen geöffnet."
+    "message": "Sie haben 100 Tab-Umgebungen ge\u00f6ffnet."
   },
   "spreadTheWord": {
-    "message": "Wenn Ihnen Containers gefällt, erzählen Sie anderen davon!"
+    "message": "Wenn Ihnen Containers gef\u00e4llt, erz\u00e4hlen Sie anderen davon!"
   },
   "rate": {
     "message": "Bewerten"
@@ -118,7 +118,7 @@
     "message": "Diese Umgebung anzeigen"
   },
   "removeThisContainer": {
-    "message": "Diese Umgebung löschen"
+    "message": "Diese Umgebung l\u00f6schen"
   },
   "removeThisContainerConfirmation": {
     "message": "Soll diese Umgebung wirklich entfernt werden?"
@@ -127,7 +127,7 @@
     "message": "Umgebungen-Speicher leeren"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Sollen Cookies und Speicher für diese Umgebung wirklich gelöscht werden?"
+    "message": "Sollen Cookies und Speicher f\u00fcr diese Umgebung wirklich gel\u00f6scht werden?"
   },
   "cancel": {
     "message": "Abbrechen"
@@ -151,13 +151,13 @@
     "message": "Symbol"
   },
   "limitToDesignatedSites": {
-    "message": "Auf bestimmte Websites beschränken"
+    "message": "Auf bestimmte Websites beschr\u00e4nken"
   },
   "deleteThisContainer": {
-    "message": "Diese Umgebung löschen"
+    "message": "Diese Umgebung l\u00f6schen"
   },
   "manageSiteList": {
-    "message": "Liste der Websites verwalten…"
+    "message": "Liste der Websites verwalten\u2026"
   },
   "manageThisContainer": {
     "message": "Diese Umgebung verwalten"
@@ -188,13 +188,13 @@
     "message": "Weiter"
   },
   "openThisSiteConfirmation": {
-    "message": "Diese Website in Ihrer zugewiesenen Umgebung öffnen?"
+    "message": "Diese Website in Ihrer zugewiesenen Umgebung \u00f6ffnen?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Soll diese Website trotzdem in dieser aktuellen Umgebung geöffnet werden?"
+    "message": "Soll diese Website trotzdem in dieser aktuellen Umgebung ge\u00f6ffnet werden?"
   },
   "rememberMyDecision": {
-    "message": "Meine Entscheidung für diese Website merken"
+    "message": "Meine Entscheidung f\u00fcr diese Website merken"
   },
   "optionalPermissions": {
     "message": "Optionale Berechtigungen:"
@@ -203,19 +203,19 @@
     "message": "Tastenkombinationen:"
   },
   "onboarding": {
-    "message": "Einführung"
+    "message": "Einf\u00fchrung"
   },
   "resetOnboardingPanels": {
-    "message": "Einführungs-Panels zurücksetzen"
+    "message": "Einf\u00fchrungs-Panels zur\u00fccksetzen"
   },
   "onboardingToggle": {
-    "message": "Schalten Sie dies um, um die Einführungs-Panels wieder anzuzeigen."
+    "message": "Schalten Sie dies um, um die Einf\u00fchrungs-Panels wieder anzuzeigen."
   },
   "tabBehavior": {
     "message": "Tab-Verhalten:"
   },
   "enableBookMarkMenus": {
-    "message": "Lesezeichenmenüs aktivieren"
+    "message": "Lesezeichenmen\u00fcs aktivieren"
   },
   "sync": {
     "message": "Synchronisation:"
@@ -224,31 +224,31 @@
     "message": "Synchronisierung aktivieren"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Mit dieser Einstellung können Sie ein Lesezeichen oder einen Ordner mit Lesezeichen in einer Umgebung öffnen."
+    "message": "Mit dieser Einstellung k\u00f6nnen Sie ein Lesezeichen oder einen Ordner mit Lesezeichen in einer Umgebung \u00f6ffnen."
   },
   "enableSyncDescription": {
-    "message": "Mit dieser Einstellung können Sie Ihre Umgebungen und Website-Zuweisungen geräteübergreifend synchronisieren."
+    "message": "Mit dieser Einstellung k\u00f6nnen Sie Ihre Umgebungen und Website-Zuweisungen ger\u00e4te\u00fcbergreifend synchronisieren."
   },
   "syncExclude": {
-    "message": "Umgebung ausschließen"
+    "message": "Umgebung ausschlie\u00dfen"
   },
   "syncExcludePlaceholder": {
-    "message": "Einen regulären Ausdruck einfügen"
+    "message": "Einen regul\u00e4ren Ausdruck einf\u00fcgen"
   },
   "syncExcludeDescription": {
-    "message": "Schließen Sie Umgebungen von der Synchronisierung aus, wenn ihr Name mit dem angegebenen regulären Ausdruck ohne Berücksichtigung der Groß-/Kleinschreibung übereinstimmt."
+    "message": "Schlie\u00dfen Sie Umgebungen von der Synchronisierung aus, wenn ihr Name mit dem angegebenen regul\u00e4ren Ausdruck ohne Ber\u00fccksichtigung der Gro\u00df-/Kleinschreibung \u00fcbereinstimmt."
   },
   "replaceTab": {
     "message": "Tab ersetzen, anstatt einen neuen zu erstellen"
   },
   "replaceTabDescription": {
-    "message": "Den aktuellen Tab ersetzen, wenn eine Seite geöffnet wird, die einer anderen Umgebung zugeordnet ist (anstatt den aktuellen Tab geöffnet zu lassen). Das Öffnen von Tabs mit der mittleren Maustaste ist davon nicht betroffen."
+    "message": "Den aktuellen Tab ersetzen, wenn eine Seite ge\u00f6ffnet wird, die einer anderen Umgebung zugeordnet ist (anstatt den aktuellen Tab ge\u00f6ffnet zu lassen). Das \u00d6ffnen von Tabs mit der mittleren Maustaste ist davon nicht betroffen."
   },
   "editWhichContainer": {
-    "message": "Einstellen, welche Umgebung geöffnet wird, wenn Sie die nummerierten Tastenkombinationen verwenden."
+    "message": "Einstellen, welche Umgebung ge\u00f6ffnet wird, wenn Sie die nummerierten Tastenkombinationen verwenden."
   },
   "keyboardShortCut": {
-    "message": "Umgebung, die mit der Tastenkombination $keyId$ geöffnet wird",
+    "message": "Umgebung, die mit der Tastenkombination $keyId$ ge\u00f6ffnet wird",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account-Container – Navigation bestätigen",
+    "message": "Multi-Account-Container \u2013 Navigation best\u00e4tigen",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "In Umgebung $containerName$ öffnen",
+    "message": "In Umgebung $containerName$ \u00f6ffnen",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Im aktuellen Tab öffnen",
+    "message": "Im aktuellen Tab \u00f6ffnen",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Sie haben Firefox gebeten, für diese Website immer $containerName$ zu öffnen:",
+    "message": "Sie haben Firefox gebeten, f\u00fcr diese Website immer $containerName$ zu \u00f6ffnen:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,7 +280,7 @@
     }
   },
   "chooseLocation": {
-    "message": "Standort auswählen",
+    "message": "Standort ausw\u00e4hlen",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
@@ -290,10 +290,10 @@
     "message": "Anzeigen"
   },
   "protectYourContainers": {
-    "message": "Schützen Sie Ihre Umgebungen mit Mozilla VPN"
+    "message": "Sch\u00fctzen Sie Ihre Umgebungen mit Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Schützen Sie diese Umgebung mit Mozilla VPN"
+    "message": "Sch\u00fctzen Sie diese Umgebung mit Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Erweiterte Proxy-Einstellungen"
@@ -302,10 +302,10 @@
     "message": "Benutzerdefinierten Proxy eingeben"
   },
   "useCustomLocation": {
-    "message": "Benutzerdefinierten Standort für diese Umgebung verwenden"
+    "message": "Benutzerdefinierten Standort f\u00fcr diese Umgebung verwenden"
   },
   "clearproxylabel": {
-    "message": "Proxy löschen"
+    "message": "Proxy l\u00f6schen"
   },
   "moz-vpn-connected": {
     "message": "Mozilla VPN ist aktiviert"
@@ -314,10 +314,10 @@
     "message": "Mozilla VPN ist deaktiviert"
   },
   "invalidProxyAlert": {
-    "message": "Bitte geben Sie eine gültige Proxy-URL ein"
+    "message": "Bitte geben Sie eine g\u00fcltige Proxy-URL ein"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN muss aktiviert sein, um diese Funktion nutzen zu können."
+    "message": "Mozilla VPN muss aktiviert sein, um diese Funktion nutzen zu k\u00f6nnen."
   },
   "learnMore": {
     "message": "Weitere Informationen"
@@ -346,7 +346,7 @@
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Diese Einstellung ermöglicht der Erweiterung den Austausch von Nachrichten mit dem Mozilla-VPN-Client und ist erforderlich, damit die Mozilla VPN-Integrationsfunktionen funktionieren.",
+    "message": "Diese Einstellung erm\u00f6glicht der Erweiterung den Austausch von Nachrichten mit dem Mozilla-VPN-Client und ist erforderlich, damit die Mozilla VPN-Integrationsfunktionen funktionieren.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
@@ -354,15 +354,15 @@
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Auf diese Weise können Sie erweiterte Proxy-Einstellungen verwenden und Mozilla-VPN-Integrationsfunktionen aktivieren.",
+    "message": "Auf diese Weise k\u00f6nnen Sie erweiterte Proxy-Einstellungen verwenden und Mozilla-VPN-Integrationsfunktionen aktivieren.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Diese Funktion erfordert eine zusätzliche Berechtigung, damit sie eingesetzt werden kann. Berechtigungen können auf der Einstellungen-Seite jederzeit deaktiviert werden.",
+    "message": "Diese Funktion erfordert eine zus\u00e4tzliche Berechtigung, damit sie eingesetzt werden kann. Berechtigungen k\u00f6nnen auf der Einstellungen-Seite jederzeit deaktiviert werden.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Die Integration mit Mozilla VPN erfordert ein Abonnement und zusätzliche Berechtigungen, um zu funktionieren."
+    "message": "Die Integration mit Mozilla VPN erfordert ein Abonnement und zus\u00e4tzliche Berechtigungen, um zu funktionieren."
   },
   "enable": {
     "message": "Aktivieren",
@@ -376,7 +376,7 @@
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Ein Theme auswählen",
+    "message": "Ein Theme ausw\u00e4hlen",
     "description": "Description for the theme option"
   },
   "themeAuto": {
@@ -407,11 +407,11 @@
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Umgebungs-Bereich öffnen",
+    "message": "Umgebungs-Bereich \u00f6ffnen",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Umgebungs-Tastaturkürzel $keyId$",
+    "message": "Umgebungs-Tastaturk\u00fcrzel $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,10 +420,10 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Lesezeichen in Tab in Umgebung öffnen"
+    "message": "Lesezeichen in Tab in Umgebung \u00f6ffnen"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Cookies für diese Website löschen",
+    "message": "Cookies f\u00fcr diese Website l\u00f6schen",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
@@ -431,11 +431,11 @@
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "Speicher und Cookies löschen",
+    "message": "Speicher und Cookies l\u00f6schen",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "Cookies für $siteName$ wurden erfolgreich gelöscht",
+    "message": "Cookies f\u00fcr $siteName$ wurden erfolgreich gel\u00f6scht",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Cookies von $siteName$ konnten nicht gelöscht werden",
+    "message": "Cookies von $siteName$ konnten nicht gel\u00f6scht werden",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "Speicher und Cookies von $containerName$ wurden gelöscht.",
+    "message": "Speicher und Cookies von $containerName$ wurden gel\u00f6scht.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

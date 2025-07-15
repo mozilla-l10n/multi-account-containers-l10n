@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers ti permette di isolare le diverse parti della tua vita online in schede diverse. Le etichette personalizzate e le schede con codifica colorata aiutano a separare le attività, come lo shopping online, la pianificazione dei viaggi o il controllo della posta elettronica per lavoro.",
+    "message": "Multi-Account Containers ti permette di isolare le diverse parti della tua vita online in schede diverse. Le etichette personalizzate e le schede con codifica colorata aiutano a separare le attivit\u00e0, come lo shopping online, la pianificazione dei viaggi o il controllo della posta elettronica per lavoro.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Apri nuova scheda in…",
+    "message": "Apri nuova scheda in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Riapri questo sito in…",
+    "message": "Riapri questo sito in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Apri sempre questo sito in…",
+    "message": "Apri sempre questo sito in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Apri sempre in…",
+    "message": "Apri sempre in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Apri sempre il sito in questo contenitore"
   },
   "openANewTabIn": {
-    "message": "Apri una nuova scheda in…"
+    "message": "Apri una nuova scheda in\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Apri nuova scheda in questo contenitore"
@@ -40,28 +40,28 @@
     "message": "Sposta schede in una nuova finestra"
   },
   "onboarding-1-header": {
-    "message": "Un modo migliore per gestire tutte le tue attività online"
+    "message": "Un modo migliore per gestire tutte le tue attivit\u00e0 online"
   },
   "onboarding-1-description": {
-    "message": "Utilizza i contenitori per organizzare le tue attività, gestire gli account e concentrarti su ciò che ti interessa."
+    "message": "Utilizza i contenitori per organizzare le tue attivit\u00e0, gestire gli account e concentrarti su ci\u00f2 che ti interessa."
   },
   "onboarding-2-header": {
     "message": "Fai lavorare i contenitori al tuo posto."
   },
   "onboarding-2-description": {
-    "message": "Funzioni come la codifica a colori e le schede contenitore separate ti aiutano a trovare facilmente ciò che ti serve, concentrare la tua attenzione e ridurre al minimo le distrazioni."
+    "message": "Funzioni come la codifica a colori e le schede contenitore separate ti aiutano a trovare facilmente ci\u00f2 che ti serve, concentrare la tua attenzione e ridurre al minimo le distrazioni."
   },
   "onboarding-3-header": {
     "message": "Un posto per ogni cosa e ogni cosa al suo posto."
   },
   "onboarding-3-description": {
-    "message": "Inizia con i contenitori già disponibili oppure creane di tuoi."
+    "message": "Inizia con i contenitori gi\u00e0 disponibili oppure creane di tuoi."
   },
   "onboarding-4-header": {
     "message": "Apri sempre i siti nei contenitori che vuoi."
   },
   "onboarding-4-description": {
-    "message": "Fai clic con il pulsante destro del mouse all’interno di una scheda contenitore per fare in modo che il sito corrente venga sempre aperto nel contenitore."
+    "message": "Fai clic con il pulsante destro del mouse all\u2019interno di una scheda contenitore per fare in modo che il sito corrente venga sempre aperto nel contenitore."
   },
   "onboarding-5-header": {
     "message": "Schede contenitore quando ti servono."
@@ -70,19 +70,19 @@
     "message": "Premi a lungo il pulsante Nuova scheda per aprire una nuova scheda contenitore."
   },
   "onboarding-6-header": {
-    "message": "Adesso è possibile sincronizzare i contenitori."
+    "message": "Adesso \u00e8 possibile sincronizzare i contenitori."
   },
   "onboarding-6-description-2": {
     "message": "Attiva la sincronizzazione per condividere i contenitori e i siti associati con qualsiasi computer connesso al tuo account."
   },
   "onboarding-7-header-2": {
-    "message": "È necessario un account per effettuare la sincronizzazione."
+    "message": "\u00c8 necessario un account per effettuare la sincronizzazione."
   },
   "onboarding-7-description-2": {
-    "message": "Fai clic su Accedi per confermare che il tuo account è attivo."
+    "message": "Fai clic su Accedi per confermare che il tuo account \u00e8 attivo."
   },
   "onboarding-8-description": {
-    "message": "Ora è possibile integrare i contenitori con Mozilla VPN o un proxy a tua scelta, creando una connessione sicura e riservata per proteggere le tue attività online."
+    "message": "Ora \u00e8 possibile integrare i contenitori con Mozilla VPN o un proxy a tua scelta, creando una connessione sicura e riservata per proteggere le tue attivit\u00e0 online."
   },
   "oneHundredTabsHeader": {
     "message": "100 schede!"
@@ -157,7 +157,7 @@
     "message": "Elimina questo contenitore"
   },
   "manageSiteList": {
-    "message": "Gestisci elenco siti…"
+    "message": "Gestisci elenco siti\u2026"
   },
   "manageThisContainer": {
     "message": "Gestisci questo contenitore"
@@ -209,7 +209,7 @@
     "message": "Ripristina introduzione"
   },
   "onboardingToggle": {
-    "message": "Utilizza questa opzione per visualizzare nuovamente l’introduzione."
+    "message": "Utilizza questa opzione per visualizzare nuovamente l\u2019introduzione."
   },
   "tabBehavior": {
     "message": "Comportamento della scheda:"
@@ -227,22 +227,22 @@
     "message": "Questa impostazione consente di aprire un segnalibro o una cartella di segnalibri in un contenitore."
   },
   "enableSyncDescription": {
-    "message": "Questa impostazione consente di sincronizzare i contenitori e i siti associati su più dispositivi."
+    "message": "Questa impostazione consente di sincronizzare i contenitori e i siti associati su pi\u00f9 dispositivi."
   },
   "syncExclude": {
     "message": "Esclusione contenitori"
   },
   "syncExcludePlaceholder": {
-    "message": "Inserisci un’espressione regolare"
+    "message": "Inserisci un\u2019espressione regolare"
   },
   "syncExcludeDescription": {
-    "message": "Escludi contenitori dalla sincronizzazione in base al nome utilizzando l’espressione regolare regolare specificata (senza distinzione tra maiuscole e minuscole)."
+    "message": "Escludi contenitori dalla sincronizzazione in base al nome utilizzando l\u2019espressione regolare regolare specificata (senza distinzione tra maiuscole e minuscole)."
   },
   "replaceTab": {
     "message": "Sostituisci scheda invece di crearne una nuova"
   },
   "replaceTabDescription": {
-    "message": "Quando viene aperta una pagina assegnata a un altro contenitore, sostituisci la scheda corrente invece di mantenerla aperta. L’apertura delle schede con il pulsante centrale del mouse non è interessata da questa opzione."
+    "message": "Quando viene aperta una pagina assegnata a un altro contenitore, sostituisci la scheda corrente invece di mantenerla aperta. L\u2019apertura delle schede con il pulsante centrale del mouse non \u00e8 interessata da questa opzione."
   },
   "editWhichContainer": {
     "message": "Modifica quale contenitore viene aperto quando si utilizzano le scorciatoie numerate."
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers — Conferma navigazione",
+    "message": "Multi-Account Containers \u2014 Conferma navigazione",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Apri in contenitore “$containerName$”",
+    "message": "Apri in contenitore \u201c$containerName$\u201d",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -272,7 +272,7 @@
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Hai chiesto a Firefox di utilizzare sempre il contenitore “$containerName$” per questo sito:",
+    "message": "Hai chiesto a Firefox di utilizzare sempre il contenitore \u201c$containerName$\u201d per questo sito:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -308,10 +308,10 @@
     "message": "Cancella proxy"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN è attiva"
+    "message": "Mozilla VPN \u00e8 attiva"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN è disattivata"
+    "message": "Mozilla VPN \u00e8 disattivata"
   },
   "invalidProxyAlert": {
     "message": "Inserire un indirizzo valido per il proxy"
@@ -329,7 +329,7 @@
     "message": "Applica al contenitore"
   },
   "tooltipWarning": {
-    "message": "Questo contenitore è configurato per utilizzare un proxy Mozilla VPN, ma Mozilla VPN non è attiva. Attiva Mozilla VPN per utilizzare questo contenitore."
+    "message": "Questo contenitore \u00e8 configurato per utilizzare un proxy Mozilla VPN, ma Mozilla VPN non \u00e8 attiva. Attiva Mozilla VPN per utilizzare questo contenitore."
   },
   "getMozillaVpn": {
     "message": "Ottieni Mozilla VPN"
@@ -342,19 +342,19 @@
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Consenti all’estensione di scambiare messaggi con programmi diversi da Firefox",
+    "message": "Consenti all\u2019estensione di scambiare messaggi con programmi diversi da Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Questa impostazione consente all’estensione di scambiare messaggi con il client Mozilla VPN ed è necessaria per il funzionamento dell’integrazione con Mozilla VPN.",
+    "message": "Questa impostazione consente all\u2019estensione di scambiare messaggi con il client Mozilla VPN ed \u00e8 necessaria per il funzionamento dell\u2019integrazione con Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Consenti all’estensione di controllare le impostazioni del proxy",
+    "message": "Consenti all\u2019estensione di controllare le impostazioni del proxy",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Questo consente di utilizzare le impostazioni proxy avanzate e attivare l’integrazione con Mozilla VPN.",
+    "message": "Questo consente di utilizzare le impostazioni proxy avanzate e attivare l\u2019integrazione con Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
@@ -362,7 +362,7 @@
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "L’integrazione con Mozilla VPN richiede un abbonamento e permessi aggiuntivi per funzionare."
+    "message": "L\u2019integrazione con Mozilla VPN richiede un abbonamento e permessi aggiuntivi per funzionare."
   },
   "enable": {
     "message": "Attiva",
@@ -392,7 +392,7 @@
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Filtra l’elenco dei contenitori per nome:",
+    "message": "Filtra l\u2019elenco dei contenitori per nome:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {

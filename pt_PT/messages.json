@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "O Multi-Account Containers ajuda a manter todas as partes da sua vida online contidas em separadores diferentes. Rótulos personalizados e separadores codificados por cores ajudam a manter separadas atividades diferentes, como compras, planeamento de viagens ou e-mail do trabalho.",
+    "message": "O Multi-Account Containers ajuda a manter todas as partes da sua vida online contidas em separadores diferentes. R\u00f3tulos personalizados e separadores codificados por cores ajudam a manter separadas atividades diferentes, como compras, planeamento de viagens ou e-mail do trabalho.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Abrir novo separador em…",
+    "message": "Abrir novo separador em\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Reabrir este site em…",
+    "message": "Reabrir este site em\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Sempre abrir este site em…",
+    "message": "Sempre abrir este site em\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Sempre abrir em…",
+    "message": "Sempre abrir em\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Abrir sempre site em contentor"
   },
   "openANewTabIn": {
-    "message": "Abrir um novo separador em…"
+    "message": "Abrir um novo separador em\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Abrir um novo separador neste contentor"
@@ -49,46 +49,46 @@
     "message": "Ponha os contentores a trabalhar para si."
   },
   "onboarding-2-description": {
-    "message": "Funções como codificação por cores e separadores Contentor distintos ajudam a encontrar as coisas mais facilmente, focar a atenção e a minimizar as distrações."
+    "message": "Fun\u00e7\u00f5es como codifica\u00e7\u00e3o por cores e separadores Contentor distintos ajudam a encontrar as coisas mais facilmente, focar a aten\u00e7\u00e3o e a minimizar as distra\u00e7\u00f5es."
   },
   "onboarding-3-header": {
     "message": "Um lugar para cada coisa e cada coisa no seu lugar."
   },
   "onboarding-3-description": {
-    "message": "Comece com os Contentores que criámos, ou crie os seus próprios Contentores."
+    "message": "Comece com os Contentores que cri\u00e1mos, ou crie os seus pr\u00f3prios Contentores."
   },
   "onboarding-4-header": {
     "message": "Abra sempre os sites nos contentores que quiser."
   },
   "onboarding-4-description": {
-    "message": "Clique com o botão direito num separador contentor para definir que o site seja sempre aberto naquele contentor."
+    "message": "Clique com o bot\u00e3o direito num separador contentor para definir que o site seja sempre aberto naquele contentor."
   },
   "onboarding-5-header": {
     "message": "Separadores Contentor para quando precisar dos mesmos."
   },
   "onboarding-5-description": {
-    "message": "Mantenha pressionado o botão de novo separador para criar um novo separador contentor."
+    "message": "Mantenha pressionado o bot\u00e3o de novo separador para criar um novo separador contentor."
   },
   "onboarding-6-header": {
-    "message": "Agora a sincronização de contentores está disponível!"
+    "message": "Agora a sincroniza\u00e7\u00e3o de contentores est\u00e1 dispon\u00edvel!"
   },
   "onboarding-6-description-2": {
-    "message": "Ative a sincronização para partilhar as atribuições de Contentor e de site com qualquer computador associado com a sua conta."
+    "message": "Ative a sincroniza\u00e7\u00e3o para partilhar as atribui\u00e7\u00f5es de Contentor e de site com qualquer computador associado com a sua conta."
   },
   "onboarding-7-header-2": {
-    "message": "É necessária uma conta para sincronizar."
+    "message": "\u00c9 necess\u00e1ria uma conta para sincronizar."
   },
   "onboarding-7-description-2": {
-    "message": "Clique em Iniciar Sessão para confirmar que a sua conta está ativa."
+    "message": "Clique em Iniciar Sess\u00e3o para confirmar que a sua conta est\u00e1 ativa."
   },
   "onboarding-8-description": {
-    "message": "Agora os contentores podem ser integrados com a Mozilla VPN ou ao seu próprio proxy para criar uma ligação segura e privada que protege a sua atividade."
+    "message": "Agora os contentores podem ser integrados com a Mozilla VPN ou ao seu pr\u00f3prio proxy para criar uma liga\u00e7\u00e3o segura e privada que protege a sua atividade."
   },
   "oneHundredTabsHeader": {
     "message": "100 separadores!"
   },
   "youHaveOpened": {
-    "message": "Você abriu 100 separadores contentor."
+    "message": "Voc\u00ea abriu 100 separadores contentor."
   },
   "spreadTheWord": {
     "message": "Se gosta dos contentores, ajude-nos a divulgar!"
@@ -103,7 +103,7 @@
     "message": "Enviar tweet"
   },
   "default": {
-    "message": "Predefinição"
+    "message": "Predefini\u00e7\u00e3o"
   },
   "manageContainers": {
     "message": "Gerir contentores"
@@ -136,10 +136,10 @@
     "message": "Ok"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sites atribuídos a este contentor"
+    "message": "Sites atribu\u00eddos a este contentor"
   },
   "options": {
-    "message": "Opções"
+    "message": "Op\u00e7\u00f5es"
   },
   "name": {
     "message": "Nome"
@@ -148,7 +148,7 @@
     "message": "Cor"
   },
   "icon": {
-    "message": "Ícone"
+    "message": "\u00cdcone"
   },
   "limitToDesignatedSites": {
     "message": "Limitar aos sites designados"
@@ -157,7 +157,7 @@
     "message": "Eliminar este contentor"
   },
   "manageSiteList": {
-    "message": "Gerir a lista de sites…"
+    "message": "Gerir a lista de sites\u2026"
   },
   "manageThisContainer": {
     "message": "Gerir este contentor"
@@ -169,47 +169,47 @@
     "message": "Feito"
   },
   "getStarted": {
-    "message": "Introdução"
+    "message": "Introdu\u00e7\u00e3o"
   },
   "signIn": {
-    "message": "Iniciar sessão"
+    "message": "Iniciar sess\u00e3o"
   },
   "notNow": {
-    "message": "Agora não"
+    "message": "Agora n\u00e3o"
   },
   "startSyncing": {
-    "message": "Começar a sincronizar"
+    "message": "Come\u00e7ar a sincronizar"
   },
   "info": {
-    "message": "informações",
+    "message": "informa\u00e7\u00f5es",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
     "message": "Seguinte"
   },
   "openThisSiteConfirmation": {
-    "message": "Abrir este site no seu contentor atribuído?"
+    "message": "Abrir este site no seu contentor atribu\u00eddo?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Ainda deseja abrir neste contentor?"
   },
   "rememberMyDecision": {
-    "message": "Lembrar a decisão para este site"
+    "message": "Lembrar a decis\u00e3o para este site"
   },
   "optionalPermissions": {
-    "message": "Permissões opcionais:"
+    "message": "Permiss\u00f5es opcionais:"
   },
   "keyboardShortCuts": {
     "message": "Atalhos de teclado:"
   },
   "onboarding": {
-    "message": "Introdução"
+    "message": "Introdu\u00e7\u00e3o"
   },
   "resetOnboardingPanels": {
-    "message": "Redefinir painéis de introdução"
+    "message": "Redefinir pain\u00e9is de introdu\u00e7\u00e3o"
   },
   "onboardingToggle": {
-    "message": "Alterne isto para rever os painéis de introdução."
+    "message": "Alterne isto para rever os pain\u00e9is de introdu\u00e7\u00e3o."
   },
   "tabBehavior": {
     "message": "Comportamento dos separadores:"
@@ -218,34 +218,34 @@
     "message": "Ativar os menus de marcadores"
   },
   "sync": {
-    "message": "Sincronização:"
+    "message": "Sincroniza\u00e7\u00e3o:"
   },
   "enableSync": {
-    "message": "Ativar a sincronização"
+    "message": "Ativar a sincroniza\u00e7\u00e3o"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Esta opção permite abrir um marcador ou pasta de marcadores num contentor."
+    "message": "Esta op\u00e7\u00e3o permite abrir um marcador ou pasta de marcadores num contentor."
   },
   "enableSyncDescription": {
-    "message": "Esta opção permite sincronizar os seus contentores e atribuições de sites entre dispositivos."
+    "message": "Esta op\u00e7\u00e3o permite sincronizar os seus contentores e atribui\u00e7\u00f5es de sites entre dispositivos."
   },
   "syncExclude": {
-    "message": "Exclusão de contentores"
+    "message": "Exclus\u00e3o de contentores"
   },
   "syncExcludePlaceholder": {
-    "message": "Insira uma expressão regular"
+    "message": "Insira uma express\u00e3o regular"
   },
   "syncExcludeDescription": {
-    "message": "Excluir da sincronização os contentores cujos nomes correspondem à expressão regular (não diferencia maiúsculas de minúsculas)."
+    "message": "Excluir da sincroniza\u00e7\u00e3o os contentores cujos nomes correspondem \u00e0 express\u00e3o regular (n\u00e3o diferencia mai\u00fasculas de min\u00fasculas)."
   },
   "replaceTab": {
     "message": "Substituir separador em vez de criar um novo"
   },
   "replaceTabDescription": {
-    "message": "Substituir o separador atual se for aberta uma página atribuída a outro contentor (em vez de manter o separador atual aberto). Abrir separadores com o botão do meio do rato não é afetado por esta opção."
+    "message": "Substituir o separador atual se for aberta uma p\u00e1gina atribu\u00edda a outro contentor (em vez de manter o separador atual aberto). Abrir separadores com o bot\u00e3o do meio do rato n\u00e3o \u00e9 afetado por esta op\u00e7\u00e3o."
   },
   "editWhichContainer": {
-    "message": "Edite qual contentor é aberto ao usar os atalhos numerados."
+    "message": "Edite qual contentor \u00e9 aberto ao usar os atalhos numerados."
   },
   "keyboardShortCut": {
     "message": "Contentor a abrir com o atalho de teclado $keyId$",
@@ -256,7 +256,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Confirmar a navegação",
+    "message": "Multi-Account Containers - Confirmar a navega\u00e7\u00e3o",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -280,7 +280,7 @@
     }
   },
   "chooseLocation": {
-    "message": "Escolher localização",
+    "message": "Escolher localiza\u00e7\u00e3o",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
@@ -296,25 +296,25 @@
     "message": "Proteger este contentor com a Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "Definições avançadas de proxy"
+    "message": "Defini\u00e7\u00f5es avan\u00e7adas de proxy"
   },
   "proxyInputLabel": {
     "message": "Definir proxy personalizado"
   },
   "useCustomLocation": {
-    "message": "Usar uma localização personalizada para este contentor"
+    "message": "Usar uma localiza\u00e7\u00e3o personalizada para este contentor"
   },
   "clearproxylabel": {
     "message": "Limpar proxy"
   },
   "moz-vpn-connected": {
-    "message": "A Mozilla VPN está ativada"
+    "message": "A Mozilla VPN est\u00e1 ativada"
   },
   "moz-vpn-disconnected": {
-    "message": "A Mozilla VPN está desativada"
+    "message": "A Mozilla VPN est\u00e1 desativada"
   },
   "invalidProxyAlert": {
-    "message": "Digite um URL de proxy válido"
+    "message": "Digite um URL de proxy v\u00e1lido"
   },
   "mozillaVpnMustBeOn": {
     "message": "A Mozilla VPN deve estar ativada para usar esta funcionalidade."
@@ -323,13 +323,13 @@
     "message": "Saber mais"
   },
   "proxyNowAvailable": {
-    "message": "Agora com a Mozilla VPN e definições avançadas de proxy"
+    "message": "Agora com a Mozilla VPN e defini\u00e7\u00f5es avan\u00e7adas de proxy"
   },
   "applyToContainer": {
     "message": "Aplicar ao contentor"
   },
   "tooltipWarning": {
-    "message": "Este contentor está configurado para usar um proxy da Mozilla VPN, mas a Mozilla VPN não está ativada. Ative a Mozilla VPN para usar este contentor."
+    "message": "Este contentor est\u00e1 configurado para usar um proxy da Mozilla VPN, mas a Mozilla VPN n\u00e3o est\u00e1 ativada. Ative a Mozilla VPN para usar este contentor."
   },
   "getMozillaVpn": {
     "message": "Obter a Mozilla VPN"
@@ -338,31 +338,31 @@
     "message": "Integre os seus contentores com a Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Permissões de proxy e da Mozilla VPN",
+    "message": "Permiss\u00f5es de proxy e da Mozilla VPN",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Permitir que a extensão troque mensagens com outros programas além do Firefox",
+    "message": "Permitir que a extens\u00e3o troque mensagens com outros programas al\u00e9m do Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Esta definição permite que a extensão troque mensagens com o cliente da Mozilla VPN e é necessária para que as funcionalidades de integração da Mozilla VPN funcionem.",
+    "message": "Esta defini\u00e7\u00e3o permite que a extens\u00e3o troque mensagens com o cliente da Mozilla VPN e \u00e9 necess\u00e1ria para que as funcionalidades de integra\u00e7\u00e3o da Mozilla VPN funcionem.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Permitir que a extensão controle as definições de proxy",
+    "message": "Permitir que a extens\u00e3o controle as defini\u00e7\u00f5es de proxy",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Permite usar definições avançadas de proxy e ativar as funcionalidades de integração da Mozilla VPN.",
+    "message": "Permite usar defini\u00e7\u00f5es avan\u00e7adas de proxy e ativar as funcionalidades de integra\u00e7\u00e3o da Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Esta funcionalidade requer uma permissão adicional para funcionar. As permissões podem ser removidas a qualquer momento na página de definições.",
+    "message": "Esta funcionalidade requer uma permiss\u00e3o adicional para funcionar. As permiss\u00f5es podem ser removidas a qualquer momento na p\u00e1gina de defini\u00e7\u00f5es.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "A integração com a Mozilla VPN requer uma subscrição ativa e permissões adicionais para funcionar."
+    "message": "A integra\u00e7\u00e3o com a Mozilla VPN requer uma subscri\u00e7\u00e3o ativa e permiss\u00f5es adicionais para funcionar."
   },
   "enable": {
     "message": "Ativar",
@@ -380,7 +380,7 @@
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Detetar automaticamente (predefinição)",
+    "message": "Detetar automaticamente (predefini\u00e7\u00e3o)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
@@ -399,7 +399,7 @@
     "message": "Procurar nome de contentor"
   },
   "imageAltContainerInfo": {
-    "message": "Informações do contentor",
+    "message": "Informa\u00e7\u00f5es do contentor",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Não foi possível limpar os cookies para $siteName$",
+    "message": "N\u00e3o foi poss\u00edvel limpar os cookies para $siteName$",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {

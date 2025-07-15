@@ -1,133 +1,133 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers ti permet di isolâ lis variis parts de tô vite in rêt in schedis diversis. Lis etichetis personalizadis e lis schedis cun codifiche colorade a judin a separâ lis ativitâts, come lis compris in rêt, la planificazion dai viaçs o il control de pueste eletroniche par lavôr.",
+    "message": "Multi-Account Containers ti permet di isol\u00e2 lis variis parts de t\u00f4 vite in r\u00eat in schedis diversis. Lis etichetis personalizadis e lis schedis cun codifiche colorade a judin a separ\u00e2 lis ativit\u00e2ts, come lis compris in r\u00eat, la planificazion dai via\u00e7s o il control de pueste eletroniche par lav\u00f4r.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Vierç gnove schede in…",
+    "message": "Vier\u00e7 gnove schede in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Torne vierç chest sît in…",
+    "message": "Torne vier\u00e7 chest s\u00eet in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Ordene schedis par contignidôr",
+    "message": "Ordene schedis par contignid\u00f4r",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Vierç simpri chest sît in…",
+    "message": "Vier\u00e7 simpri chest s\u00eet in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Vierç simpri in…",
+    "message": "Vier\u00e7 simpri in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Vierç simpri il sît in chest contignidôr"
+    "message": "Vier\u00e7 simpri il s\u00eet in chest contignid\u00f4r"
   },
   "openANewTabIn": {
-    "message": "Vierç une gnove schede in…"
+    "message": "Vier\u00e7 une gnove schede in\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Vierç gnove schede in chest contignidôr"
+    "message": "Vier\u00e7 gnove schede in chest contignid\u00f4r"
   },
   "openTabs": {
     "message": "Schedis viertis",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Sposte schede intun gnûf barcon"
+    "message": "Sposte schede intun gn\u00fbf barcon"
   },
   "onboarding-1-header": {
-    "message": "Un mût miôr par gjestî dutis lis tôs ativitâts in rêt"
+    "message": "Un m\u00fbt mi\u00f4r par gjest\u00ee dutis lis t\u00f4s ativit\u00e2ts in r\u00eat"
   },
   "onboarding-1-description": {
-    "message": "Dopre i contignidôrs par organizâ lis ativitâts, gjestî i accounts e tignîti concentrât su ce che ti interesse."
+    "message": "Dopre i contignid\u00f4rs par organiz\u00e2 lis ativit\u00e2ts, gjest\u00ee i accounts e tign\u00eeti concentr\u00e2t su ce che ti interesse."
   },
   "onboarding-2-header": {
-    "message": "Fâs lavorâ i contignidôrs al to puest."
+    "message": "F\u00e2s lavor\u00e2 i contignid\u00f4rs al to puest."
   },
   "onboarding-2-description": {
-    "message": "Funzions come la codifiche a colôrs e lis schedis contignidôr separadis ti judin a cjatâ cun facilitât ce che ti covente, concentrâ la tô atenzion e ridusi al minim lis distrazions."
+    "message": "Funzions come la codifiche a col\u00f4rs e lis schedis contignid\u00f4r separadis ti judin a cjat\u00e2 cun facilit\u00e2t ce che ti covente, concentr\u00e2 la t\u00f4 atenzion e ridusi al minim lis distrazions."
   },
   "onboarding-3-header": {
     "message": "Un puest par ogni robe e ogni robe al so puest."
   },
   "onboarding-3-description": {
-    "message": "Scomence cui contignidôrs che o vin creât nô opûr cree un par to cont."
+    "message": "Scomence cui contignid\u00f4rs che o vin cre\u00e2t n\u00f4 op\u00fbr cree un par to cont."
   },
   "onboarding-4-header": {
-    "message": "Vierç simpri i sîts tai contignidôrs che tu vûs."
+    "message": "Vier\u00e7 simpri i s\u00eets tai contignid\u00f4rs che tu v\u00fbs."
   },
   "onboarding-4-description": {
-    "message": "Fâs clic cul boton diestri dal mouse dentri di une schede contignidôr par fâ in mût che il sît al vegni simpri viert tal contignidôr."
+    "message": "F\u00e2s clic cul boton diestri dal mouse dentri di une schede contignid\u00f4r par f\u00e2 in m\u00fbt che il s\u00eet al vegni simpri viert tal contignid\u00f4r."
   },
   "onboarding-5-header": {
-    "message": "Schedis contignidôr cuant che ti coventin."
+    "message": "Schedis contignid\u00f4r cuant che ti coventin."
   },
   "onboarding-5-description": {
-    "message": "Frache a dilunc il boton Gnove schede par vierzi une gnove schede contignidôr."
+    "message": "Frache a dilunc il boton Gnove schede par vierzi une gnove schede contignid\u00f4r."
   },
   "onboarding-6-header": {
-    "message": "Cumò tu puedis sincronizâ i contignidôrs!"
+    "message": "Cum\u00f2 tu puedis sincroniz\u00e2 i contignid\u00f4rs!"
   },
   "onboarding-6-description-2": {
-    "message": "Ative la sincronizazion par condividi i contignidôrs e i sîts associâts cun ducj i computers conetûts al to account."
+    "message": "Ative la sincronizazion par condividi i contignid\u00f4rs e i s\u00eets associ\u00e2ts cun ducj i computers conet\u00fbts al to account."
   },
   "onboarding-7-header-2": {
-    "message": "Al covente un account par sincronizâ."
+    "message": "Al covente un account par sincroniz\u00e2."
   },
   "onboarding-7-description-2": {
-    "message": "Fâs clic su Jentre par confermâ che il to account al è atîf."
+    "message": "F\u00e2s clic su Jentre par conferm\u00e2 che il to account al \u00e8 at\u00eef."
   },
   "onboarding-8-description": {
-    "message": "Cumò al è pussibil integrâ i contignidôrs cun Mozilla VPN o un proxy a tô sielte, creant une conession sigure e riservade par protezi lis tôs ativitâts in rêt."
+    "message": "Cum\u00f2 al \u00e8 pussibil integr\u00e2 i contignid\u00f4rs cun Mozilla VPN o un proxy a t\u00f4 sielte, creant une conession sigure e riservade par protezi lis t\u00f4s ativit\u00e2ts in r\u00eat."
   },
   "oneHundredTabsHeader": {
     "message": "100 schedis!"
   },
   "youHaveOpened": {
-    "message": "Tu âs viert 100 schedis contignidôr."
+    "message": "Tu \u00e2s viert 100 schedis contignid\u00f4r."
   },
   "spreadTheWord": {
-    "message": "Se ti plasin i contignidôrs, judinus a sparniçâ la vôs!"
+    "message": "Se ti plasin i contignid\u00f4rs, judinus a sparni\u00e7\u00e2 la v\u00f4s!"
   },
   "rate": {
     "message": "Valute"
   },
   "share": {
-    "message": "Condivît"
+    "message": "Condiv\u00eet"
   },
   "tweet": {
     "message": "Mande un tweet"
   },
   "default": {
-    "message": "Predefinît"
+    "message": "Predefin\u00eet"
   },
   "manageContainers": {
-    "message": "Gjestìs contignidôrs"
+    "message": "Gjest\u00ecs contignid\u00f4rs"
   },
   "newContainer": {
-    "message": "Gnûf contignidôr"
+    "message": "Gn\u00fbf contignid\u00f4r"
   },
   "hideThisContainer": {
-    "message": "Plate chest contignidôr"
+    "message": "Plate chest contignid\u00f4r"
   },
   "showThisContainer": {
-    "message": "Mostre chest contignidôr"
+    "message": "Mostre chest contignid\u00f4r"
   },
   "removeThisContainer": {
-    "message": "Gjave chest contignidôr"
+    "message": "Gjave chest contignid\u00f4r"
   },
   "removeThisContainerConfirmation": {
-    "message": "Gjavâ pardabon chest contignidôr?"
+    "message": "Gjav\u00e2 pardabon chest contignid\u00f4r?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "Nete la memorie di archiviazion dal contignidôr"
+    "message": "Nete la memorie di archiviazion dal contignid\u00f4r"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Netâ pardabon i cookies e la memorie di archiviazion par chest contignidôr?"
+    "message": "Net\u00e2 pardabon i cookies e la memorie di archiviazion par chest contignid\u00f4r?"
   },
   "cancel": {
     "message": "Anule"
@@ -136,7 +136,7 @@
     "message": "Va ben"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sîts assegnâts a chest contignidôr"
+    "message": "S\u00eets assegn\u00e2ts a chest contignid\u00f4r"
   },
   "options": {
     "message": "Opzions"
@@ -145,25 +145,25 @@
     "message": "Non"
   },
   "color": {
-    "message": "Colôr"
+    "message": "Col\u00f4r"
   },
   "icon": {
     "message": "Icone"
   },
   "limitToDesignatedSites": {
-    "message": "Limite ai sîts designâts"
+    "message": "Limite ai s\u00eets design\u00e2ts"
   },
   "deleteThisContainer": {
-    "message": "Elimine chest contignidôr"
+    "message": "Elimine chest contignid\u00f4r"
   },
   "manageSiteList": {
-    "message": "Gjestìs liste sîts…"
+    "message": "Gjest\u00ecs liste s\u00eets\u2026"
   },
   "manageThisContainer": {
-    "message": "Gjestìs chest contignidôr"
+    "message": "Gjest\u00ecs chest contignid\u00f4r"
   },
   "containers": {
-    "message": "Contignidôrs"
+    "message": "Contignid\u00f4rs"
   },
   "done": {
     "message": "Fat"
@@ -175,7 +175,7 @@
     "message": "Jentre"
   },
   "notNow": {
-    "message": "No cumò"
+    "message": "No cum\u00f2"
   },
   "startSyncing": {
     "message": "Invie la sincronizazion"
@@ -185,19 +185,19 @@
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Sucessîf"
+    "message": "Sucess\u00eef"
   },
   "openThisSiteConfirmation": {
-    "message": "Vierzi chest sît tal contignidôr assegnât?"
+    "message": "Vierzi chest s\u00eet tal contignid\u00f4r assegn\u00e2t?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Desideristu distès vierzi chest sît tal contignidôr corint?"
+    "message": "Desideristu dist\u00e8s vierzi chest s\u00eet tal contignid\u00f4r corint?"
   },
   "rememberMyDecision": {
-    "message": "Visiti de mê decision par chest sît"
+    "message": "Visiti de m\u00ea decision par chest s\u00eet"
   },
   "optionalPermissions": {
-    "message": "Permès facoltatîfs:"
+    "message": "Perm\u00e8s facoltat\u00eefs:"
   },
   "keyboardShortCuts": {
     "message": "Scurtis di tastiere:"
@@ -209,13 +209,13 @@
     "message": "Ripristine panei introduzion"
   },
   "onboardingToggle": {
-    "message": "Dopre cheste opzion par tornâ a viodi i panei de introduzion."
+    "message": "Dopre cheste opzion par torn\u00e2 a viodi i panei de introduzion."
   },
   "tabBehavior": {
     "message": "Compuartament de schede:"
   },
   "enableBookMarkMenus": {
-    "message": "Ative menûs segnelibris"
+    "message": "Ative men\u00fbs segnelibris"
   },
   "sync": {
     "message": "Sincronizazion:"
@@ -224,31 +224,31 @@
     "message": "Ative sincronizazion"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Cheste impostazion ti permet di vierzi un segnelibri o une cartele di segnelibris intun contignidôr."
+    "message": "Cheste impostazion ti permet di vierzi un segnelibri o une cartele di segnelibris intun contignid\u00f4r."
   },
   "enableSyncDescription": {
-    "message": "Cheste impostazion ti permet di sincronizâ su plui dispositîfs i tiei contignidôrs e i sîts associâts."
+    "message": "Cheste impostazion ti permet di sincroniz\u00e2 su plui disposit\u00eefs i tiei contignid\u00f4rs e i s\u00eets associ\u00e2ts."
   },
   "syncExclude": {
-    "message": "Esclusion contignidôrs"
+    "message": "Esclusion contignid\u00f4rs"
   },
   "syncExcludePlaceholder": {
-    "message": "Inserìs une espression regolâr"
+    "message": "Inser\u00ecs une espression regol\u00e2r"
   },
   "syncExcludeDescription": {
-    "message": "Esclût de sincronizazion i contignidôrs in base al lôr non doprant la espression regolâr specificade (cence distinzion tra maiusculis e minusculis)."
+    "message": "Escl\u00fbt de sincronizazion i contignid\u00f4rs in base al l\u00f4r non doprant la espression regol\u00e2r specificade (cence distinzion tra maiusculis e minusculis)."
   },
   "replaceTab": {
-    "message": "Sostituìs schede invezit che creâ une gnove"
+    "message": "Sostitu\u00ecs schede invezit che cre\u00e2 une gnove"
   },
   "replaceTabDescription": {
-    "message": "Se e ven vierte une pagjine assegnade a un altri contignidôr, sostituìs la schede corinte invezit di tignîle vierte. La viertidure des schedis cul boton centrâl dal mouse no ven tocjade di cheste opzion."
+    "message": "Se e ven vierte une pagjine assegnade a un altri contignid\u00f4r, sostitu\u00ecs la schede corinte invezit di tign\u00eele vierte. La viertidure des schedis cul boton centr\u00e2l dal mouse no ven tocjade di cheste opzion."
   },
   "editWhichContainer": {
-    "message": "Modifiche cuâl contignidôr che al à di sei viert cuant che a vegnin dopradis lis scurtis numeradis."
+    "message": "Modifiche cu\u00e2l contignid\u00f4r che al \u00e0 di sei viert cuant che a vegnin dopradis lis scurtis numeradis."
   },
   "keyboardShortCut": {
-    "message": "Contignidôr di vierzi cu la scurte di tastiere $keyId$",
+    "message": "Contignid\u00f4r di vierzi cu la scurte di tastiere $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers — Conferme navigazion",
+    "message": "Multi-Account Containers \u2014 Conferme navigazion",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "Vierç tal contignidôr $containerName$",
+    "message": "Vier\u00e7 tal contignid\u00f4r $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "Vierç in cheste schede",
+    "message": "Vier\u00e7 in cheste schede",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Tu âs domandât a Firefox di vierzi simpri il contignidôr $containerName$ par chest sît:",
+    "message": "Tu \u00e2s domand\u00e2t a Firefox di vierzi simpri il contignid\u00f4r $containerName$ par chest s\u00eet:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,7 +280,7 @@
     }
   },
   "chooseLocation": {
-    "message": "Sielç posizion",
+    "message": "Siel\u00e7 posizion",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
@@ -290,19 +290,19 @@
     "message": "Mostre"
   },
   "protectYourContainers": {
-    "message": "Protêç i tiei contignidôrs cun Mozilla VPN"
+    "message": "Prot\u00ea\u00e7 i tiei contignid\u00f4rs cun Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "Protêç chest contignidôr cun Mozilla VPN"
+    "message": "Prot\u00ea\u00e7 chest contignid\u00f4r cun Mozilla VPN"
   },
   "advancedProxySettings": {
     "message": "Impostazions proxy avanzadis"
   },
   "proxyInputLabel": {
-    "message": "Inserìs un proxy personalizât"
+    "message": "Inser\u00ecs un proxy personaliz\u00e2t"
   },
   "useCustomLocation": {
-    "message": "Dopre une posizion personalizade par chest contignidôr"
+    "message": "Dopre une posizion personalizade par chest contignid\u00f4r"
   },
   "clearproxylabel": {
     "message": "Cancele proxy"
@@ -314,104 +314,104 @@
     "message": "Mozilla VPN no je ative"
   },
   "invalidProxyAlert": {
-    "message": "Inserìs un URL di proxy valit"
+    "message": "Inser\u00ecs un URL di proxy valit"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN e scugne jessi ative par doprâ cheste funzion."
+    "message": "Mozilla VPN e scugne jessi ative par dopr\u00e2 cheste funzion."
   },
   "learnMore": {
     "message": "Plui informazions"
   },
   "proxyNowAvailable": {
-    "message": "Cumò cun Mozilla VPN e impostazions proxy avanzadis"
+    "message": "Cum\u00f2 cun Mozilla VPN e impostazions proxy avanzadis"
   },
   "applyToContainer": {
-    "message": "Apliche al contignidôr"
+    "message": "Apliche al contignid\u00f4r"
   },
   "tooltipWarning": {
-    "message": "Chest contignidôr al è configurât par doprâ un proxy Mozilla VPN, ma Mozilla VPN no je ative. Ative Mozilla VPN par doprâ chest contignidôr."
+    "message": "Chest contignid\u00f4r al \u00e8 configur\u00e2t par dopr\u00e2 un proxy Mozilla VPN, ma Mozilla VPN no je ative. Ative Mozilla VPN par dopr\u00e2 chest contignid\u00f4r."
   },
   "getMozillaVpn": {
     "message": "Oten Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+    "message": "Integre i tiei contignid\u00f4rs cun Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN e permès pai proxy",
+    "message": "Mozilla VPN e perm\u00e8s pai proxy",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Permet ae estension di scambiâ i messaçs cun programs diviers di Firefox",
+    "message": "Permet ae estension di scambi\u00e2 i messa\u00e7s cun programs diviers di Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Cheste impostazion e permet ae estension di scambiâ messaçs cul client Mozilla VPN e e covente pal funzionament de integrazion cun Mozilla VPN.",
+    "message": "Cheste impostazion e permet ae estension di scambi\u00e2 messa\u00e7s cul client Mozilla VPN e e covente pal funzionament de integrazion cun Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Permet ae estension di controlâ lis impostazions dal proxy",
+    "message": "Permet ae estension di control\u00e2 lis impostazions dal proxy",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Chest al permet di doprâ lis impostazions proxy avanzadis e ativâ la integrazion cun Mozilla VPN.",
+    "message": "Chest al permet di dopr\u00e2 lis impostazions proxy avanzadis e ativ\u00e2 la integrazion cun Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Cheste funzion e à bisugne di un permès in plui par funzionâ. Cuant che tu volarâs, al sarà pussibil disativâ i permès te pagjine des impostazions.",
+    "message": "Cheste funzion e \u00e0 bisugne di un perm\u00e8s in plui par funzion\u00e2. Cuant che tu volar\u00e2s, al sar\u00e0 pussibil disativ\u00e2 i perm\u00e8s te pagjine des impostazions.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "La integrazion cun Mozilla VPN e domande un abonament e permès in plui par funzionâ."
+    "message": "La integrazion cun Mozilla VPN e domande un abonament e perm\u00e8s in plui par funzion\u00e2."
   },
   "enable": {
     "message": "Ative",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integre i tiei contignidôrs cun Mozilla VPN"
+    "message": "Integre i tiei contignid\u00f4rs cun Mozilla VPN"
   },
   "theme": {
     "message": "Teme:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Sielç un teme",
+    "message": "Siel\u00e7 un teme",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Rileve in automatic (predefinît)",
+    "message": "Rileve in automatic (predefin\u00eet)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "Clâr",
+    "message": "Cl\u00e2r",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "Scûr",
+    "message": "Sc\u00fbr",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Filtre la liste dai contignidôrs par non:",
+    "message": "Filtre la liste dai contignid\u00f4rs par non:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Cîr il non dal contignidôr"
+    "message": "C\u00eer il non dal contignid\u00f4r"
   },
   "imageAltContainerInfo": {
-    "message": "Informazions sul contignidôr",
+    "message": "Informazions sul contignid\u00f4r",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "Contignidôr predefinît",
+    "message": "Contignid\u00f4r predefin\u00eet",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Vierç panel contignidôrs",
+    "message": "Vier\u00e7 panel contignid\u00f4rs",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Scurte pai contignidôrs $keyId$",
+    "message": "Scurte pai contignid\u00f4rs $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,14 +420,14 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Vierç segnelibri in schede contignidôr"
+    "message": "Vier\u00e7 segnelibri in schede contignid\u00f4r"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Nete i cookies par chest sît",
+    "message": "Nete i cookies par chest s\u00eet",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "Gjave chest sît",
+    "message": "Gjave chest s\u00eet",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
@@ -435,7 +435,7 @@
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "I cookies par $siteName$ a son stâts netâts fûr cun sucès",
+    "message": "I cookies par $siteName$ a son st\u00e2ts net\u00e2ts f\u00fbr cun suc\u00e8s",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Nol è stât pussibil netâ fûr i cookies par $siteName$",
+    "message": "Nol \u00e8 st\u00e2t pussibil net\u00e2 f\u00fbr i cookies par $siteName$",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "La memorie di archiviazion e i cookies di $containerName$ a son stâts netâts fûr.",
+    "message": "La memorie di archiviazion e i cookies di $containerName$ a son st\u00e2ts net\u00e2ts f\u00fbr.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

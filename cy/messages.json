@@ -1,33 +1,33 @@
 {
   "extensionDescription": {
-    "message": "Mae Cynhwysyddion Aml-Gyfrifon yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
+    "message": "Mae Cynhwysyddion Aml-Gyfrifon yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau \u00e2 chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wah\u00e2n.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Agor y Tab Newydd yn…",
+    "message": "Agor y Tab Newydd yn\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Ailagor y Wefan hon yn…",
+    "message": "Ailagor y Wefan hon yn\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Trefnu Tabiau yn ôl Cynhwysydd",
+    "message": "Trefnu Tabiau yn \u00f4l Cynhwysydd",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Agor y Wefan hon bob tro yn…",
+    "message": "Agor y Wefan hon bob tro yn\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Ar agor bob tro yn…",
+    "message": "Ar agor bob tro yn\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Agor y Wefan mewn Cynhwysydd bob tro"
   },
   "openANewTabIn": {
-    "message": "Agor Tab Newydd yn…"
+    "message": "Agor Tab Newydd yn\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Agor Tab Newydd yn y Cynhwysydd hwn"
@@ -55,7 +55,7 @@
     "message": "Lle i bopeth, a phopeth yn ei le."
   },
   "onboarding-3-description": {
-    "message": "Cychwynnwch gyda'r Cynhwysyddion rydyn ni wedi'u creu, neu crëwch eich rai eich hun."
+    "message": "Cychwynnwch gyda'r Cynhwysyddion rydyn ni wedi'u creu, neu cr\u00ebwch eich rai eich hun."
   },
   "onboarding-4-header": {
     "message": "Agorwch wefannau bob tro yn y Cynhwysyddion rydych chi eu heisiau."
@@ -73,7 +73,7 @@
     "message": "Mae cydweddu Cynwysyddion nawr ar gael!"
   },
   "onboarding-6-description-2": {
-    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd ac aseiniad gwefannau gydag unrhyw gyfrifiadur sy'n gysylltiedig â'ch cyfrif Firefox."
+    "message": "Trowch gydweddu ymlaen i rannu Cynhwysydd ac aseiniad gwefannau gydag unrhyw gyfrifiadur sy'n gysylltiedig \u00e2'ch cyfrif Firefox."
   },
   "onboarding-7-header-2": {
     "message": "Mae'n angen cyfrif Firefox i gydweddu."
@@ -82,7 +82,7 @@
     "message": "Cliciwch Mewngofnodi i gadarnhau bod eich cyfrif Firefox yn weithredol."
   },
   "onboarding-8-description": {
-    "message": "Mae Cynhwysyddion nawr yn gallu integreiddio â Mozilla VPN neu'ch dirprwy eich hun i greu cysylltiad preifat, diogel sy'n diogelu eich gweithgaredd."
+    "message": "Mae Cynhwysyddion nawr yn gallu integreiddio \u00e2 Mozilla VPN neu'ch dirprwy eich hun i greu cysylltiad preifat, diogel sy'n diogelu eich gweithgaredd."
   },
   "oneHundredTabsHeader": {
     "message": "100 tab!"
@@ -121,13 +121,13 @@
     "message": "Tynnu'r Cynhwysydd Hwn"
   },
   "removeThisContainerConfirmation": {
-    "message": "Ydych chi'n siŵr eich bod eisiau tynnu'r Cynhwysydd hwn?"
+    "message": "Ydych chi'n si\u0175r eich bod eisiau tynnu'r Cynhwysydd hwn?"
   },
   "clearContainerStoragePanelTitle": {
     "message": "Clirio Storfa'r Cynhwysydd"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Ydych chi'n siŵr eich bod am glirio cwcis a storfa'r Cynhwysydd hwn?"
+    "message": "Ydych chi'n si\u0175r eich bod am glirio cwcis a storfa'r Cynhwysydd hwn?"
   },
   "cancel": {
     "message": "Diddymu"
@@ -157,7 +157,7 @@
     "message": "Dileu'r Cynhwysydd Hwn"
   },
   "manageSiteList": {
-    "message": "Rheoli'r Rhestr Gwefannau…"
+    "message": "Rheoli'r Rhestr Gwefannau\u2026"
   },
   "manageThisContainer": {
     "message": "Rheoli'r Cynhwysydd hwn"
@@ -197,7 +197,7 @@
     "message": "Cofio fy mhenderfyniad ar gyfer y wefan hon"
   },
   "optionalPermissions": {
-    "message": "Caniatâd Dewisol:"
+    "message": "Caniat\u00e2d Dewisol:"
   },
   "keyboardShortCuts": {
     "message": "Llwybrau Byr Bysellfwrdd:"
@@ -224,10 +224,10 @@
     "message": "Galluogi cydweddu"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Mae'r gosodiad hwn yn caniatáu i chi agor nod tudalen neu ffolder o nodau tudalen mewn Cynhwysydd."
+    "message": "Mae'r gosodiad hwn yn caniat\u00e1u i chi agor nod tudalen neu ffolder o nodau tudalen mewn Cynhwysydd."
   },
   "enableSyncDescription": {
-    "message": "Mae'r gosodiad hwn yn caniatáu i chi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
+    "message": "Mae'r gosodiad hwn yn caniat\u00e1u i chi gydweddu'ch Cynhwysyddion a'ch gwefannau neilltuedig ar draws dyfeisiau."
   },
   "syncExclude": {
     "message": "Gwahardd cynhwysydd"
@@ -338,31 +338,31 @@
     "message": "Integreiddiwch eich Cynhwysyddion gyda Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN a Chaniatâd Dirprwyol",
+    "message": "Mozilla VPN a Chaniat\u00e2d Dirprwyol",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Caniatáu i estyniad gyfnewid negeseuon â rhaglenni heblaw Firefox",
+    "message": "Caniat\u00e1u i estyniad gyfnewid negeseuon \u00e2 rhaglenni heblaw Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Mae'r gosodiad hwn yn caniatáu i'r estyniad gyfnewid negeseuon gyda'r cleient Mozilla VPN ac mae'n ofynnol i nodweddion integreiddio Mozilla VPN weithio.",
+    "message": "Mae'r gosodiad hwn yn caniat\u00e1u i'r estyniad gyfnewid negeseuon gyda'r cleient Mozilla VPN ac mae'n ofynnol i nodweddion integreiddio Mozilla VPN weithio.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Caniatáu i estyniad reoli gosodiadau dirprwyol",
+    "message": "Caniat\u00e1u i estyniad reoli gosodiadau dirprwyol",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Mae hyn yn caniatáu i chi ddefnyddio gosodiadau dirprwyol datblygedig a galluogi nodweddion integreiddio Mozilla VPN.",
+    "message": "Mae hyn yn caniat\u00e1u i chi ddefnyddio gosodiadau dirprwyol datblygedig a galluogi nodweddion integreiddio Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Mae angen caniatâd ychwanegol i'r nodwedd hon weithio. Mae modd analluogi caniatâd ar unrhyw bryd ar y dudalen gosodiadau.",
+    "message": "Mae angen caniat\u00e2d ychwanegol i'r nodwedd hon weithio. Mae modd analluogi caniat\u00e2d ar unrhyw bryd ar y dudalen gosodiadau.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Mae integreiddio â Mozilla VPN yn gofyn am danysgrifiad a chaniatâd ychwanegol iddo weithio."
+    "message": "Mae integreiddio \u00e2 Mozilla VPN yn gofyn am danysgrifiad a chaniat\u00e2d ychwanegol iddo weithio."
   },
   "enable": {
     "message": "Galluogi",
@@ -392,7 +392,7 @@
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Hidlo'r rhestr cynhwysydd yn ôl enw:",
+    "message": "Hidlo'r rhestr cynhwysydd yn \u00f4l enw:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {

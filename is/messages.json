@@ -1,48 +1,48 @@
 {
   "openInNewTabTitle": {
-    "message": "Opna nýjan flipa í…",
+    "message": "Opna n\u00fdjan flipa \u00ed\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Opna þessa síðu aftur í…",
+    "message": "Opna \u00feessa s\u00ed\u00f0u aftur \u00ed\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Raða flipum eftir sérefni",
+    "message": "Ra\u00f0a flipum eftir s\u00e9refni",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Opna þessa síðu alltaf í…",
+    "message": "Opna \u00feessa s\u00ed\u00f0u alltaf \u00ed\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Alltaf opna í…",
+    "message": "Alltaf opna \u00ed\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Opna vefsvæðið alltaf í sérefnisflipa"
+    "message": "Opna vefsv\u00e6\u00f0i\u00f0 alltaf \u00ed s\u00e9refnisflipa"
   },
   "openANewTabIn": {
-    "message": "Opna nýjan flipa í…"
+    "message": "Opna n\u00fdjan flipa \u00ed\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Opna nýjan flipa í þessum sérefnisflipa"
+    "message": "Opna n\u00fdjan flipa \u00ed \u00feessum s\u00e9refnisflipa"
   },
   "openTabs": {
     "message": "Opna flipa",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Færa flipa yfir í nýjan glugga"
+    "message": "F\u00e6ra flipa yfir \u00ed n\u00fdjan glugga"
   },
   "onboarding-1-header": {
-    "message": "Betri leið til að halda utan um allt það sem þú gerir á netinu"
+    "message": "Betri lei\u00f0 til a\u00f0 halda utan um allt \u00fea\u00f0 sem \u00fe\u00fa gerir \u00e1 netinu"
   },
   "oneHundredTabsHeader": {
     "message": "100 flipar!"
   },
   "youHaveOpened": {
-    "message": "Þú hefur opnað 100 sérefnisflipa."
+    "message": "\u00de\u00fa hefur opna\u00f0 100 s\u00e9refnisflipa."
   },
   "rate": {
     "message": "Gefa einkunn"
@@ -51,31 +51,31 @@
     "message": "Deila"
   },
   "tweet": {
-    "message": "Tísta"
+    "message": "T\u00edsta"
   },
   "default": {
-    "message": "Sjálfgefið"
+    "message": "Sj\u00e1lfgefi\u00f0"
   },
   "manageContainers": {
-    "message": "Sýsla með sérefnisgáma"
+    "message": "S\u00fdsla me\u00f0 s\u00e9refnisg\u00e1ma"
   },
   "newContainer": {
-    "message": "Nýr sérefnisgámur"
+    "message": "N\u00fdr s\u00e9refnisg\u00e1mur"
   },
   "hideThisContainer": {
-    "message": "Fela þennan sérefnisgám"
+    "message": "Fela \u00feennan s\u00e9refnisg\u00e1m"
   },
   "showThisContainer": {
-    "message": "Sýna þennan sérefnisgám"
+    "message": "S\u00fdna \u00feennan s\u00e9refnisg\u00e1m"
   },
   "removeThisContainer": {
-    "message": "Fjarlægja þennan sérefnisgám"
+    "message": "Fjarl\u00e6gja \u00feennan s\u00e9refnisg\u00e1m"
   },
   "cancel": {
-    "message": "Hætta við"
+    "message": "H\u00e6tta vi\u00f0"
   },
   "ok": {
-    "message": "Í lagi"
+    "message": "\u00cd lagi"
   },
   "options": {
     "message": "Valkostir"
@@ -87,41 +87,47 @@
     "message": "Litur"
   },
   "icon": {
-    "message": "Táknmynd"
+    "message": "T\u00e1knmynd"
+  },
+  "limitToDesignatedSites": {
+    "message": "Takmarka vi\u00f0 tilgreind vefsv\u00e6\u00f0i"
+  },
+  "deleteThisContainer": {
+    "message": "Ey\u00f0a \u00feessum s\u00e9refnisg\u00e1mi"
   },
   "done": {
-    "message": "Lokið"
+    "message": "Loki\u00f0"
   },
   "getStarted": {
     "message": "Hefjast handa"
   },
   "signIn": {
-    "message": "Skrá inn"
+    "message": "Skr\u00e1 inn"
   },
   "notNow": {
-    "message": "Ekki núna"
+    "message": "Ekki n\u00fana"
   },
   "startSyncing": {
     "message": "Hefja samstillingu"
   },
   "info": {
-    "message": "upplýsingar",
+    "message": "uppl\u00fdsingar",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "Næsta"
+    "message": "N\u00e6sta"
   },
   "optionalPermissions": {
-    "message": "Valfrjálsar heimildir:"
+    "message": "Valfrj\u00e1lsar heimildir:"
   },
   "keyboardShortCuts": {
-    "message": "Flýtilyklar:"
+    "message": "Fl\u00fdtilyklar:"
   },
   "onboarding": {
     "message": "Kynning"
   },
   "tabBehavior": {
-    "message": "Hegðun flipa:"
+    "message": "Heg\u00f0un flipa:"
   },
   "sync": {
     "message": "Samstilling:"
@@ -130,60 +136,60 @@
     "message": "Virkja samstillingu"
   },
   "chooseLocation": {
-    "message": "Veldu staðsetningu",
+    "message": "Veldu sta\u00f0setningu",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
     "message": "Fela"
   },
   "show": {
-    "message": "Sýna"
+    "message": "S\u00fdna"
   },
   "clearproxylabel": {
-    "message": "Hreinsa milliþjón"
+    "message": "Hreinsa milli\u00fej\u00f3n"
   },
   "moz-vpn-connected": {
-    "message": "Kveikt er á Mozilla VPN"
+    "message": "Kveikt er \u00e1 Mozilla VPN"
   },
   "moz-vpn-disconnected": {
-    "message": "Slökkt er á Mozilla VPN"
+    "message": "Sl\u00f6kkt er \u00e1 Mozilla VPN"
   },
   "learnMore": {
-    "message": "Fræðast meira"
+    "message": "Fr\u00e6\u00f0ast meira"
   },
   "getMozillaVpn": {
-    "message": "Fáðu þér Mozilla VPN"
+    "message": "F\u00e1\u00f0u \u00fe\u00e9r Mozilla VPN"
   },
   "enable": {
     "message": "Virkja",
     "description": "Button title "
   },
   "theme": {
-    "message": "Þema:",
+    "message": "\u00deema:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Veldu þema",
+    "message": "Veldu \u00feema",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Finna sjálfvirkt (sjálfgefið)",
+    "message": "Finna sj\u00e1lfvirkt (sj\u00e1lfgefi\u00f0)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "Ljóst",
+    "message": "Lj\u00f3st",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "Dökkt",
+    "message": "D\u00f6kkt",
     "description": "Value for the theme option select tag"
   },
   "deleteSiteTooltipInfo": {
-    "message": "Fjarlægja þetta vefsvæði",
+    "message": "Fjarl\u00e6gja \u00feetta vefsv\u00e6\u00f0i",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "Hreinsa geymslu og vefkökur",
+    "message": "Hreinsa geymslu og vefk\u00f6kur",
     "description": "Label for the clearing a containers storage and cache option"
   }
 }

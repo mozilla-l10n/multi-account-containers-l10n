@@ -1,254 +1,254 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers ให้คุณแยกข้อมูลสำหรับส่วนต่างๆ ทั้งหมดของชีวิตออนไลน์ของคุณในคนละแท็บกันได้ ฉลากกำหนดเองและแท็บที่เป็นสีสันจะช่วยแยกกิจกรรมต่างๆ ออกจากกัน เช่น การซื้อของออนไลน์ การวางแผนเดินทาง หรือการตรวจอีเมลที่ทำงาน",
+    "message": "Multi-Account Containers \u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e02\u0e2d\u0e07\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e43\u0e19\u0e04\u0e19\u0e25\u0e30\u0e41\u0e17\u0e47\u0e1a\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49 \u0e09\u0e25\u0e32\u0e01\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e40\u0e2d\u0e07\u0e41\u0e25\u0e30\u0e41\u0e17\u0e47\u0e1a\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e35\u0e2a\u0e31\u0e19\u0e08\u0e30\u0e0a\u0e48\u0e27\u0e22\u0e41\u0e22\u0e01\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e2d\u0e2d\u0e01\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19 \u0e40\u0e0a\u0e48\u0e19 \u0e01\u0e32\u0e23\u0e0b\u0e37\u0e49\u0e2d\u0e02\u0e2d\u0e07\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c \u0e01\u0e32\u0e23\u0e27\u0e32\u0e07\u0e41\u0e1c\u0e19\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07 \u0e2b\u0e23\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e15\u0e23\u0e27\u0e08\u0e2d\u0e35\u0e40\u0e21\u0e25\u0e17\u0e35\u0e48\u0e17\u0e33\u0e07\u0e32\u0e19",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "เปิดแท็บใหม่ใน…",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e17\u0e47\u0e1a\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "เปิดไซต์นี้ใหม่ใน…",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "เรียงแท็บตามที่แยกข้อมูล",
+    "message": "\u0e40\u0e23\u0e35\u0e22\u0e07\u0e41\u0e17\u0e47\u0e1a\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "ทุกครั้งให้เปิดไซต์นี้ใน…",
+    "message": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e43\u0e19\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "ทุกครั้งให้เปิดใน…",
+    "message": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e19\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "ทุกครั้งให้เปิดไซต์ในที่แยกข้อมูล"
+    "message": "\u0e17\u0e38\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "openANewTabIn": {
-    "message": "เปิดแท็บใหม่ใน…"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e17\u0e47\u0e1a\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "เปิดแท็บใหม่ในที่แยกข้อมูลนี้"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e17\u0e47\u0e1a\u0e43\u0e2b\u0e21\u0e48\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "openTabs": {
-    "message": "แท็บที่เปิด",
+    "message": "\u0e41\u0e17\u0e47\u0e1a\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e34\u0e14",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "ย้ายแท็บไปยังหน้าต่างใหม่"
+    "message": "\u0e22\u0e49\u0e32\u0e22\u0e41\u0e17\u0e47\u0e1a\u0e44\u0e1b\u0e22\u0e31\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e48\u0e32\u0e07\u0e43\u0e2b\u0e21\u0e48"
   },
   "onboarding-1-header": {
-    "message": "วิธีที่ดีกว่าในการจัดการทุกสิ่งที่คุณทำบนโลกออนไลน์"
+    "message": "\u0e27\u0e34\u0e18\u0e35\u0e17\u0e35\u0e48\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e43\u0e19\u0e01\u0e32\u0e23\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e17\u0e38\u0e01\u0e2a\u0e34\u0e48\u0e07\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e17\u0e33\u0e1a\u0e19\u0e42\u0e25\u0e01\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c"
   },
   "onboarding-1-description": {
-    "message": "ใช้ที่แยกข้อมูลเพื่อจัดระเบียบงาน จัดการบัญชี และไม่ให้เสียสมาธิในจุดที่คุณต้องการ"
+    "message": "\u0e43\u0e0a\u0e49\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e08\u0e31\u0e14\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22\u0e1a\u0e07\u0e32\u0e19 \u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e1a\u0e31\u0e0d\u0e0a\u0e35 \u0e41\u0e25\u0e30\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e40\u0e2a\u0e35\u0e22\u0e2a\u0e21\u0e32\u0e18\u0e34\u0e43\u0e19\u0e08\u0e38\u0e14\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23"
   },
   "onboarding-2-header": {
-    "message": "ให้ที่แยกข้อมูลทำงานเพื่อคุณ"
+    "message": "\u0e43\u0e2b\u0e49\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e33\u0e07\u0e32\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e04\u0e38\u0e13"
   },
   "onboarding-2-description": {
-    "message": "คุณลักษณะต่างๆ เช่น การกำหนดสี และแท็บแยกข้อมูลแยกต่างหาก ช่วยคุณหาสิ่งต่างๆ ได้อย่างง่ายดาย รวมทั้งดึงดูดความสนใจของคุณ และลดสิ่งรบกวนให้เหลือน้อยที่สุด"
+    "message": "\u0e04\u0e38\u0e13\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e40\u0e0a\u0e48\u0e19 \u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e2a\u0e35 \u0e41\u0e25\u0e30\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e22\u0e01\u0e15\u0e48\u0e32\u0e07\u0e2b\u0e32\u0e01 \u0e0a\u0e48\u0e27\u0e22\u0e04\u0e38\u0e13\u0e2b\u0e32\u0e2a\u0e34\u0e48\u0e07\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e44\u0e14\u0e49\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e07\u0e48\u0e32\u0e22\u0e14\u0e32\u0e22 \u0e23\u0e27\u0e21\u0e17\u0e31\u0e49\u0e07\u0e14\u0e36\u0e07\u0e14\u0e39\u0e14\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e19\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13 \u0e41\u0e25\u0e30\u0e25\u0e14\u0e2a\u0e34\u0e48\u0e07\u0e23\u0e1a\u0e01\u0e27\u0e19\u0e43\u0e2b\u0e49\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e19\u0e49\u0e2d\u0e22\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14"
   },
   "onboarding-3-header": {
-    "message": "ที่สำหรับทุกอย่าง ครบในที่เดียว"
+    "message": "\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07 \u0e04\u0e23\u0e1a\u0e43\u0e19\u0e17\u0e35\u0e48\u0e40\u0e14\u0e35\u0e22\u0e27"
   },
   "onboarding-3-description": {
-    "message": "เริ่มด้วยที่แยกข้อมูลที่เราสร้างขึ้น หรือสร้างของคุณเอง"
+    "message": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e14\u0e49\u0e27\u0e22\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e02\u0e36\u0e49\u0e19 \u0e2b\u0e23\u0e37\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e40\u0e2d\u0e07"
   },
   "onboarding-4-header": {
-    "message": "เปิดไซต์ในที่แยกข้อมูลที่คุณต้องการเสมอ"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e35\u0e48\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e2a\u0e21\u0e2d"
   },
   "onboarding-4-description": {
-    "message": "คลิกขวาภายในแท็บแยกข้อมูล เพื่อกำหนดไซต์ให้เปิดในที่แยกข้อมูลเสมอ"
+    "message": "\u0e04\u0e25\u0e34\u0e01\u0e02\u0e27\u0e32\u0e20\u0e32\u0e22\u0e43\u0e19\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e2a\u0e21\u0e2d"
   },
   "onboarding-5-header": {
-    "message": "ใช้แท็บแยกข้อมูลเมื่อคุณต้องการ"
+    "message": "\u0e43\u0e0a\u0e49\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e04\u0e38\u0e13\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23"
   },
   "onboarding-5-description": {
-    "message": "กดปุ่ม \"แท็บใหม่\" ค้างเพื่อสร้างแท็บแยกข้อมูลใหม่"
+    "message": "\u0e01\u0e14\u0e1b\u0e38\u0e48\u0e21 \"\u0e41\u0e17\u0e47\u0e1a\u0e43\u0e2b\u0e21\u0e48\" \u0e04\u0e49\u0e32\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e2b\u0e21\u0e48"
   },
   "onboarding-6-header": {
-    "message": "การซิงค์ที่แยกข้อมูลสามารถใช้ได้แล้ว!"
+    "message": "\u0e01\u0e32\u0e23\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27!"
   },
   "onboarding-6-description-2": {
-    "message": "เปิดการซิงค์เพื่อแบ่งปันที่แยกข้อมูลและรายการไซต์ที่กำหนดไว้กับคอมพิวเตอร์ใดก็ตามที่เชื่อมต่อกับบัญชีของคุณ"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e01\u0e32\u0e23\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e41\u0e1a\u0e48\u0e07\u0e1b\u0e31\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e30\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e44\u0e0b\u0e15\u0e4c\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e44\u0e27\u0e49\u0e01\u0e31\u0e1a\u0e04\u0e2d\u0e21\u0e1e\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e43\u0e14\u0e01\u0e47\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d\u0e01\u0e31\u0e1a\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13"
   },
   "onboarding-7-header-2": {
-    "message": "ต้องมีบัญชีเพื่อซิงค์"
+    "message": "\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e0b\u0e34\u0e07\u0e04\u0e4c"
   },
   "onboarding-7-description-2": {
-    "message": "คลิก \"ลงชื่อเข้า\" เพื่อยืนยันว่าบัญชีของคุณเปิดใช้งานอยู่"
+    "message": "\u0e04\u0e25\u0e34\u0e01 \"\u0e25\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e02\u0e49\u0e32\" \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e27\u0e48\u0e32\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e2d\u0e22\u0e39\u0e48"
   },
   "onboarding-8-description": {
-    "message": "ตอนนี้ที่แยกข้อมูลสามารถผสานรวมกับ Mozilla VPN หรือพร็อกซีของคุณเองเพื่อสร้างการเชื่อมต่อที่ปลอดภัยและเป็นส่วนตัวซึ่งปกป้องกิจกรรมของคุณ"
+    "message": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e01\u0e31\u0e1a Mozilla VPN \u0e2b\u0e23\u0e37\u0e2d\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e40\u0e2d\u0e07\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e32\u0e23\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e15\u0e48\u0e2d\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22\u0e41\u0e25\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e31\u0e27\u0e0b\u0e36\u0e48\u0e07\u0e1b\u0e01\u0e1b\u0e49\u0e2d\u0e07\u0e01\u0e34\u0e08\u0e01\u0e23\u0e23\u0e21\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13"
   },
   "oneHundredTabsHeader": {
-    "message": "100 แท็บ!"
+    "message": "100 \u0e41\u0e17\u0e47\u0e1a!"
   },
   "youHaveOpened": {
-    "message": "คุณได้เปิดแท็บแยกข้อมูล 100 แท็บ"
+    "message": "\u0e04\u0e38\u0e13\u0e44\u0e14\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 100 \u0e41\u0e17\u0e47\u0e1a"
   },
   "spreadTheWord": {
-    "message": "ถ้าคุณเพลิดเพลินกับการใช้ที่แยกข้อมูล ก็ช่วยเราบอกต่อเลย!"
+    "message": "\u0e16\u0e49\u0e32\u0e04\u0e38\u0e13\u0e40\u0e1e\u0e25\u0e34\u0e14\u0e40\u0e1e\u0e25\u0e34\u0e19\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e43\u0e0a\u0e49\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 \u0e01\u0e47\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e23\u0e32\u0e1a\u0e2d\u0e01\u0e15\u0e48\u0e2d\u0e40\u0e25\u0e22!"
   },
   "rate": {
-    "message": "ให้คะแนน"
+    "message": "\u0e43\u0e2b\u0e49\u0e04\u0e30\u0e41\u0e19\u0e19"
   },
   "share": {
-    "message": "แบ่งปัน"
+    "message": "\u0e41\u0e1a\u0e48\u0e07\u0e1b\u0e31\u0e19"
   },
   "tweet": {
-    "message": "ทวีต"
+    "message": "\u0e17\u0e27\u0e35\u0e15"
   },
   "default": {
-    "message": "ค่าเริ่มต้น"
+    "message": "\u0e04\u0e48\u0e32\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19"
   },
   "manageContainers": {
-    "message": "จัดการที่แยกข้อมูล"
+    "message": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "newContainer": {
-    "message": "ที่แยกข้อมูลใหม่"
+    "message": "\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e2b\u0e21\u0e48"
   },
   "hideThisContainer": {
-    "message": "ซ่อนที่แยกข้อมูลนี้"
+    "message": "\u0e0b\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "showThisContainer": {
-    "message": "แสดงที่แยกข้อมูลนี้"
+    "message": "\u0e41\u0e2a\u0e14\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "removeThisContainer": {
-    "message": "เอาที่แยกข้อมูลนี้ออก"
+    "message": "\u0e40\u0e2d\u0e32\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49\u0e2d\u0e2d\u0e01"
   },
   "removeThisContainerConfirmation": {
-    "message": "คุณแน่ใจหรือไม่ว่าต้องการเอาที่แยกข้อมูลนี้ออก?"
+    "message": "\u0e04\u0e38\u0e13\u0e41\u0e19\u0e48\u0e43\u0e08\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e2d\u0e32\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49\u0e2d\u0e2d\u0e01?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "ล้างพื้นที่จัดเก็บข้อมูลของที่แยกข้อมูล"
+    "message": "\u0e25\u0e49\u0e32\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e08\u0e31\u0e14\u0e40\u0e01\u0e47\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "clearContainerStorageConfirmation": {
-    "message": "คุณแน่ใจหรือไม่ว่าต้องการล้างคุกกี้และพื้นที่จัดเก็บข้อมูลสำหรับที่แยกข้อมูลนี้?"
+    "message": "\u0e04\u0e38\u0e13\u0e41\u0e19\u0e48\u0e43\u0e08\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e25\u0e49\u0e32\u0e07\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e41\u0e25\u0e30\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e08\u0e31\u0e14\u0e40\u0e01\u0e47\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49?"
   },
   "cancel": {
-    "message": "ยกเลิก"
+    "message": "\u0e22\u0e01\u0e40\u0e25\u0e34\u0e01"
   },
   "ok": {
-    "message": "ตกลง"
+    "message": "\u0e15\u0e01\u0e25\u0e07"
   },
   "sitesAssignedToThisContainer": {
-    "message": "ไซต์ที่กำหนดให้กับที่แยกข้อมูลนี้"
+    "message": "\u0e44\u0e0b\u0e15\u0e4c\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "options": {
-    "message": "ตัวเลือก"
+    "message": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01"
   },
   "name": {
-    "message": "ชื่อ"
+    "message": "\u0e0a\u0e37\u0e48\u0e2d"
   },
   "color": {
-    "message": "สี"
+    "message": "\u0e2a\u0e35"
   },
   "icon": {
-    "message": "ไอคอน"
+    "message": "\u0e44\u0e2d\u0e04\u0e2d\u0e19"
   },
   "limitToDesignatedSites": {
-    "message": "จำกัดเฉพาะไซต์ที่กำหนด"
+    "message": "\u0e08\u0e33\u0e01\u0e31\u0e14\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e44\u0e0b\u0e15\u0e4c\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14"
   },
   "deleteThisContainer": {
-    "message": "ลบที่แยกข้อมูลนี้"
+    "message": "\u0e25\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "manageSiteList": {
-    "message": "จัดการรายการไซต์…"
+    "message": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e44\u0e0b\u0e15\u0e4c\u2026"
   },
   "manageThisContainer": {
-    "message": "จัดการที่แยกข้อมูลนี้"
+    "message": "\u0e08\u0e31\u0e14\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "containers": {
-    "message": "ที่แยกข้อมูล"
+    "message": "\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "done": {
-    "message": "เสร็จสิ้น"
+    "message": "\u0e40\u0e2a\u0e23\u0e47\u0e08\u0e2a\u0e34\u0e49\u0e19"
   },
   "getStarted": {
-    "message": "เริ่มต้นใช้งาน"
+    "message": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19"
   },
   "signIn": {
-    "message": "ลงชื่อเข้า"
+    "message": "\u0e25\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e02\u0e49\u0e32"
   },
   "notNow": {
-    "message": "ไม่ใช่ตอนนี้"
+    "message": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49"
   },
   "startSyncing": {
-    "message": "เริ่มซิงค์"
+    "message": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e0b\u0e34\u0e07\u0e04\u0e4c"
   },
   "info": {
-    "message": "ข้อมูล",
+    "message": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "ถัดไป"
+    "message": "\u0e16\u0e31\u0e14\u0e44\u0e1b"
   },
   "openThisSiteConfirmation": {
-    "message": "ต้องการเปิดไซต์นี้ในที่แยกข้อมูลที่กำหนดของคุณหรือไม่?"
+    "message": "\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e34\u0e14\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "คุณยังต้องการเปิดในที่แยกข้อมูลปัจจุบันนี้หรือไม่?"
+    "message": "\u0e04\u0e38\u0e13\u0e22\u0e31\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e44\u0e21\u0e48?"
   },
   "rememberMyDecision": {
-    "message": "จดจำการตัดสินใจของฉันสำหรับไซต์นี้"
+    "message": "\u0e08\u0e14\u0e08\u0e33\u0e01\u0e32\u0e23\u0e15\u0e31\u0e14\u0e2a\u0e34\u0e19\u0e43\u0e08\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49"
   },
   "optionalPermissions": {
-    "message": "สิทธิอนุญาตที่เลือกได้:"
+    "message": "\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e17\u0e35\u0e48\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e44\u0e14\u0e49:"
   },
   "keyboardShortCuts": {
-    "message": "แป้นพิมพ์ลัด:"
+    "message": "\u0e41\u0e1b\u0e49\u0e19\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e25\u0e31\u0e14:"
   },
   "onboarding": {
-    "message": "การออนบอร์ด"
+    "message": "\u0e01\u0e32\u0e23\u0e2d\u0e2d\u0e19\u0e1a\u0e2d\u0e23\u0e4c\u0e14"
   },
   "resetOnboardingPanels": {
-    "message": "ตั้งค่าแผงออนบอร์ดใหม่"
+    "message": "\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e41\u0e1c\u0e07\u0e2d\u0e2d\u0e19\u0e1a\u0e2d\u0e23\u0e4c\u0e14\u0e43\u0e2b\u0e21\u0e48"
   },
   "onboardingToggle": {
-    "message": "สลับตัวเลือกนี้เพื่อดูแผงออนบอร์ดใหม่อีกครั้ง"
+    "message": "\u0e2a\u0e25\u0e31\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e14\u0e39\u0e41\u0e1c\u0e07\u0e2d\u0e2d\u0e19\u0e1a\u0e2d\u0e23\u0e4c\u0e14\u0e43\u0e2b\u0e21\u0e48\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07"
   },
   "tabBehavior": {
-    "message": "ลักษณะการทำงานของแท็บ:"
+    "message": "\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e01\u0e32\u0e23\u0e17\u0e33\u0e07\u0e32\u0e19\u0e02\u0e2d\u0e07\u0e41\u0e17\u0e47\u0e1a:"
   },
   "enableBookMarkMenus": {
-    "message": "เปิดใช้งานเมนที่คั่นหน้า"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e40\u0e21\u0e19\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e49\u0e32"
   },
   "sync": {
-    "message": "การประสานข้อมูล:"
+    "message": "\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e2a\u0e32\u0e19\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25:"
   },
   "enableSync": {
-    "message": "เปิดใช้งานการซิงค์"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e01\u0e32\u0e23\u0e0b\u0e34\u0e07\u0e04\u0e4c"
   },
   "enableBookMarkMenusDescription": {
-    "message": "การตั้งค่านี้ให้คุณสามารถเปิดที่คั่นหน้าหรือโฟลเดอร์เก็บที่คั่นหน้าในที่แยกข้อมูลได้"
+    "message": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e40\u0e1b\u0e34\u0e14\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e23\u0e37\u0e2d\u0e42\u0e1f\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e47\u0e1a\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e43\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e44\u0e14\u0e49"
   },
   "enableSyncDescription": {
-    "message": "การตั้งค่านี้ให้คุณสามารถซิงค์ที่แยกข้อมูลและรายการไซต์ที่กำหนดไว้ของคุณระหว่างอุปกรณ์ต่างๆ ได้"
+    "message": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e30\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e44\u0e0b\u0e15\u0e4c\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e44\u0e27\u0e49\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e23\u0e30\u0e2b\u0e27\u0e48\u0e32\u0e07\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e15\u0e48\u0e32\u0e07\u0e46 \u0e44\u0e14\u0e49"
   },
   "syncExclude": {
-    "message": "การยกเว้นที่แยกข้อมูล"
+    "message": "\u0e01\u0e32\u0e23\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "syncExcludePlaceholder": {
-    "message": "แทรกนิพจน์ปกติ"
+    "message": "\u0e41\u0e17\u0e23\u0e01\u0e19\u0e34\u0e1e\u0e08\u0e19\u0e4c\u0e1b\u0e01\u0e15\u0e34"
   },
   "syncExcludeDescription": {
-    "message": "ไม่รวมที่แยกข้อมูลจากการซิงค์เมื่อชื่อของที่แยกข้อมูลเหล่านั้นตรงกับนิพจน์ปกติที่ไม่คำนึงถึงตัวพิมพ์ใหญ่-เล็กตามที่ระบุ"
+    "message": "\u0e44\u0e21\u0e48\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e0b\u0e34\u0e07\u0e04\u0e4c\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e25\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19\u0e15\u0e23\u0e07\u0e01\u0e31\u0e1a\u0e19\u0e34\u0e1e\u0e08\u0e19\u0e4c\u0e1b\u0e01\u0e15\u0e34\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e33\u0e19\u0e36\u0e07\u0e16\u0e36\u0e07\u0e15\u0e31\u0e27\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e43\u0e2b\u0e0d\u0e48-\u0e40\u0e25\u0e47\u0e01\u0e15\u0e32\u0e21\u0e17\u0e35\u0e48\u0e23\u0e30\u0e1a\u0e38"
   },
   "replaceTab": {
-    "message": "แทนที่แท็บแทนที่จะสร้างใหม่"
+    "message": "\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e43\u0e2b\u0e21\u0e48"
   },
   "replaceTabDescription": {
-    "message": "แทนที่แท็บปัจจุบันถ้าหน้าที่กำหนดให้กับที่แยกข้อมูลอื่นนั้นถูกเปิดอยู่ (แทนที่จะปล่อยให้แท็บปัจจุบันเปิดต่อไป) จะไม่มีผลกับการเปิดแท็บด้วยปุ่มเมาส์กลาง"
+    "message": "\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48\u0e41\u0e17\u0e47\u0e1a\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19\u0e16\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e2d\u0e37\u0e48\u0e19\u0e19\u0e31\u0e49\u0e19\u0e16\u0e39\u0e01\u0e40\u0e1b\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48 (\u0e41\u0e17\u0e19\u0e17\u0e35\u0e48\u0e08\u0e30\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e41\u0e17\u0e47\u0e1a\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e44\u0e1b) \u0e08\u0e30\u0e44\u0e21\u0e48\u0e21\u0e35\u0e1c\u0e25\u0e01\u0e31\u0e1a\u0e01\u0e32\u0e23\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e17\u0e47\u0e1a\u0e14\u0e49\u0e27\u0e22\u0e1b\u0e38\u0e48\u0e21\u0e40\u0e21\u0e32\u0e2a\u0e4c\u0e01\u0e25\u0e32\u0e07"
   },
   "editWhichContainer": {
-    "message": "แก้ไขว่าจะให้เปิดที่แยกข้อมูลใดบ้างเมื่อใช้แป้นลัดที่เป็นตัวเลข"
+    "message": "\u0e41\u0e01\u0e49\u0e44\u0e02\u0e27\u0e48\u0e32\u0e08\u0e30\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e43\u0e14\u0e1a\u0e49\u0e32\u0e07\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e43\u0e0a\u0e49\u0e41\u0e1b\u0e49\u0e19\u0e25\u0e31\u0e14\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e25\u0e02"
   },
   "keyboardShortCut": {
-    "message": "ที่แยกข้อมูลที่จะเปิดด้วยแป้นพิมพ์ลัด $keyId$",
+    "message": "\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e35\u0e48\u0e08\u0e30\u0e40\u0e1b\u0e34\u0e14\u0e14\u0e49\u0e27\u0e22\u0e41\u0e1b\u0e49\u0e19\u0e1e\u0e34\u0e21\u0e1e\u0e4c\u0e25\u0e31\u0e14 $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "ยืนยันการนำทางให้กับ Multi-Account Containers",
+    "message": "\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e01\u0e32\u0e23\u0e19\u0e33\u0e17\u0e32\u0e07\u0e43\u0e2b\u0e49\u0e01\u0e31\u0e1a Multi-Account Containers",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "เปิดในการแยกข้อมูล $containerName$",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 $containerName$",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "เปิดในแท็บปัจจุบัน",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e19\u0e41\u0e17\u0e47\u0e1a\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "คุณได้ขอให้ Firefox เปิด $containerName$ สำหรับไซต์นี้เสมอ:",
+    "message": "\u0e04\u0e38\u0e13\u0e44\u0e14\u0e49\u0e02\u0e2d\u0e43\u0e2b\u0e49 Firefox \u0e40\u0e1b\u0e34\u0e14 $containerName$ \u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e40\u0e2a\u0e21\u0e2d:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,138 +280,138 @@
     }
   },
   "chooseLocation": {
-    "message": "เลือกตำแหน่งที่ตั้ง",
+    "message": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e17\u0e35\u0e48\u0e15\u0e31\u0e49\u0e07",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "ซ่อน"
+    "message": "\u0e0b\u0e48\u0e2d\u0e19"
   },
   "show": {
-    "message": "แสดง"
+    "message": "\u0e41\u0e2a\u0e14\u0e07"
   },
   "protectYourContainers": {
-    "message": "ปกป้องที่แยกข้อมูลของคุณด้วย Mozilla VPN"
+    "message": "\u0e1b\u0e01\u0e1b\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e14\u0e49\u0e27\u0e22 Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "ปกป้องที่แยกข้อมูลนี้ด้วย Mozilla VPN"
+    "message": "\u0e1b\u0e01\u0e1b\u0e49\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49\u0e14\u0e49\u0e27\u0e22 Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "การตั้งค่าพร็อกซีขั้นสูง"
+    "message": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e07"
   },
   "proxyInputLabel": {
-    "message": "ใส่พร็อกซีที่กำหนดเอง"
+    "message": "\u0e43\u0e2a\u0e48\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e40\u0e2d\u0e07"
   },
   "useCustomLocation": {
-    "message": "ใช้ตำแหน่งที่กำหนดเองสำหรับที่แยกข้อมูลนี้"
+    "message": "\u0e43\u0e0a\u0e49\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e17\u0e35\u0e48\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e40\u0e2d\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "clearproxylabel": {
-    "message": "ล้างพร็อกซี"
+    "message": "\u0e25\u0e49\u0e32\u0e07\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN เปิดอยู่"
+    "message": "Mozilla VPN \u0e40\u0e1b\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN ปิดอยู่"
+    "message": "Mozilla VPN \u0e1b\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48"
   },
   "invalidProxyAlert": {
-    "message": "โปรดใส่ URL พร็อกซีที่ถูกต้อง"
+    "message": "\u0e42\u0e1b\u0e23\u0e14\u0e43\u0e2a\u0e48 URL \u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e17\u0e35\u0e48\u0e16\u0e39\u0e01\u0e15\u0e49\u0e2d\u0e07"
   },
   "mozillaVpnMustBeOn": {
-    "message": "ต้องเปิด Mozilla VPN เพื่อใช้คุณลักษณะนี้"
+    "message": "\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e1b\u0e34\u0e14 Mozilla VPN \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e0a\u0e49\u0e04\u0e38\u0e13\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e19\u0e35\u0e49"
   },
   "learnMore": {
-    "message": "เรียนรู้เพิ่มเติม"
+    "message": "\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e39\u0e49\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21"
   },
   "proxyNowAvailable": {
-    "message": "ตอนนี้มาพร้อมกับ Mozilla VPN และการตั้งค่าพร็อกซีขั้นสูง"
+    "message": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e21\u0e32\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e01\u0e31\u0e1a Mozilla VPN \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e07"
   },
   "applyToContainer": {
-    "message": "นำไปใช้กับที่แยกข้อมูล"
+    "message": "\u0e19\u0e33\u0e44\u0e1b\u0e43\u0e0a\u0e49\u0e01\u0e31\u0e1a\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "tooltipWarning": {
-    "message": "ที่แยกข้อมูลนี้ถูกตั้งค่าให้ใช้พร็อกซี Mozilla VPN แต่ Mozilla VPN ไม่ได้เปิดอยู่ ให้เปิด Mozilla VPN เพื่อใช้ที่แยกข้อมูลนี้"
+    "message": "\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49\u0e16\u0e39\u0e01\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e43\u0e2b\u0e49\u0e43\u0e0a\u0e49\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35 Mozilla VPN \u0e41\u0e15\u0e48 Mozilla VPN \u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e1b\u0e34\u0e14\u0e2d\u0e22\u0e39\u0e48 \u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e34\u0e14 Mozilla VPN \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e0a\u0e49\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e19\u0e35\u0e49"
   },
   "getMozillaVpn": {
-    "message": "รับ Mozilla VPN"
+    "message": "\u0e23\u0e31\u0e1a Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "ผสานรวมที่แยกข้อมูลของคุณกับ Mozilla VPN"
+    "message": "\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e01\u0e31\u0e1a Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN และการกำหนดสิทธิ์พร็อกซี",
+    "message": "Mozilla VPN \u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "อนุญาตให้ส่วนขยายแลกเปลี่ยนข้อความกับโปรแกรมอื่นที่ไม่ใช่ Firefox ได้",
+    "message": "\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e43\u0e2b\u0e49\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e22\u0e32\u0e22\u0e41\u0e25\u0e01\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e01\u0e31\u0e1a\u0e42\u0e1b\u0e23\u0e41\u0e01\u0e23\u0e21\u0e2d\u0e37\u0e48\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 Firefox \u0e44\u0e14\u0e49",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "การตั้งค่านี้จะอนุญาตให้ส่วนขยายแลกเปลี่ยนข้อความกับไคลเอนต์ Mozilla VPN ได้ และจำเป็นเพื่อให้คุณลักษณะการผสานรวมกับ Mozilla VPN สามารถใช้งานได้",
+    "message": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e08\u0e30\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e43\u0e2b\u0e49\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e22\u0e32\u0e22\u0e41\u0e25\u0e01\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e02\u0e49\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e01\u0e31\u0e1a\u0e44\u0e04\u0e25\u0e40\u0e2d\u0e19\u0e15\u0e4c Mozilla VPN \u0e44\u0e14\u0e49 \u0e41\u0e25\u0e30\u0e08\u0e33\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e01\u0e32\u0e23\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e01\u0e31\u0e1a Mozilla VPN \u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e44\u0e14\u0e49",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "อนุญาตให้ส่วนขยายควบคุมการตั้งค่าพร็อกซีได้",
+    "message": "\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e43\u0e2b\u0e49\u0e2a\u0e48\u0e27\u0e19\u0e02\u0e22\u0e32\u0e22\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e44\u0e14\u0e49",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "การตั้งค่านี้ให้คุณใช้การตั้งค่าพร็อกซีขั้นสูงและเปิดใช้งานคุณลักษณะการผสานรวมกับ Mozilla VPN ได้",
+    "message": "\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e43\u0e0a\u0e49\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32\u0e1e\u0e23\u0e47\u0e2d\u0e01\u0e0b\u0e35\u0e02\u0e31\u0e49\u0e19\u0e2a\u0e39\u0e07\u0e41\u0e25\u0e30\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e04\u0e38\u0e13\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e01\u0e32\u0e23\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e01\u0e31\u0e1a Mozilla VPN \u0e44\u0e14\u0e49",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "คุณลักษณะนี้ต้องการการกำหนดสิทธิ์เพิ่มเติมจึงจะทำงานได้ โดยสามารถปิดใช้งานสิทธิ์ได้ตลอดเวลาบนหน้าการตั้งค่า",
+    "message": "\u0e04\u0e38\u0e13\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e19\u0e35\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e08\u0e36\u0e07\u0e08\u0e30\u0e17\u0e33\u0e07\u0e32\u0e19\u0e44\u0e14\u0e49 \u0e42\u0e14\u0e22\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e44\u0e14\u0e49\u0e15\u0e25\u0e2d\u0e14\u0e40\u0e27\u0e25\u0e32\u0e1a\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e01\u0e32\u0e23\u0e15\u0e31\u0e49\u0e07\u0e04\u0e48\u0e32",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "การผสานรวมกับ Mozilla VPN ต้องการการสมัครสมาชิกและการกำหนดสิทธิ์เพิ่มเติมจึงจะทำงานได้"
+    "message": "\u0e01\u0e32\u0e23\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e01\u0e31\u0e1a Mozilla VPN \u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e01\u0e32\u0e23\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e41\u0e25\u0e30\u0e01\u0e32\u0e23\u0e01\u0e33\u0e2b\u0e19\u0e14\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e08\u0e36\u0e07\u0e08\u0e30\u0e17\u0e33\u0e07\u0e32\u0e19\u0e44\u0e14\u0e49"
   },
   "enable": {
-    "message": "เปิดใช้งาน",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "ผสานรวมที่แยกข้อมูลของคุณกับ Mozilla VPN"
+    "message": "\u0e1c\u0e2a\u0e32\u0e19\u0e23\u0e27\u0e21\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e01\u0e31\u0e1a Mozilla VPN"
   },
   "theme": {
-    "message": "ชุดตกแต่ง:",
+    "message": "\u0e0a\u0e38\u0e14\u0e15\u0e01\u0e41\u0e15\u0e48\u0e07:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "เลือกชุดตกแต่ง",
+    "message": "\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e0a\u0e38\u0e14\u0e15\u0e01\u0e41\u0e15\u0e48\u0e07",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "ตรวจหาอัตโนมัติ (ค่าเริ่มต้น)",
+    "message": "\u0e15\u0e23\u0e27\u0e08\u0e2b\u0e32\u0e2d\u0e31\u0e15\u0e42\u0e19\u0e21\u0e31\u0e15\u0e34 (\u0e04\u0e48\u0e32\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "สว่าง",
+    "message": "\u0e2a\u0e27\u0e48\u0e32\u0e07",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "มืด",
+    "message": "\u0e21\u0e37\u0e14",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "กรองรายการที่แยกข้อมูลตามชื่อ:",
+    "message": "\u0e01\u0e23\u0e2d\u0e07\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e15\u0e32\u0e21\u0e0a\u0e37\u0e48\u0e2d:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "ค้นหาชื่อที่แยกข้อมูล"
+    "message": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e0a\u0e37\u0e48\u0e2d\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "imageAltContainerInfo": {
-    "message": "ข้อมูลที่แยกข้อมูล",
+    "message": "\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "ที่แยกข้อมูลเริ่มต้น",
+    "message": "\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "เปิดแผงที่แยกข้อมูล",
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e41\u0e1c\u0e07\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "แป้นลัดที่แยกข้อมูล $keyId$",
+    "message": "\u0e41\u0e1b\u0e49\u0e19\u0e25\u0e31\u0e14\u0e17\u0e35\u0e48\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25 $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "เปิดที่คั่นหน้าในแท็บแยกข้อมูล"
+    "message": "\u0e40\u0e1b\u0e34\u0e14\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e43\u0e19\u0e41\u0e17\u0e47\u0e1a\u0e41\u0e22\u0e01\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "ล้างคุกกี้สำหรับไซต์นี้",
+    "message": "\u0e25\u0e49\u0e32\u0e07\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "เอาไซต์นี้ออก",
+    "message": "\u0e40\u0e2d\u0e32\u0e44\u0e0b\u0e15\u0e4c\u0e19\u0e35\u0e49\u0e2d\u0e2d\u0e01",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "ล้างพื้นที่จัดเก็บข้อมูลและคุกกี้",
+    "message": "\u0e25\u0e49\u0e32\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e08\u0e31\u0e14\u0e40\u0e01\u0e47\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e30\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "คุกกี้สำหรับ $siteName$ ถูกล้างเรียบร้อยแล้ว",
+    "message": "\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a $siteName$ \u0e16\u0e39\u0e01\u0e25\u0e49\u0e32\u0e07\u0e40\u0e23\u0e35\u0e22\u0e1a\u0e23\u0e49\u0e2d\u0e22\u0e41\u0e25\u0e49\u0e27",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "ไม่สามารถล้างคุกกี้สำหรับ $siteName$ ได้",
+    "message": "\u0e44\u0e21\u0e48\u0e2a\u0e32\u0e21\u0e32\u0e23\u0e16\u0e25\u0e49\u0e32\u0e07\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a $siteName$ \u0e44\u0e14\u0e49",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "พื้นที่จัดเก็บข้อมูลและคุกกี้ของ $containerName$ ถูกล้างแล้ว",
+    "message": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e08\u0e31\u0e14\u0e40\u0e01\u0e47\u0e1a\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e41\u0e25\u0e30\u0e04\u0e38\u0e01\u0e01\u0e35\u0e49\u0e02\u0e2d\u0e07 $containerName$ \u0e16\u0e39\u0e01\u0e25\u0e49\u0e32\u0e07\u0e41\u0e25\u0e49\u0e27",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

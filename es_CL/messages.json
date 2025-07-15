@@ -1,46 +1,46 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers te ayuda a tener todas las partes de tu vida en línea aisladas en diferentes pestañas. Etiquetas personalizadas y pestañas coloreadas te ayudan a mantener diferentes actividades — como compras en línea, planificaciones de viajes o revisar tu correo del trabajo — separadas.",
+    "message": "Multi-Account Containers te ayuda a tener todas las partes de tu vida en l\u00ednea aisladas en diferentes pesta\u00f1as. Etiquetas personalizadas y pesta\u00f1as coloreadas te ayudan a mantener diferentes actividades \u2014 como compras en l\u00ednea, planificaciones de viajes o revisar tu correo del trabajo \u2014 separadas.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Abrir nueva pestaña en…",
+    "message": "Abrir nueva pesta\u00f1a en\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Reabrir este sitio en…",
+    "message": "Reabrir este sitio en\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Ordenar pestañas por contenedor",
+    "message": "Ordenar pesta\u00f1as por contenedor",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Siempre abrir este sitio en…",
+    "message": "Siempre abrir este sitio en\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Siempre abrir en…",
+    "message": "Siempre abrir en\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Siempre abrir el sitio en un contenedor"
   },
   "openANewTabIn": {
-    "message": "Abrir una nueva pestaña en…"
+    "message": "Abrir una nueva pesta\u00f1a en\u2026"
   },
   "openNewTabInThisContainer": {
-    "message": "Abrir nueva pestaña en este contenedor"
+    "message": "Abrir nueva pesta\u00f1a en este contenedor"
   },
   "openTabs": {
-    "message": "Pestañas abiertas",
+    "message": "Pesta\u00f1as abiertas",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Mover pestañas a una nueva ventana"
+    "message": "Mover pesta\u00f1as a una nueva ventana"
   },
   "onboarding-1-header": {
-    "message": "Una mejor forma de administrar todas las cosas que haces en línea"
+    "message": "Una mejor forma de administrar todas las cosas que haces en l\u00ednea"
   },
   "onboarding-1-description": {
     "message": "Usa contenedores para organizar tareas, gestionar cuentas y mantener tu foco donde necesitas."
@@ -49,7 +49,7 @@
     "message": "Usa los contenedores a tu favor."
   },
   "onboarding-2-description": {
-    "message": "Funcionalidades como la codificación por colores y pestañas de contenedores separadas te ayudan a encontrar fácilmente lo que necesitas, enfocar tu atención y minimizar distracciones."
+    "message": "Funcionalidades como la codificaci\u00f3n por colores y pesta\u00f1as de contenedores separadas te ayudan a encontrar f\u00e1cilmente lo que necesitas, enfocar tu atenci\u00f3n y minimizar distracciones."
   },
   "onboarding-3-header": {
     "message": "Un lugar para cada cosa, y cada cosa en su lugar."
@@ -61,37 +61,37 @@
     "message": "Siempre abre los sitios en los contenedores que deseas."
   },
   "onboarding-4-description": {
-    "message": "Haz clic con el botón derecho dentro de una pestaña de contenedor para asignar el sitio para que siempre se abra en ese contenedor."
+    "message": "Haz clic con el bot\u00f3n derecho dentro de una pesta\u00f1a de contenedor para asignar el sitio para que siempre se abra en ese contenedor."
   },
   "onboarding-5-header": {
-    "message": "Pestañas de contenedores donde las necesitas."
+    "message": "Pesta\u00f1as de contenedores donde las necesitas."
   },
   "onboarding-5-description": {
-    "message": "Mantén apretado el botón Nueva pestaña para crear una nueva pestaña de contenedores."
+    "message": "Mant\u00e9n apretado el bot\u00f3n Nueva pesta\u00f1a para crear una nueva pesta\u00f1a de contenedores."
   },
   "onboarding-6-header": {
-    "message": "¡Ahora se pueden sincronizar contenedores!"
+    "message": "\u00a1Ahora se pueden sincronizar contenedores!"
   },
   "onboarding-6-description-2": {
-    "message": "Activa la sincronización para compartir los contenedores y las asignaciones de sitios con cualquier computador conectado a tu cuenta."
+    "message": "Activa la sincronizaci\u00f3n para compartir los contenedores y las asignaciones de sitios con cualquier computador conectado a tu cuenta."
   },
   "onboarding-7-header-2": {
     "message": "Se requiere una cuenta para sincronizar."
   },
   "onboarding-7-description-2": {
-    "message": "Haz clic en Conectarse para confirmar que tu cuenta está activa."
+    "message": "Haz clic en Conectarse para confirmar que tu cuenta est\u00e1 activa."
   },
   "onboarding-8-description": {
-    "message": "Ahora los contenedores se puede integrar con Mozilla VPN o tu propio proxy para crear una conexión segura y privada que protege tu actividad."
+    "message": "Ahora los contenedores se puede integrar con Mozilla VPN o tu propio proxy para crear una conexi\u00f3n segura y privada que protege tu actividad."
   },
   "oneHundredTabsHeader": {
-    "message": "¡100 pestañas!"
+    "message": "\u00a1100 pesta\u00f1as!"
   },
   "youHaveOpened": {
-    "message": "Has abierto 100 pestañas de contenedores."
+    "message": "Has abierto 100 pesta\u00f1as de contenedores."
   },
   "spreadTheWord": {
-    "message": "Si te gustan los contenedores, ¡ayúdanos a correr la voz!"
+    "message": "Si te gustan los contenedores, \u00a1ay\u00fadanos a correr la voz!"
   },
   "rate": {
     "message": "Evaluar"
@@ -121,13 +121,13 @@
     "message": "Remover este contenedor"
   },
   "removeThisContainerConfirmation": {
-    "message": "¿De verdad quieres eliminar este contenedor?"
+    "message": "\u00bfDe verdad quieres eliminar este contenedor?"
   },
   "clearContainerStoragePanelTitle": {
     "message": "Limpiar almacenamiento de contenedores"
   },
   "clearContainerStorageConfirmation": {
-    "message": "¿Estás seguro de que quieres limpiar las cookies y el almacenamiento de este contenedor?"
+    "message": "\u00bfEst\u00e1s seguro de que quieres limpiar las cookies y el almacenamiento de este contenedor?"
   },
   "cancel": {
     "message": "Cancelar"
@@ -148,7 +148,7 @@
     "message": "Color"
   },
   "icon": {
-    "message": "Ícono"
+    "message": "\u00cdcono"
   },
   "limitToDesignatedSites": {
     "message": "Limitar a sitios designados"
@@ -157,7 +157,7 @@
     "message": "Eliminar este contenedor"
   },
   "manageSiteList": {
-    "message": "Gestionar la lista de sitios…"
+    "message": "Gestionar la lista de sitios\u2026"
   },
   "manageThisContainer": {
     "message": "Gestionar este contenedor"
@@ -188,13 +188,13 @@
     "message": "Siguiente"
   },
   "openThisSiteConfirmation": {
-    "message": "¿Abrir este sitio en su contenedor asignado?"
+    "message": "\u00bfAbrir este sitio en su contenedor asignado?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "¿Todavía te gustaría abrirlo en el contenedor actual?"
+    "message": "\u00bfTodav\u00eda te gustar\u00eda abrirlo en el contenedor actual?"
   },
   "rememberMyDecision": {
-    "message": "Recordar mi decisión para este sitio"
+    "message": "Recordar mi decisi\u00f3n para este sitio"
   },
   "optionalPermissions": {
     "message": "Permisos opcionales:"
@@ -203,25 +203,25 @@
     "message": "Atajos del teclado:"
   },
   "onboarding": {
-    "message": "Inducción"
+    "message": "Inducci\u00f3n"
   },
   "resetOnboardingPanels": {
-    "message": "Restablecer paneles de inducción"
+    "message": "Restablecer paneles de inducci\u00f3n"
   },
   "onboardingToggle": {
-    "message": "Modifica esto para volver a ver los paneles de inducción."
+    "message": "Modifica esto para volver a ver los paneles de inducci\u00f3n."
   },
   "tabBehavior": {
-    "message": "Comportamiento de las pestañas:"
+    "message": "Comportamiento de las pesta\u00f1as:"
   },
   "enableBookMarkMenus": {
-    "message": "Activar menús de marcadores"
+    "message": "Activar men\u00fas de marcadores"
   },
   "sync": {
-    "message": "Sincronización:"
+    "message": "Sincronizaci\u00f3n:"
   },
   "enableSync": {
-    "message": "Activar sincronización"
+    "message": "Activar sincronizaci\u00f3n"
   },
   "enableBookMarkMenusDescription": {
     "message": "Este ajuste te permite abrir un marcador o una carpeta de marcadores en un contenedor."
@@ -230,22 +230,22 @@
     "message": "Este ajuste te permite sincronizar tus contenedores y asignaciones de sitios en todos los dispositivos."
   },
   "syncExclude": {
-    "message": "Exclusión de contenedor"
+    "message": "Exclusi\u00f3n de contenedor"
   },
   "syncExcludePlaceholder": {
-    "message": "Insertar una expresión regular"
+    "message": "Insertar una expresi\u00f3n regular"
   },
   "syncExcludeDescription": {
-    "message": "Excluir contenedores de la sincronización cuando el nombre coincida con la expresión regular especificada sin distinguir mayúsculas y minúsculas."
+    "message": "Excluir contenedores de la sincronizaci\u00f3n cuando el nombre coincida con la expresi\u00f3n regular especificada sin distinguir may\u00fasculas y min\u00fasculas."
   },
   "replaceTab": {
-    "message": "Reemplazar pestaña en lugar de crear una nueva"
+    "message": "Reemplazar pesta\u00f1a en lugar de crear una nueva"
   },
   "replaceTabDescription": {
-    "message": "Reemplaza la pestaña actual si se abre una página que está asignada a otro contenedor (en lugar de mantener abierta la pestaña actual). La apertura de pestañas con el botón central del mouse no se ve afectada."
+    "message": "Reemplaza la pesta\u00f1a actual si se abre una p\u00e1gina que est\u00e1 asignada a otro contenedor (en lugar de mantener abierta la pesta\u00f1a actual). La apertura de pesta\u00f1as con el bot\u00f3n central del mouse no se ve afectada."
   },
   "editWhichContainer": {
-    "message": "Edite qué contenedor se abre cuando se utilizan los atajos numerados."
+    "message": "Edite qu\u00e9 contenedor se abre cuando se utilizan los atajos numerados."
   },
   "keyboardShortCut": {
     "message": "Contenedor a abrir con el atajo $keyId$",
@@ -256,7 +256,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Confirmar navegación",
+    "message": "Multi-Account Containers - Confirmar navegaci\u00f3n",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -268,7 +268,7 @@
     }
   },
   "openInNoContainer": {
-    "message": "Abrir en la pestaña actual",
+    "message": "Abrir en la pesta\u00f1a actual",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
@@ -280,7 +280,7 @@
     }
   },
   "chooseLocation": {
-    "message": "Elegir ubicación",
+    "message": "Elegir ubicaci\u00f3n",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
@@ -296,40 +296,40 @@
     "message": "Protege este contenedor con Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "Configuración de proxy avanzada"
+    "message": "Configuraci\u00f3n de proxy avanzada"
   },
   "proxyInputLabel": {
     "message": "Ingresar proxy personalizado"
   },
   "useCustomLocation": {
-    "message": "Usa una ubicación personalizada para este contenedor"
+    "message": "Usa una ubicaci\u00f3n personalizada para este contenedor"
   },
   "clearproxylabel": {
     "message": "Limpiar proxy"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN está activado"
+    "message": "Mozilla VPN est\u00e1 activado"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN está desactivado"
+    "message": "Mozilla VPN est\u00e1 desactivado"
   },
   "invalidProxyAlert": {
-    "message": "Por favor, ingresa una URL de proxy válida"
+    "message": "Por favor, ingresa una URL de proxy v\u00e1lida"
   },
   "mozillaVpnMustBeOn": {
     "message": "Mozilla VPN debe estar activado para utilizar esta funcionalidad."
   },
   "learnMore": {
-    "message": "Aprender más"
+    "message": "Aprender m\u00e1s"
   },
   "proxyNowAvailable": {
-    "message": "Ahora con Mozilla VPN y configuración avanzada de proxy"
+    "message": "Ahora con Mozilla VPN y configuraci\u00f3n avanzada de proxy"
   },
   "applyToContainer": {
     "message": "Aplicar al contenedor"
   },
   "tooltipWarning": {
-    "message": "Este contenedor está configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no está activado. Activa Mozilla VPN para usar este contenedor."
+    "message": "Este contenedor est\u00e1 configurado para usar un proxy de Mozilla VPN, pero Mozilla VPN no est\u00e1 activado. Activa Mozilla VPN para usar este contenedor."
   },
   "getMozillaVpn": {
     "message": "Obtener VPN de Mozilla"
@@ -342,27 +342,27 @@
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Permitir que la extensión intercambie mensajes con programas que no sean Firefox",
+    "message": "Permitir que la extensi\u00f3n intercambie mensajes con programas que no sean Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Este ajuste permite que la extensión intercambie mensajes con el cliente VPN de Mozilla y es necesario para que funcionen las funcionalidades de integración de Mozilla VPN.",
+    "message": "Este ajuste permite que la extensi\u00f3n intercambie mensajes con el cliente VPN de Mozilla y es necesario para que funcionen las funcionalidades de integraci\u00f3n de Mozilla VPN.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Permitir que la extensión controle la configuración del proxy",
+    "message": "Permitir que la extensi\u00f3n controle la configuraci\u00f3n del proxy",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Esto te permite utilizar la configuración de proxy avanzada y habilitar las funcionalidades de integración de Mozilla VPN.",
+    "message": "Esto te permite utilizar la configuraci\u00f3n de proxy avanzada y habilitar las funcionalidades de integraci\u00f3n de Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Esta funcionalidad requiere un permiso adicional para funcionar. Los permisos se pueden desactivar en cualquier momento en la página de ajustes.",
+    "message": "Esta funcionalidad requiere un permiso adicional para funcionar. Los permisos se pueden desactivar en cualquier momento en la p\u00e1gina de ajustes.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "La integración con Mozilla VPN requiere una suscripción y permisos adicionales para funcionar."
+    "message": "La integraci\u00f3n con Mozilla VPN requiere una suscripci\u00f3n y permisos adicionales para funcionar."
   },
   "enable": {
     "message": "Habilitar",
@@ -380,7 +380,7 @@
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Detectar automáticamente (por defecto)",
+    "message": "Detectar autom\u00e1ticamente (por defecto)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
@@ -399,7 +399,7 @@
     "message": "Buscar por nombre del contenedor"
   },
   "imageAltContainerInfo": {
-    "message": "Información del contenedor",
+    "message": "Informaci\u00f3n del contenedor",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
@@ -420,7 +420,7 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Abrir marcador en la pestaña contenedora"
+    "message": "Abrir marcador en la pesta\u00f1a contenedora"
   },
   "clearSiteCookiesTooltipInfo": {
     "message": "Borrar las cookies de este sitio",

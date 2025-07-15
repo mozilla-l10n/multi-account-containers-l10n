@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Met Multi-Account Containers kunt u alle onderdelen van uw onlineleven in verschillende tabbladen houden. Aangepaste labels en kleurgecodeerde tabbladen helpen verschillende activiteiten – zoals online winkelen, reisplanning of het lezen van zakelijke e-mail – gescheiden te houden.",
+    "message": "Met Multi-Account Containers kunt u alle onderdelen van uw onlineleven in verschillende tabbladen houden. Aangepaste labels en kleurgecodeerde tabbladen helpen verschillende activiteiten \u2013 zoals online winkelen, reisplanning of het lezen van zakelijke e-mail \u2013 gescheiden te houden.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Nieuw tabblad openen in…",
+    "message": "Nieuw tabblad openen in\u2026",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Deze website opnieuw openen in…",
+    "message": "Deze website opnieuw openen in\u2026",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Deze website altijd openen in…",
+    "message": "Deze website altijd openen in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Altijd openen in…",
+    "message": "Altijd openen in\u2026",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Website altijd in container openen"
   },
   "openANewTabIn": {
-    "message": "Nieuw tabblad openen in…"
+    "message": "Nieuw tabblad openen in\u2026"
   },
   "openNewTabInThisContainer": {
     "message": "Nieuw tabblad openen in deze container"
@@ -82,7 +82,7 @@
     "message": "Klik op Aanmelden om te bevestigen dat uw account actief is."
   },
   "onboarding-8-description": {
-    "message": "Containers kunnen nu integreren met Mozilla VPN of uw eigen proxy om een veilige privéverbinding te creëren die uw activiteit beschermt."
+    "message": "Containers kunnen nu integreren met Mozilla VPN of uw eigen proxy om een veilige priv\u00e9verbinding te cre\u00ebren die uw activiteit beschermt."
   },
   "oneHundredTabsHeader": {
     "message": "100 tabbladen!"
@@ -157,7 +157,7 @@
     "message": "Deze container verwijderen"
   },
   "manageSiteList": {
-    "message": "Websitelijst beheren…"
+    "message": "Websitelijst beheren\u2026"
   },
   "manageThisContainer": {
     "message": "Deze container beheren"
@@ -215,7 +215,7 @@
     "message": "Tabbladgedrag:"
   },
   "enableBookMarkMenus": {
-    "message": "Bladwijzermenu’s inschakelen"
+    "message": "Bladwijzermenu\u2019s inschakelen"
   },
   "sync": {
     "message": "Synchronisatie:"
@@ -242,7 +242,7 @@
     "message": "Tabblad vervangen in plaats van een nieuw maken"
   },
   "replaceTabDescription": {
-    "message": "Het huidige tabblad vervangen als een pagina die is toegewezen aan een andere container wordt geopend (in plaats van het huidige tabblad open te houden). Het openen van tabbladen met de middelste muisknop wordt niet beïnvloed."
+    "message": "Het huidige tabblad vervangen als een pagina die is toegewezen aan een andere container wordt geopend (in plaats van het huidige tabblad open te houden). Het openen van tabbladen met de middelste muisknop wordt niet be\u00efnvloed."
   },
   "editWhichContainer": {
     "message": "Bewerken welke container wordt geopend bij het gebruik van de genummerde sneltoetsen."
@@ -256,7 +256,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers – Navigatie bevestigen",
+    "message": "Multi-Account Containers \u2013 Navigatie bevestigen",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -342,7 +342,7 @@
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Extensie toestaan om berichten met andere programma’s dan Firefox uit te wisselen",
+    "message": "Extensie toestaan om berichten met andere programma\u2019s dan Firefox uit te wisselen",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {

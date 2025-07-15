@@ -39,6 +39,60 @@
   "moveTabsToANewWindow": {
     "message": "タブを新しいウィンドウへ移動"
   },
+  "onboarding-1-header": {
+    "message": "さまざまなオンラインの行動を管理する最適な方法"
+  },
+  "onboarding-1-description": {
+    "message": "Containers を使用するとタスクを整理し、アカウントを管理し、必要なところに集中できます。"
+  },
+  "onboarding-2-header": {
+    "message": "Containers を活用しましょう"
+  },
+  "onboarding-2-description": {
+    "message": "色分けやコンテナータブによる分割などの機能で必要なものが見つけやすくなり、注意をそらすものを最小限に抑えられて集中できるようにします。"
+  },
+  "onboarding-3-header": {
+    "message": "あるべき場所に、あるべきものを"
+  },
+  "onboarding-3-description": {
+    "message": "私たちが作成したコンテナーを使用するか、独自のコンテナーを作成してはじめます。"
+  },
+  "onboarding-4-header": {
+    "message": "希望のコンテナーで常にサイトを開く"
+  },
+  "onboarding-4-description": {
+    "message": "コンテナータブで右クリックすると、サイトを常にそのサイトで開くように割り当てられます。"
+  },
+  "onboarding-5-header": {
+    "message": "コンテナータブが必要なときは"
+  },
+  "onboarding-5-description": {
+    "message": "新しいタブボタンを長押しすると、新しいコンテナータブを作成できます。"
+  },
+  "onboarding-6-header": {
+    "message": "コンテナーの同期が利用可能になりました！"
+  },
+  "onboarding-6-description-2": {
+    "message": "同期を有効にすると、コンテナーとサイトの割り当てをアカウントに接続したすべてのコンピューターで共有できます。"
+  },
+  "onboarding-7-header-2": {
+    "message": "同期にはアカウントが必要です"
+  },
+  "onboarding-7-description-2": {
+    "message": "ログインをクリックしてアカウントが有効か確認してください。"
+  },
+  "onboarding-8-description": {
+    "message": "Containers は Mozilla VPN やあなたが使用しているプロキシーを統合して、安全でプライベートな接続を作成してアクティビティを保護できるようになりました。"
+  },
+  "oneHundredTabsHeader": {
+    "message": "タブ 100 個！"
+  },
+  "youHaveOpened": {
+    "message": "コンテナータブを 100 個開きました。"
+  },
+  "spreadTheWord": {
+    "message": "Containers にご満足いただけていたら、ぜひ他の人にも勧めてください！"
+  },
   "rate": {
     "message": "評価"
   },
@@ -68,6 +122,12 @@
   },
   "removeThisContainerConfirmation": {
     "message": "このコンテナーを削除してもよろしいですか？"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "コンテナーストレージを消去"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "本当にこのコンテナーの Cookie とストレージを消去しますか？"
   },
   "cancel": {
     "message": "キャンセル"
@@ -141,5 +201,146 @@
   },
   "keyboardShortCuts": {
     "message": "キーボードショートカット:"
+  },
+  "onboarding": {
+    "message": "機能紹介"
+  },
+  "resetOnboardingPanels": {
+    "message": "機能紹介をリセット"
+  },
+  "onboardingToggle": {
+    "message": "クリックすると、機能紹介パネルをもう一度表示します。"
+  },
+  "tabBehavior": {
+    "message": "タブの動作:"
+  },
+  "enableBookMarkMenus": {
+    "message": "ブックマークメニューを有効にする"
+  },
+  "sync": {
+    "message": "同期:"
+  },
+  "enableSync": {
+    "message": "同期を有効にする"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "この設定を有効にすると、ブックマークやブックマークのフォルダーをコンテナーで開けるようになります。"
+  },
+  "enableSyncDescription": {
+    "message": "この設定を有効にすると、端末間でコンテナーとサイトの割り当てを同期できます。"
+  },
+  "syncExclude": {
+    "message": "例外のコンテナー"
+  },
+  "syncExcludePlaceholder": {
+    "message": "正規表現を挿入してください"
+  },
+  "syncExcludeDescription": {
+    "message": "大文字と小文字を区別しない正規表現によって指定された名前と一致するコンテナーは、同期から除外します。"
+  },
+  "replaceTab": {
+    "message": "タブを新規作成せず、置き換える"
+  },
+  "replaceTabDescription": {
+    "message": "別のコンテナーに割り当てられているページを開いたとき、現在のタブを置き換えます (現在のタブを開いたままにしません)。マウスで中クリックしてタブを開く場合には影響しません。"
+  },
+  "editWhichContainer": {
+    "message": "番号付きショートカットに対応して開くコンテナーを編集します。"
+  },
+  "keyboardShortCut": {
+    "message": "キーボードショートカット $keyId$ で開くコンテナー",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers によるナビゲーションの確認",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "$containerName$ コンテナーで開く",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "現在のタブで開く",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "このサイトは常に $containerName$ で開くように Firefox に設定されています:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "hide": {
+    "message": "隠す"
+  },
+  "show": {
+    "message": "表示"
+  },
+  "learnMore": {
+    "message": "詳細情報"
+  },
+  "theme": {
+    "message": "テーマ:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "テーマの選択",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "自動選択 (既定)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "ライト",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "ダーク",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "コンテナーのリストを名前でフィルター:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "コンテナー名を検索"
+  },
+  "imageAltContainerInfo": {
+    "message": "コンテナー情報",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "既定のコンテナー",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "コンテナーパネルを開く",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "コンテナーのショートカット $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "ブックマークをコンテナータブで開く"
+  },
+  "clearContainerStorage": {
+    "message": "ストレージと Cookie を消去",
+    "description": "Label for the clearing a containers storage and cache option"
   }
 }
