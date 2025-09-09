@@ -54,6 +54,12 @@
   "onboarding-5-header": {
     "message": "Изолирайте разделите, когато имате нужда от тях."
   },
+  "onboarding-7-header-2": {
+    "message": "Необходим е профил за синхронизизация."
+  },
+  "onboarding-7-description-2": {
+    "message": "Щракнете върху \"вписване\", за да потвърдите, че вашият профил е активен."
+  },
   "oneHundredTabsHeader": {
     "message": "100 раздела!"
   },
@@ -66,11 +72,48 @@
   "default": {
     "message": "Стандартно"
   },
+  "cancel": {
+    "message": "Отмяна"
+  },
   "ok": {
     "message": "Добре"
   },
+  "options": {
+    "message": "Настройки"
+  },
+  "name": {
+    "message": "Име"
+  },
+  "color": {
+    "message": "Цвят"
+  },
   "icon": {
     "message": "Пиктограма"
+  },
+  "limitToDesignatedSites": {
+    "message": "Ограничаване до определени сайтове"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "getStarted": {
+    "message": "Въведение"
+  },
+  "signIn": {
+    "message": "Вписване"
+  },
+  "notNow": {
+    "message": "Не сега"
+  },
+  "startSyncing": {
+    "message": "Стартиране на синхронизацията"
+  },
+  "info": {
+    "message": "информация",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Напред"
   },
   "learnMore": {
     "message": "Научете повече"
