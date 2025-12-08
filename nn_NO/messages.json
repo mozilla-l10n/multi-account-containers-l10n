@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers hjelper deg med \u00e5 halde alle delane av livet ditt p\u00e5 nettet i forskjellige faner. Eigendefinerte etikettar og fargekoda faner hjelper deg med \u00e5 halde ulike aktivitetar \u2014 som netthandel, reiseplanlegging eller sjekking av jobb-e-post \u2014 kvar for seg.",
+    "message": "Multi-Account Containers hjelper deg med å halde alle delane av livet ditt på nettet i forskjellige faner. Eigendefinerte etikettar og fargekoda faner hjelper deg med å halde ulike aktivitetar — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — kvar for seg.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Opne ny fane i\u2026",
+    "message": "Opne ny fane i…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Opne denne sida p\u00e5 nytt i\u2026",
+    "message": "Opne denne sida på nytt i…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Opne alltid denne nettstaden i\u2026",
+    "message": "Opne alltid denne nettstaden i…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Opne alltid i\u2026",
+    "message": "Opne alltid i…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Opne alltid nettstaden i behaldar"
   },
   "openANewTabIn": {
-    "message": "Opne ei ny fane i\u2026"
+    "message": "Opne ei ny fane i…"
   },
   "openNewTabInThisContainer": {
     "message": "Opne ny fane i denne kontaineren"
@@ -40,49 +40,49 @@
     "message": "Flytt faner til eit nytt vindauge"
   },
   "onboarding-1-header": {
-    "message": "Ein betre m\u00e5te \u00e5 handsame alt du gjer p\u00e5 nettet"
+    "message": "Ein betre måte å handsame alt du gjer på nettet"
   },
   "onboarding-1-description": {
-    "message": "Bruk behaldarar til \u00e5 organisere oppg\u00e5ver, behandle kontoar og halde fokus der du vil ha det."
+    "message": "Bruk behaldarar til å organisere oppgåver, handsame kontoar og halde fokus der du vil ha det."
   },
   "onboarding-2-header": {
-    "message": "F\u00e5 behaldarane til \u00e5 fungere for deg."
+    "message": "Få behaldarane til å fungere for deg."
   },
   "onboarding-2-description": {
-    "message": "Funksjonar som fargekoding og separate innhaldsfaner hjelper deg med \u00e5 finne ting enkelt, fokusere merksemda og minimere distraksjonar."
+    "message": "Funksjonar som fargekoding og separate innhaldsfaner hjelper deg med å finne ting enkelt, fokusere merksemda og minimere distraksjonar."
   },
   "onboarding-3-header": {
-    "message": "Ein plass for alt, og alt p\u00e5 sin plass."
+    "message": "Ein plass for alt, og alt på sin plass."
   },
   "onboarding-3-description": {
     "message": "Start med behaldarane vi har laga, eller lag dine eigne."
   },
   "onboarding-4-header": {
-    "message": "Opne alltid nettstadar i behaldarane du \u00f8nskjer."
+    "message": "Opne alltid nettstadar i behaldarane du ønskjer."
   },
   "onboarding-4-description": {
-    "message": "H\u00f8greklikk inne i ei innhaldsfane for \u00e5 tilordne nettstaden til \u00e5 alltid opne i behaldaren."
+    "message": "Høgreklikk inne i ei innhaldsfane for å tilordne nettstaden til å alltid opne i behaldaren."
   },
   "onboarding-5-header": {
-    "message": "Innhaldsfaner n\u00e5r du treng dei."
+    "message": "Innhaldsfaner når du treng dei."
   },
   "onboarding-5-description": {
-    "message": "Trykk lenge p\u00e5 Ny fane-knappen for \u00e5 opprette ei ny innhaldsfane."
+    "message": "Trykk lenge på Ny fane-knappen for å opprette ei ny innhaldsfane."
   },
   "onboarding-6-header": {
     "message": "Synkronisering av behaldarar er no tilgjengeleg!"
   },
   "onboarding-6-description-2": {
-    "message": "Sl\u00e5 p\u00e5 synkronisering for \u00e5 dele behaldar- og nettstadstildelingar med kva datamaskin som helst som er kopla til kontoen din."
+    "message": "Slå på synkronisering for å dele behaldar- og nettstadstildelingar med kva datamaskin som helst som er kopla til kontoen din."
   },
   "onboarding-7-header-2": {
-    "message": "Ein konto er p\u00e5kravd for \u00e5 synkronisere."
+    "message": "Ein konto er påkravd for å synkronisere."
   },
   "onboarding-7-description-2": {
-    "message": "Klikk p\u00e5 Logg inn for \u00e5 stadfeste at kontoen din er aktiv."
+    "message": "Klikk på Logg inn for å stadfeste at kontoen din er aktiv."
   },
   "onboarding-8-description": {
-    "message": "No kan behaldarar integrast med Mozilla VPN eller din eigen proxy for \u00e5 lage ei sikker, privat tilkopling som beskyttar aktiviteten din."
+    "message": "No kan behaldarar integrast med Mozilla VPN eller din eigen proxy for å lage ei sikker, privat tilkopling som beskyttar aktiviteten din."
   },
   "oneHundredTabsHeader": {
     "message": "100 faner!"
@@ -91,7 +91,7 @@
     "message": "Du har opna 100 innhaldsfaner."
   },
   "spreadTheWord": {
-    "message": "Dersom du likar behaldarar, hjelp oss \u00e5 spreie ordet!"
+    "message": "Dersom du likar behaldarar, hjelp oss å spreie ordet!"
   },
   "rate": {
     "message": "Vurdering"
@@ -121,13 +121,13 @@
     "message": "Fjern denne behaldaren"
   },
   "removeThisContainerConfirmation": {
-    "message": "Er du sikker p\u00e5 at du vil fjerne denne behaldaren?"
+    "message": "Er du sikker på at du vil fjerne denne behaldaren?"
   },
   "clearContainerStoragePanelTitle": {
     "message": "Rydd behaldar-lagring"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Er du sikker p\u00e5 at du vil slette infokapslar og lagring for denne behaldaren?"
+    "message": "Er du sikker på at du vil slette infokapslar og lagring for denne behaldaren?"
   },
   "cancel": {
     "message": "Avbryt"
@@ -157,7 +157,7 @@
     "message": "Slett denne behaldaren"
   },
   "manageSiteList": {
-    "message": "Handsam nettstadliste\u2026"
+    "message": "Handsam nettstadliste…"
   },
   "manageThisContainer": {
     "message": "Handsam denne behaldaren"
@@ -197,22 +197,22 @@
     "message": "Hugs avgjerda mi for denne nettstaden"
   },
   "optionalPermissions": {
-    "message": "Valfrie l\u00f8yve:"
+    "message": "Valfrie løyve:"
   },
   "keyboardShortCuts": {
     "message": "Tastatursnarvegar:"
   },
   "onboarding": {
-    "message": "Innf\u00f8ring"
+    "message": "Innføring"
   },
   "resetOnboardingPanels": {
-    "message": "Tilbakestill innf\u00f8ringspanel"
+    "message": "Tilbakestill innføringspanel"
   },
   "onboardingToggle": {
-    "message": "Veksle p\u00e5 denne for \u00e5 sj\u00e5 introduksjonspanela igjen."
+    "message": "Veksle på denne for å sjå introduksjonspanela igjen."
   },
   "tabBehavior": {
-    "message": "Faneverkem\u00e5te:"
+    "message": "Faneverkemåte:"
   },
   "enableBookMarkMenus": {
     "message": "Aktiver bokmerkemenyar"
@@ -236,16 +236,16 @@
     "message": "Set inn eit vanleg uttrykk"
   },
   "syncExcludeDescription": {
-    "message": "Ekskluder behaldarar fr\u00e5 synkronisering n\u00e5r namnet deira samsvarer med det spesifiserte regul\u00e6re uttrykket som ikkje skiljer mellom store og sm\u00e5 bokstaver."
+    "message": "Ekskluder behaldarar frå synkronisering når namnet deira samsvarer med det spesifiserte regulære uttrykket som ikkje skiljer mellom store og små bokstaver."
   },
   "replaceTab": {
-    "message": "Erstatt fana i staden for \u00e5 opprette ei ny"
+    "message": "Erstatt fana i staden for å opprette ei ny"
   },
   "replaceTabDescription": {
-    "message": "Erstatt gjeldande fane dersom ei side som er tilordna ein annan behalder vert opna (i staden for \u00e5 halde gjeldande fane open). Dette p\u00e5verkar ikkje opning av faner med midtre museknapp."
+    "message": "Erstatt gjeldande fane dersom ei side som er tilordna ein annan behalder vert opna (i staden for å halde gjeldande fane open). Dette påverkar ikkje opning av faner med midtre museknapp."
   },
   "editWhichContainer": {
-    "message": "Rediger kva for behaldar som vert opna n\u00e5r du brukar dei nummererte snarvegane."
+    "message": "Rediger kva for behaldar som vert opna når du brukar dei nummererte snarvegane."
   },
   "keyboardShortCut": {
     "message": "Behaldar som skal opnast med tastatursnarveg $keyId$",
@@ -256,7 +256,7 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account-Container \u2013 Stadfest navigering",
+    "message": "Multi-Account-Container – Stadfest navigering",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
@@ -272,7 +272,7 @@
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "Du ba Firefox om alltid \u00e5 opne $containerName$ for denne nettstaden:",
+    "message": "Du ba Firefox om alltid å opne $containerName$ for denne nettstaden:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -305,10 +305,10 @@
     "message": "Bruk ei eigendefinert plassering for denne behaldaren"
   },
   "clearproxylabel": {
-    "message": "T\u00f8m proxy"
+    "message": "Tøm proxy"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN er p\u00e5"
+    "message": "Mozilla VPN er på"
   },
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN er av"
@@ -317,7 +317,7 @@
     "message": "Skriv inn ei gyldig proxy-adresse"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN m\u00e5 vere aktivert for \u00e5 bruke denne funksjonen."
+    "message": "Mozilla VPN må vere aktivert for å bruke denne funksjonen."
   },
   "learnMore": {
     "message": "Les meir"
@@ -326,10 +326,10 @@
     "message": "No med Mozilla VPN og avanserte proxy-innstillingar"
   },
   "applyToContainer": {
-    "message": "Bruk p\u00e5 behaldar"
+    "message": "Bruk på behaldar"
   },
   "tooltipWarning": {
-    "message": "Denne behaldaren er sett opp til \u00e5 bruke ein Mozilla VPN-proxy, men Mozilla VPN er ikkje aktivert. Aktiver Mozilla VPN for \u00e5 bruke denne behaldaren."
+    "message": "Denne behaldaren er sett opp til å bruke ein Mozilla VPN-proxy, men Mozilla VPN er ikkje aktivert. Aktiver Mozilla VPN for å bruke denne behaldaren."
   },
   "getMozillaVpn": {
     "message": "Last ned Mozilla VPN"
@@ -338,31 +338,31 @@
     "message": "Integrer behaldarane dine med Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN og proxy-l\u00f8yve",
+    "message": "Mozilla VPN og proxy-løyve",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Tillat utviding \u00e5 utveksle meldingar med andre program enn Firefox",
+    "message": "Tillat utviding å utveksle meldingar med andre program enn Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "Denne innstillinga till\u00e8t utvidinga \u00e5 utveksle meldingar med Mozilla VPN-klienten og er n\u00f8dvendig for at Mozilla VPN-integrasjonsfunksjonar skal fungere.",
+    "message": "Denne innstillinga tillèt utvidinga å utveksle meldingar med Mozilla VPN-klienten og er nødvendig for at Mozilla VPN-integrasjonsfunksjonar skal fungere.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Tillat utviding \u00e5 kontrollere proxy-innstillingar",
+    "message": "Tillat utviding å kontrollere proxy-innstillingar",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "Dette till\u00e8t deg \u00e5 bruke avanserte proxy-innstillingar og aktivere Mozilla VPN-integrasjonsfunksjonar.",
+    "message": "Dette tillèt deg å bruke avanserte proxy-innstillingar og aktivere Mozilla VPN-integrasjonsfunksjonar.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "Denne funksjonen krev eit ekstra l\u00f8yve for \u00e5 fungere. L\u00f8yve kan deaktiverast n\u00e5r som helst p\u00e5 innstillingssida.",
+    "message": "Denne funksjonen krev eit ekstra løyve for å fungere. Løyve kan deaktiverast når som helst på innstillingssida.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Integrasjon med Mozilla VPN krev eit abonnement og ekstra l\u00f8yve for \u00e5 fungere."
+    "message": "Integrasjon med Mozilla VPN krev eit abonnement og ekstra løyve for å fungere."
   },
   "enable": {
     "message": "Aktiver",
@@ -388,7 +388,7 @@
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "M\u00f8rkt",
+    "message": "Mørkt",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
@@ -396,7 +396,7 @@
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "S\u00f8k etter behaldernamn"
+    "message": "Søk etter behaldernamn"
   },
   "imageAltContainerInfo": {
     "message": "Behaldar-info",
@@ -431,7 +431,7 @@
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "T\u00f8m lagring og infokapslar",
+    "message": "Tøm lagring og infokapslar",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
