@@ -1,250 +1,254 @@
 {
+  "extensionDescription": {
+    "message": "מגירות לריבוי חשבונות מסייעות לך להפריד בין כל חלקי הפעילות המקוונת שלך בלשוניות שונות. תוויות עם שמות וצבעים מסייעות לך להתנהל בין מגוון פעילויות — כגון קניות מקוונות, תכנון חופשה או בדיקת הודעות מההעבודה — בנפרד.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4 \u05d1\u2026",
+    "message": "פתיחת לשונית חדשה ב…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05d4\u05d0\u05ea\u05e8 \u05d4\u05d6\u05d4 \u05de\u05d7\u05d3\u05e9 \u05d1\u2026",
+    "message": "פתיחת האתר הזה מחדש ב…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "\u05de\u05d9\u05d5\u05df \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05dc\u05e4\u05d9 \u05de\u05d2\u05d9\u05e8\u05d4",
+    "message": "מיון לשוניות לפי מגירה",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "\u05ea\u05de\u05d9\u05d3 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05d4\u05d0\u05ea\u05e8 \u05d4\u05d6\u05d4 \u05d1\u2026",
+    "message": "תמיד לפתוח את האתר הזה ב…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "\u05ea\u05de\u05d9\u05d3 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d1\u2026",
+    "message": "תמיד לפתוח ב…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "\u05ea\u05de\u05d9\u05d3 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea\u05e8 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4"
+    "message": "תמיד לפתוח אתר במגירה"
   },
   "openANewTabIn": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4 \u05d1\u2026"
+    "message": "פתיחת לשונית חדשה ב…"
   },
   "openNewTabInThisContainer": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05d4\u05d6\u05d0\u05ea"
+    "message": "פתיחת לשונית חדשה במגירה הזאת"
   },
   "openTabs": {
-    "message": "\u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05e4\u05ea\u05d5\u05d7\u05d5\u05ea",
+    "message": "לשוניות פתוחות",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "\u05d4\u05e2\u05d1\u05e8\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05dc\u05d7\u05dc\u05d5\u05df \u05d7\u05d3\u05e9"
+    "message": "העברת לשוניות לחלון חדש"
   },
   "onboarding-1-header": {
-    "message": "\u05d3\u05e8\u05da \u05e2\u05d3\u05d9\u05e4\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05db\u05dc \u05d4\u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea \u05d4\u05de\u05e7\u05d5\u05d5\u05e0\u05d5\u05ea \u05e9\u05dc\u05da"
+    "message": "דרך עדיפה לניהול כל הפעילויות המקוונות שלך"
   },
   "onboarding-1-description": {
-    "message": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05db\u05d3\u05d9 \u05dc\u05d0\u05e8\u05d2\u05df \u05de\u05e9\u05d9\u05de\u05d5\u05ea, \u05dc\u05e0\u05d4\u05dc \u05d7\u05e9\u05d1\u05d5\u05e0\u05d5\u05ea \u05d5\u05dc\u05e9\u05de\u05d5\u05e8 \u05e2\u05dc \u05de\u05d9\u05e7\u05d5\u05d3 \u05d0\u05d9\u05e4\u05d4 \u05e9\u05e6\u05e8\u05d9\u05da."
+    "message": "אפשר להשתמש במגירות כדי לארגן משימות, לנהל חשבונות ולשמור על מיקוד איפה שצריך."
   },
   "onboarding-2-header": {
-    "message": "\u05dc\u05ea\u05ea \u05dc\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05dc\u05e2\u05d1\u05d5\u05d3 \u05d1\u05e9\u05d1\u05d9\u05dc\u05da."
+    "message": "לתת למגירות לעבוד בשבילך."
   },
   "onboarding-2-description": {
-    "message": "\u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05db\u05de\u05d5 \u05e1\u05d9\u05de\u05d5\u05df \u05d1\u05e6\u05d1\u05e2 \u05d5\u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e0\u05e4\u05e8\u05d3\u05d5\u05ea \u05de\u05e1\u05d9\u05d9\u05e2\u05d5\u05ea \u05dc\u05da \u05dc\u05de\u05e6\u05d5\u05d0 \u05d3\u05d1\u05e8\u05d9\u05dd \u05d1\u05e7\u05dc\u05d5\u05ea, \u05dc\u05d4\u05ea\u05de\u05e7\u05d3 \u05d1\u05de\u05e9\u05d9\u05de\u05d5\u05ea \u05e9\u05dc\u05da \u05d5\u05dc\u05e6\u05de\u05e6\u05dd \u05d0\u05ea \u05d4\u05e1\u05d7\u05d5\u05ea \u05d4\u05d3\u05e2\u05ea."
+    "message": "יכולות כמו סימון בצבע ולשוניות במגירות נפרדות מסייעות לך למצוא דברים בקלות, להתמקד במשימות שלך ולצמצם את הסחות הדעת."
   },
   "onboarding-3-header": {
-    "message": "\u05de\u05e7\u05d5\u05dd \u05dc\u05db\u05dc \u05d3\u05d1\u05e8 \u05d5\u05db\u05dc \u05d3\u05d1\u05e8 \u05d1\u05de\u05e7\u05d5\u05de\u05d5."
+    "message": "מקום לכל דבר וכל דבר במקומו."
   },
   "onboarding-3-description": {
-    "message": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05ea\u05d7\u05d9\u05dc \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e9\u05d9\u05e6\u05e8\u05e0\u05d5, \u05d0\u05d5 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05db\u05d0\u05dc\u05d5 \u05de\u05e9\u05dc\u05da."
+    "message": "אפשר להתחיל במגירות שיצרנו, או להשתמש בכאלו משלך."
   },
   "onboarding-4-header": {
-    "message": "\u05ea\u05de\u05d9\u05d3 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea\u05e8\u05d9\u05dd \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e9\u05e8\u05e6\u05d5\u05d9\u05d5\u05ea \u05dc\u05da."
+    "message": "תמיד לפתוח אתרים במגירות שרצויות לך."
   },
   "onboarding-4-description": {
-    "message": "\u05dc\u05d7\u05d9\u05e6\u05d4 \u05d9\u05de\u05e0\u05d9\u05ea \u05d1\u05ea\u05d5\u05da \u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05ea\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e9\u05d9\u05d9\u05da \u05d0\u05ea \u05d4\u05d0\u05ea\u05e8 \u05db\u05da \u05e9\u05ea\u05de\u05d9\u05d3 \u05d9\u05d9\u05e4\u05ea\u05d7 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4."
+    "message": "לחיצה ימנית בתוך לשונית במגירה תאפשר לשייך את האתר כך שתמיד ייפתח במגירה."
   },
   "onboarding-5-header": {
-    "message": "\u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05de\u05ea\u05d9 \u05e9\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05df."
+    "message": "לשוניות במגירות מתי שצריך אותן."
   },
   "onboarding-5-description": {
-    "message": "\u05dc\u05d7\u05d9\u05e6\u05d4 \u05d0\u05e8\u05d5\u05db\u05d4 \u05e2\u05dc \u05db\u05e4\u05ea\u05d5\u05e8 \u05d4\u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d4\u05d7\u05d3\u05e9\u05d4 \u05ea\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4."
+    "message": "לחיצה ארוכה על כפתור הלשונית החדשה תאפשר ליצור לשונית חדשה במגירה."
   },
   "onboarding-6-header": {
-    "message": "\u05de\u05e2\u05ea\u05d4 \u05d0\u05e4\u05e9\u05e8 \u05dc\u05e1\u05e0\u05db\u05e8\u05df \u05de\u05d2\u05d9\u05e8\u05d5\u05ea!"
+    "message": "מעתה אפשר לסנכרן מגירות!"
   },
   "onboarding-6-description-2": {
-    "message": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05e1\u05e0\u05db\u05e8\u05d5\u05df \u05db\u05d3\u05d9 \u05dc\u05e9\u05ea\u05e3 \u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05d5\u05e9\u05d9\u05d5\u05db\u05d9 \u05d0\u05ea\u05e8\u05d9\u05dd \u05e2\u05dd \u05db\u05dc \u05de\u05d7\u05e9\u05d1 \u05e9\u05de\u05d7\u05d5\u05d1\u05e8 \u05dc\u05d7\u05e9\u05d1\u05d5\u05df \u05e9\u05dc\u05da."
+    "message": "ניתן להפעיל סנכרון כדי לשתף מגירות ושיוכי אתרים עם כל מחשב שמחובר לחשבון שלך."
   },
   "onboarding-7-header-2": {
-    "message": "\u05e6\u05e8\u05d9\u05da \u05d7\u05e9\u05d1\u05d5\u05df \u05db\u05d3\u05d9 \u05dc\u05e1\u05e0\u05db\u05e8\u05df."
+    "message": "צריך חשבון כדי לסנכרן."
   },
   "onboarding-7-description-2": {
-    "message": "\u05d9\u05e9 \u05dc\u05dc\u05d7\u05d5\u05e5 \u05e2\u05dc \u05db\u05e0\u05d9\u05e1\u05d4 \u05db\u05d3\u05d9 \u05dc\u05d0\u05de\u05ea \u05e9\u05d4\u05d7\u05e9\u05d1\u05d5\u05df \u05e9\u05dc\u05da \u05e4\u05e2\u05d9\u05dc."
+    "message": "יש ללחוץ על כניסה כדי לאמת שהחשבון שלך פעיל."
   },
   "onboarding-8-description": {
-    "message": "\u05de\u05d4\u05d9\u05d5\u05dd \u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05dc\u05d4\u05e9\u05ea\u05dc\u05d1 \u05de\u05d5\u05dc Mozilla VPN \u05d0\u05d5 \u05de\u05d5\u05dc \u05de\u05ea\u05d5\u05d5\u05da \u05e9\u05dc\u05da \u05db\u05d3\u05d9 \u05dc\u05d9\u05e6\u05d5\u05e8 \u05d7\u05d9\u05d1\u05d5\u05e8 \u05de\u05d0\u05d5\u05d1\u05d8\u05d7 \u05d5\u05e4\u05e8\u05d8\u05d9 \u05e9\u05de\u05d2\u05df \u05e2\u05dc \u05d4\u05e4\u05e2\u05d9\u05dc\u05d5\u05ea \u05e9\u05dc\u05da."
+    "message": "מהיום מגירות יכולות להשתלב מול Mozilla VPN או מול מתווך שלך כדי ליצור חיבור מאובטח ופרטי שמגן על הפעילות שלך."
   },
   "oneHundredTabsHeader": {
-    "message": "100 \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea!"
+    "message": "100 לשוניות!"
   },
   "youHaveOpened": {
-    "message": "\u05e4\u05ea\u05d7\u05ea 100 \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea."
+    "message": "פתחת 100 לשוניות במגירות."
   },
   "spreadTheWord": {
-    "message": "\u05d0\u05dd \u05e0\u05d4\u05e0\u05d9\u05ea \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea, \u05e0\u05e9\u05de\u05d7 \u05dc\u05d4\u05de\u05dc\u05e6\u05d4 \u05d4\u05dc\u05d0\u05d4!"
+    "message": "אם נהנית להשתמש במגירות, נשמח להמלצה הלאה!"
   },
   "rate": {
-    "message": "\u05d3\u05d9\u05e8\u05d5\u05d2"
+    "message": "דירוג"
   },
   "share": {
-    "message": "\u05e9\u05d9\u05ea\u05d5\u05e3"
+    "message": "שיתוף"
   },
   "tweet": {
-    "message": "\u05e6\u05d9\u05d5\u05e5"
+    "message": "ציוץ"
   },
   "default": {
-    "message": "\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc"
+    "message": "ברירת מחדל"
   },
   "manageContainers": {
-    "message": "\u05e0\u05d9\u05d4\u05d5\u05dc \u05de\u05d2\u05d9\u05e8\u05d5\u05ea"
+    "message": "ניהול מגירות"
   },
   "newContainer": {
-    "message": "\u05de\u05d2\u05d9\u05e8\u05d4 \u05d7\u05d3\u05e9\u05d4"
+    "message": "מגירה חדשה"
   },
   "hideThisContainer": {
-    "message": "\u05d4\u05e1\u05ea\u05e8\u05ea \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "הסתרת מגירה זו"
   },
   "showThisContainer": {
-    "message": "\u05d4\u05e6\u05d2\u05ea \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "הצגת מגירה זו"
   },
   "removeThisContainer": {
-    "message": "\u05d4\u05e1\u05e8\u05ea \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "הסרת מגירה זו"
   },
   "removeThisContainerConfirmation": {
-    "message": "\u05dc\u05d4\u05e1\u05d9\u05e8 \u05d0\u05ea \u05d4\u05de\u05d2\u05d9\u05e8\u05d4 \u05d4\u05d6\u05d0\u05ea?"
+    "message": "להסיר את המגירה הזאת?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05d0\u05d7\u05e1\u05d5\u05df \u05d4\u05de\u05d2\u05d9\u05e8\u05d4"
+    "message": "ניקוי אחסון המגירה"
   },
   "clearContainerStorageConfirmation": {
-    "message": "\u05d4\u05d0\u05dd \u05d1\u05e8\u05e6\u05d5\u05e0\u05da \u05dc\u05e0\u05e7\u05d5\u05ea \u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05d5\u05d0\u05d7\u05e1\u05d5\u05df \u05e2\u05d1\u05d5\u05e8 \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5?"
+    "message": "האם ברצונך לנקות עוגיות ואחסון עבור מגירה זו?"
   },
   "cancel": {
-    "message": "\u05d1\u05d9\u05d8\u05d5\u05dc"
+    "message": "ביטול"
   },
   "ok": {
-    "message": "\u05d0\u05d9\u05e9\u05d5\u05e8"
+    "message": "אישור"
   },
   "sitesAssignedToThisContainer": {
-    "message": "\u05d0\u05ea\u05e8\u05d9\u05dd \u05e9\u05de\u05e9\u05d5\u05d9\u05db\u05d9\u05dd \u05dc\u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "אתרים שמשויכים למגירה זו"
   },
   "options": {
-    "message": "\u05d0\u05e4\u05e9\u05e8\u05d5\u05d9\u05d5\u05ea"
+    "message": "אפשרויות"
   },
   "name": {
-    "message": "\u05e9\u05dd"
+    "message": "שם"
   },
   "color": {
-    "message": "\u05e6\u05d1\u05e2"
+    "message": "צבע"
   },
   "icon": {
-    "message": "\u05e1\u05de\u05dc"
+    "message": "סמל"
   },
   "limitToDesignatedSites": {
-    "message": "\u05d4\u05d2\u05d1\u05dc\u05d4 \u05dc\u05d0\u05ea\u05e8\u05d9\u05dd \u05de\u05d5\u05e7\u05e6\u05d9\u05dd"
+    "message": "הגבלה לאתרים מוקצים"
   },
   "deleteThisContainer": {
-    "message": "\u05de\u05d7\u05d9\u05e7\u05ea \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "מחיקת מגירה זו"
   },
   "manageSiteList": {
-    "message": "\u05e0\u05d9\u05d4\u05d5\u05dc \u05e8\u05e9\u05d9\u05de\u05ea \u05d0\u05ea\u05e8\u05d9\u05dd\u2026"
+    "message": "ניהול רשימת אתרים…"
   },
   "manageThisContainer": {
-    "message": "\u05e0\u05d9\u05d4\u05d5\u05dc \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "ניהול מגירה זו"
   },
   "containers": {
-    "message": "\u05de\u05d2\u05d9\u05e8\u05d5\u05ea"
+    "message": "מגירות"
   },
   "done": {
-    "message": "\u05e1\u05d9\u05d5\u05dd"
+    "message": "סיום"
   },
   "getStarted": {
-    "message": "\u05ea\u05d7\u05d9\u05dc\u05ea \u05e2\u05d1\u05d5\u05d3\u05d4"
+    "message": "תחילת עבודה"
   },
   "signIn": {
-    "message": "\u05db\u05e0\u05d9\u05e1\u05d4"
+    "message": "כניסה"
   },
   "notNow": {
-    "message": "\u05dc\u05d0 \u05db\u05e2\u05ea"
+    "message": "לא כעת"
   },
   "startSyncing": {
-    "message": "\u05d4\u05ea\u05d7\u05dc\u05d4 \u05d1\u05e1\u05e0\u05db\u05e8\u05d5\u05df"
+    "message": "התחלה בסנכרון"
   },
   "info": {
-    "message": "\u05e4\u05e8\u05d8\u05d9\u05dd",
+    "message": "פרטים",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "\u05d4\u05d1\u05d0"
+    "message": "הבא"
   },
   "openThisSiteConfirmation": {
-    "message": "\u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05d4\u05d0\u05ea\u05e8 \u05d4\u05d6\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05e9\u05e9\u05d5\u05d9\u05db\u05d4 \u05dc\u05d5?"
+    "message": "לפתוח את האתר הזה במגירה ששויכה לו?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "\u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05d6\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea \u05d1\u05db\u05dc \u05d6\u05d0\u05ea?"
+    "message": "לפתוח את זה במגירה הנוכחית בכל זאת?"
   },
   "rememberMyDecision": {
-    "message": "\u05e9\u05de\u05d9\u05e8\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d4 \u05e9\u05dc\u05d9 \u05e2\u05d1\u05d5\u05e8 \u05d0\u05ea\u05e8 \u05d6\u05d4"
+    "message": "שמירת הבחירה שלי עבור אתר זה"
   },
   "optionalPermissions": {
-    "message": "\u05d4\u05e8\u05e9\u05d0\u05d5\u05ea \u05d0\u05d5\u05e4\u05e6\u05d9\u05d5\u05e0\u05dc\u05d9\u05d5\u05ea:"
+    "message": "הרשאות אופציונליות:"
   },
   "keyboardShortCuts": {
-    "message": "\u05e7\u05d9\u05e6\u05d5\u05e8\u05d9 \u05de\u05e7\u05dc\u05d3\u05ea:"
+    "message": "קיצורי מקלדת:"
   },
   "onboarding": {
-    "message": "\u05e7\u05d1\u05dc\u05ea \u05e4\u05e0\u05d9\u05dd"
+    "message": "קבלת פנים"
   },
   "resetOnboardingPanels": {
-    "message": "\u05d0\u05d9\u05e4\u05d5\u05e1 \u05dc\u05d5\u05d7\u05d5\u05ea \u05e7\u05d1\u05dc\u05ea \u05e4\u05e0\u05d9\u05dd"
+    "message": "איפוס לוחות קבלת פנים"
   },
   "onboardingToggle": {
-    "message": "\u05d9\u05e9 \u05dc\u05d4\u05d7\u05dc\u05d9\u05e3 \u05d0\u05ea \u05d4\u05d1\u05d7\u05d9\u05e8\u05d4 \u05db\u05d3\u05d9 \u05dc\u05e6\u05e4\u05d5\u05ea \u05d1\u05dc\u05d5\u05d7\u05d5\u05ea \u05e7\u05d1\u05dc\u05ea \u05d4\u05e4\u05e0\u05d9\u05dd \u05e9\u05d5\u05d1."
+    "message": "יש להחליף את הבחירה כדי לצפות בלוחות קבלת הפנים שוב."
   },
   "tabBehavior": {
-    "message": "\u05d4\u05ea\u05e0\u05d4\u05d2\u05d5\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea:"
+    "message": "התנהגות לשוניות:"
   },
   "enableBookMarkMenus": {
-    "message": "\u05d4\u05e4\u05e2\u05dc\u05ea \u05ea\u05e4\u05e8\u05d9\u05d8\u05d9 \u05e1\u05d9\u05de\u05e0\u05d9\u05d5\u05ea"
+    "message": "הפעלת תפריטי סימניות"
   },
   "sync": {
-    "message": "\u05e1\u05e0\u05db\u05e8\u05d5\u05df:"
+    "message": "סנכרון:"
   },
   "enableSync": {
-    "message": "\u05d4\u05e4\u05e2\u05dc\u05ea \u05e1\u05e0\u05db\u05e8\u05d5\u05df"
+    "message": "הפעלת סנכרון"
   },
   "enableBookMarkMenusDescription": {
-    "message": "\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05da \u05dc\u05e4\u05ea\u05d5\u05d7 \u05e1\u05d9\u05de\u05e0\u05d9\u05d9\u05d4 \u05d0\u05d5 \u05ea\u05d9\u05e7\u05d9\u05d9\u05d4 \u05e9\u05dc \u05e1\u05d9\u05de\u05e0\u05d9\u05d5\u05ea \u05d1\u05de\u05d2\u05d9\u05e8\u05d4."
+    "message": "הגדרה זו מאפשרת לך לפתוח סימנייה או תיקייה של סימניות במגירה."
   },
   "enableSyncDescription": {
-    "message": "\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05da \u05dc\u05e1\u05e0\u05db\u05e8\u05df \u05d0\u05ea \u05d4\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05d5\u05d0\u05ea \u05e9\u05d9\u05d5\u05db\u05d9 \u05d4\u05d0\u05ea\u05e8\u05d9\u05dd \u05e9\u05dc\u05da \u05d1\u05d9\u05df \u05de\u05db\u05e9\u05d9\u05e8\u05d9\u05dd."
+    "message": "הגדרה זו מאפשרת לך לסנכרן את המגירות ואת שיוכי האתרים שלך בין מכשירים."
   },
   "syncExclude": {
-    "message": "\u05d4\u05d7\u05e8\u05d2\u05ea \u05de\u05d2\u05d9\u05e8\u05d5\u05ea"
+    "message": "החרגת מגירות"
   },
   "syncExcludePlaceholder": {
-    "message": "\u05d4\u05d5\u05e1\u05e4\u05ea \u05d1\u05d9\u05d8\u05d5\u05d9 \u05e8\u05d2\u05d5\u05dc\u05e8\u05d9"
+    "message": "הוספת ביטוי רגולרי"
   },
   "syncExcludeDescription": {
-    "message": "\u05d4\u05d7\u05e8\u05d2\u05ea \u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05de\u05e1\u05e0\u05db\u05e8\u05d5\u05df \u05db\u05e9\u05d4\u05e9\u05de\u05d5\u05ea \u05e9\u05dc\u05d4\u05df \u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05dc\u05d1\u05d9\u05d8\u05d5\u05d9 \u05e8\u05d2\u05d5\u05dc\u05e8\u05d9 \u05de\u05e1\u05d5\u05d9\u05dd \u05dc\u05dc\u05d0 \u05ea\u05dc\u05d5\u05ea \u05d1\u05e8\u05d9\u05e9\u05d9\u05d5\u05ea."
+    "message": "החרגת מגירות מסנכרון כשהשמות שלהן תואמים לביטוי רגולרי מסוים ללא תלות ברישיות."
   },
   "replaceTab": {
-    "message": "\u05dc\u05d4\u05d7\u05dc\u05d9\u05e3 \u05d0\u05ea \u05d4\u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d1\u05de\u05e7\u05d5\u05dd \u05dc\u05d9\u05d9\u05e6\u05e8 \u05d7\u05d3\u05e9\u05d4"
+    "message": "להחליף את הלשונית במקום לייצר חדשה"
   },
   "replaceTabDescription": {
-    "message": "\u05dc\u05d4\u05d7\u05dc\u05d9\u05e3 \u05d0\u05ea \u05d4\u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea \u05d0\u05dd \u05e0\u05e4\u05ea\u05d7 \u05e2\u05de\u05d5\u05d3 \u05e9\u05de\u05e9\u05d5\u05d9\u05da \u05dc\u05de\u05d2\u05d9\u05e8\u05d4 \u05d0\u05d7\u05e8\u05ea (\u05d1\u05de\u05e7\u05d5\u05dd \u05dc\u05d4\u05e9\u05d0\u05d9\u05e8 \u05d0\u05ea \u05d4\u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7\u05d4). \u05e4\u05ea\u05d9\u05d7\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea \u05e2\u05dd \u05db\u05e4\u05ea\u05d5\u05e8 \u05d4\u05e2\u05db\u05d1\u05e8 \u05d4\u05d0\u05de\u05e6\u05e2\u05d9 \u05dc\u05d0 \u05ea\u05d5\u05e9\u05e4\u05e2."
+    "message": "להחליף את הלשונית הנוכחית אם נפתח עמוד שמשויך למגירה אחרת (במקום להשאיר את הלשונית הנוכחית פתוחה). פתיחת לשוניות עם כפתור העכבר האמצעי לא תושפע."
   },
   "editWhichContainer": {
-    "message": "\u05e2\u05e8\u05d9\u05db\u05d4 \u05d0\u05d9\u05d6\u05d5 \u05de\u05d2\u05d9\u05e8\u05d4 \u05ea\u05d9\u05e4\u05ea\u05d7 \u05d1\u05e2\u05ea \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05e7\u05d9\u05e6\u05d5\u05e8\u05d9 \u05de\u05e7\u05dc\u05d3\u05ea \u05de\u05de\u05d5\u05e1\u05e4\u05e8\u05d9\u05dd."
+    "message": "עריכה איזו מגירה תיפתח בעת שימוש בקיצורי מקלדת ממוספרים."
   },
   "keyboardShortCut": {
-    "message": "\u05de\u05d2\u05d9\u05e8\u05d4 \u05dc\u05e4\u05ea\u05d9\u05d7\u05d4 \u05e2\u05dd \u05e7\u05d9\u05e6\u05d5\u05e8 \u05d4\u05de\u05e7\u05dc\u05d3\u05ea $keyId$",
+    "message": "מגירה לפתיחה עם קיצור המקלדת $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -252,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "\u05d0\u05d9\u05e9\u05d5\u05e8 \u05e0\u05d9\u05d5\u05d5\u05d8 \u05d1\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05dc\u05e8\u05d9\u05d1\u05d5\u05d9 \u05d7\u05e9\u05d1\u05d5\u05e0\u05d5\u05ea",
+    "message": "אישור ניווט במגירות לריבוי חשבונות",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u201e$containerName$\u201d",
+    "message": "פתיחה במגירה „$containerName$”",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -264,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05d4 \u05d1\u05dc\u05e9\u05d5\u05e0\u05d9\u05ea \u05d4\u05e0\u05d5\u05db\u05d7\u05d9\u05ea",
+    "message": "פתיחה בלשונית הנוכחית",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "\u05d1\u05d9\u05e7\u05e9\u05ea \u05de\u05beFirefox \u05ea\u05de\u05d9\u05d3 \u05dc\u05e4\u05ea\u05d5\u05d7 \u05d0\u05ea \u05d4\u05d0\u05ea\u05e8 \u05d4\u05d6\u05d4 \u05ea\u05d7\u05ea \u201e$containerName$\u201d:",
+    "message": "ביקשת מ־Firefox תמיד לפתוח את האתר הזה תחת „$containerName$”:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -276,134 +280,138 @@
     }
   },
   "chooseLocation": {
-    "message": "\u05d1\u05d7\u05d9\u05e8\u05ea \u05de\u05e7\u05d5\u05dd",
+    "message": "בחירת מקום",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "\u05d4\u05e1\u05ea\u05e8\u05d4"
+    "message": "הסתרה"
   },
   "show": {
-    "message": "\u05d4\u05e6\u05d2\u05d4"
+    "message": "הצגה"
   },
   "protectYourContainers": {
-    "message": "\u05d4\u05d2\u05e0\u05d4 \u05e2\u05dc \u05d4\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e9\u05dc\u05da \u05e2\u05dd Mozilla VPN"
+    "message": "הגנה על המגירות שלך עם Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "\u05d4\u05d2\u05e0\u05d4 \u05e2\u05dc \u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5 \u05e2\u05dd Mozilla VPN"
+    "message": "הגנה על מגירה זו עם Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05de\u05ea\u05e7\u05d3\u05de\u05d5\u05ea"
+    "message": "הגדרות שרת מתווך מתקדמות"
   },
   "proxyInputLabel": {
-    "message": "\u05e0\u05d0 \u05dc\u05de\u05dc\u05d0 \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05de\u05d5\u05ea\u05d0\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea"
+    "message": "נא למלא שרת מתווך מותאם אישית"
   },
   "useCustomLocation": {
-    "message": "\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05de\u05e7\u05d5\u05dd \u05de\u05d5\u05ea\u05d0\u05dd \u05d0\u05d9\u05e9\u05d9\u05ea \u05dc\u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5"
+    "message": "שימוש במקום מותאם אישית למגירה זו"
   },
   "clearproxylabel": {
-    "message": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da"
+    "message": "ניקוי שרת מתווך"
   },
   "moz-vpn-connected": {
-    "message": "\u200fMozilla VPN \u05e4\u05e2\u05d9\u05dc"
+    "message": "‏Mozilla VPN פעיל"
   },
   "moz-vpn-disconnected": {
-    "message": "\u200fMozilla VPN \u05db\u05d1\u05d5\u05d9"
+    "message": "‏Mozilla VPN כבוי"
   },
   "invalidProxyAlert": {
-    "message": "\u05e0\u05d0 \u05dc\u05de\u05dc\u05d0 \u05db\u05ea\u05d5\u05d1\u05ea \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05ea\u05e7\u05d9\u05e0\u05d4"
+    "message": "נא למלא כתובת שרת מתווך תקינה"
   },
   "mozillaVpnMustBeOn": {
-    "message": "\u05d9\u05e9 \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea Mozilla VPN \u05db\u05d3\u05d9 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d9\u05db\u05d5\u05dc\u05ea \u05d4\u05d6\u05d0\u05ea."
+    "message": "יש להפעיל את Mozilla VPN כדי להשתמש ביכולת הזאת."
   },
   "learnMore": {
-    "message": "\u05de\u05d9\u05d3\u05e2 \u05e0\u05d5\u05e1\u05e3"
+    "message": "מידע נוסף"
   },
   "proxyNowAvailable": {
-    "message": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05e2\u05dd Mozilla VPN \u05d5\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05de\u05ea\u05e7\u05d3\u05de\u05d5\u05ea"
+    "message": "עכשיו עם Mozilla VPN והגדרות שרת מתווך מתקדמות"
   },
   "applyToContainer": {
-    "message": "\u05d4\u05d7\u05dc\u05d4 \u05e2\u05dc \u05de\u05d2\u05d9\u05e8\u05d4"
+    "message": "החלה על מגירה"
   },
   "tooltipWarning": {
-    "message": "\u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d5\u05d2\u05d3\u05e8\u05ea \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05e9\u05dc Mozilla VPN, \u05d0\u05da Mozilla VPN \u05d0\u05d9\u05e0\u05d5 \u05e4\u05e2\u05d9\u05dc. \u05d9\u05e9 \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea Mozilla VPN \u05db\u05d3\u05d9 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05de\u05d2\u05d9\u05e8\u05d4 \u05d6\u05d5."
+    "message": "מגירה זו מוגדרת להשתמש בשרת מתווך של Mozilla VPN, אך Mozilla VPN אינו פעיל. יש להפעיל את Mozilla VPN כדי להשתמש במגירה זו."
   },
   "getMozillaVpn": {
-    "message": "\u05e7\u05d1\u05dc\u05ea Mozilla VPN"
+    "message": "קבלת Mozilla VPN"
   },
   "integratewithmozillavpn": {
-    "message": "\u05e9\u05d9\u05dc\u05d5\u05d1 \u05d4\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e9\u05dc\u05da \u05e2\u05dd Mozilla VPN"
+    "message": "שילוב המגירות שלך עם Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "הרשאות שרת מתווך ו־Mozilla VPN",
+    "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "\u05dc\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05e8\u05d7\u05d1\u05d4 \u05dc\u05d4\u05d7\u05dc\u05d9\u05e3 \u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05e2\u05dd \u05d9\u05d9\u05e9\u05d5\u05de\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd \u05de\u05dc\u05d1\u05d3 Firefox",
+    "message": "לאפשר להרחבה להחליף הודעות עם יישומים אחרים מלבד Firefox",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05d4\u05e8\u05d7\u05d1\u05d4 \u05dc\u05d4\u05d7\u05dc\u05d9\u05e3 \u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05e2\u05dd \u05dc\u05e7\u05d5\u05d7 Mozilla VPN \u05d5\u05d6\u05d4 \u05e0\u05d7\u05d5\u05e5 \u05db\u05d3\u05d9 \u05e9\u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05d4\u05e9\u05d9\u05dc\u05d5\u05d1 \u05de\u05d5\u05dc Mozilla VPN \u05d9\u05e2\u05d1\u05d3\u05d5.",
+    "message": "הגדרה זו מאפשרת להרחבה להחליף הודעות עם לקוח Mozilla VPN וזה נחוץ כדי שיכולות השילוב מול Mozilla VPN יעבדו.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "\u05dc\u05d0\u05e4\u05e9\u05e8 \u05dc\u05d4\u05e8\u05d7\u05d1\u05d4 \u05dc\u05e9\u05dc\u05d5\u05d8 \u05d1\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d4\u05e9\u05e8\u05ea \u05d4\u05de\u05ea\u05d5\u05d5\u05da",
+    "message": "לאפשר להרחבה לשלוט בהגדרות השרת המתווך",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "\u05d4\u05d2\u05d3\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05da \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05e9\u05e8\u05ea \u05de\u05ea\u05d5\u05d5\u05da \u05de\u05ea\u05e7\u05d3\u05de\u05d5\u05ea \u05d5\u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea \u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05d4\u05e9\u05d9\u05dc\u05d5\u05d1 \u05e9\u05dc Mozilla VPN.",
+    "message": "הגדרה זו מאפשרת לך להשתמש בהגדרות שרת מתווך מתקדמות ולהפעיל את יכולות השילוב של Mozilla VPN.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d6\u05d5 \u05d3\u05d5\u05e8\u05e9\u05ea \u05d4\u05e8\u05e9\u05d0\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea \u05db\u05d3\u05d9 \u05dc\u05e2\u05d1\u05d5\u05d3. \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e9\u05d1\u05d9\u05ea \u05d0\u05ea \u05d4\u05d4\u05e8\u05e9\u05d0\u05d5\u05ea \u05d1\u05db\u05dc \u05e2\u05ea \u05d3\u05e8\u05da \u05e2\u05de\u05d5\u05d3 \u05d4\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea.",
+    "message": "אפשרות זו דורשת הרשאות נוספות כדי לעבוד. ניתן להשבית את ההרשאות בכל עת דרך עמוד ההגדרות.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "\u05d4\u05e9\u05d9\u05dc\u05d5\u05d1 \u05de\u05d5\u05dc Mozilla VPN \u05d3\u05d5\u05e8\u05e9 \u05de\u05d9\u05e0\u05d5\u05d9 \u05d5\u05d4\u05e8\u05e9\u05d0\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea \u05db\u05d3\u05d9 \u05dc\u05e2\u05d1\u05d5\u05d3."
+    "message": "השילוב מול Mozilla VPN דורש מינוי והרשאות נוספות כדי לעבוד."
   },
   "enable": {
-    "message": "\u05d4\u05e4\u05e2\u05dc\u05d4",
+    "message": "הפעלה",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "\u05e9\u05d9\u05dc\u05d5\u05d1 \u05d4\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05e9\u05dc\u05da \u05de\u05d5\u05dc Mozilla VPN"
+    "message": "שילוב המגירות שלך מול Mozilla VPN"
   },
   "theme": {
-    "message": "\u05e2\u05e8\u05db\u05ea \u05e0\u05d5\u05e9\u05d0:",
+    "message": "ערכת נושא:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "\u05d1\u05d7\u05d9\u05e8\u05ea \u05e2\u05e8\u05db\u05ea \u05e0\u05d5\u05e9\u05d0",
+    "message": "בחירת ערכת נושא",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "\u05d6\u05d9\u05d4\u05d5\u05d9 \u05d0\u05d5\u05d8\u05d5\u05de\u05d8\u05d9 (\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc)",
+    "message": "זיהוי אוטומטי (ברירת מחדל)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "\u05d1\u05d4\u05d9\u05e8\u05d4",
+    "message": "בהירה",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "\u05db\u05d4\u05d4",
+    "message": "כהה",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "\u05e1\u05d9\u05e0\u05d5\u05df \u05e8\u05e9\u05d9\u05de\u05ea \u05d4\u05de\u05d2\u05d9\u05e8\u05d5\u05ea \u05dc\u05e4\u05d9 \u05e9\u05dd:",
+    "message": "סינון רשימת המגירות לפי שם:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "\u05d7\u05d9\u05e4\u05d5\u05e9 \u05e9\u05dd \u05de\u05d2\u05d9\u05e8\u05d4"
+    "message": "חיפוש שם מגירה"
   },
   "imageAltContainerInfo": {
-    "message": "\u05e4\u05e8\u05d8\u05d9 \u05de\u05d2\u05d9\u05e8\u05d4",
+    "message": "פרטי מגירה",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "\u05de\u05d2\u05d9\u05e8\u05d4 \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc",
+    "message": "מגירה ברירת מחדל",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05dc\u05d5\u05d7 \u05de\u05d2\u05d9\u05e8\u05d5\u05ea",
+    "message": "פתיחת לוח מגירות",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "\u05e7\u05d9\u05e6\u05d5\u05e8 \u05d3\u05e8\u05da \u05dc\u05de\u05d2\u05d9\u05e8\u05d4 $keyId$",
+    "message": "קיצור דרך למגירה $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -412,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "\u05e4\u05ea\u05d9\u05d7\u05ea \u05e1\u05d9\u05de\u05e0\u05d9\u05d9\u05d4 \u05d1\u05de\u05d2\u05d9\u05e8\u05ea \u05dc\u05e9\u05d5\u05e0\u05d9\u05d5\u05ea"
+    "message": "פתיחת סימנייה במגירת לשוניות"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05e2\u05d1\u05d5\u05e8 \u05d0\u05ea\u05e8 \u05d6\u05d4",
+    "message": "ניקוי עוגיות עבור אתר זה",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "\u05d4\u05e1\u05e8\u05ea \u05d0\u05ea\u05e8 \u05d6\u05d4",
+    "message": "הסרת אתר זה",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05d0\u05d7\u05e1\u05d5\u05df \u05d5\u05e2\u05d5\u05d2\u05d9\u05d5\u05ea",
+    "message": "ניקוי אחסון ועוגיות",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "\u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05e2\u05d1\u05d5\u05e8 $siteName$ \u05e0\u05d5\u05e7\u05d5 \u05d1\u05d4\u05e6\u05dc\u05d7\u05d4",
+    "message": "עוגיות עבור $siteName$ נוקו בהצלחה",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -436,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "\u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05d4\u05d9\u05d4 \u05dc\u05e0\u05e7\u05d5\u05ea \u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05e2\u05d1\u05d5\u05e8 $siteName$",
+    "message": "לא ניתן היה לנקות עוגיות עבור $siteName$",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -445,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "\u05d4\u05d0\u05d7\u05e1\u05d5\u05df \u05d5\u05d4\u05e2\u05d5\u05d2\u05d9\u05d5\u05ea \u05e9\u05dc $containerName$ \u05e0\u05d5\u05e7\u05d5.",
+    "message": "האחסון והעוגיות של $containerName$ נוקו.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {
