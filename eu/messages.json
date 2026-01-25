@@ -1,10 +1,10 @@
 {
   "openInNewTabTitle": {
-    "message": "Ireki fitxa berria hemen\u2026",
+    "message": "Ireki fitxa berria hemen…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Ireki berriro gune hau hemen\u2026",
+    "message": "Ireki berriro gune hau hemen…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -12,18 +12,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Ireki beti gune hau hemen\u2026",
+    "message": "Ireki beti gune hau hemen…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Ireki beti hemen\u2026",
+    "message": "Ireki beti hemen…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Ireki beti gunea edukiontzi batean"
   },
   "openANewTabIn": {
-    "message": "Ireki fitxa berria hemen\u2026"
+    "message": "Ireki fitxa berria hemen…"
   },
   "openNewTabInThisContainer": {
     "message": "Ireki fitxa berria edukiontzi honetan"
@@ -41,6 +41,9 @@
   "onboarding-2-header": {
     "message": "Jarri edukiontziak zuretzat lanean."
   },
+  "onboarding-3-description": {
+    "message": "Hasi guk sortutako edukiontziekin edo sortu zureak."
+  },
   "onboarding-4-header": {
     "message": "Ireki beti guneak nahi dituzun edukiontzietan."
   },
@@ -52,6 +55,12 @@
   },
   "oneHundredTabsHeader": {
     "message": "100 fitxa!"
+  },
+  "youHaveOpened": {
+    "message": "100 edukiontzi-fitxa ireki dituzu."
+  },
+  "spreadTheWord": {
+    "message": "Edukiontziak gustuko badituzu, lagun iezaguzu hitza zabaltzen!"
   },
   "rate": {
     "message": "Baloratu"
@@ -79,6 +88,15 @@
   },
   "removeThisContainer": {
     "message": "Kendu edukiontzi hau"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Ziur zaude edukiontzi hau ezabatu nahi duzula?"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "Garbitu edukiontziaren biltegiratzea"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Ziur zaude cookieak eta biltegiratzea garbitu nahi dituzula edukiontzi honentzat?"
   },
   "cancel": {
     "message": "Utzi"
@@ -108,7 +126,7 @@
     "message": "Ezabatu edukiontzi hau"
   },
   "manageSiteList": {
-    "message": "Kudeatu guneen zerrenda\u2026"
+    "message": "Kudeatu guneen zerrenda…"
   },
   "manageThisContainer": {
     "message": "Kudeatu edukiontzi hau"
@@ -167,6 +185,9 @@
   },
   "enableBookMarkMenus": {
     "message": "Gaitu laster-marken menuak"
+  },
+  "sync": {
+    "message": "Sinkronizazioa:"
   },
   "enableSync": {
     "message": "Gaitu sinkronizazioa"
