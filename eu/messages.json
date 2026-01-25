@@ -47,8 +47,26 @@
   "onboarding-4-header": {
     "message": "Ireki beti guneak nahi dituzun edukiontzietan."
   },
+  "onboarding-4-description": {
+    "message": "Egin eskuin-klika edukiontzi-fitxa baten barruan gunea beti edukiontzi horretan irekitzea esleitzeko."
+  },
+  "onboarding-5-header": {
+    "message": "Edukiontzi-fitxak behar dituzunean."
+  },
+  "onboarding-5-description": {
+    "message": "Mantendu sakatuta fitxa berriaren botoia edukiontzi-fitxa berri bat sortzeko."
+  },
   "onboarding-6-header": {
     "message": "Edukiontzien sinkronizazioa eskuragarri dago!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Aktibatu sinkronizazioa zure kontuarekin konektatutako edozein ordenagailurekin edukiontzi- eta gune-esleipenak partekatzeko."
+  },
+  "onboarding-7-header-2": {
+    "message": "Kontua behar da sinkronizatzeko."
+  },
+  "onboarding-7-description-2": {
+    "message": "Egin klik 'Hasi saioa' botoian berresteko zure kontua aktibo dagoela."
   },
   "onboarding-8-description": {
     "message": "Edukiontziak Mozilla VPN edo zure proxy propioarekin integra daitezke orain, zure jarduera babestuko duen konexio seguru eta pribatua sortzeko."
