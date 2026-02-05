@@ -4,11 +4,11 @@
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Aperir un nove scheda in\u2026",
+    "message": "Aperir un nove scheda in…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Reaperir iste sito in\u2026",
+    "message": "Reaperir iste sito in…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Sempre aperir iste sito in\u2026",
+    "message": "Sempre aperir iste sito in…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Sempre aperir in\u2026",
+    "message": "Sempre aperir in…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Sempre aperir sito in contentor"
   },
   "openANewTabIn": {
-    "message": "Aperir un nove scheda in\u2026"
+    "message": "Aperir un nove scheda in…"
   },
   "openNewTabInThisContainer": {
     "message": "Aperir nove scheda in iste contentor"
@@ -157,7 +157,7 @@
     "message": "Deler iste contentor"
   },
   "manageSiteList": {
-    "message": "Gerer lista de sitos\u2026"
+    "message": "Gerer lista de sitos…"
   },
   "manageThisContainer": {
     "message": "Gerer iste contentor"
@@ -411,7 +411,7 @@
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Via-breve de contentor $keyId$",
+    "message": "Accesso directe de contentor $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
