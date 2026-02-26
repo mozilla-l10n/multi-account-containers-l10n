@@ -419,6 +419,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "使用容器 $keyId$ 開啟",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "用容器分頁開啟書籤"
   },
