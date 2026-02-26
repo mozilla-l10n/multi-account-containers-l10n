@@ -1,148 +1,148 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers wam pomaga, w\u0161ykne \u017a\u011ble wa\u0161ogo \u017eywjenja online do rozd\u017a\u011blnych rejtarikow rozd\u017a\u011bli\u015b. Sw\u00f3jske etikety a z barwu kod\u011browane rejtariki pomagaju, rozd\u017a\u011blne aktiwity \u2013 ako nakupowanje online, planowanje drogowanjow abo cytanje s\u0142u\u017ebnych mejlkow \u2013 w\u00f3tgranicowa\u015b.",
+    "message": "Multi-Account Containers wam pomaga, wšykne źěle wašogo žywjenja online do rozdźělnych rejtarikow rozdźěliś. Swójske etikety a z barwu koděrowane rejtariki pomagaju, rozdźělne aktiwity – ako nakupowanje online, planowanje drogowanjow abo cytanje słužbnych mejlkow – wótgranicowaś.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Nowy rejtarik w\u00f3cyni\u015b w\u2026",
+    "message": "Nowy rejtarik wócyniś w…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "To\u015b to sed\u0142o znowego w\u00f3cyni\u015b w\u2026",
+    "message": "Toś to sedło znowego wócyniś w…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "Rejtariki p\u00f3 kontejnerje sort\u011browa\u015b",
+    "message": "Rejtariki pó kontejnerje sortěrowaś",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "To\u015b to sed\u0142o p\u015becej w\u00f3cyni\u015b w\u2026",
+    "message": "Toś to sedło pśecej wócyniś w…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "P\u015becej w\u00f3cyni\u015b w\u2026",
+    "message": "Pśecej wócyniś w…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Sed\u0142o p\u015becej w kontejnerje w\u00f3cyni\u015b"
+    "message": "Sedło pśecej w kontejnerje wócyniś"
   },
   "openANewTabIn": {
-    "message": "Nowy rejtarik w\u00f3cyni\u015b w\u2026"
+    "message": "Nowy rejtarik wócyniś w…"
   },
   "openNewTabInThisContainer": {
-    "message": "Nowy rejtarik w to\u015b tom kontejnerje w\u00f3cyni\u015b"
+    "message": "Nowy rejtarik w toś tom kontejnerje wócyniś"
   },
   "openTabs": {
-    "message": "W\u00f3cynjone rejtariki",
+    "message": "Wócynjone rejtariki",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Rejtariki do nowego wokna p\u015besunu\u015b"
+    "message": "Rejtariki do nowego wokna pśesunuś"
   },
   "onboarding-1-header": {
-    "message": "L\u011bp\u0161a m\u00f3\u017enos\u0107 w\u0161ykno zastoja\u015b, co\u017e online cyni\u015bo"
+    "message": "Lěpša móžnosć wšykno zastojaś, což online cyniśo"
   },
   "onboarding-1-description": {
-    "message": "Wu\u017eywaj\u015bo kontejnery, aby nadawki organiz\u011browa\u0142, konta zastoja\u0142 a koncentr\u011bruj\u015bo se na to, co\u017e co\u015bo."
+    "message": "Wužywajśo kontejnery, aby nadawki organizěrował, konta zastojał a koncentrěrujśo se na to, což cośo."
   },
   "onboarding-2-header": {
-    "message": "Daj\u015bo kontejneram za sebje \u017a\u011b\u0142a\u015b."
+    "message": "Dajśo kontejneram za sebje źěłaś."
   },
   "onboarding-2-description": {
-    "message": "Funkcije ako kod\u011browanje z barwu a separatne kontejnerowe rejtariki wam pomagaju, w\u011bcy la\u017eko namaka\u015b, wa\u0161u zajmowanos\u0107 koncentr\u011browa\u015b a w\u00f3tchylenja minim\u011browa\u015b."
+    "message": "Funkcije ako koděrowanje z barwu a separatne kontejnerowe rejtariki wam pomagaju, wěcy lažko namakaś, wašu zajmowanosć koncentrěrowaś a wótchylenja miniměrowaś."
   },
   "onboarding-3-header": {
-    "message": "M\u011bstno za w\u0161ykno, a w\u0161ykno na jogo m\u011bstnje."
+    "message": "Městno za wšykno, a wšykno na jogo městnje."
   },
   "onboarding-3-description": {
-    "message": "Zachop\u015bo z kontejnerami, k\u00f3tare\u017e my smy nap\u00f3rali, abo nap\u00f3raj\u015bo sw\u00f3jske."
+    "message": "Zachopśo z kontejnerami, kótarež my smy napórali, abo napórajśo swójske."
   },
   "onboarding-4-header": {
-    "message": "W\u00f3cy\u0144\u015bo sed\u0142a p\u015becej w pominanych kontejnerach."
+    "message": "Wócyńśo sedła pśecej w pominanych kontejnerach."
   },
   "onboarding-4-description": {
-    "message": "Klikni\u015bo z p\u0161aweju tastu na kontejnerowy rejtarik, aby p\u00f3staji\u0142, a\u017e se sed\u0142o p\u015becej w kontejnerje w\u00f3cynja."
+    "message": "Klikniśo z pšaweju tastu na kontejnerowy rejtarik, aby póstajił, až se sedło pśecej w kontejnerje wócynja."
   },
   "onboarding-5-header": {
-    "message": "Kontejnerowe rejtariki, ga\u017e je trjeba\u015bo."
+    "message": "Kontejnerowe rejtariki, gaž je trjebaśo."
   },
   "onboarding-5-description": {
-    "message": "T\u0142oc\u0107o d\u0142ujko na t\u0142oca\u0161k Nowy rrjtark, aby nowy kontejnerowy rejtarik nap\u00f3ra\u0142."
+    "message": "Tłocćo dłujko na tłocašk Nowy rrjtark, aby nowy kontejnerowy rejtarik napórał."
   },
   "onboarding-6-header": {
-    "message": "Synchroniz\u011browanje kontejnerow jo n\u011bnto k dispoziciji!"
+    "message": "Synchronizěrowanje kontejnerow jo něnto k dispoziciji!"
   },
   "onboarding-6-description-2": {
-    "message": "Zm\u00f3\u017eni\u015bo synchronizaciju, aby kontejner a sed\u0142owe p\u015bipokazanja z ku\u017edym licad\u0142om \u017a\u011bli\u0142, k\u00f3tare\u017e je z wa\u0161ym kontom zw\u011bzane."
+    "message": "Zmóžniśo synchronizaciju, aby kontejner a sedłowe pśipokazanja z kuždym licadłom źělił, kótarež je z wašym kontom zwězane."
   },
   "onboarding-7-header-2": {
-    "message": "Trjeba\u015bo konto, aby synchroniz\u011browa\u0142."
+    "message": "Trjebaśo konto, aby synchronizěrował."
   },
   "onboarding-7-description-2": {
-    "message": "Klikni\u015bo na P\u015bizjawi\u015b, aby wobk\u0161u\u015bi\u0142, a\u017e wa\u0161o konto jo aktiwne."
+    "message": "Klikniśo na Pśizjawiś, aby wobkšuśił, až wašo konto jo aktiwne."
   },
   "onboarding-8-description": {
-    "message": "N\u011bnto kontejnery daju se do Mozilla VPN abo sw\u00f3jogo proksy integr\u011browa\u015b, aby w\u011bsty, priwatny zwisk nap\u00f3ra\u0142, k\u00f3tary\u017e wa\u0161u aktiwitu \u0161\u0107ita."
+    "message": "Něnto kontejnery daju se do Mozilla VPN abo swójogo proksy integrěrowaś, aby wěsty, priwatny zwisk napórał, kótaryž wašu aktiwitu šćita."
   },
   "oneHundredTabsHeader": {
     "message": "100 rejtarikow!"
   },
   "youHaveOpened": {
-    "message": "S\u0107o w\u00f3cyni\u0142 100 kontejnerowych rejtarikow."
+    "message": "Sćo wócynił 100 kontejnerowych rejtarikow."
   },
   "spreadTheWord": {
-    "message": "Jolic se wam kontejnery sp\u00f3dobaju, wulicuj\u015bo drugim w\u00f3 tom!"
+    "message": "Jolic se wam kontejnery spódobaju, wulicujśo drugim wó tom!"
   },
   "rate": {
-    "message": "P\u00f3g\u00f3dno\u015bi\u015b"
+    "message": "Pógódnośiś"
   },
   "share": {
-    "message": "\u0179\u011bli\u015b"
+    "message": "Źěliś"
   },
   "tweet": {
-    "message": "Twitrowa\u015b"
+    "message": "Twitrowaś"
   },
   "default": {
     "message": "Standard"
   },
   "manageContainers": {
-    "message": "Kontejnery zastoja\u015b"
+    "message": "Kontejnery zastojaś"
   },
   "newContainer": {
     "message": "Nowy kontejner"
   },
   "hideThisContainer": {
-    "message": "To\u015b ten kontejner schowa\u015b"
+    "message": "Toś ten kontejner schowaś"
   },
   "showThisContainer": {
-    "message": "To\u015b ten kontejner pokaza\u015b"
+    "message": "Toś ten kontejner pokazaś"
   },
   "removeThisContainer": {
-    "message": "To\u015b ten kontejner w\u00f3tw\u00f3no\u017ae\u015b"
+    "message": "Toś ten kontejner wótwónoźeś"
   },
   "removeThisContainerConfirmation": {
-    "message": "Co\u015bo to\u015b ten kontejner nap\u0161awdu w\u00f3tw\u00f3no\u017ae\u015b?"
+    "message": "Cośo toś ten kontejner napšawdu wótwónoźeś?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "Kontejnerowy sk\u0142adowak wuprozni\u015b"
+    "message": "Kontejnerowy składowak wuprozniś"
   },
   "clearContainerStorageConfirmation": {
-    "message": "Co\u015bo nap\u0161awdu cookieje la\u0161owa\u015b a sk\u0142adowak za to\u015b ten kontejner prozni\u015b?"
+    "message": "Cośo napšawdu cookieje lašowaś a składowak za toś ten kontejner prozniś?"
   },
   "cancel": {
-    "message": "P\u015betergnu\u015b"
+    "message": "Pśetergnuś"
   },
   "ok": {
-    "message": "W p\u00f3r\u011b\u017ae"
+    "message": "W pórěźe"
   },
   "sitesAssignedToThisContainer": {
-    "message": "Sed\u0142a, k\u00f3tare\u017e su se p\u015bipokazali to\u015b tomu kontejneroju"
+    "message": "Sedła, kótarež su se pśipokazali toś tomu kontejneroju"
   },
   "options": {
     "message": "Nastajenja"
   },
   "name": {
-    "message": "M\u011b"
+    "message": "Mě"
   },
   "color": {
     "message": "Barwa"
@@ -151,34 +151,34 @@
     "message": "Symbol"
   },
   "limitToDesignatedSites": {
-    "message": "Na w\u011bste sed\u0142a wobgranicowa\u015b"
+    "message": "Na wěste sedła wobgranicowaś"
   },
   "deleteThisContainer": {
-    "message": "To\u015b ten kontejner la\u0161owa\u015b"
+    "message": "Toś ten kontejner lašowaś"
   },
   "manageSiteList": {
-    "message": "Lis\u0107inu sed\u0142ow zastoja\u015b\u2026"
+    "message": "Lisćinu sedłow zastojaś…"
   },
   "manageThisContainer": {
-    "message": "To\u015b ten kontejner zastoja\u015b"
+    "message": "Toś ten kontejner zastojaś"
   },
   "containers": {
     "message": "Kontejnery"
   },
   "done": {
-    "message": "Dok\u00f3\u0144cony"
+    "message": "Dokóńcony"
   },
   "getStarted": {
-    "message": "Pr\u011bdne k\u0161ace"
+    "message": "Prědne kšace"
   },
   "signIn": {
-    "message": "P\u015bizjawi\u015b"
+    "message": "Pśizjawiś"
   },
   "notNow": {
-    "message": "Nic n\u011bnto"
+    "message": "Nic něnto"
   },
   "startSyncing": {
-    "message": "Synchronizaciju zachopi\u015b"
+    "message": "Synchronizaciju zachopiś"
   },
   "info": {
     "message": "Info",
@@ -188,16 +188,16 @@
     "message": "Dalej"
   },
   "openThisSiteConfirmation": {
-    "message": "To\u015b to syd\u0142o we wa\u0161om p\u015bipokazanem kontejnerje w\u00f3cyni\u015b?"
+    "message": "Toś to sydło we wašom pśipokazanem kontejnerje wócyniś?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "Co\u015bo hy\u0161\u0107i w aktualnem kontejnerje w\u00f3cyni\u015b?"
+    "message": "Cośo hyšći w aktualnem kontejnerje wócyniś?"
   },
   "rememberMyDecision": {
-    "message": "M\u00f3j rozsud za to\u015b to sed\u0142o se spomnje\u015b"
+    "message": "Mój rozsud za toś to sedło se spomnjeś"
   },
   "optionalPermissions": {
-    "message": "Opcionalne p\u0161awa:"
+    "message": "Opcionalne pšawa:"
   },
   "keyboardShortCuts": {
     "message": "Tastowe skrotconki:"
@@ -206,49 +206,49 @@
     "message": "Rozpokazanje"
   },
   "resetOnboardingPanels": {
-    "message": "Rozpokaza\u0144ske wokna sl\u011bdk staji\u015b"
+    "message": "Rozpokazańske wokna slědk stajiś"
   },
   "onboardingToggle": {
-    "message": "P\u015be\u0161altuj\u015bo to, aby rozpokaza\u0144ske wokna zasej wi\u017ae\u0142."
+    "message": "Pśešaltujśo to, aby rozpokazańske wokna zasej wiźeł."
   },
   "tabBehavior": {
-    "message": "Rejtarikowe za\u017aar\u017eanje:"
+    "message": "Rejtarikowe zaźaržanje:"
   },
   "enableBookMarkMenus": {
-    "message": "Menije cyta\u0144skich znamjenjow zm\u00f3\u017eni\u015b"
+    "message": "Menije cytańskich znamjenjow zmóžniś"
   },
   "sync": {
     "message": "Synchronizacija:"
   },
   "enableSync": {
-    "message": "Synchroniz\u011browanje zm\u00f3\u017eni\u015b"
+    "message": "Synchronizěrowanje zmóžniś"
   },
   "enableBookMarkMenusDescription": {
-    "message": "Z to\u015b tym nastajenim m\u00f3\u017eo\u015bo cyta\u0144ske znamjenja abo zar\u011bdnik z cyta\u0144skimi znamjenjami w kontejnerje w\u00f3cyni\u015b."
+    "message": "Z toś tym nastajenim móžośo cytańske znamjenja abo zarědnik z cytańskimi znamjenjami w kontejnerje wócyniś."
   },
   "enableSyncDescription": {
-    "message": "Z to\u015b tym nastajenim m\u00f3\u017eo\u015bo sw\u00f3je kontejnery a sed\u0142owe p\u015bipokazanja p\u015bez r\u011bdy synchroniz\u011browa\u015b."
+    "message": "Z toś tym nastajenim móžośo swóje kontejnery a sedłowe pśipokazanja pśez rědy synchronizěrowaś."
   },
   "syncExclude": {
     "message": "Wuzamknjenje kontejnerow"
   },
   "syncExcludePlaceholder": {
-    "message": "Regularny wuraz zasaj\u017ai\u015b"
+    "message": "Regularny wuraz zasajźiś"
   },
   "syncExcludeDescription": {
-    "message": "Wuwzej\u015bo kontejnery w\u00f3t synchronizacije, ga\u017e jich m\u011b p\u00f3danemu regularnemu wurazoju w\u00f3tpow\u011bdujo, k\u00f3tary\u017e mjazy wjeliko- a ma\u0142opisanim njerozeznawa."
+    "message": "Wuwzejśo kontejnery wót synchronizacije, gaž jich mě pódanemu regularnemu wurazoju wótpowědujo, kótaryž mjazy wjeliko- a małopisanim njerozeznawa."
   },
   "replaceTab": {
-    "message": "Rejtarik wum\u011bni\u015b, m\u011bsto aby se nowy nap\u00f3ra\u0142"
+    "message": "Rejtarik wuměniś, město aby se nowy napórał"
   },
   "replaceTabDescription": {
-    "message": "Wum\u011b\u0144\u015bo aktualny rejtarik, jolic se bok, k\u00f3tary\u017e jo sr p\u015bipokaza\u0142 drugemu kontejneroju, w\u00f3cynja (m\u011bsto togo, aby aktualny rejtarik w\u00f3cynjony w\u00f3stawa\u0142). W\u00f3cynjanje rejtarikow ze srjej\u017aneju tastu my\u0161ki se njewobwliwujo."
+    "message": "Wuměńśo aktualny rejtarik, jolic se bok, kótaryž jo sr pśipokazał drugemu kontejneroju, wócynja (město togo, aby aktualny rejtarik wócynjony wóstawał). Wócynjanje rejtarikow ze srjejźneju tastu myški se njewobwliwujo."
   },
   "editWhichContainer": {
-    "message": "Nastaj\u015bo, k\u00f3tary kontejner se w\u00f3cynja, ga\u017e se numer\u011browane tastowe skrotconki wu\u017eywaju."
+    "message": "Nastajśo, kótary kontejner se wócynja, gaž se numerěrowane tastowe skrotconki wužywaju."
   },
   "keyboardShortCut": {
-    "message": "Kontejner, k\u00f3tary\u017e ma se z tastoweju skrotconku $keyId$ w\u00f3cyni\u015b",
+    "message": "Kontejner, kótaryž ma se z tastoweju skrotconku $keyId$ wócyniś",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Nawigaciju wobk\u0161u\u015bi\u015b",
+    "message": "Multi-Account Containers - Nawigaciju wobkšuśiś",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "W kontejnerje $containerName$ w\u00f3cyni\u015b",
+    "message": "W kontejnerje $containerName$ wócyniś",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "W aktualnem rejtariku w\u00f3cyni\u015b",
+    "message": "W aktualnem rejtariku wócyniś",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "S\u0107o p\u0161osy\u0142 Firefox, $containerName$ p\u015becej za to\u015b to sed\u0142o w\u00f3cyni\u015b:",
+    "message": "Sćo pšosył Firefox, $containerName$ pśecej za toś to sedło wócyniś:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,126 +280,126 @@
     }
   },
   "chooseLocation": {
-    "message": "Stojni\u0161\u0107o wubra\u015b",
+    "message": "Stojnišćo wubraś",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "Schowa\u015b"
+    "message": "Schowaś"
   },
   "show": {
-    "message": "Pokaza\u015b"
+    "message": "Pokazaś"
   },
   "protectYourContainers": {
-    "message": "\u0160\u0107itaj\u015bo sw\u00f3je kontejnery z Mozilla VPN"
+    "message": "Šćitajśo swóje kontejnery z Mozilla VPN"
   },
   "protectThisContainer": {
-    "message": "\u0160\u0107itaj\u015bo to\u015b ten kontejner z Mozilla VPN"
+    "message": "Šćitajśo toś ten kontejner z Mozilla VPN"
   },
   "advancedProxySettings": {
-    "message": "Roz\u0161yrjone proksy-nastajenja"
+    "message": "Rozšyrjone proksy-nastajenja"
   },
   "proxyInputLabel": {
-    "message": "Sw\u00f3jski proksy zap\u00f3da\u015b"
+    "message": "Swójski proksy zapódaś"
   },
   "useCustomLocation": {
-    "message": "Wu\u017eywaj\u015bo sw\u00f3jske stojni\u0161\u0107o za to\u015b ten kontejner"
+    "message": "Wužywajśo swójske stojnišćo za toś ten kontejner"
   },
   "clearproxylabel": {
-    "message": "Proksy la\u0161owa\u015b"
+    "message": "Proksy lašowaś"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN jo zm\u00f3\u017enjony"
+    "message": "Mozilla VPN jo zmóžnjony"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN jo znjem\u00f3\u017enjony"
+    "message": "Mozilla VPN jo znjemóžnjony"
   },
   "invalidProxyAlert": {
-    "message": "P\u0161osym zap\u00f3daj\u015bo p\u0142a\u015biwy proksy-URL"
+    "message": "Pšosym zapódajśo płaśiwy proksy-URL"
   },
   "mozillaVpnMustBeOn": {
-    "message": "Mozilla VPN musy zm\u00f3\u017enjony by\u015b, aby m\u00f3ga\u0142 to\u015b tu funkciju wu\u017eywa\u015b."
+    "message": "Mozilla VPN musy zmóžnjony byś, aby mógał toś tu funkciju wužywaś."
   },
   "learnMore": {
-    "message": "Dal\u0161ne informacije"
+    "message": "Dalšne informacije"
   },
   "proxyNowAvailable": {
-    "message": "N\u011bnto z Mozilla VPN a roz\u0161yrjonymi proksy-nastajenjami"
+    "message": "Něnto z Mozilla VPN a rozšyrjonymi proksy-nastajenjami"
   },
   "applyToContainer": {
-    "message": "Na kontejner na\u0142o\u017ey\u015b"
+    "message": "Na kontejner nałožyś"
   },
   "tooltipWarning": {
-    "message": "To\u015b ten kontejner jo tak nastajony, a\u017e proksy Mozilla VPN wu\u017eywa, ale Mozilla VPN njejo zm\u00f3\u017enjony. Zm\u00f3\u017eni\u015bo Mozilla VPN, aby to\u015b ten kontejner wu\u017eywa\u0142."
+    "message": "Toś ten kontejner jo tak nastajony, až proksy Mozilla VPN wužywa, ale Mozilla VPN njejo zmóžnjony. Zmóžniśo Mozilla VPN, aby toś ten kontejner wužywał."
   },
   "getMozillaVpn": {
-    "message": "Mozilla VPN wobstara\u015b"
+    "message": "Mozilla VPN wobstaraś"
   },
   "integratewithmozillavpn": {
-    "message": "Integr\u011bruj\u015bo sw\u00f3je kontejnery z Mozilla VPN"
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN a proksy-p\u0161awa",
+    "message": "Mozilla VPN a proksy-pšawa",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "Roz\u0161yrjenjeju zm\u00f3\u017eni\u015b, aby pow\u011bs\u0107i z drugimi programami ako Firefox wum\u011bni\u0142o",
+    "message": "Rozšyrjenjeju zmóžniś, aby powěsći z drugimi programami ako Firefox wuměniło",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "To\u015b to nastajenje roz\u0161yrjenjeju zm\u00f3\u017enja, pow\u011bs\u0107i z klientom Mozilla VPN wum\u011bni\u015b a jo trjebne, aby integraciske funkcije Mozilla VPN funkcion\u011browali.",
+    "message": "Toś to nastajenje rozšyrjenjeju zmóžnja, powěsći z klientom Mozilla VPN wuměniś a jo trjebne, aby integraciske funkcije Mozilla VPN funkcioněrowali.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "Roz\u0161yrjenjeju zm\u00f3\u017eni\u015b, aby proksy-nastajenja w\u00f3\u017ai\u0142o",
+    "message": "Rozšyrjenjeju zmóžniś, aby proksy-nastajenja wóźiło",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "To wam zm\u00f3\u017enja, roz\u0161yrjone proksy-nastajenja wu\u017eywa\u015b a integraciske funkcije Mozilla VPN zm\u00f3\u017eni\u015b.",
+    "message": "To wam zmóžnja, rozšyrjone proksy-nastajenja wužywaś a integraciske funkcije Mozilla VPN zmóžniś.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "To\u015b ta funkcija se p\u015bidatne p\u0161awo pomina, aby funkcion\u011browa\u0142a. P\u0161awa daju se ku\u017edy cas na boku nastajenjow znjem\u00f3\u017eni\u015b.",
+    "message": "Toś ta funkcija se pśidatne pšawo pomina, aby funkcioněrowała. Pšawa daju se kuždy cas na boku nastajenjow znjemóžniś.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Integracija z Mozilla VPN se abonement a p\u015bidatne p\u0161awa pomina, aby funkcion\u011browa\u0142a."
+    "message": "Integracija z Mozilla VPN se abonement a pśidatne pšawa pomina, aby funkcioněrowała."
   },
   "enable": {
-    "message": "Zm\u00f3\u017eni\u015b",
+    "message": "Zmóžniś",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "Integr\u011bruj\u015bo sw\u00f3je kontejnery z Mozilla VPN"
+    "message": "Integrěrujśo swóje kontejnery z Mozilla VPN"
   },
   "theme": {
     "message": "Drastwa:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Drastwu wubra\u015b",
+    "message": "Drastwu wubraś",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "Awtomatiski namaka\u015b (standard)",
+    "message": "Awtomatiski namakaś (standard)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "Sw\u011bt\u0142y",
+    "message": "Swětły",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "\u015aamny",
+    "message": "Śamny",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "Kontejnerowu lis\u0107inu p\u00f3 mjenju filtrowa\u015b:",
+    "message": "Kontejnerowu lisćinu pó mjenju filtrowaś:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "Kontejnerowe m\u011b pyta\u015b"
+    "message": "Kontejnerowe mě pytaś"
   },
   "imageAltContainerInfo": {
-    "message": "Informacije w\u00f3 kontejnerje",
+    "message": "Informacije wó kontejnerje",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
@@ -407,7 +407,7 @@
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "Kontejnerowy wobce\u0155k w\u00f3cyni\u015b",
+    "message": "Kontejnerowy wobceŕk wócyniś",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Cyta\u0144ske znamje w nowem kontejnerowem rejtariku w\u00f3cyni\u015b"
+    "message": "Cytańske znamje w nowem kontejnerowem rejtariku wócyniś"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "Cookieje za to\u015b to sed\u0142o la\u0161owa\u015b",
+    "message": "Cookieje za toś to sedło lašowaś",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "To\u015b to sed\u0142o w\u00f3tw\u00f3no\u017ae\u015b",
+    "message": "Toś to sedło wótwónoźeś",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "Sk\u0142adowak a cookieje la\u0161owa\u015b",
+    "message": "Składowak a cookieje lašowaś",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "Cookieje za $siteName$ su se wusp\u011b\u0161nje wula\u0161owali",
+    "message": "Cookieje za $siteName$ su se wuspěšnje wulašowali",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "Cookieje njejsu dali se za $siteName$ wula\u0161owa\u015b",
+    "message": "Cookieje njejsu dali se za $siteName$ wulašowaś",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "Sk\u0142adowak a cookieje $containerName$ su se wula\u0161owali.",
+    "message": "Składowak a cookieje $containerName$ su se wulašowali.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

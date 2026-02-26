@@ -1,254 +1,254 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0dd9\u0db1\u0dca \u0d94\u0db6\u0d9c\u0dda \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0d9a\u0da7\u0dba\u0dd4\u0dad\u0dd4\u0dc0\u0dbd \u0dc3\u0dd2\u0dba\u0dc5\u0dd4\u0db8 \u0d9a\u0ddc\u0da7\u0dc3\u0dca \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0dad\u0dd4\u0dc5 \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba. \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad \u0dc3\u0dcf\u0db4\u0dca\u0db4\u0dd4 \u0dc3\u0dc0\u0dcf\u0dbb\u0dd2, \u0da0\u0dcf\u0dbb\u0dd2\u0d9a\u0dcf \u0dc3\u0dd0\u0dbd\u0dc3\u0dd4\u0db8\u0dca, \u0dc4\u0ddd \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dcf\u0dbd \u0dc0\u0dd2-\u0dad\u0dd0\u0db4\u0dd0\u0dbd\u0dca \u0db4\u0dbb\u0dd3\u0d9a\u0dca\u200d\u0dc2\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d86\u0daf\u0dd3 \u2014 \u0dc0\u0dd2\u0dc0\u0dd2\u0db0 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc4\u0db3\u0dd4\u0db1\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d85\u0db7\u0dd2\u0dbb\u0dd4\u0da0\u0dd2 \u0db1\u0db8\u0dca\u0db4\u0dad\u0dca \u0dc3\u0dc4 \u0dc0\u0dbb\u0dca\u0dab-\u0d9a\u0dda\u0dad\u0dd2\u0dad \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0dba\u0ddc\u0daf\u0dcf \u0d9c\u0db1\u0dca\u0db1.",
+    "message": "Multi-Account Containers භාවිතයෙන් ඔබගේ මාර්ගගත කටයුතුවල සියළුම කොටස් විවිධ පටිති තුළ තබා ගැනීමට හැකිය. මාර්ගගත සාප්පු සවාරි, චාරිකා සැලසුම්, හෝ කාර්යාල වි-තැපැල් පරීක්‍ෂා කිරීමට ආදී — විවිධ ක්‍රියාකාරකම් පහසුවෙන් හඳුනා ගැනීමට අභිරුචි නම්පත් සහ වර්ණ-කේතිත පටිති යොදා ගන්න.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "\u0db8\u0dd9\u0dc4\u0dd2 \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad\u0d9a\u0dca \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u2026",
+    "message": "මෙහි පටිත්තක් අරින්න…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "\u0db8\u0dd9\u0dc4\u0dd2 \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0dba\u0dc5\u0dd2 \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u2026",
+    "message": "මෙහි අඩවිය යළි අරින්න…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0d85\u0db1\u0dd4\u0dc0 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1",
+    "message": "අඩංගුවට අනුව පෙන්වන්න",
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "\u0d85\u0da9\u0dc0\u0dd2\u0dba \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 \u0db8\u0dd9\u0dc4\u0dd2 \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u2026",
+    "message": "අඩවිය සැමවිට මෙහි අරින්න…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "\u0db8\u0dd9\u0dc4\u0dd2 \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u2026",
+    "message": "මෙහි සැමවිට අරින්න…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "\u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1"
+    "message": "සැමවිට අඩංගුව තුළ අඩවිය අරින්න"
   },
   "openANewTabIn": {
-    "message": "\u0db8\u0dd9\u0dc4\u0dd2 \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad\u0d9a\u0dca \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u2026"
+    "message": "මෙහි පටිත්තක් අරින්න…"
   },
   "openNewTabInThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dd9\u0dc4\u0dd2 \u0db1\u0dc0 \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුවෙහි නව පටිත්ත අරින්න"
   },
   "openTabs": {
-    "message": "\u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0db4\u0da7\u0dd2\u0dad\u0dd2",
+    "message": "විවෘත පටිති",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "\u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0db1\u0dc0 \u0d9a\u0dc0\u0dd4\u0dc5\u0dd4\u0dc0\u0d9a\u0da7 \u0d9c\u0dd9\u0db1 \u0dba\u0db1\u0dca\u0db1"
+    "message": "පටිති නව කවුළුවකට ගෙන යන්න"
   },
   "onboarding-1-header": {
-    "message": "\u0d94\u0db6 \u0db8\u0dcf\u0dbb\u0dca\u0d9c\u0d9c\u0dad\u0dc0 \u0dc3\u0dd2\u0daf\u0dd4 \u0d9a\u0dbb\u0db1 \u0dc3\u0dd2\u0dba\u0dc5\u0dd4 \u0daf\u0dd1 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0dc4\u0ddc\u0db3 \u0d9a\u0dca\u200d\u0dbb\u0db8\u0dba\u0d9a\u0dca"
+    "message": "ඔබ මාර්ගගතව සිදු කරන සියළු දෑ කළමනාකරණයට හොඳ ක්‍රමයක්"
   },
   "onboarding-1-description": {
-    "message": "\u0d9a\u0dcf\u0dbb\u0dca\u0dba \u0dc3\u0d82\u0dc0\u0dd2\u0db0\u0dcf\u0db1\u0dba\u0da7, \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0dca \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u0da7 \u0dc3\u0dc4 \u0d94\u0db6\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dad\u0dd0\u0db1\u0d9a\u0da7 \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1."
+    "message": "කාර්ය සංවිධානයට, ගිණුම් කළමනාකරණයට සහ ඔබට අවශ්‍ය තැනකට අවධානය යොමු කිරීමට අඩංගු භාවිතා කරන්න."
   },
   "onboarding-2-header": {
-    "message": "\u0d94\u0db6\u0d9c\u0dda \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1\u0dba\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dba\u0ddc\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1."
+    "message": "ඔබගේ ප්‍රයෝජනයට අඩංගු යොදාගන්න."
   },
   "onboarding-2-description": {
-    "message": "\u0dc0\u0dbb\u0dca\u0dab-\u0d9a\u0dda\u0dad\u0db1\u0dba \u0dc3\u0dc4 \u0db7\u0dd2\u0db1\u0dca\u0db1 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc0\u0dd0\u0db1\u0dd2 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c \u0d94\u0db6\u0da7 \u0db6\u0ddd\u0dc4\u0ddd \u0daf\u0dd1 \u0db4\u0dc4\u0dc3\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0dc3\u0ddc\u0dba\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7, \u0d9a\u0dcf\u0dbb\u0dca\u0dba\u0dba\u0da7 \u0dc3\u0dd2\u0dad \u0dba\u0ddc\u0db8\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc4\u0dcf \u0d85\u0dc0\u0db0\u0dcf\u0db1\u0dba\u0da7 \u0db6\u0dcf\u0db0\u0dcf \u0dc0\u0dd3\u0db8 \u0d85\u0dc0\u0db8 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d8b\u0db4\u0d9a\u0dcf\u0dbb\u0dd3 \u0dc0\u0dda."
+    "message": "වර්ණ-කේතනය සහ භින්න පටිති අඩංගු වැනි විශේෂාංග ඔබට බෝහෝ දෑ පහසුවෙන් සොයා ගැනීමට, කාර්යයට සිත යොමු කිරීමට හා අවධානයට බාධා වීම අවම කිරීමට උපකාරී වේ."
   },
   "onboarding-3-header": {
-    "message": "\u0dc3\u0dd1\u0db8 \u0daf\u0dd9\u0dba\u0d9a\u0dca\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca, \u0dc3\u0dc4 \u0dc3\u0dd2\u0dba\u0dbd\u0dca\u0dbd \u0d91\u0db8 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0dd9\u0dc4\u0dd2."
+    "message": "සෑම දෙයක්ම සඳහා ස්ථානයක්, සහ සියල්ල එම ස්ථානයෙහි."
   },
   "onboarding-3-description": {
-    "message": "\u0dc3\u0dcf\u0daf\u0dcf \u0dad\u0dd2\u0db6\u0dd9\u0db1 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc3\u0db8\u0d9f \u0d85\u0dbb\u0db9\u0db1\u0dca\u0db1, \u0dc4\u0ddc\u0dca \u0d94\u0db6\u0db8 \u0dc3\u0dcf\u0daf\u0db1\u0dca\u0db1."
+    "message": "සාදා තිබෙන අඩංගු සමඟ අරඹන්න, හෝ ඔබම සාදන්න."
   },
   "onboarding-4-header": {
-    "message": "\u0d94\u0db6\u0da7 \u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dbd \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 \u0d85\u0da9\u0dc0\u0dd2 \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1."
+    "message": "ඔබට වුවමනා අඩංගුවල සැමවිට අඩවි අරින්න."
   },
   "onboarding-4-description": {
-    "message": "\u0d85\u0da9\u0dc0\u0dd2\u0dba\u0d9a\u0dca \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dd3\u0db8\u0da7 \u0dc3\u0dd0\u0d9a\u0dc3\u0dd3\u0db8 \u0dc3\u0db3\u0dc4\u0dcf \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a\u0dca \u0d87\u0dad\u0dd4\u0dc5\u0dad \u0daf\u0d9a\u0dd4\u0dab\u0dd2\u0db1\u0dca \u0d94\u0db6\u0db1\u0dca\u0db1."
+    "message": "අඩවියක් සැමවිට අඩංගුව තුළ විවෘත වීමට සැකසීම සඳහා පටිති අඩංගුවක් ඇතුළත දකුණින් ඔබන්න."
   },
   "onboarding-5-header": {
-    "message": "\u0d94\u0db6\u0da7 \u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf \u0dc0\u0dd2\u0da7 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a\u0da7 \u0daf\u0db8\u0db1\u0dca\u0db1."
+    "message": "ඔබට වුවමනා විට පටිති අඩංගුවකට දමන්න."
   },
   "onboarding-5-description": {
-    "message": "\u0db1\u0dc0 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a\u0dca \u0dc3\u0dd1\u0daf\u0dd3\u0db8\u0da7 \u0db1\u0dc0 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0db6\u0ddc\u0dad\u0dca\u0dad\u0db8 \u0db8\u0ddc\u0dc4\u0ddc\u0dad\u0d9a\u0dca \u0d94\u0db6\u0db1\u0dca\u0db1."
+    "message": "නව පටිති අඩංගුවක් සෑදීමට නව පටිති බොත්තම මොහොතක් ඔබන්න."
   },
   "onboarding-6-header": {
-    "message": "\u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad \u0db4\u0dc4\u0dc3\u0dd4\u0d9a\u0db8 \u0daf\u0dd0\u0db1\u0dca \u0dad\u0dd2\u0db6\u0dda!"
+    "message": "පටිති අඩංගු සමමුහූර්ත පහසුකම දැන් තිබේ!"
   },
   "onboarding-6-description-2": {
-    "message": "\u0d94\u0db6\u0d9c\u0dda \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0da7 \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u0db0\u0dd2\u0dad \u0d95\u0db1\u0dd1\u0db8 \u0db4\u0dbb\u0dd2\u0d9c\u0dab\u0d9a\u0dba\u0d9a\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc3\u0dc4 \u0d85\u0da9\u0dc0\u0dd2 \u0db4\u0dd0\u0dc0\u0dbb\u0dd3\u0db8\u0dca \u0db6\u0dd9\u0daf\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad\u0dba \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1."
+    "message": "ඔබගේ ගිණුමට සම්බන්ධිත ඕනෑම පරිගණකයක් සමඟ අඩංගු සහ අඩවි පැවරීම් බෙදා ගැනීමට සමමුහූර්තය සක්‍රිය කරන්න."
   },
   "onboarding-7-header-2": {
-    "message": "\u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad\u0dba\u0da7 \u0d9c\u0dd2\u0dab\u0dd4\u0db8\u0d9a\u0dca \u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf\u0dba."
+    "message": "සමමුහූර්තයට ගිණුමක් වුවමනාය."
   },
   "onboarding-7-description-2": {
-    "message": "\u0d94\u0db6\u0d9c\u0dda \u0d9c\u0dd2\u0dab\u0dd4\u0db8 \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0db6\u0dc0 \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db4\u0dd2\u0dc0\u0dd2\u0dc3\u0dd9\u0db1\u0dca\u0db1 \u0d94\u0db6\u0db1\u0dca\u0db1."
+    "message": "ඔබගේ ගිණුම සක්‍රිය බව තහවුරු කිරීමට පිවිසෙන්න ඔබන්න."
   },
   "onboarding-8-description": {
-    "message": "\u0daf\u0dd0\u0db1\u0dca \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc3\u0db8\u0d9f \u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc4\u0ddd \u0d94\u0db6\u0d9c\u0dda\u0db8 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dba\u0d9a\u0dca \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dbb \u0dc3\u0dd2\u0dba\u0dc5\u0dd4 \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9a\u0dcf\u0dbb\u0d9a\u0db8\u0dca \u0dc3\u0dd4\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dd2\u0dad \u0d9a\u0dbb\u0db1 \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dd2\u0dad, \u0db4\u0dde\u0daf\u0dca\u0d9c\u0dbd\u0dd2\u0d9a \u0dc3\u0db8\u0dca\u0db6\u0db1\u0dca\u200d\u0db0\u0dad\u0dcf\u0dc0\u0d9a\u0dca \u0dc3\u0dd1\u0daf\u0dd3\u0db8\u0da7 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba."
+    "message": "දැන් අඩංගු සමඟ මොසිල්ලා වීපීඑන් හෝ ඔබගේම ප්‍රතියුක්තයක් ඒකාබද්ධ කර සියළු ක්‍රියාකාරකම් සුරක්‍ෂිත කරන ආරක්‍ෂිත, පෞද්ගලික සම්බන්‍ධතාවක් සෑදීමට හැකිය."
   },
   "oneHundredTabsHeader": {
-    "message": "\u0db4\u0da7\u0dd2\u0dad\u0dd2 100!"
+    "message": "පටිති 100!"
   },
   "youHaveOpened": {
-    "message": "\u0d94\u0db6 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0db4\u0da7\u0dd2\u0dad\u0dd2 100 \u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb \u0d87\u0dad."
+    "message": "ඔබ අඩංගු පටිති 100 ක් විවෘත කර ඇත."
   },
   "spreadTheWord": {
-    "message": "\u0d94\u0db6\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dba\u0ddd\u0da2\u0db1\u0dc0\u0dad\u0dca \u0db1\u0db8\u0dca, \u0d85\u0db1\u0dca \u0d85\u0dba \u0d85\u0dad\u0dbb \u0db6\u0dd9\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1!"
+    "message": "ඔබට අඩංගු ප්‍රයෝජනවත් නම්, අන් අය අතර බෙදාගන්න!"
   },
   "rate": {
-    "message": "\u0d85\u0d9c\u0dba\u0db1\u0dca\u0db1"
+    "message": "අගයන්න"
   },
   "share": {
-    "message": "\u0db6\u0dd9\u0daf\u0dcf\u0d9c\u0db1\u0dca\u0db1"
+    "message": "බෙදාගන්න"
   },
   "tweet": {
-    "message": "\u0da7\u0dca\u0dc0\u0dd3\u0da7\u0dca"
+    "message": "ට්වීට්"
   },
   "default": {
-    "message": "\u0db4\u0dd9\u0dbb\u0db1\u0dd2\u0db8\u0dd2"
+    "message": "පෙරනිමි"
   },
   "manageContainers": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba"
+    "message": "අඩංගුව කළමනාකරණය"
   },
   "newContainer": {
-    "message": "\u0db1\u0dc0 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0"
+    "message": "නව අඩංගුව"
   },
   "hideThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dc3\u0d9f\u0dc0\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුව සඟවන්න"
   },
   "showThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුව පෙන්වන්න"
   },
   "removeThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුව ඉවත් කරන්න"
   },
   "removeThisContainerConfirmation": {
-    "message": "\u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0db6\u0dc0 \u0dc0\u0dd2\u0dc1\u0dca\u0dc0\u0dcf\u0dc3\u0daf?"
+    "message": "ඔබට මෙම අඩංගුව ඉවත් කිරීමට අවශ්‍ය බව විශ්වාසද?"
   },
   "clearContainerStoragePanelTitle": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda \u0d86\u0da0\u0dba\u0db1\u0dba \u0db8\u0d9a\u0db1\u0dca\u0db1"
+    "message": "අඩංගුවේ ආචයනය මකන්න"
   },
   "clearContainerStorageConfirmation": {
-    "message": "\u0d94\u0db6\u0da7 \u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda \u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0dc3\u0dc4 \u0d86\u0da0\u0dba\u0db1\u0dba \u0db8\u0dd0\u0d9a\u0dd3\u0db8\u0da7 \u0dc0\u0dd4\u0dc0\u0db8\u0db1\u0dcf \u0daf?"
+    "message": "ඔබට මෙම අඩංගුවේ දත්තකඩ සහ ආචයනය මැකීමට වුවමනා ද?"
   },
   "cancel": {
-    "message": "\u0d85\u0dc0\u0dbd\u0d82\u0d9c\u0dd4"
+    "message": "අවලංගු"
   },
   "ok": {
-    "message": "\u0dc4\u0dbb\u0dd2"
+    "message": "හරි"
   },
   "sitesAssignedToThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0db4\u0dc0\u0dbb\u0dcf \u0d87\u0dad\u0dd2 \u0d85\u0da9\u0dc0\u0dd2"
+    "message": "මෙම අඩංගුවට පවරා ඇති අඩවි"
   },
   "options": {
-    "message": "\u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4"
+    "message": "විකල්ප"
   },
   "name": {
-    "message": "\u0db1\u0db8"
+    "message": "නම"
   },
   "color": {
-    "message": "\u0dc0\u0dbb\u0dca\u0dab\u0dba"
+    "message": "වර්ණය"
   },
   "icon": {
-    "message": "\u0db1\u0dd2\u0dbb\u0dd6\u0db4\u0d9a\u0dba"
+    "message": "නිරූපකය"
   },
   "limitToDesignatedSites": {
-    "message": "\u0db1\u0db8\u0dca \u0d9a\u0dc5 \u0d85\u0da9\u0dc0\u0dd2 \u0dc3\u0db3\u0dc4\u0dcf \u0dc3\u0dd3\u0db8\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "නම් කළ අඩවි සඳහා සීමා කරන්න"
   },
   "deleteThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0db8\u0d9a\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුව මකන්න"
   },
   "manageSiteList": {
-    "message": "\u0d85\u0da9\u0dc0\u0dd2 \u0dbd\u0dda\u0d9b\u0db1\u0dba \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba\u2026"
+    "message": "අඩවි ලේඛනය කළමනාකරණය…"
   },
   "manageThisContainer": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0d9a\u0dc5\u0db8\u0db1\u0dcf\u0d9a\u0dbb\u0dab\u0dba"
+    "message": "මෙම අඩංගුව කළමනාකරණය"
   },
   "containers": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4"
+    "message": "අඩංගු"
   },
   "done": {
-    "message": "\u0d85\u0dc4\u0dc0\u0dbb\u0dba\u0dd2"
+    "message": "අහවරයි"
   },
   "getStarted": {
-    "message": "\u0db4\u0da7\u0db1\u0dca \u0d9c\u0db1\u0dca\u0db1"
+    "message": "පටන් ගන්න"
   },
   "signIn": {
-    "message": "\u0db4\u0dd2\u0dc0\u0dd2\u0dc3\u0dd9\u0db1\u0dca\u0db1"
+    "message": "පිවිසෙන්න"
   },
   "notNow": {
-    "message": "\u0daf\u0dd0\u0db1\u0dca \u0db1\u0ddc\u0dc0\u0dda"
+    "message": "දැන් නොවේ"
   },
   "startSyncing": {
-    "message": "\u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad\u0dba \u0d85\u0dbb\u0db9\u0db1\u0dca\u0db1"
+    "message": "සමමුහූර්තය අරඹන්න"
   },
   "info": {
-    "message": "\u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4",
+    "message": "තොරතුරු",
     "description": "Alternative text for the i icon in the toolbar icon pop-up"
   },
   "next": {
-    "message": "\u0d8a\u0dc5\u0d9f"
+    "message": "ඊළඟ"
   },
   "openThisSiteConfirmation": {
-    "message": "\u0db4\u0dc0\u0dbb\u0dcf \u0dad\u0dd2\u0db6\u0dd9\u0db1 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0db8\u0dd9\u0db8 \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1\u0daf?"
+    "message": "පවරා තිබෙන අඩංගුව තුළ මෙම අඩවිය අරින්නද?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
-    "message": "\u0d94\u0db6 \u0dad\u0dc0\u0db8\u0dad\u0dca \u0db8\u0dd9\u0db8 \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d9a\u0dd0\u0db8\u0dad\u0dd2\u0daf?"
+    "message": "ඔබ තවමත් මෙම වත්මන් අඩංගුව තුළ විවෘත කිරීමට කැමතිද?"
   },
   "rememberMyDecision": {
-    "message": "\u0d85\u0da9\u0dc0\u0dd2\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0dad\u0dd3\u0dbb\u0dab\u0dba \u0db8\u0dad\u0d9a \u0dad\u0db6\u0dcf \u0d9c\u0db1\u0dca\u0db1"
+    "message": "අඩවිය සඳහා තීරණය මතක තබා ගන්න"
   },
   "optionalPermissions": {
-    "message": "\u0dc0\u0dd2\u0d9a\u0dbd\u0dca\u0db4 \u0d85\u0dc0\u0dc3\u0dbb:"
+    "message": "විකල්ප අවසර:"
   },
   "keyboardShortCuts": {
-    "message": "\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd4\u0dc0\u0dbb\u0dd4 \u0d9a\u0dd9\u0da7\u0dd2\u0db8\u0d82:"
+    "message": "යතුරුපුවරු කෙටිමං:"
   },
   "onboarding": {
-    "message": "\u0d9c\u0ddc\u0da9\u0dc0\u0dd3\u0db8"
+    "message": "ගොඩවීම"
   },
   "resetOnboardingPanels": {
-    "message": "\u0d9c\u0ddc\u0da9\u0dc0\u0db1 \u0db8\u0dac\u0dbd \u0dba\u0dc5\u0dd2 \u0dc3\u0d9a\u0dc3\u0db1\u0dca\u0db1"
+    "message": "ගොඩවන මඬල යළි සකසන්න"
   },
   "onboardingToggle": {
-    "message": "\u0db4\u0da7\u0db1\u0dca \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0dda \u0db8\u0dac\u0dbd \u0daf\u0dd0\u0d9a\u0dd3\u0db8\u0da7 \u0db8\u0dd9\u0dba \u0d94\u0db6\u0db1\u0dca\u0db1."
+    "message": "පටන් ගැනීමේ මඬල දැකීමට මෙය ඔබන්න."
   },
   "tabBehavior": {
-    "message": "\u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0dc4\u0dd0\u0dc3\u0dd2\u0dbb\u0dd3\u0db8:"
+    "message": "පටිති හැසිරීම:"
   },
   "enableBookMarkMenus": {
-    "message": "\u0db4\u0ddc\u0dad\u0dca\u0dba\u0ddc\u0db8\u0dd4 \u0dc0\u0da7\u0dca\u0da7\u0ddd\u0dbb\u0dd4 \u0dc3\u0db6\u0dbd \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "පොත්යොමු වට්ටෝරු සබල කරන්න"
   },
   "sync": {
-    "message": "\u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad\u0dba:"
+    "message": "සමමුහූර්තය:"
   },
   "enableSync": {
-    "message": "\u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad\u0dba \u0dc3\u0db6\u0dbd \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "සමමුහූර්තය සබල කරන්න"
   },
   "enableBookMarkMenusDescription": {
-    "message": "\u0db8\u0dd9\u0db8 \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a\u0dca \u0dad\u0dd4\u0dc5 \u0db4\u0ddc\u0dad\u0dca \u0dba\u0ddc\u0db8\u0dd4\u0dc0\u0d9a\u0dca \u0dc4\u0ddd \u0db4\u0ddc\u0dad\u0dca\u0dba\u0ddc\u0db8\u0dd4 \u0db6\u0dc4\u0dcf\u0dbd\u0dd4\u0db8\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0dba\u0dd2."
+    "message": "මෙම සැකසුම මගින් අඩංගුවක් තුළ පොත් යොමුවක් හෝ පොත්යොමු බහාලුමක් විවෘත කිරීමට ඉඩ සලසයි."
   },
   "enableSyncDescription": {
-    "message": "\u0db8\u0dd9\u0db8 \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0d8b\u0db4\u0dcf\u0d82\u0d9c \u0dc4\u0dbb\u0dc4\u0dcf \u0d94\u0db6\u0d9c\u0dda \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dc3\u0dc4 \u0d85\u0da9\u0dc0\u0dd2 \u0db4\u0dd0\u0dc0\u0dbb\u0dd3\u0db8\u0dca \u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0daf\u0dd9\u0dba\u0dd2."
+    "message": "මෙම සැකසුම මගින් උපාංග හරහා ඔබගේ අඩංගු සහ අඩවි පැවරීම් සමමුහූර්ත කිරීමට ඉඩ දෙයි."
   },
   "syncExclude": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dc4\u0dd0\u0dbb\u0daf\u0dd0\u0db8\u0dd3\u0db8\u0dca"
+    "message": "අඩංගුව හැරදැමීම්"
   },
   "syncExcludePlaceholder": {
-    "message": "\u0db1\u0dd2\u0dad\u0dca\u200d\u0dba \u0dc0\u0dcf\u0d9a\u0dca\u200d\u0dba\u0dc0\u0dd2\u0db0\u0dd2\u0dba\u0dba\u0d9a\u0dca \u0dba\u0ddc\u0daf\u0db1\u0dca\u0db1"
+    "message": "නිත්‍ය වාක්‍යවිධියයක් යොදන්න"
   },
   "syncExcludeDescription": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dbd \u0db1\u0db8\u0dca \u0db1\u0dd2\u0dc1\u0dca\u0da0\u0dd2\u0dad \u0db1\u0dd2\u0dad\u0dca\u200d\u0dba \u0dc0\u0dcf\u0d9a\u0dca\u200d\u0dba \u0dc0\u0dd2\u0db0\u0dd2\u0dba\u0d9a\u0da7 \u0d85\u0da0\u0dda\u0dad\u0db1 \u0dc0\u0dd2\u0da7 \u0dc3\u0db8\u0db8\u0dd4\u0dc4\u0dd6\u0dbb\u0dca\u0dad \u0db1\u0ddc\u0d9a\u0dbb\u0db1\u0dca\u0db1."
+    "message": "අඩංගුවල නම් නිශ්චිත නිත්‍ය වාක්‍ය විධියකට අචේතන විට සමමුහූර්ත නොකරන්න."
   },
   "replaceTab": {
-    "message": "\u0d85\u0dc5\u0dd4\u0dad\u0dd2\u0db1\u0dca \u0db1\u0ddc\u0dc3\u0dcf\u0daf\u0dcf \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "අළුතින් නොසාදා පටිත්ත ප්‍රතිස්ථාපනය කරන්න"
   },
   "replaceTabDescription": {
-    "message": "\u0dc0\u0dd9\u0db1\u0dad\u0dca \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a\u0da7 \u0db4\u0dc0\u0dbb\u0dcf \u0dad\u0dd2\u0db6\u0dd9\u0db1 \u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0d9a\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dd4\u0dc0\u0dc4\u0ddc\u0dad\u0dca \u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db4\u0db1\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1 (\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad \u0dc0\u0dd2\u0dc0\u0dd8\u0dad\u0dc0 \u0dad\u0db6\u0dcf \u0d9c\u0dd0\u0db1\u0dd3\u0db8 \u0dc0\u0dd9\u0db1\u0dd4\u0dc0\u0da7). \u0db8\u0dd0\u0daf \u0db6\u0ddc\u0dad\u0dca\u0dad\u0db8 \u0d91\u0db6\u0dd3\u0db8\u0dd9\u0db1\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0db1 \u0db4\u0da7\u0dd2\u0dad\u0dd2 \u0dc3\u0db3\u0dc4\u0dcf \u0db6\u0dbd\u0db4\u0dcf\u0db1\u0dca\u0db1\u0dda \u0db1\u0dd0\u0dad."
+    "message": "වෙනත් අඩංගුවකට පවරා තිබෙන පිටුවක් විවෘත වුවහොත් වත්මන් පටිත්ත ප්‍රතිස්ථාපනය කරන්න (වත්මන් පටිත්ත විවෘතව තබා ගැනීම වෙනුවට). මැද බොත්තම එබීමෙන් විවෘත කරන පටිති සඳහා බලපාන්නේ නැත."
   },
   "editWhichContainer": {
-    "message": "\u0d85\u0d82\u0d9a\u0dd2\u0dad \u0d9a\u0dd9\u0da7\u0dd2\u0db8\u0d82 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1 \u0dc0\u0dd2\u0da7 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0db1 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dc3\u0d82\u0dc3\u0dca\u0d9a\u0dbb\u0dab\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1."
+    "message": "අංකිත කෙටිමං භාවිතා කරන විට විවෘත වන අඩංගුව සංස්කරණය කරන්න."
   },
   "keyboardShortCut": {
-    "message": "\u0dba\u0dad\u0dd4\u0dbb\u0dd4\u0db4\u0dd4\u0dc0\u0dbb\u0dd4 \u0d9a\u0dd9\u0da7\u0dd2\u0db8\u0d9f $keyId$ \u0db8\u0d9c\u0dd2\u0db1\u0dca \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0",
+    "message": "යතුරුපුවරු කෙටිමඟ $keyId$ මගින් විවෘත කිරීමට අඩංගුව",
     "placeholders": {
       "keyId": {
         "content": "$1"
@@ -256,11 +256,11 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers \u0dba\u0dcf\u0dad\u0dca\u200d\u0dbb\u0dab\u0dba \u0dad\u0dc4\u0dc0\u0dd4\u0dbb\u0dd4\u0dc0",
+    "message": "Multi-Account Containers යාත්‍රණය තහවුරුව",
     "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
   },
   "openInContainer": {
-    "message": "$containerName$ \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dad\u0dd4\u0dc5 \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1",
+    "message": "$containerName$ අඩංගුව තුළ අරින්න",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -268,11 +268,11 @@
     }
   },
   "openInNoContainer": {
-    "message": "\u0dc0\u0dad\u0dca\u0db8\u0db1\u0dca \u0db4\u0da7\u0dd2\u0dad\u0dca\u0dad\u0dd9\u0db1\u0dca \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1",
+    "message": "වත්මන් පටිත්තෙන් අරින්න",
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0dc3\u0dd0\u0db8\u0dc0\u0dd2\u0da7 $containerName$ \u0dc4\u0dd2 \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0d9a\u0dbb\u0db1 \u0dbd\u0dd9\u0dc3 \u0d94\u0db6 \u0dc6\u0dba\u0dbb\u0dca\u0dc6\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0dc0\u0dd9\u0dad \u0daf\u0db1\u0dca\u0dc0\u0dcf \u0d87\u0dad:",
+    "message": "මෙම අඩවිය සැමවිට $containerName$ හි විවෘත කරන ලෙස ඔබ ෆයර්ෆොක්ස් වෙත දන්වා ඇත:",
     "placeholders": {
       "containerName": {
         "content": "$1"
@@ -280,138 +280,138 @@
     }
   },
   "chooseLocation": {
-    "message": "\u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1",
+    "message": "ස්ථානය තෝරන්න",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
-    "message": "\u0dc3\u0d9f\u0dc0\u0db1\u0dca\u0db1"
+    "message": "සඟවන්න"
   },
   "show": {
-    "message": "\u0db4\u0dd9\u0db1\u0dca\u0dc0\u0db1\u0dca\u0db1"
+    "message": "පෙන්වන්න"
   },
   "protectYourContainers": {
-    "message": "\u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ආරක්‍ෂා කරන්න"
   },
   "protectThisContainer": {
-    "message": "\u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0d86\u0dbb\u0d9a\u0dca\u200d\u0dc2\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ මෙම අඩංගුව ආරක්‍ෂා කරන්න"
   },
   "advancedProxySettings": {
-    "message": "\u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8\u0dca"
+    "message": "වැඩිදුර ප්‍රතියුක්ත සැකසුම්"
   },
   "proxyInputLabel": {
-    "message": "\u0d85\u0db7\u0dd2\u0dbb\u0dd4\u0da0\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dba \u0dba\u0ddc\u0daf\u0db1\u0dca\u0db1"
+    "message": "අභිරුචි ප්‍රතියුක්තය යොදන්න"
   },
   "useCustomLocation": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0d85\u0db7\u0dd2\u0dbb\u0dd4\u0da0\u0dd2 \u0dc3\u0dca\u0dae\u0dcf\u0db1\u0dba\u0d9a\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මෙම අඩංගුව සඳහා අභිරුචි ස්ථානයක් භාවිතා කරන්න"
   },
   "clearproxylabel": {
-    "message": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dba \u0db8\u0d9a\u0db1\u0dca\u0db1"
+    "message": "ප්‍රතියුක්තය මකන්න"
   },
   "moz-vpn-connected": {
-    "message": "Mozilla VPN \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dba\u0dd2"
+    "message": "Mozilla VPN සක්‍රියයි"
   },
   "moz-vpn-disconnected": {
-    "message": "Mozilla VPN \u0d85\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dba\u0dd2"
+    "message": "Mozilla VPN අක්‍රියයි"
   },
   "invalidProxyAlert": {
-    "message": "\u0dc0\u0dbd\u0d82\u0d9c\u0dd4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0d92.\u0dc3.\u0db1\u0dd2. \u0dba\u0ddc\u0daf\u0db1\u0dca\u0db1"
+    "message": "වලංගු ප්‍රතියුක්ත ඒ.ස.නි. යොදන්න"
   },
   "mozillaVpnMustBeOn": {
-    "message": "\u0db8\u0dd9\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0da7 Mozilla VPN \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0d9a\u0dc5 \u0dba\u0dd4\u0dad\u0dd4\u0dba."
+    "message": "මෙම විශේෂාංගය භාවිතයට Mozilla VPN සක්‍රිය කළ යුතුය."
   },
   "learnMore": {
-    "message": "\u0dad\u0dc0 \u0daf\u0dd0\u0db1\u0d9c\u0db1\u0dca\u0db1"
+    "message": "තව දැනගන්න"
   },
   "proxyNowAvailable": {
-    "message": "\u0daf\u0dd0\u0db1\u0dca Mozilla VPN \u0dc3\u0dc4 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8\u0dca \u0dc3\u0db8\u0d9f"
+    "message": "දැන් Mozilla VPN සහ වැඩිදුර ප්‍රතියුක්ත සැකසුම් සමඟ"
   },
   "applyToContainer": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0da7 \u0dba\u0ddc\u0daf\u0db1\u0dca\u0db1"
+    "message": "අඩංගුවට යොදන්න"
   },
   "tooltipWarning": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad\u0dba \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0dc3\u0d9a\u0dc3\u0dcf \u0d87\u0dad, \u0db1\u0db8\u0dd4\u0dad\u0dca \u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0d9a\u0dbb \u0db1\u0dd0\u0dad. \u0db8\u0dd9\u0db8 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0 \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba \u0d9a\u0dbb\u0db1\u0dca\u0db1."
+    "message": "මෙම අඩංගුව මොසිල්ලා වීපීඑන් ප්‍රතියුක්තය භාවිතා කිරීමට සකසා ඇත, නමුත් මොසිල්ලා වීපීඑන් සක්‍රිය කර නැත. මෙම අඩංගුව භාවිතා කිරීමට මොසිල්ලා වීපීඑන් සක්‍රිය කරන්න."
   },
   "getMozillaVpn": {
-    "message": "Mozilla VPN \u0d9c\u0db1\u0dca\u0db1"
+    "message": "Mozilla VPN ගන්න"
   },
   "integratewithmozillavpn": {
-    "message": "\u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
   },
   "mozillaVpnAndProxyPermissionsTitle": {
-    "message": "Mozilla VPN \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0d85\u0dc0\u0dc3\u0dbb",
+    "message": "Mozilla VPN සහ ප්‍රතියුක්ත අවසර",
     "description": "Section headline in settings"
   },
   "nativeMessagingPermissionTitle": {
-    "message": "\u0daf\u0dd2\u0d9c\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0dc6\u0dba\u0dbb\u0dca\u0dc6\u0ddc\u0d9a\u0dca\u0dc3\u0dca \u0db8\u0dd9\u0db1\u0dca\u0db8 \u0dc0\u0dd9\u0db1\u0dad\u0dca \u0dc0\u0dd0\u0da9\u0dc3\u0da7\u0dc4\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4\u0dc0\u0da7 \u0d89\u0da9 \u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "message": "දිගුව සඳහා ෆයර්ෆොක්ස් මෙන්ම වෙනත් වැඩසටහන් සමඟ පණිවිඩ හුවමාරුවට ඉඩ දෙන්න",
     "description": "Permission title"
   },
   "nativeMessagingPermissionDescription": {
-    "message": "\u0daf\u0dd2\u0d9c\u0dd4\u0dc0 \u0dc3\u0db3\u0dc4\u0dcf \u0db8\u0dd9\u0db8 \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8 \u0db8\u0d9c\u0dd2\u0db1\u0dca Mozilla VPN \u0d85\u0db1\u0dd4\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0dc4\u0d9a\u0dba \u0dc3\u0db8\u0d9f \u0db4\u0dab\u0dd2\u0dc0\u0dd2\u0da9 \u0dc4\u0dd4\u0dc0\u0db8\u0dcf\u0dbb\u0dd4 \u0d9a\u0dbb \u0d9c\u0dd0\u0db1\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0daf\u0dd9\u0db1 \u0d85\u0dad\u0dbb Mozilla VPN \u0d85\u0db1\u0dd4\u0d9a\u0dbd\u0db1 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c \u0d9a\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0daf \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba \u0dc0\u0dda.",
+    "message": "දිගුව සඳහා මෙම සැකසුම මගින් Mozilla VPN අනුග්‍රාහකය සමඟ පණිවිඩ හුවමාරු කර ගැනීමට ඉඩ දෙන අතර Mozilla VPN අනුකලන විශේෂාංග ක්‍රියා කිරීමට ද අවශ්‍ය වේ.",
     "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
   },
   "proxyPermissionTitle": {
-    "message": "\u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8\u0dca \u0db4\u0dcf\u0dbd\u0db1\u0dba \u0dc3\u0db3\u0dc4\u0dcf \u0daf\u0dd2\u0d9c\u0dd4\u0dc0\u0da7 \u0d89\u0da9\u0daf\u0dd9\u0db1\u0dca\u0db1",
+    "message": "ප්‍රතියුක්ත සැකසුම් පාලනය සඳහා දිගුවට ඉඩදෙන්න",
     "description": "Permission title"
   },
   "proxyPermissionDescription": {
-    "message": "\u0db8\u0dd9\u0dba \u0d94\u0db6\u0da7 \u0dc0\u0dd0\u0da9\u0dd2\u0daf\u0dd4\u0dbb \u0db4\u0dca\u200d\u0dbb\u0dad\u0dd2\u0dba\u0dd4\u0d9a\u0dca\u0dad \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8\u0dca \u0db7\u0dcf\u0dc0\u0dd2\u0dad\u0dba\u0da7 \u0dc3\u0dc4 Mozilla VPN \u0d85\u0db1\u0dd4\u0d9a\u0dbd\u0db1 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c \u0dc3\u0db6\u0dbd \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d89\u0da9 \u0dc3\u0dbd\u0dc3\u0dba\u0dd2.",
+    "message": "මෙය ඔබට වැඩිදුර ප්‍රතියුක්ත සැකසුම් භාවිතයට සහ Mozilla VPN අනුකලන විශේෂාංග සබල කිරීමට ඉඩ සලසයි.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "additionalPermissionNeeded": {
-    "message": "\u0db8\u0dd9\u0db8 \u0dc0\u0dd2\u0dc1\u0dda\u0dc2\u0dcf\u0d82\u0d9c\u0dba\u0da7 \u0dc0\u0dd0\u0da9 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0d85\u0dc0\u0dc3\u0dbb\u0dba\u0d9a\u0dca \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2. \u0dc3\u0dd0\u0d9a\u0dc3\u0dd4\u0db8\u0dca \u0db4\u0dd2\u0da7\u0dd4\u0dc0\u0dd9\u0db1\u0dca \u0d95\u0db1\u0dd1\u0db8 \u0dc0\u0dda\u0dbd\u0dcf\u0dc0\u0d9a \u0d85\u0dc0\u0dc3\u0dbb \u0d85\u0db6\u0dbd \u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2\u0dba.",
+    "message": "මෙම විශේෂාංගයට වැඩ කිරීමට අතිරේක අවසරයක් අවශ්‍යයි. සැකසුම් පිටුවෙන් ඕනෑම වේලාවක අවසර අබල කළ හැකිය.",
     "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
   },
   "mozillaVpnRequiresAdditionalPermissions": {
-    "message": "Mozilla VPN \u0dc3\u0db8\u0d9f \u0d85\u0db1\u0dd4\u0d9a\u0dbd\u0db1\u0dba\u0da7 \u0daf\u0dcf\u0dba\u0d9a\u0dad\u0dca\u200d\u0dc0\u0dba\u0d9a\u0dca \u0dc3\u0dc4 \u0dc0\u0dd0\u0da9 \u0d9a\u0dd2\u0dbb\u0dd3\u0db8\u0da7 \u0d85\u0dad\u0dd2\u0dbb\u0dda\u0d9a \u0d85\u0dc0\u0dc3\u0dbb \u0d85\u0dc0\u0dc1\u0dca\u200d\u0dba\u0dba\u0dd2."
+    "message": "Mozilla VPN සමඟ අනුකලනයට දායකත්‍වයක් සහ වැඩ කිරීමට අතිරේක අවසර අවශ්‍යයි."
   },
   "enable": {
-    "message": "\u0dc3\u0db6\u0dbd \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "message": "සබල කරන්න",
     "description": "Button title "
   },
   "integrateContainers": {
-    "message": "\u0db8\u0ddc\u0dc3\u0dd2\u0dbd\u0dca\u0dbd\u0dcf \u0dc0\u0dd3\u0db4\u0dd3\u0d91\u0db1\u0dca \u0dc3\u0db8\u0d9f \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0d92\u0d9a\u0dcf\u0db6\u0daf\u0dca\u0db0 \u0d9a\u0dbb\u0db1\u0dca\u0db1"
+    "message": "මොසිල්ලා වීපීඑන් සමඟ අඩංගු ඒකාබද්ධ කරන්න"
   },
   "theme": {
-    "message": "\u0dad\u0dda\u0db8\u0dcf\u0dc0:",
+    "message": "තේමාව:",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "\u0dad\u0dda\u0db8\u0dcf\u0dc0\u0d9a\u0dca \u0dad\u0ddd\u0dbb\u0db1\u0dca\u0db1",
+    "message": "තේමාවක් තෝරන්න",
     "description": "Description for the theme option"
   },
   "themeAuto": {
-    "message": "\u0dc3\u0dca\u0dc0\u0dba\u0d82 \u0d85\u0db1\u0dcf\u0dc0\u0dbb\u0dab\u0dba (\u0db4\u0dd9\u0dbb\u0db1\u0dd2\u0db8\u0dd2)",
+    "message": "ස්වයං අනාවරණය (පෙරනිමි)",
     "description": "Default value for the theme option select tag"
   },
   "themeLight": {
-    "message": "\u0daf\u0dd3\u0db4\u0dca\u0dad",
+    "message": "දීප්ත",
     "description": "Value for the theme option select tag"
   },
   "themeDark": {
-    "message": "\u0d85\u0db3\u0dd4\u0dbb\u0dd4",
+    "message": "අඳුරු",
     "description": "Value for the theme option select tag"
   },
   "filterInputLabel": {
-    "message": "\u0db1\u0db8 \u0d85\u0db1\u0dd4\u0dc0 \u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0dbd\u0dda\u0d9b\u0db1\u0dba \u0db4\u0dd9\u0dbb\u0db1\u0dca\u0db1:",
+    "message": "නම අනුව අඩංගු ලේඛනය පෙරන්න:",
     "description": "Label for the filter input in the main panel. Only visible for screen reader."
   },
   "filterInputPlaceholder": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dd9\u0dc4\u0dd2 \u0db1\u0db8 \u0dc3\u0ddc\u0dba\u0db1\u0dca\u0db1"
+    "message": "අඩංගුවෙහි නම සොයන්න"
   },
   "imageAltContainerInfo": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda \u0dad\u0ddc\u0dbb\u0dad\u0dd4\u0dbb\u0dd4",
+    "message": "අඩංගුවේ තොරතුරු",
     "description": "Alt text for right-arrow button to view container info"
   },
   "defaultContainerLabel": {
-    "message": "\u0db4\u0dd9\u0dbb\u0db1\u0dd2\u0db8\u0dd2 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0",
+    "message": "පෙරනිමි අඩංගුව",
     "description": "The title of the default container"
   },
   "openContainerPanel": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4 \u0db8\u0dac\u0dbd \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1",
+    "message": "අඩංගු මඬල අරින්න",
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "\u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0dda \u0d9a\u0dd9\u0da7\u0dd2\u0db8\u0d9c $keyId$",
+    "message": "අඩංගුවේ කෙටිමග $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
@@ -420,22 +420,22 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "\u0db4\u0ddc\u0dad\u0dca\u0dba\u0ddc\u0db8\u0dd4 \u0d85\u0da9\u0d82\u0d9c\u0dd4\u0dc0\u0d9a \u0d85\u0dbb\u0dd2\u0db1\u0dca\u0db1"
+    "message": "පොත්යොමු අඩංගුවක අරින්න"
   },
   "clearSiteCookiesTooltipInfo": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0dc0\u0dd2\u0dba\u0dda \u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0db8\u0d9a\u0db1\u0dca\u0db1",
+    "message": "මෙම අඩවියේ දත්තකඩ මකන්න",
     "description": "Label for hovering of the refresh button in a containers site manager"
   },
   "deleteSiteTooltipInfo": {
-    "message": "\u0db8\u0dd9\u0db8 \u0d85\u0da9\u0dc0\u0dd2\u0dba \u0d89\u0dc0\u0dad\u0dca \u0d9a\u0dbb\u0db1\u0dca\u0db1",
+    "message": "මෙම අඩවිය ඉවත් කරන්න",
     "description": "Label for hovering of the trash button in a containers site manager"
   },
   "clearContainerStorage": {
-    "message": "\u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0dc4\u0dcf \u0d86\u0da0\u0dba\u0db1\u0dba \u0db8\u0d9a\u0db1\u0dca\u0db1",
+    "message": "දත්තකඩ හා ආචයනය මකන්න",
     "description": "Label for the clearing a containers storage and cache option"
   },
   "cookiesClearedSuccess": {
-    "message": "$siteName$ \u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0dc3\u0dcf\u0dbb\u0dca\u0dae\u0d9a\u0dc0 \u0db8\u0dd0\u0d9a\u0dd2\u0dab\u0dd2",
+    "message": "$siteName$ දත්තකඩ සාර්ථකව මැකිණි",
     "description": "Label to confirm that cookies were cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -444,7 +444,7 @@
     }
   },
   "cookiesCouldNotBeCleared": {
-    "message": "$siteName$ \u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0db8\u0dd0\u0d9a\u0dd3\u0db8\u0da7 \u0db1\u0ddc\u0dc4\u0dd0\u0d9a\u0dd2 \u0dc0\u0dd2\u0dba",
+    "message": "$siteName$ දත්තකඩ මැකීමට නොහැකි විය",
     "description": "Error message that shows if cookies could not be cleared in the site manager",
     "placeholders": {
       "siteName": {
@@ -453,7 +453,7 @@
     }
   },
   "storageWasClearedConfirmation": {
-    "message": "$containerName$ \u0d86\u0da0\u0dba\u0db1\u0dba \u0dc3\u0dc4 \u0daf\u0dad\u0dca\u0dad\u0d9a\u0da9 \u0db8\u0dd0\u0d9a\u0dd2\u0dab\u0dd2.",
+    "message": "$containerName$ ආචයනය සහ දත්තකඩ මැකිණි.",
     "description": "The confirmation label that a containers storage was cleared successfully.",
     "placeholders": {
       "containerName": {

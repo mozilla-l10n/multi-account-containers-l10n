@@ -1,10 +1,10 @@
 {
   "openInNewTabTitle": {
-    "message": "Dobrir l\u2019onglet nov\u00e8l dins\u2026",
+    "message": "Dobrir l’onglet novèl dins…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Tornar dobrir lo site dins\u2026",
+    "message": "Tornar dobrir lo site dins…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -12,37 +12,37 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Totjorn dobrir lo aqueste dins\u2026",
+    "message": "Totjorn dobrir lo aqueste dins…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Totjorn dobrir dins\u2026",
+    "message": "Totjorn dobrir dins…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Totjorn dobrir lo site dins d\u2018aqu\u00ed"
+    "message": "Totjorn dobrir lo site dins d‘aquí"
   },
   "openANewTabIn": {
-    "message": "Dobrir un onglet nov\u00e8l dins\u2026"
+    "message": "Dobrir un onglet novèl dins…"
   },
   "openNewTabInThisContainer": {
-    "message": "Dobrir un onglet nov\u00e8l dins aqueste onglet isolat"
+    "message": "Dobrir un onglet novèl dins aqueste onglet isolat"
   },
   "openTabs": {
-    "message": "Onglets dob\u00e8rts",
+    "message": "Onglets dobèrts",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
-    "message": "Despla\u00e7ar los onglets cap a una fen\u00e8stra nov\u00e8la"
+    "message": "Desplaçar los onglets cap a una fenèstra novèla"
   },
   "onboarding-2-header": {
-    "message": "Fas\u00e8tz trabalhar los contenedors a v\u00f2stra pla\u00e7a."
+    "message": "Fasètz trabalhar los contenedors a vòstra plaça."
   },
   "oneHundredTabsHeader": {
-    "message": "100\u00a0onglets\u00a0!"
+    "message": "100 onglets !"
   },
   "youHaveOpened": {
-    "message": "Av\u00e8tz dub\u00e8rt 100 onglets contextuals."
+    "message": "Avètz dubèrt 100 onglets contextuals."
   },
   "rate": {
     "message": "Avalorar"
@@ -60,7 +60,7 @@
     "message": "Gerir los contenedors"
   },
   "newContainer": {
-    "message": "Contenedor nov\u00e8l"
+    "message": "Contenedor novèl"
   },
   "hideThisContainer": {
     "message": "Amagar aqueste contenedor"
@@ -72,13 +72,13 @@
     "message": "Suprimir aqueste contenedor"
   },
   "removeThisContainerConfirmation": {
-    "message": "Vol\u00e8tz vertadi\u00e8rament suprimir aqueste contenedor\u00a0?"
+    "message": "Volètz vertadièrament suprimir aqueste contenedor ?"
   },
   "cancel": {
     "message": "Anullar"
   },
   "ok": {
-    "message": "D\u2019ac\u00f2rdi"
+    "message": "D’acòrdi"
   },
   "sitesAssignedToThisContainer": {
     "message": "Sites assignats a aqueste contenedor"
@@ -93,13 +93,13 @@
     "message": "Color"
   },
   "icon": {
-    "message": "Ic\u00f2na"
+    "message": "Icòna"
   },
   "deleteThisContainer": {
     "message": "Suprimir aqueste contenedor"
   },
   "manageSiteList": {
-    "message": "Gerir la lista de sites\u2026"
+    "message": "Gerir la lista de sites…"
   },
   "containers": {
     "message": "Contenidors"
@@ -108,7 +108,7 @@
     "message": "Acabat"
   },
   "getStarted": {
-    "message": "Per comen\u00e7ar"
+    "message": "Per començar"
   },
   "signIn": {
     "message": "Se connectar"
@@ -117,7 +117,7 @@
     "message": "Mai tard"
   },
   "startSyncing": {
-    "message": "Comen\u00e7ar de sincronizar"
+    "message": "Començar de sincronizar"
   },
   "info": {
     "message": "info",
@@ -127,25 +127,25 @@
     "message": "Seguent"
   },
   "keyboardShortCuts": {
-    "message": "Acorchis de clavi\u00e8r\u00a0:"
+    "message": "Acorchis de clavièr :"
   },
   "onboarding": {
-    "message": "Aculhen\u00e7a"
+    "message": "Aculhença"
   },
   "resetOnboardingPanels": {
-    "message": "Remetre a z\u00e8ro los pan\u00e8ls d\u2019aculhen\u00e7a"
+    "message": "Remetre a zèro los panèls d’aculhença"
   },
   "tabBehavior": {
-    "message": "Comp\u00f2rtament de l\u2019onglet\u00a0:"
+    "message": "Compòrtament de l’onglet :"
   },
   "enableBookMarkMenus": {
-    "message": "Activar los men\u00fas marcapaginas"
+    "message": "Activar los menús marcapaginas"
   },
   "enableSync": {
     "message": "Activar la sincronizacion"
   },
   "chooseLocation": {
-    "message": "Causir l\u2019empla\u00e7ament",
+    "message": "Causir l’emplaçament",
     "description": "Location refers to the geographical position used by the VPN"
   },
   "hide": {
@@ -155,7 +155,7 @@
     "message": "Afichar"
   },
   "advancedProxySettings": {
-    "message": "Param\u00e8tres avan\u00e7ats de proxy"
+    "message": "Paramètres avançats de proxy"
   },
   "proxyInputLabel": {
     "message": "Picatz un proxy personalizat"
@@ -179,18 +179,18 @@
     "message": "Aplicar al contenidor"
   },
   "getMozillaVpn": {
-    "message": "Obt\u00e9ner Mozilla VPN"
+    "message": "Obténer Mozilla VPN"
   },
   "enable": {
     "message": "Activar",
     "description": "Button title "
   },
   "theme": {
-    "message": "T\u00e8ma\u00a0:",
+    "message": "Tèma :",
     "description": "Theme section title in the option page"
   },
   "chooseTheme": {
-    "message": "Causir un t\u00e8ma",
+    "message": "Causir un tèma",
     "description": "Description for the theme option"
   },
   "themeLight": {

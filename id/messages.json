@@ -1,14 +1,14 @@
 {
   "extensionDescription": {
-    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas \u2014 seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor \u2014 terpisah.",
+    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
-    "message": "Buka Tab Baru di\u2026",
+    "message": "Buka Tab Baru di…",
     "description": "Menu title"
   },
   "reopenThisSiteIn": {
-    "message": "Buka Lagi Situs Ini di\u2026",
+    "message": "Buka Lagi Situs Ini di…",
     "description": "Menu title"
   },
   "sortTabsByContainer": {
@@ -16,18 +16,18 @@
     "description": "Menu title"
   },
   "alwaysOpenThisSiteIn": {
-    "message": "Selalu Buka Situs Ini di\u2026",
+    "message": "Selalu Buka Situs Ini di…",
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Selalu buka di\u2026",
+    "message": "Selalu buka di…",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
     "message": "Selalu Buka Situs dalam Kontainer"
   },
   "openANewTabIn": {
-    "message": "Buka Tab Baru di\u2026"
+    "message": "Buka Tab Baru di…"
   },
   "openNewTabInThisContainer": {
     "message": "Buka Tab Baru di Kontainer ini"
@@ -157,7 +157,7 @@
     "message": "Hapus Kontainer Ini"
   },
   "manageSiteList": {
-    "message": "Kelola Daftar Situs\u2026"
+    "message": "Kelola Daftar Situs…"
   },
   "manageThisContainer": {
     "message": "Kelola Kontainer"
