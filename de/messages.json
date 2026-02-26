@@ -419,6 +419,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "In Tab-Umgebung $keyId$ erneut öffnen",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "Lesezeichen in Tab in Umgebung öffnen"
   },
