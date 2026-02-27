@@ -419,6 +419,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "Reabrir en contenedor $keyId$",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "Abrir marcador en pestaña contenedora"
   },
