@@ -415,6 +415,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "Rihape në Kontejner $keyId$",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "Hape Faqerojtësin në Skedë Kontejneri"
   },
