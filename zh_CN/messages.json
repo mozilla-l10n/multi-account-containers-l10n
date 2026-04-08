@@ -419,6 +419,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "使用身份“$keyId$”重新打开",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "在身份标签页中打开书签"
   },
