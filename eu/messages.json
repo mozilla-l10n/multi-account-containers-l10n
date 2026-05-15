@@ -216,6 +216,17 @@
   "syncExcludePlaceholder": {
     "message": "Idatzi adierazpen erregularra"
   },
+  "replaceTab": {
+    "message": "Ordezkatu fitxa beste berri bat sortu ordez"
+  },
+  "keyboardShortCut": {
+    "message": "$keyId$ teklatuaren lasterbidearekin ireki beharreko edukiontzia",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openInContainer": {
     "message": "Ireki $containerName$ edukiontzian",
     "placeholders": {
@@ -261,6 +272,12 @@
   "moz-vpn-disconnected": {
     "message": "Mozilla VPN desaktibatuta dago"
   },
+  "invalidProxyAlert": {
+    "message": "Idatzi baliozko proxy-aren URLa"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPNk aktibo egon behar du eginbide hau erabiltzeko."
+  },
   "learnMore": {
     "message": "Argibide gehiago"
   },
@@ -279,6 +296,10 @@
   "mozillaVpnAndProxyPermissionsTitle": {
     "message": "Mozilla VPN eta proxy-baimenak",
     "description": "Section headline in settings"
+  },
+  "proxyPermissionTitle": {
+    "message": "Baimendu hedapenari proxy-ezarpenak kontrolatzea",
+    "description": "Permission title"
   },
   "enable": {
     "message": "Gaitu",
@@ -329,6 +350,15 @@
   "containerShortcut": {
     "message": "Edukiontziaren $keyId$. lasterbidea",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "reopenInContainerShortcut": {
+    "message": "Ireki berriro $keyId$ edukiontzian",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
     "placeholders": {
       "keyId": {
         "content": "$1"
