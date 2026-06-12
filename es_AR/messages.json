@@ -33,7 +33,7 @@
     "message": "Abrir nueva pestaña en este contenedor"
   },
   "openTabs": {
-    "message": "Abrir pestañas",
+    "message": "Pestañas abiertas",
     "description": "Section title for tabs that are currently open in that container"
   },
   "moveTabsToANewWindow": {
