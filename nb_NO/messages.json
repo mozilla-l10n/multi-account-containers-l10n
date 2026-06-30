@@ -299,10 +299,10 @@
     "message": "Avanserte proxy-innstillinger"
   },
   "proxyInputLabel": {
-    "message": "Angi egendefinert proxy"
+    "message": "Angi tilpasset proxy"
   },
   "useCustomLocation": {
-    "message": "Bruk en egendefinert plassering for denne beholderen"
+    "message": "Bruk en tilpasset plassering for denne beholderen"
   },
   "clearproxylabel": {
     "message": "Tøm proxy"
