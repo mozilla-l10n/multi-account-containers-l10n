@@ -406,7 +406,7 @@
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Beholdersnarvei $keyId$",
+    "message": "Beholderhurtigtast $keyId$",
     "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
     "placeholders": {
       "keyId": {
