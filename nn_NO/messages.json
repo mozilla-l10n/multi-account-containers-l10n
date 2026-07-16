@@ -248,12 +248,7 @@
     "message": "Rediger kva for behaldar som vert opna når du brukar dei nummererte snarvegane."
   },
   "keyboardShortCut": {
-    "message": "Behaldar som skal opnast med tastatursnarveg $keyId$",
-    "placeholders": {
-      "keyId": {
-        "content": "$1"
-      }
-    }
+    "message": "Behaldar som skal opnast med hurtigtast $$keyId"
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account-Container – Stadfest navigering",

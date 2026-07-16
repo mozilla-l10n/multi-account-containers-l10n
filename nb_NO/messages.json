@@ -248,12 +248,7 @@
     "message": "Rediger hvilken beholder som åpnes når du bruker de nummererte snarveiene."
   },
   "keyboardShortCut": {
-    "message": "Beholder som skal åpnes med tastatursnarvei $keyId$",
-    "placeholders": {
-      "keyId": {
-        "content": "$1"
-      }
-    }
+    "message": "Beholder som skal åpnes med hurtigtast $$keyId$$"
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account-Container – Bekreft navigering",
