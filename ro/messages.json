@@ -156,6 +156,145 @@
   "deleteThisContainer": {
     "message": "Șterge containerul"
   },
+  "manageSiteList": {
+    "message": "Gestionează lista de site-uri…"
+  },
+  "manageThisContainer": {
+    "message": "Gestionează acest container"
+  },
+  "containers": {
+    "message": "Containere"
+  },
+  "done": {
+    "message": "Terminat"
+  },
+  "getStarted": {
+    "message": "Începe"
+  },
+  "signIn": {
+    "message": "Intră în cont"
+  },
+  "notNow": {
+    "message": "Nu acum"
+  },
+  "startSyncing": {
+    "message": "Începe sincronizarea"
+  },
+  "info": {
+    "message": "info",
+    "description": "Alternative text for the i icon in the toolbar icon pop-up"
+  },
+  "next": {
+    "message": "Înainte"
+  },
+  "openThisSiteConfirmation": {
+    "message": "Deschizi acest site în containerul atribuit?"
+  },
+  "wouldYouStillLikeToOpenConfirmation": {
+    "message": "Tot mai vrei să deschizi în acest container curent?"
+  },
+  "rememberMyDecision": {
+    "message": "Ține minte decizia pentru acest site"
+  },
+  "optionalPermissions": {
+    "message": "Permisiuni opționale:"
+  },
+  "keyboardShortCuts": {
+    "message": "Comenzi rapide din tastatură:"
+  },
+  "onboarding": {
+    "message": "Integrare"
+  },
+  "resetOnboardingPanels": {
+    "message": "Resetează panourile de integrare"
+  },
+  "onboardingToggle": {
+    "message": "Folosește această opțiune ca să vezi iar panourile de integrare."
+  },
+  "tabBehavior": {
+    "message": "Comportament file:"
+  },
+  "enableBookMarkMenus": {
+    "message": "Activează meniurile de marcaje"
+  },
+  "sync": {
+    "message": "Sincronizare:"
+  },
+  "enableSync": {
+    "message": "Activează sincronizarea"
+  },
+  "enableBookMarkMenusDescription": {
+    "message": "Setarea îți permite să deschizi un marcaj sau un dosar de marcaje într-un container."
+  },
+  "enableSyncDescription": {
+    "message": "Setarea îți permite să sincronizezi containerele și alocările site-urilor pe toate dispozitivele."
+  },
+  "syncExclude": {
+    "message": "Excluderea de containere"
+  },
+  "syncExcludePlaceholder": {
+    "message": "Introdu o expresie regulată"
+  },
+  "syncExcludeDescription": {
+    "message": "Exclude containerele din sincronizare când denumirea lor corespunde expresiei regulate specificate care nu ține cont de majuscule și minuscule."
+  },
+  "replaceTab": {
+    "message": "Înlocuiește fila în loc să creezi una nouă"
+  },
+  "replaceTabDescription": {
+    "message": "Înlocuiește fila actuală dacă este deschisă o pagină alocată într-un alt container (în loc să ții fila actuală deschisă). Deschiderea filelor cu butonul din mijlocul mouse-ului nu este afectată."
+  },
+  "editWhichContainer": {
+    "message": "Editează ce container să fie deschis când folosești comenzile rapide numerotate."
+  },
+  "keyboardShortCut": {
+    "message": "Container de deschis cu comanda rapidă $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "confirmNavigationTitle": {
+    "message": "Multi-Account Containers - confirmă navigarea",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+  },
+  "openInContainer": {
+    "message": "Deschide în containerul $containerName$",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "openInNoContainer": {
+    "message": "Deschide în fila actuală",
+    "description": "This is the button text in confirmation page when we are not inside a container"
+  },
+  "youAskedFirefox": {
+    "message": "Ai cerut ca Firefox să deschidă întotdeauna $containerName$ pentru acest site:",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
+  },
+  "chooseLocation": {
+    "message": "Alege locația",
+    "description": "Location refers to the geographical position used by the VPN"
+  },
+  "hide": {
+    "message": "Ascunde"
+  },
+  "show": {
+    "message": "Afișează"
+  },
+  "protectYourContainers": {
+    "message": "Protejează-ți containerele cu Mozilla VPN"
+  },
+  "protectThisContainer": {
+    "message": "Protejează acest container cu Mozilla VPN"
+  },
   "advancedProxySettings": {
     "message": "Setări avansate de proxy"
   },
@@ -167,5 +306,43 @@
   },
   "clearproxylabel": {
     "message": "Șterge proxy-ul"
+  },
+  "moz-vpn-connected": {
+    "message": "Mozilla VPN este activat"
+  },
+  "moz-vpn-disconnected": {
+    "message": "Mozilla VPN este dezactivat"
+  },
+  "invalidProxyAlert": {
+    "message": "Te rugăm să introduci un URL valid pentru proxy"
+  },
+  "mozillaVpnMustBeOn": {
+    "message": "Mozilla VPN trebuie să fie activat pentru utilizarea funcționalității."
+  },
+  "learnMore": {
+    "message": "Află mai multe"
+  },
+  "proxyNowAvailable": {
+    "message": "Acum cu Mozilla VPN și cu setări avansate de proxy"
+  },
+  "applyToContainer": {
+    "message": "Aplică containerului"
+  },
+  "tooltipWarning": {
+    "message": "Containerul este setat să folosească proxy-ul Mozilla VPN, dar Mozilla VPN nu este activat. Activează Mozilla VPN ca să folosești containerul."
+  },
+  "getMozillaVpn": {
+    "message": "Obține Mozilla VPN"
+  },
+  "integratewithmozillavpn": {
+    "message": "Integrează containerele cu Mozilla VPN"
+  },
+  "mozillaVpnAndProxyPermissionsTitle": {
+    "message": "Mozilla VPN și permisiuni de proxy-uri",
+    "description": "Section headline in settings"
+  },
+  "nativeMessagingPermissionTitle": {
+    "message": "Permite extensiei să facă schimb de mesaje cu alte programe în afară de Firefox",
+    "description": "Permission title"
   }
 }
