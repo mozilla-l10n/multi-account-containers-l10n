@@ -10,5 +10,159 @@
   "reopenThisSiteIn": {
     "message": "Redeschide acest site în…",
     "description": "Menu title"
+  },
+  "sortTabsByContainer": {
+    "message": "Sortează filele după container",
+    "description": "Menu title"
+  },
+  "alwaysOpenThisSiteIn": {
+    "message": "Deschide întotdeauna acest site în…",
+    "description": "Menu title"
+  },
+  "alwaysOpenIn": {
+    "message": "Deschide întotdeauna în…",
+    "description": "Menu title"
+  },
+  "alwaysOpenSiteInContainer": {
+    "message": "Deschide întotdeauna site-ul în container"
+  },
+  "openANewTabIn": {
+    "message": "Deschide o filă nouă în…"
+  },
+  "openNewTabInThisContainer": {
+    "message": "Deschide o filă nouă în acest container"
+  },
+  "openTabs": {
+    "message": "File deschise",
+    "description": "Section title for tabs that are currently open in that container"
+  },
+  "moveTabsToANewWindow": {
+    "message": "Mută filele într-o fereastră nouă"
+  },
+  "onboarding-1-header": {
+    "message": "Un mod mai bun de gestionare a tot ce faci online"
+  },
+  "onboarding-1-description": {
+    "message": "Folosește containerele ca să organizezi sarcini, să gestionezi conturi și să te concentrezi pe ce vrei."
+  },
+  "onboarding-2-header": {
+    "message": "Pune containerele la muncă pentru tine."
+  },
+  "onboarding-2-description": {
+    "message": "Funcționalități precum codarea pe culori și separarea filelor în containere te ajută să găsești mai ușor ce cauți, să te concentrezi și să minimizezi distragerea atenției."
+  },
+  "onboarding-3-header": {
+    "message": "Un loc pentru orice și toate la locul lor."
+  },
+  "onboarding-3-description": {
+    "message": "Începe cu containerele pe care le-am creat noi sau fă tu altele."
+  },
+  "onboarding-4-header": {
+    "message": "Deschizi întotdeauna site-urile în containerele pe care le vrei tu."
+  },
+  "onboarding-4-description": {
+    "message": "Dă clic dreapta într-o filă dintr-un container ca să faci site-ul să se deschidă întotdeauna în container."
+  },
+  "onboarding-5-header": {
+    "message": "File în containere când ai nevoie de ele."
+  },
+  "onboarding-5-description": {
+    "message": "Atinge lung butonul de filă nouă ca să creezi o filă nouă în container."
+  },
+  "onboarding-6-header": {
+    "message": "Acum este disponibilă sincronizarea containerelor!"
+  },
+  "onboarding-6-description-2": {
+    "message": "Activează sincronizarea ca să partajezi alocările pe containere și site-uri cu orice calculator pe care ești conectat la contul tău."
+  },
+  "onboarding-7-header-2": {
+    "message": "Ai nevoie de un cont pentru sincronizare."
+  },
+  "onboarding-7-description-2": {
+    "message": "Dă clic pe Intră în cont ca să confirmi că ai contul activ."
+  },
+  "onboarding-8-description": {
+    "message": "Acum containerele se pot integra cu Mozilla VPN sau cu propriul tău proxy pentru crearea unei conexiuni securizate și private care îți protejează activitatea."
+  },
+  "oneHundredTabsHeader": {
+    "message": "100 de file!"
+  },
+  "youHaveOpened": {
+    "message": "Ai deschis 100 de file din containere."
+  },
+  "spreadTheWord": {
+    "message": "Dacă îți plac containerele, ajută-ne să ducem vestea!"
+  },
+  "rate": {
+    "message": "Evaluează"
+  },
+  "share": {
+    "message": "Partajează"
+  },
+  "tweet": {
+    "message": "Trimite un tweet"
+  },
+  "default": {
+    "message": "Implicit"
+  },
+  "manageContainers": {
+    "message": "Gestionează containerele"
+  },
+  "newContainer": {
+    "message": "Container nou"
+  },
+  "hideThisContainer": {
+    "message": "Ascunde containerul"
+  },
+  "showThisContainer": {
+    "message": "Afișează containerul"
+  },
+  "removeThisContainer": {
+    "message": "Elimină containerul"
+  },
+  "removeThisContainerConfirmation": {
+    "message": "Sigur vrei să elimini containerul?"
+  },
+  "clearContainerStoragePanelTitle": {
+    "message": "Șterge datele salvate pentru container"
+  },
+  "clearContainerStorageConfirmation": {
+    "message": "Sigur vrei să ștergi cookie-urile și datele salvate pentru acest container?"
+  },
+  "cancel": {
+    "message": "Anulează"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "sitesAssignedToThisContainer": {
+    "message": "Site-uri alocate în acest container"
+  },
+  "options": {
+    "message": "Opțiuni"
+  },
+  "name": {
+    "message": "Denumire"
+  },
+  "color": {
+    "message": "Culoare"
+  },
+  "icon": {
+    "message": "Pictogramă"
+  },
+  "limitToDesignatedSites": {
+    "message": "Limitează la site-urile desemnate"
+  },
+  "deleteThisContainer": {
+    "message": "Șterge containerul"
+  },
+  "advancedProxySettings": {
+    "message": "Setări avansate de proxy"
+  },
+  "proxyInputLabel": {
+    "message": "Introdu un proxy personalizat"
+  },
+  "useCustomLocation": {
+    "message": "Folosește o locație personalizată pentru acest container"
   }
 }
