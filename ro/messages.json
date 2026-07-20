@@ -344,5 +344,130 @@
   "nativeMessagingPermissionTitle": {
     "message": "Permite extensiei să facă schimb de mesaje cu alte programe în afară de Firefox",
     "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Setarea permite extensiei să facă schimb de mesaje cu clientul Mozilla VPN și este necesară ca să meargă funcționalitățile de integrare cu Mozilla VPN.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
+  "proxyPermissionTitle": {
+    "message": "Permite extensiei să controleze setările de proxy",
+    "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Îți permite să folosești setări avansate de proxy și să activezi funcționalitățile de integrare cu Mozilla VPN.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Funcționalitatea necesită o permisiune suplimentară ca să meargă. Permisiunile pot fi dezactivate în orice moment în pagina de setări.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Integrarea cu Mozilla VPN necesită un abonament și permisiuni suplimentare ca să meargă."
+  },
+  "enable": {
+    "message": "Activează",
+    "description": "Button title "
+  },
+  "integrateContainers": {
+    "message": "Integrează containerele cu Mozilla VPN"
+  },
+  "theme": {
+    "message": "Temă:",
+    "description": "Theme section title in the option page"
+  },
+  "chooseTheme": {
+    "message": "Alege o temă",
+    "description": "Description for the theme option"
+  },
+  "themeAuto": {
+    "message": "Detecție automată (implicit)",
+    "description": "Default value for the theme option select tag"
+  },
+  "themeLight": {
+    "message": "Luminoasă",
+    "description": "Value for the theme option select tag"
+  },
+  "themeDark": {
+    "message": "Întunecată",
+    "description": "Value for the theme option select tag"
+  },
+  "filterInputLabel": {
+    "message": "Filtrează lista de containere după denumire:",
+    "description": "Label for the filter input in the main panel. Only visible for screen reader."
+  },
+  "filterInputPlaceholder": {
+    "message": "Caută denumirea containerului"
+  },
+  "imageAltContainerInfo": {
+    "message": "Info container",
+    "description": "Alt text for right-arrow button to view container info"
+  },
+  "defaultContainerLabel": {
+    "message": "Container implicit",
+    "description": "The title of the default container"
+  },
+  "openContainerPanel": {
+    "message": "Deschide panoul de containere",
+    "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
+  },
+  "containerShortcut": {
+    "message": "Comandă rapidă container $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "reopenInContainerShortcut": {
+    "message": "Redeschide în containerul $keyId$",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
+  "openBookmarkInContainerTab": {
+    "message": "Deschide marcajul în fila din container"
+  },
+  "clearSiteCookiesTooltipInfo": {
+    "message": "Elimină cookie-urile pentru acest site",
+    "description": "Label for hovering of the refresh button in a containers site manager"
+  },
+  "deleteSiteTooltipInfo": {
+    "message": "Elimină acest site",
+    "description": "Label for hovering of the trash button in a containers site manager"
+  },
+  "clearContainerStorage": {
+    "message": "Șterge datele stocate și cookie-urile",
+    "description": "Label for the clearing a containers storage and cache option"
+  },
+  "cookiesClearedSuccess": {
+    "message": "Cookie-urile pentru $siteName$ au fost șterse cu succes",
+    "description": "Label to confirm that cookies were cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "cookiesCouldNotBeCleared": {
+    "message": "Cookie-urile pentru $siteName$ nu au putut fi șterse",
+    "description": "Error message that shows if cookies could not be cleared in the site manager",
+    "placeholders": {
+      "siteName": {
+        "content": "$1"
+      }
+    }
+  },
+  "storageWasClearedConfirmation": {
+    "message": "Datele stocate și cookie-urile pentru $containerName$ au fost șterse.",
+    "description": "The confirmation label that a containers storage was cleared successfully.",
+    "placeholders": {
+      "containerName": {
+        "content": "$1"
+      }
+    }
   }
 }
