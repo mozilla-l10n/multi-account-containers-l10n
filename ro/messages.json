@@ -164,5 +164,8 @@
   },
   "useCustomLocation": {
     "message": "Folosește o locație personalizată pentru acest container"
+  },
+  "clearproxylabel": {
+    "message": "Șterge proxy-ul"
   }
 }
