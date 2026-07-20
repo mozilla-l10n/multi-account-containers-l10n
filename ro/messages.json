@@ -1,0 +1,14 @@
+{
+  "extensionDescription": {
+    "message": "Multi-Account Containers te ajută să păstrezi toate aspectele vieții tale online în file diferite. Etichetele personalizate și filele codate pe culori ajută la separarea diferitelor activități — cum ar fi cumpărături online, planificarea călătoriilor sau verificarea e-mailurilor de serviciu.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
+  "openInNewTabTitle": {
+    "message": "Deschide o filă nouă în…",
+    "description": "Menu title"
+  },
+  "reopenThisSiteIn": {
+    "message": "Redeschide acest site în…",
+    "description": "Menu title"
+  }
+}
