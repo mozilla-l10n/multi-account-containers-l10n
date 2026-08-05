@@ -34,10 +34,17 @@
   },
   "openTabs": {
     "message": "Open Tabs",
-    "description": "Section title for tabs that are currently open in that container"
+    "description": "Section title for tabs that are currently open in that container in the current window"
+  },
+  "openTabsInOtherWindows": {
+    "message": "Open Tabs in Other Windows",
+    "description": "Section title for tabs that are currently open in that container in other windows"
   },
   "moveTabsToANewWindow": {
     "message": "Move Tabs to a New Window"
+  },
+  "moveTabsInAllWinsToASingleWindow": {
+    "message": "Move Tabs in All Windows to a Single Window"
   },
   "onboarding-1-header": {
     "message": "A better way to manage all the things you do online"
