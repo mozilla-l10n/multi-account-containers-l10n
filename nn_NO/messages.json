@@ -248,7 +248,12 @@
     "message": "Rediger kva for behaldar som vert opna når du brukar dei nummererte snarvegane."
   },
   "keyboardShortCut": {
-    "message": "Behaldar som skal opnast med hurtigtast $$keyId$$"
+    "message": "Behaldar som skal opnast med hurtigtast $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account-Container – Stadfest navigering",
@@ -406,8 +411,13 @@
     "description": "Label for option in the keyboard shortcut manager (associating a shortcut to open the container panel)"
   },
   "containerShortcut": {
-    "message": "Behaldarhurtigast $$keyId$$",
-    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10."
+    "message": "Behaldarhurtigast $keyId$",
+    "description": "Label for option in the keyboard shortcut manager. $keyId$ is a number from 1 to 10.",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
   },
   "reopenInContainerShortcut": {
     "message": "Opne på nytt i behaldaren $keyId$",
