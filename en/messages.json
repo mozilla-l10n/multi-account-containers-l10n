@@ -238,6 +238,15 @@
   "syncExcludeDescription": {
     "message": "Exclude containers from sync when their name matches the specified case insensitive regular expression."
   },
+  "containerList": {
+    "message": "Container list:"
+  },
+  "alphabeticalSort": {
+    "message": "Sort containers alphabetically"
+  },
+  "alphabeticalSortDescription": {
+    "message": "Keep the container list sorted by name. New, renamed and synced containers are placed automatically. Manual reordering is disabled while this is on."
+  },
   "replaceTab": {
     "message": "Replace tab instead of creating a new one"
   },
