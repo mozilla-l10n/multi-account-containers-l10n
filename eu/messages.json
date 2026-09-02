@@ -1,4 +1,8 @@
 {
+  "extensionDescription": {
+    "message": "Edukiontzi kontuaniztunek  lineako zure bizitzaren zati guztiak fitxa desberdinetan izaten laguntzen dizute. Etiketa pertsonalizatuek eta koloreztatutako fitxek askotariko jarduerak desberdintzen laguntzen dute, hala nola erosketak, bidaien plangintza edo laneko posta elektronikoa begiratzea.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+  },
   "openInNewTabTitle": {
     "message": "Ireki fitxa berria hemen…",
     "description": "Menu title"
@@ -37,6 +41,9 @@
   },
   "onboarding-1-header": {
     "message": "Sarean egiten dituzun gauza guztiak kudeatzeko modu hobea"
+  },
+  "onboarding-1-description": {
+    "message": "Erabili edukiontziak atazak antolatzeko, kontuak kudeatzeko eta arreta nahi duzun tokian mantentzeko."
   },
   "onboarding-2-header": {
     "message": "Jarri edukiontziak zuretzat lanean."
@@ -257,11 +264,20 @@
   "show": {
     "message": "Erakutsi"
   },
+  "protectYourContainers": {
+    "message": "Babestu zure edukiontziak Mozilla VPNrekin"
+  },
+  "protectThisContainer": {
+    "message": "Babestu edukiontzi hau Mozilla VPNrekin"
+  },
   "advancedProxySettings": {
     "message": "Proxy-ezarpen aurreratuak"
   },
   "proxyInputLabel": {
     "message": "Sartu proxy pertsonalizatua"
+  },
+  "useCustomLocation": {
+    "message": "Erabili kokapen pertsonalizatua edukiontzi honentzat"
   },
   "clearproxylabel": {
     "message": "Garbitu proxy-a"
@@ -287,6 +303,9 @@
   "applyToContainer": {
     "message": "Aplikatu edukiontziari"
   },
+  "tooltipWarning": {
+    "message": "Edukiontzi hau Mozilla VPNren proxya erabiltzeko konfiguratuta dago baina Mozilla VPNa ez dago aktibo. Edukiontzi hau erabiltzeko, aktibatu Mozilla VPNa."
+  },
   "getMozillaVpn": {
     "message": "Lortu Mozilla VPN"
   },
@@ -297,9 +316,21 @@
     "message": "Mozilla VPN eta proxy-baimenak",
     "description": "Section headline in settings"
   },
+  "nativeMessagingPermissionTitle": {
+    "message": "Baimendu hedapenari mezuak trukatzea Firefox ez beste programekin",
+    "description": "Permission title"
+  },
+  "nativeMessagingPermissionDescription": {
+    "message": "Ezarpen honek baimena ematen dio hedapenari mezuak trukatzeko Mozilla VPN bezeroarekin eta hau beharrezkoa da Mozilla VPN integrazioaren eginbideak ondo ibil daitezen.",
+    "description": "'This setting' refers to the permission indicated in nativeMessagingPermissionTitle"
+  },
   "proxyPermissionTitle": {
     "message": "Baimendu hedapenari proxy-ezarpenak kontrolatzea",
     "description": "Permission title"
+  },
+  "proxyPermissionDescription": {
+    "message": "Honek aukera ematen dizu aurreratutako proxy-ezarpenak erabiltzeko eta Mozilla VPN integrazioaren eginbideak gaitzeko.",
+    "description": "'This' refers to the permission indicated in proxyPermissionTitle"
   },
   "enable": {
     "message": "Gaitu",
