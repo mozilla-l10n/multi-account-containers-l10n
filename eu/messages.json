@@ -1,6 +1,6 @@
 {
   "extensionDescription": {
-    "message": "Edukiontzi kontuaniztunek  lineako zure bizitzaren zati guztiak fitxa desberdinetan izaten laguntzen dizute. Etiketa pertsonalizatuek eta koloreztatutako fitxek askotariko jarduerak desberdintzen laguntzen dute, hala nola erosketak, bidaien plangintza edo laneko posta elektronikoa begiratzea.",
+    "message": "Multi-Account Containers-ek lineako zure bizitzaren zati guztiak fitxa desberdinetan izaten laguntzen dizu. Etiketa pertsonalizatuek eta koloreztatutako fitxek askotariko jarduerak desberdintzen laguntzen dute, hala nola erosketak, bidaien plangintza edo laneko posta elektronikoa begiratzea.",
     "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
   },
   "openInNewTabTitle": {
@@ -47,6 +47,12 @@
   },
   "onboarding-2-header": {
     "message": "Jarri edukiontziak zuretzat lanean."
+  },
+  "onboarding-2-description": {
+    "message": "Koloreztatzeak edo edukiontzi-fitxa bereiziak izateak laguntzen dizute gauzak erraz aurkitzen, arreta mantentzen eta distrazioak gutxitzen."
+  },
+  "onboarding-3-header": {
+    "message": "Guztiarentzat toki bat, eta gauza guztiak bere tokian."
   },
   "onboarding-3-description": {
     "message": "Hasi guk sortutako edukiontziekin edo sortu zureak."
@@ -217,11 +223,20 @@
   "enableSync": {
     "message": "Gaitu sinkronizazioa"
   },
+  "enableBookMarkMenusDescription": {
+    "message": "Ezarpen honek aukera ematen dizu laster-marka bat edo laster-marken karpeta bat edukiontzi batean irekitzeko."
+  },
+  "enableSyncDescription": {
+    "message": "Ezarpen honek aukera ematen dizu zure edukiontziak eta guneen esleipenak gailuen artean sinkronizatzeko."
+  },
   "syncExclude": {
     "message": "Edukiontzia baztertzea"
   },
   "syncExcludePlaceholder": {
     "message": "Idatzi adierazpen erregularra"
+  },
+  "syncExcludeDescription": {
+    "message": "Salbuetsi edukiontziak sinkronizaziotik hauen izena bat datorrenean zehaztutako adierazpen erregularrarekin (ez ditu maiuskulak/minuskulak bereizten)."
   },
   "replaceTab": {
     "message": "Ordezkatu fitxa beste berri bat sortu ordez"
@@ -331,6 +346,13 @@
   "proxyPermissionDescription": {
     "message": "Honek aukera ematen dizu aurreratutako proxy-ezarpenak erabiltzeko eta Mozilla VPN integrazioaren eginbideak gaitzeko.",
     "description": "'This' refers to the permission indicated in proxyPermissionTitle"
+  },
+  "additionalPermissionNeeded": {
+    "message": "Eginbide honek baimen gehigarria behar du funtzionatzeko. Baimenak edonoiz desgai daitezke ezarpenen orrian.",
+    "description": "'This feature' is the browser proxy permission. This string appears on the 'Advanced Proxy Settings' panel when the proxy permission is disabled."
+  },
+  "mozillaVpnRequiresAdditionalPermissions": {
+    "message": "Mozilla VPNren integrazioak harpidetza eta baimen gehigarriak behar ditu funtzionatzeko."
   },
   "enable": {
     "message": "Gaitu",
