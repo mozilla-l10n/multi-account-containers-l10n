@@ -135,6 +135,10 @@
   "ok": {
     "message": "OK"
   },
+  "enableAllSubdomains": {
+    "message": "Enable all subdomains from these domains",
+    "description": "Header for catchall domains section of sites-assigned panel"
+  },
   "sitesAssignedToThisContainer": {
     "message": "Sites assigned to this Container"
   },
