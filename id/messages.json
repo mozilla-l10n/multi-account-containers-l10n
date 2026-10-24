@@ -419,6 +419,15 @@
       }
     }
   },
+  "reopenInContainerShortcut": {
+    "message": "Buka kembali di Kontainer $keyId$",
+    "description": "The keyboard shortcut description for reopening current tab in container number $keyId$",
+    "placeholders": {
+      "keyId": {
+        "content": "$1"
+      }
+    }
+  },
   "openBookmarkInContainerTab": {
     "message": "Buka Markah di Tab Kontainer"
   },
