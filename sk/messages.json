@@ -49,7 +49,7 @@
     "message": "Nechajte kontajnery pracovať za vás."
   },
   "onboarding-2-description": {
-    "message": "Funkcie ako farebné odlíšenie a samostatné karty kontajnera vám pomôžu ľahko nájsť veci, sústrediť vašu pozornosť a minimalizovať rušivé vplyvy."
+    "message": "Funkcie ako farebné odlíšenie a samostatné karty v kontajneroch vám pomôžu ľahko nájsť veci, sústrediť vašu pozornosť a minimalizovať rušivé vplyvy."
   },
   "onboarding-3-header": {
     "message": "Miesto pre všetko a všetko na svojom mieste."
@@ -61,13 +61,13 @@
     "message": "Stránky vždy otvárajte v požadovaných kontajneroch."
   },
   "onboarding-4-description": {
-    "message": "Kliknutím pravým tlačidlom myši na kontajnerovej karte určíte, aby sa daná stránka vždy otvárala v kontajneri."
+    "message": "Kliknutím pravým tlačidlom myši na karte v kontajneri môžete určiť, aby sa daná stránka vždy otvárala v kontajneri."
   },
   "onboarding-5-header": {
-    "message": "Kontajnerové karty, keď ich potrebujete."
+    "message": "Karty v kontajneroch, keď ich potrebujete."
   },
   "onboarding-5-description": {
-    "message": "Dlhým stlačením tlačidla Nová karta vytvorte novú kartu kontajnera."
+    "message": "Dlhým stlačením tlačidla Nová karta vytvorte novú kartu v kontajneri."
   },
   "onboarding-6-header": {
     "message": "Teraz je k dispozícii synchronizácia kontajnerov."
@@ -88,7 +88,7 @@
     "message": "100 kariet!"
   },
   "youHaveOpened": {
-    "message": "Otvorili ste 100 kariet kontajnera."
+    "message": "Otvorili ste 100 kariet v kontajneroch."
   },
   "spreadTheWord": {
     "message": "Ak sa vám kontajnery páčia, pomôžte nám ich rozšíriť!"
@@ -429,7 +429,7 @@
     }
   },
   "openBookmarkInContainerTab": {
-    "message": "Otvoriť záložku na novej kontajnerovej karte"
+    "message": "Otvoriť záložku na novej karte v kontajneri"
   },
   "clearSiteCookiesTooltipInfo": {
     "message": "Vymazať súbory cookie pre túto stránku",
